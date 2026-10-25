@@ -1,0 +1,181 @@
+meter_id,customer_type,district,install_date,tariff
+MTR-10000,Residential,Downtown,2021-07-27,Solar net metering
+MTR-10001,Residential,East,2022-05-24,Standard
+MTR-10002,Commercial,Downtown,2018-04-26,Standard
+MTR-10003,Residential,South,2020-04-30,Standard
+MTR-10004,Residential,Downtown,2018-09-07,Standard
+MTR-10005,Residential,West,2021-09-30,Standard
+MTR-10006,Residential,Downtown,2020-09-12,Standard
+MTR-10007,Residential,South,2021-08-09,Standard
+MTR-10008,Residential,East,2021-01-06,Time-of-use
+MTR-10009,Residential,North,2020-07-28,Time-of-use
+MTR-10010,Residential,Downtown,2023-09-15,Standard
+MTR-10011,Residential,West,2024-01-01,Time-of-use
+MTR-10012,Residential,West,2022-06-09,Standard
+MTR-10013,Residential,Downtown,2022-06-02,Time-of-use
+MTR-10014,Residential,West,2020-05-14,Standard
+MTR-10015,Commercial,South,2019-10-02,Standard
+MTR-10016,Residential,North,2020-02-13,Time-of-use
+MTR-10017,Commercial,West,2018-05-24,Standard
+MTR-10018,Residential,Downtown,2018-06-14,Time-of-use
+MTR-10019,Commercial,East,2020-02-19,Time-of-use
+MTR-10020,Residential,East,2020-06-12,Standard
+MTR-10021,Commercial,North,2020-02-29,Time-of-use
+MTR-10022,Residential,Downtown,2020-01-05,Standard
+MTR-10023,Residential,Downtown,2022-12-31,Solar net metering
+MTR-10024,Residential,West,2019-05-26,Time-of-use
+MTR-10025,Residential,East,2019-02-22,Standard
+MTR-10026,Residential,North,2020-02-18,Standard
+MTR-10027,Commercial,East,2018-02-11,Standard
+MTR-10028,Residential,South,2023-08-24,Time-of-use
+MTR-10029,Residential,Downtown,2018-02-23,Standard
+MTR-10030,Residential,North,2020-03-02,Time-of-use
+MTR-10031,Residential,East,2023-10-20,Time-of-use
+MTR-10032,Residential,Downtown,2020-09-06,Solar net metering
+MTR-10033,Commercial,East,2022-05-23,Time-of-use
+MTR-10034,Commercial,North,2023-01-20,Time-of-use
+MTR-10035,Industrial,West,2019-09-06,Standard
+MTR-10036,Residential,East,2020-08-25,Time-of-use
+MTR-10037,Residential,North,2020-06-05,Time-of-use
+MTR-10038,Residential,Downtown,2019-03-17,Time-of-use
+MTR-10039,Residential,East,2018-09-21,Standard
+MTR-10040,Residential,West,2020-12-26,Standard
+MTR-10041,Residential,North,2019-05-15,Standard
+MTR-10042,Residential,Downtown,2021-03-28,Standard
+MTR-10043,Residential,South,2023-08-21,Standard
+MTR-10044,Residential,Downtown,2018-08-12,Standard
+MTR-10045,Residential,West,2021-08-10,Standard
+MTR-10046,Residential,Downtown,2019-04-18,Standard
+MTR-10047,Residential,Downtown,2021-02-17,Standard
+MTR-10048,Commercial,North,2018-01-22,Standard
+MTR-10049,Industrial,South,2023-01-13,Time-of-use
+MTR-10050,Residential,East,2020-04-02,Time-of-use
+MTR-10051,Residential,North,2023-07-14,Time-of-use
+MTR-10052,Commercial,East,2020-09-23,Solar net metering
+MTR-10053,Residential,East,2023-05-22,Solar net metering
+MTR-10054,Residential,West,2018-01-11,Standard
+MTR-10055,Residential,South,2020-10-12,Standard
+MTR-10056,Commercial,East,2018-10-03,Standard
+MTR-10057,Residential,North,2021-06-05,Standard
+MTR-10058,Residential,Downtown,2022-12-14,Solar net metering
+MTR-10059,Commercial,East,2021-06-03,Time-of-use
+MTR-10060,Residential,Downtown,2019-03-15,Standard
+MTR-10061,Residential,South,2019-07-01,Solar net metering
+MTR-10062,Residential,West,2022-05-19,Standard
+MTR-10063,Residential,Downtown,2020-04-22,Time-of-use
+MTR-10064,Residential,Downtown,2019-12-29,Standard
+MTR-10065,Industrial,South,2019-04-10,Time-of-use
+MTR-10066,Residential,North,2022-11-16,Standard
+MTR-10067,Residential,Downtown,2020-12-29,Standard
+MTR-10068,Residential,East,2023-11-19,Time-of-use
+MTR-10069,Commercial,West,2022-06-18,Time-of-use
+MTR-10070,Commercial,West,2018-03-30,Standard
+MTR-10071,Residential,Downtown,2023-10-22,Standard
+MTR-10072,Residential,Downtown,2019-12-12,Standard
+MTR-10073,Residential,West,2022-01-30,Time-of-use
+MTR-10074,Residential,West,2020-12-12,Standard
+MTR-10075,Residential,West,2023-04-20,Solar net metering
+MTR-10076,Residential,West,2019-01-14,Time-of-use
+MTR-10077,Residential,North,2020-03-14,Standard
+MTR-10078,Residential,South,2022-05-31,Standard
+MTR-10079,Residential,Downtown,2022-12-12,Standard
+MTR-10080,Residential,Downtown,2018-05-01,Solar net metering
+MTR-10081,Residential,North,2020-05-06,Standard
+MTR-10082,Residential,South,2019-06-20,Standard
+MTR-10083,Industrial,Downtown,2022-07-09,Standard
+MTR-10084,Residential,Downtown,2020-05-20,Time-of-use
+MTR-10085,Residential,East,2020-09-05,Solar net metering
+MTR-10086,Commercial,Downtown,2019-11-25,Standard
+MTR-10087,Residential,North,2020-01-30,Time-of-use
+MTR-10088,Residential,North,2023-07-17,Time-of-use
+MTR-10089,Residential,Downtown,2023-07-31,Solar net metering
+MTR-10090,Residential,West,2021-02-02,Standard
+MTR-10091,Residential,North,2023-05-12,Standard
+MTR-10092,Residential,North,2019-08-04,Time-of-use
+MTR-10093,Residential,East,2023-06-20,Time-of-use
+MTR-10094,Residential,North,2018-04-08,Time-of-use
+MTR-10095,Residential,East,2020-01-26,Standard
+MTR-10096,Commercial,Downtown,2023-03-14,Time-of-use
+MTR-10097,Residential,North,2020-06-01,Standard
+MTR-10098,Residential,Downtown,2024-01-05,Time-of-use
+MTR-10099,Residential,Downtown,2019-09-03,Standard
+MTR-10100,Residential,North,2021-09-13,Standard
+MTR-10101,Residential,West,2022-11-17,Standard
+MTR-10102,Residential,Downtown,2021-08-07,Standard
+MTR-10103,Residential,Downtown,2018-12-14,Time-of-use
+MTR-10104,Residential,Downtown,2023-10-27,Time-of-use
+MTR-10105,Commercial,East,2019-12-04,Standard
+MTR-10106,Residential,East,2020-10-22,Standard
+MTR-10107,Residential,North,2019-09-02,Standard
+MTR-10108,Residential,North,2018-07-14,Standard
+MTR-10109,Residential,East,2020-05-18,Solar net metering
+MTR-10110,Commercial,East,2021-09-03,Standard
+MTR-10111,Commercial,Downtown,2022-10-11,Standard
+MTR-10112,Residential,East,2021-02-12,Standard
+MTR-10113,Residential,East,2022-07-20,Time-of-use
+MTR-10114,Commercial,South,2023-10-05,Standard
+MTR-10115,Residential,South,2020-03-08,Time-of-use
+MTR-10116,Residential,South,2022-09-05,Standard
+MTR-10117,Commercial,East,2022-05-30,Standard
+MTR-10118,Residential,North,2018-07-14,Solar net metering
+MTR-10119,Commercial,North,2019-05-18,Standard
+MTR-10120,Residential,Downtown,2018-03-12,Time-of-use
+MTR-10121,Residential,North,2021-10-02,Standard
+MTR-10122,Commercial,North,2018-02-23,Standard
+MTR-10123,Residential,North,2018-02-05,Standard
+MTR-10124,Industrial,East,2023-07-28,Standard
+MTR-10125,Commercial,Downtown,2020-02-21,Standard
+MTR-10126,Residential,Downtown,2022-12-12,Standard
+MTR-10127,Residential,East,2020-06-15,Standard
+MTR-10128,Commercial,North,2021-11-30,Standard
+MTR-10129,Commercial,East,2022-04-01,Standard
+MTR-10130,Residential,North,2019-04-19,Standard
+MTR-10131,Commercial,Downtown,2021-04-12,Standard
+MTR-10132,Residential,West,2022-03-31,Time-of-use
+MTR-10133,Residential,South,2018-08-25,Standard
+MTR-10134,Residential,South,2018-01-22,Standard
+MTR-10135,Residential,West,2022-06-12,Time-of-use
+MTR-10136,Industrial,South,2021-12-06,Time-of-use
+MTR-10137,Residential,Downtown,2019-07-05,Solar net metering
+MTR-10138,Commercial,South,2018-05-04,Standard
+MTR-10139,Residential,West,2020-10-17,Standard
+MTR-10140,Commercial,Downtown,2022-03-12,Time-of-use
+MTR-10141,Commercial,Downtown,2020-04-01,Standard
+MTR-10142,Residential,South,2020-03-19,Standard
+MTR-10143,Residential,North,2021-10-22,Standard
+MTR-10144,Residential,South,2019-09-16,Time-of-use
+MTR-10145,Commercial,North,2019-12-12,Standard
+MTR-10146,Commercial,West,2018-07-26,Standard
+MTR-10147,Residential,West,2018-02-08,Time-of-use
+MTR-10148,Residential,North,2018-07-16,Solar net metering
+MTR-10149,Residential,South,2021-01-10,Standard
+MTR-10150,Residential,North,2018-11-28,Solar net metering
+MTR-10151,Residential,North,2019-05-06,Time-of-use
+MTR-10152,Residential,North,2019-02-21,Time-of-use
+MTR-10153,Residential,North,2023-03-16,Solar net metering
+MTR-10154,Residential,North,2019-11-07,Time-of-use
+MTR-10155,Residential,North,2023-09-26,Time-of-use
+MTR-10156,Residential,North,2023-04-05,Standard
+MTR-10157,Residential,South,2018-03-01,Time-of-use
+MTR-10158,Commercial,North,2020-12-09,Standard
+MTR-10159,Residential,North,2022-12-06,Standard
+MTR-10160,Residential,Downtown,2020-10-23,Standard
+MTR-10161,Residential,Downtown,2019-03-02,Standard
+MTR-10162,Residential,South,2021-08-16,Standard
+MTR-10163,Commercial,South,2019-08-04,Standard
+MTR-10164,Residential,North,2022-06-07,Standard
+MTR-10165,Residential,East,2019-02-18,Standard
+MTR-10166,Residential,Downtown,2018-08-20,Standard
+MTR-10167,Commercial,East,2022-05-02,Time-of-use
+MTR-10168,Residential,Downtown,2023-02-10,Standard
+MTR-10169,Residential,South,2023-06-22,Standard
+MTR-10170,Residential,East,2021-05-19,Time-of-use
+MTR-10171,Residential,West,2020-09-08,Solar net metering
+MTR-10172,Commercial,Downtown,2019-02-02,Standard
+MTR-10173,Residential,Downtown,2023-10-05,Standard
+MTR-10174,Residential,East,2021-05-05,Standard
+MTR-10175,Residential,Downtown,2021-01-25,Time-of-use
+MTR-10176,Residential,West,2019-04-15,Standard
+MTR-10177,Residential,West,2020-05-06,Standard
+MTR-10178,Residential,North,2021-10-17,Standard
+MTR-10179,Residential,East,2018-04-18,Time-of-use

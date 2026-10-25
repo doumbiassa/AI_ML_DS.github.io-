@@ -1,0 +1,1501 @@
+beer_id,brewery,style,abv_pct,ibu,srm_color,original_gravity,final_gravity,ph,price_usd,rating
+1,Lantern Brewing,Stout,5.4,51.0,32.8,1.058,1.017,4.26,13.31,3.56
+2,Anchor Hill Brewing,Wheat,4.9,14.0,5.7,1.048,1.011,4.4,13.85,3.72
+3,Foxglove Brewing,Sour,3.5,8.0,6.8,1.037,1.01,3.39,11.99,2.53
+4,Tidewater Brewing,Lager,5.1,16.0,4.5,1.047,1.008,4.37,13.93,3.33
+5,Foxglove Brewing,Wheat,0.038,11.0,4.1,1.038,1.009,4.12,14.06,2.26
+6,North Fork Brewing,Porter,5.2,28.0,29.5,1.054,1.015,4.16,12.34,2.77
+7,Anchor Hill Brewing,IPA,6.0,76.0,8.6,1.057,1.011,4.31,15.5,3.48
+8,Foxglove Brewing,IPA,5.8,55.0,7.1,1.055,1.01,4.22,11.56,3.77
+9,Tidewater Brewing,Sour,4.9,7.0,4.8,1.043,1.006,3.37,13.93,3.02
+10,Anchor Hill Brewing,Stout,4.9,40.0,37.2,1.052,1.015,4.13,12.23,3.29
+11,Tidewater Brewing,Amber,0.06,32.0,12.3,1.059,1.014,4.35,9.04,4.25
+12,Wildflower Brewing,Lager,0.044,22.0,4.3,1.044,1.01,4.39,13.03,2.94
+13,Lantern Brewing,Porter,4.5,43.0,36.5,1.048,1.014,4.45,13.91,2.65
+14,Anchor Hill Brewing,Sour,3.8,8.0,8.2,1.038,1.008,3.43,14.6,2.81
+15,Wildflower Brewing,Sour,5.3,10.0,6.9,1.052,1.012,3.54,14.2,2.55
+16,Foxglove Brewing,Pale Ale,4.5,23.0,4.7,1.044,1.01,4.29,15.31,2.84
+17,Stillwater Brewing,Amber,5.9,30.0,12.8,1.056,1.011,4.26,14.62,2.93
+18,Mill Creek Brewing,Stout,7.4,40.0,45.4,1.072,1.015,4.11,14.41,3.94
+19,Foxglove Brewing,Sour,5.3,10.0,6.6,1.051,1.011,,12.58,3.08
+20,Anchor Hill Brewing,Porter,6.8,41.0,32.9,1.064,1.012,4.29,14.79,3.76
+21,Ironwood Brewing,Sour,4.2,,6.5,1.041,1.009,3.05,13.68,1.77
+22,Wildflower Brewing,Stout,6.3,43.0,47.9,1.065,1.017,4.06,14.21,3.65
+23,Anchor Hill Brewing,Stout,7.5,35.0,38.5,1.076,1.019,,19.23,4.23
+24,Lantern Brewing,Sour,4.6,15.0,5.8,1.043,1.008,3.07,13.86,2.13
+25,Tidewater Brewing,Amber,5.2,46.0,12.7,1.054,1.015,4.1,15.71,3.37
+26,Lantern Brewing,Pale Ale,4.4,36.0,5.4,1.045,1.011,4.02,13.89,3.36
+27,Wildflower Brewing,Porter,6.4,53.0,27.1,1.063,1.015,4.28,16.13,3.32
+28,Copper Kettle Brewing,Wheat,6.2,21.0,5.8,1.058,1.011,4.08,12.71,3.23
+29,Mill Creek Brewing,Amber,6.0,36.0,11.5,1.06,1.013,4.52,14.18,4.02
+30,Red Barn Brewing,Amber,0.061,27.0,12.0,1.059,1.012,4.31,16.92,2.45
+31,Copper Kettle Brewing,Pale Ale,4.7,47.0,10.6,1.047,1.011,4.14,15.22,3.61
+32,North Fork Brewing,Porter,5.1,34.0,37.3,1.054,1.015,4.25,13.77,3.24
+33,Ironwood Brewing,Porter,7.2,29.0,27.9,1.068,1.013,4.47,13.49,3.96
+34,Wildflower Brewing,Sour,5.1,6.0,4.1,1.05,1.011,3.59,13.09,2.57
+35,Stillwater Brewing,Pale Ale,5.9,40.0,9.8,1.057,1.012,4.24,14.42,3.26
+36,Ironwood Brewing,Stout,6.7,45.0,31.5,1.067,1.015,4.26,15.58,3.98
+37,Red Barn Brewing,Stout,5.9,33.0,38.5,1.062,1.017,4.3,13.73,3.82
+38,Lantern Brewing,Pale Ale,5.0,38.0,7.4,1.054,1.015,4.31,13.18,3.58
+39,Copper Kettle Brewing,Lager,0.042,22.0,3.5,1.042,1.01,,16.16,3.36
+40,Copper Kettle Brewing,Porter,6.1,,21.7,1.057,1.011,,16.27,3.41
+41,Tidewater Brewing,Lager,6.0,,4.2,1.053,1.007,4.34,15.13,3.03
+42,Anchor Hill Brewing,Amber,5.7,45.0,13.6,1.058,1.014,4.62,14.88,3.57
+43,Ironwood Brewing,Porter,5.0,31.0,36.6,1.05,1.012,3.99,15.48,3.28
+44,Copper Kettle Brewing,Porter,4.8,29.0,23.6,1.048,1.011,4.21,12.87,3.24
+45,Lantern Brewing,Wheat,5.5,12.0,3.9,1.054,1.012,4.15,13.56,3.51
+46,Ironwood Brewing,IPA,7.3,,7.8,1.066,1.01,4.37,15.72,4.57
+47,Quarry Brewing,IPA,6.0,,6.6,1.057,1.011,4.48,17.88,3.32
+48,Tidewater Brewing,Stout,7.0,47.0,30.7,1.069,1.016,3.9,18.21,3.92
+49,Wildflower Brewing,Sour,4.8,5.0,5.4,1.045,1.008,3.3,10.44,2.47
+50,North Fork Brewing,IPA,5.9,55.0,5.4,1.056,1.011,4.11,12.97,3.29
+51,Foxglove Brewing,Stout,8.8,55.0,49.6,1.08,1.013,4.4,19.61,3.71
+52,North Fork Brewing,Amber,0.056,27.0,18.6,1.053,1.01,4.25,15.32,3.53
+53,Red Barn Brewing,Sour,4.9,,6.2,1.046,1.008,3.28,17.95,2.86
+54,Mill Creek Brewing,Pale Ale,5.0,45.0,9.1,1.048,1.01,4.2,13.29,3.61
+55,Foxglove Brewing,Sour,3.9,5.0,8.5,1.042,1.013,3.22,14.41,2.84
+56,Foxglove Brewing,Amber,6.2,35.0,10.5,1.055,1.008,4.27,14.56,3.91
+57,Wildflower Brewing,Pale Ale,5.5,37.0,11.2,1.055,1.013,4.12,18.6,3.58
+58,Mill Creek Brewing,Pale Ale,5.8,47.0,8.2,1.054,1.01,4.36,13.71,3.37
+59,Foxglove Brewing,Sour,5.6,7.0,5.7,1.053,1.01,3.21,15.67,2.92
+60,Wildflower Brewing,Amber,4.2,42.0,11.5,1.048,1.016,4.79,14.13,3.04
+61,Mill Creek Brewing,Sour,4.2,7.0,6.6,1.046,1.013,3.17,13.76,2.3
+62,Quarry Brewing,Wheat,3.7,15.0,4.5,1.044,1.016,4.46,10.87,2.97
+63,Quarry Brewing,Lager,5.2,22.0,4.3,1.05,1.01,4.15,10.48,3.06
+64,Stillwater Brewing,Porter,5.8,35.0,22.4,1.06,1.016,4.21,13.54,3.22
+65,Foxglove Brewing,Porter,0.061,26.0,33.7,1.059,1.013,4.33,13.14,3.56
+66,North Fork Brewing,Porter,5.1,25.0,22.8,1.057,1.018,4.3,12.72,2.64
+67,Red Barn Brewing,Porter,6.9,29.0,50.9,1.066,1.014,4.36,18.4,3.39
+68,Foxglove Brewing,IPA,5.8,68.0,7.6,1.059,1.015,4.39,13.45,3.84
+69,Foxglove Brewing,Porter,0.061,39.0,27.7,1.063,1.017,4.64,14.11,3.37
+70,Stillwater Brewing,Lager,6.0,20.0,3.9,1.054,1.008,4.33,15.75,3.72
+71,Mill Creek Brewing,Wheat,5.6,9.0,3.9,1.057,1.014,4.43,11.44,3.76
+72,Copper Kettle Brewing,Stout,7.7,43.0,44.5,1.074,1.015,,14.68,3.21
+73,Ironwood Brewing,Porter,0.051,22.0,28.3,1.053,1.014,4.02,13.21,2.4
+74,Lantern Brewing,Sour,5.1,5.0,7.0,1.05,1.011,3.36,15.66,3.27
+75,North Fork Brewing,Lager,5.4,17.0,4.2,1.048,1.007,4.61,15.34,3.28
+76,Mill Creek Brewing,Porter,7.3,19.0,26.8,1.067,1.011,4.23,16.9,3.22
+77,North Fork Brewing,Porter,5.1,31.0,53.1,1.051,1.012,4.38,15.1,3.91
+78,Ironwood Brewing,Sour,6.1,8.0,6.6,1.056,1.01,3.25,13.91,2.72
+79,Wildflower Brewing,Amber,5.0,41.0,11.8,1.052,1.014,3.99,13.13,3.17
+80,Tidewater Brewing,Lager,5.0,14.0,2.6,1.049,1.01,4.4,17.27,2.69
+81,Wildflower Brewing,Porter,5.4,18.0,30.6,1.058,1.017,4.27,16.5,3.3
+82,Copper Kettle Brewing,Stout,0.069,48.0,47.0,1.069,1.016,4.34,16.68,3.7
+83,Mill Creek Brewing,Sour,3.1,7.0,6.0,1.034,1.011,3.04,12.76,2.41
+84,Mill Creek Brewing,Stout,0.071,40.0,40.9,1.071,1.017,4.22,16.85,3.31
+85,Anchor Hill Brewing,Sour,5.2,8.0,4.7,1.048,1.008,3.2,12.33,2.87
+86,Wildflower Brewing,Wheat,6.0,14.0,5.4,1.058,1.012,4.34,16.57,3.38
+87,Stillwater Brewing,Sour,5.3,12.0,8.3,1.052,1.012,3.14,15.01,2.43
+88,Copper Kettle Brewing,Porter,7.3,28.0,30.6,1.07,1.014,4.19,16.15,3.44
+89,Tidewater Brewing,Porter,5.7,29.0,23.0,1.059,1.015,4.11,17.08,3.5
+90,Anchor Hill Brewing,Wheat,0.052,15.0,6.0,1.053,1.014,,14.09,2.77
+91,Ironwood Brewing,Lager,4.2,18.0,4.8,1.045,1.012,4.23,16.21,3.12
+92,Stillwater Brewing,Pale Ale,6.4,46.0,9.2,1.062,1.014,4.19,16.27,4.0
+93,Anchor Hill Brewing,Wheat,5.8,19.0,5.4,1.057,1.013,4.43,17.24,2.85
+94,Mill Creek Brewing,Pale Ale,5.3,49.0,14.0,1.053,1.013,4.29,14.23,4.13
+95,Wildflower Brewing,Lager,4.5,15.0,3.8,1.041,1.006,4.59,9.76,2.6
+96,Quarry Brewing,Amber,4.6,21.0,9.6,1.05,1.015,4.24,15.03,2.92
+97,Ironwood Brewing,Wheat,6.2,11.0,6.0,1.056,1.009,4.37,13.33,3.47
+98,Quarry Brewing,Pale Ale,6.3,48.0,10.0,1.058,1.01,4.47,15.77,3.34
+99,Wildflower Brewing,Porter,4.0,41.0,23.6,1.046,1.015,4.37,12.88,2.65
+100,Quarry Brewing,Wheat,4.4,13.0,5.2,1.047,1.013,4.38,11.33,3.38
+101,Mill Creek Brewing,Lager,4.8,21.0,2.3,1.043,1.007,4.37,13.18,3.48
+102,Foxglove Brewing,Amber,6.5,32.0,13.7,1.062,1.013,4.18,15.89,3.82
+103,Wildflower Brewing,Amber,0.057,23.0,13.2,1.054,1.01,4.46,13.92,2.57
+104,Red Barn Brewing,Sour,4.0,12.0,4.9,1.042,1.011,3.4,12.91,3.05
+105,Quarry Brewing,Lager,4.3,15.0,3.6,1.043,1.011,4.5,14.1,2.91
+106,North Fork Brewing,Porter,5.0,,26.7,1.051,1.012,4.11,11.0,3.4
+107,Stillwater Brewing,Wheat,4.5,16.0,4.7,1.044,1.01,4.29,9.11,2.9
+108,Lantern Brewing,Pale Ale,5.4,35.0,7.5,1.056,1.015,4.19,14.88,3.71
+109,Lantern Brewing,Porter,0.054,51.0,25.4,1.056,1.015,4.17,11.99,3.18
+110,North Fork Brewing,Wheat,4.9,10.0,6.4,1.049,1.012,4.4,16.52,3.21
+111,Stillwater Brewing,Stout,0.07,33.0,28.5,1.07,1.017,4.37,14.65,3.52
+112,Mill Creek Brewing,Sour,4.9,8.0,6.7,1.051,1.014,3.4,13.61,2.42
+113,Red Barn Brewing,Stout,7.1,36.0,33.0,1.07,1.016,,17.22,3.33
+114,Copper Kettle Brewing,Lager,3.6,18.0,3.9,1.038,1.01,4.15,11.02,2.33
+115,Mill Creek Brewing,Porter,5.8,21.0,27.6,1.06,1.015,4.27,14.62,3.19
+116,Quarry Brewing,IPA,6.4,80.0,9.2,1.062,1.013,4.15,14.1,4.39
+117,Lantern Brewing,Porter,4.2,27.0,39.4,1.048,1.016,4.49,13.65,3.08
+118,Ironwood Brewing,Amber,6.5,35.0,19.3,1.061,1.011,4.07,13.47,4.46
+119,Wildflower Brewing,Lager,5.1,18.0,5.8,1.048,1.009,4.27,12.61,3.87
+120,Tidewater Brewing,Pale Ale,4.9,51.0,8.3,1.051,1.014,,10.15,3.1
+121,Anchor Hill Brewing,Amber,7.7,39.0,16.1,1.068,1.01,4.15,13.41,3.46
+122,Tidewater Brewing,Wheat,5.1,13.0,3.8,1.053,1.014,4.31,13.04,3.26
+123,Stillwater Brewing,Lager,4.9,16.0,4.6,1.047,1.01,4.28,14.51,3.16
+124,Wildflower Brewing,Stout,7.5,42.0,29.7,1.072,1.015,4.45,13.45,3.53
+125,Tidewater Brewing,IPA,7.3,78.0,9.1,1.068,1.013,4.17,17.74,4.05
+126,Foxglove Brewing,Wheat,4.1,17.0,5.0,1.042,1.011,4.41,13.99,2.93
+127,Quarry Brewing,Sour,5.4,7.0,7.2,1.054,1.013,2.93,15.34,2.56
+128,Lantern Brewing,Lager,5.2,19.0,3.4,1.046,1.006,4.27,13.17,2.98
+129,Mill Creek Brewing,Lager,5.7,17.0,3.9,1.056,1.013,4.29,19.52,2.91
+130,Ironwood Brewing,IPA,0.074,84.0,7.4,1.07,1.013,4.08,15.35,3.46
+131,Mill Creek Brewing,Wheat,4.4,18.0,4.6,1.046,1.012,4.25,14.36,2.87
+132,Red Barn Brewing,Pale Ale,0.068,44.0,11.5,1.063,1.012,4.16,20.06,3.72
+133,Copper Kettle Brewing,Porter,5.6,46.0,25.9,1.052,1.01,4.32,17.63,4.09
+134,North Fork Brewing,Wheat,5.0,,6.1,1.05,1.012,4.31,10.71,2.6
+135,Quarry Brewing,Amber,4.6,21.0,15.2,1.046,1.012,4.42,12.14,2.94
+136,Wildflower Brewing,Amber,4.6,23.0,21.0,1.048,1.013,4.24,14.33,3.12
+137,Quarry Brewing,Pale Ale,5.5,39.0,8.4,1.058,1.016,4.46,11.72,3.24
+138,Foxglove Brewing,Wheat,3.8,14.0,5.2,1.037,1.008,4.12,12.81,3.17
+139,Red Barn Brewing,Pale Ale,4.6,43.0,9.1,1.047,1.012,4.18,12.86,3.34
+140,Mill Creek Brewing,Porter,6.0,27.0,42.7,1.061,1.015,4.26,14.81,3.87
+141,Tidewater Brewing,IPA,7.5,59.0,14.0,1.068,1.011,4.2,17.05,3.43
+142,Stillwater Brewing,Wheat,4.4,,7.5,1.043,1.01,4.18,13.15,3.61
+143,Quarry Brewing,IPA,7.6,63.0,8.1,1.071,1.013,4.52,17.68,3.33
+144,Lantern Brewing,Stout,6.8,40.0,60.7,1.07,1.018,4.31,16.31,3.86
+145,Anchor Hill Brewing,IPA,6.4,56.0,7.1,1.059,1.01,4.46,15.63,2.84
+146,Wildflower Brewing,Lager,4.7,25.0,5.2,1.047,1.011,4.25,17.59,2.8
+147,Mill Creek Brewing,Sour,6.1,10.0,4.7,1.058,1.011,3.18,14.16,2.82
+148,Tidewater Brewing,Lager,6.2,21.0,2.7,1.06,1.013,4.4,12.95,3.55
+149,Quarry Brewing,IPA,7.0,64.0,6.1,1.069,1.016,4.03,13.38,4.3
+150,Red Barn Brewing,IPA,6.6,57.0,6.2,1.065,1.015,,15.03,3.58
+151,Stillwater Brewing,Sour,5.4,10.0,5.4,1.049,1.008,3.28,15.91,3.19
+152,Mill Creek Brewing,Wheat,3.9,21.0,5.2,1.044,1.014,4.27,11.35,2.56
+153,Stillwater Brewing,Sour,4.5,10.0,6.3,1.043,1.009,,11.52,2.68
+154,Tidewater Brewing,IPA,7.8,54.0,7.1,1.071,1.012,4.39,17.21,3.46
+155,Red Barn Brewing,Wheat,6.7,17.0,4.3,1.066,1.015,4.48,12.99,3.42
+156,Stillwater Brewing,Porter,5.1,27.0,25.0,1.05,1.011,4.36,15.05,2.27
+157,Quarry Brewing,Pale Ale,6.3,43.0,7.3,1.06,1.011,4.38,11.77,3.52
+158,Mill Creek Brewing,IPA,5.6,54.0,10.0,1.055,1.013,4.02,11.68,3.19
+159,Stillwater Brewing,IPA,6.8,72.0,9.1,1.063,1.011,4.29,15.33,3.77
+160,Wildflower Brewing,Lager,5.1,21.0,4.3,1.05,1.011,4.21,9.56,3.02
+161,Stillwater Brewing,IPA,5.7,76.0,7.0,1.052,1.008,4.21,10.25,3.19
+162,Tidewater Brewing,IPA,5.7,40.0,9.7,1.058,1.015,4.18,15.97,2.83
+163,Ironwood Brewing,Stout,6.6,35.0,47.0,1.069,1.018,4.61,17.59,3.5
+164,Foxglove Brewing,Stout,7.3,62.0,44.8,1.072,1.016,4.17,14.7,3.64
+165,Stillwater Brewing,Porter,5.3,21.0,27.1,1.055,1.015,4.46,10.6,2.86
+166,Stillwater Brewing,Sour,4.7,5.0,5.1,1.043,1.007,3.44,13.38,2.91
+167,Ironwood Brewing,Pale Ale,6.4,37.0,7.4,1.059,1.011,4.37,18.13,3.84
+168,Red Barn Brewing,IPA,6.2,97.0,13.0,1.061,1.015,4.38,12.75,4.35
+169,Mill Creek Brewing,Sour,5.2,8.0,7.0,1.049,1.01,3.22,13.16,2.97
+170,Wildflower Brewing,Amber,5.6,47.0,20.3,1.056,1.013,4.27,15.84,2.93
+171,Wildflower Brewing,Sour,3.5,8.0,6.4,1.036,1.009,3.3,13.75,2.8
+172,Foxglove Brewing,Wheat,5.1,14.0,4.9,1.05,1.011,,16.35,3.71
+173,Anchor Hill Brewing,IPA,4.4,72.0,7.5,1.047,1.014,4.3,14.47,3.47
+174,Mill Creek Brewing,Lager,4.2,15.0,3.7,1.041,1.009,4.1,14.62,2.7
+175,Quarry Brewing,Stout,7.9,43.0,28.1,1.076,1.016,4.28,15.68,3.35
+176,North Fork Brewing,Pale Ale,4.5,39.0,8.6,1.045,1.01,4.59,11.09,2.89
+177,Mill Creek Brewing,Amber,5.1,20.0,11.2,1.051,1.012,4.53,16.49,3.56
+178,Foxglove Brewing,Sour,4.9,9.0,6.1,1.049,1.011,3.37,12.67,3.02
+179,Red Barn Brewing,Lager,5.8,23.0,3.1,1.051,1.007,4.13,13.35,3.51
+180,Foxglove Brewing,Lager,5.8,15.0,3.6,1.054,1.01,4.37,13.96,3.59
+181,Mill Creek Brewing,Wheat,4.1,,6.6,1.043,1.011,4.47,11.82,2.81
+182,North Fork Brewing,Sour,3.9,9.0,5.0,1.04,1.01,3.15,15.94,2.91
+183,Copper Kettle Brewing,Stout,6.9,51.0,32.4,1.069,1.016,4.19,15.28,3.25
+184,North Fork Brewing,Amber,7.3,21.0,14.1,1.065,1.01,4.4,14.98,3.48
+185,Ironwood Brewing,Amber,5.2,20.0,15.2,1.048,1.009,4.61,11.21,3.0
+186,Stillwater Brewing,Wheat,4.5,10.0,7.2,1.047,1.013,4.27,12.76,2.56
+187,Wildflower Brewing,IPA,7.1,62.0,8.5,1.065,1.011,4.28,14.14,3.81
+188,Foxglove Brewing,Lager,5.5,19.0,3.4,1.05,1.008,4.32,13.75,3.25
+189,North Fork Brewing,Amber,5.9,27.0,12.8,1.053,1.009,3.86,14.85,3.5
+190,Copper Kettle Brewing,Stout,5.9,30.0,42.1,1.058,1.012,4.29,15.79,3.27
+191,Mill Creek Brewing,Lager,5.8,18.0,4.4,1.049,1.005,4.59,15.97,3.41
+192,Foxglove Brewing,IPA,6.6,79.0,9.2,1.064,1.014,4.24,16.59,3.65
+193,Anchor Hill Brewing,Wheat,4.5,11.0,6.4,1.047,1.013,4.26,10.57,2.72
+194,Ironwood Brewing,Lager,4.0,14.0,4.7,1.037,1.006,4.48,8.5,3.01
+195,Wildflower Brewing,Lager,4.1,18.0,3.0,1.046,1.015,4.57,14.23,2.72
+196,Tidewater Brewing,Sour,0.038,6.0,5.0,1.035,1.006,3.37,11.23,2.5
+197,Stillwater Brewing,Stout,7.1,29.0,40.0,1.071,1.016,4.28,14.97,3.54
+198,Foxglove Brewing,Stout,7.1,30.0,39.6,1.074,1.02,4.37,16.61,4.12
+199,Lantern Brewing,Pale Ale,4.8,32.0,9.0,1.048,1.011,4.82,13.43,3.6
+200,Tidewater Brewing,Sour,4.5,7.0,5.7,1.039,1.005,3.36,18.46,2.33
+201,Mill Creek Brewing,Sour,3.3,6.0,5.4,1.038,1.013,3.56,7.99,2.6
+202,Red Barn Brewing,Pale Ale,0.048,39.0,9.6,1.044,1.008,4.43,15.64,3.3
+203,Anchor Hill Brewing,IPA,6.0,60.0,8.4,1.058,1.012,4.25,16.37,3.33
+204,Ironwood Brewing,Sour,4.9,8.0,4.9,1.043,1.006,3.42,15.08,2.82
+205,Quarry Brewing,Sour,4.1,8.0,5.3,1.039,1.007,3.55,16.14,2.72
+206,Quarry Brewing,Pale Ale,6.1,41.0,9.7,1.06,1.013,4.33,18.84,3.95
+207,Ironwood Brewing,IPA,6.4,64.0,7.9,1.061,1.013,4.51,13.58,3.49
+208,Anchor Hill Brewing,Amber,6.3,24.0,16.0,1.059,1.011,4.32,11.83,3.99
+209,Anchor Hill Brewing,Wheat,4.6,16.0,3.8,1.045,1.01,4.3,13.89,3.28
+210,Ironwood Brewing,IPA,6.6,46.0,7.9,1.064,1.014,4.45,17.18,3.58
+211,North Fork Brewing,IPA,5.7,66.0,10.6,1.056,1.013,4.29,14.29,3.28
+212,Red Barn Brewing,Stout,7.9,33.0,41.0,1.077,1.017,4.1,15.79,4.24
+213,Foxglove Brewing,Stout,6.9,23.0,43.5,1.066,1.014,4.14,14.48,3.72
+214,Tidewater Brewing,Stout,0.058,25.0,35.6,1.059,1.015,4.57,16.6,3.47
+215,Red Barn Brewing,Porter,4.7,26.0,31.6,1.048,1.013,4.42,15.02,3.02
+216,Red Barn Brewing,IPA,0.067,72.0,8.9,1.065,1.014,4.28,14.08,3.47
+217,Quarry Brewing,Porter,6.7,44.0,33.9,1.065,1.014,4.32,14.85,3.93
+218,Red Barn Brewing,IPA,6.1,53.0,5.9,1.061,1.015,4.51,14.9,3.11
+219,Quarry Brewing,Lager,5.0,14.0,4.0,1.046,1.008,4.2,15.93,3.26
+220,Red Barn Brewing,Stout,6.6,35.0,39.2,1.063,1.012,4.13,15.16,3.66
+221,Ironwood Brewing,IPA,7.0,62.0,7.5,1.071,1.017,4.33,16.69,3.6
+222,Copper Kettle Brewing,IPA,0.07,61.0,6.6,1.066,1.013,4.41,17.15,3.34
+223,Lantern Brewing,Amber,6.4,44.0,13.8,1.059,1.01,4.3,14.07,3.96
+224,Anchor Hill Brewing,Porter,0.06,20.0,34.9,1.059,1.013,4.23,19.46,3.74
+225,Anchor Hill Brewing,Sour,4.8,8.0,7.0,1.044,1.008,3.36,13.38,2.47
+226,Foxglove Brewing,Wheat,4.9,16.0,5.0,1.049,1.012,4.14,10.93,3.51
+227,Copper Kettle Brewing,IPA,7.1,56.0,6.6,1.062,1.009,4.42,15.4,3.75
+228,Foxglove Brewing,Lager,3.8,15.0,3.7,1.04,1.01,4.56,9.62,2.28
+229,North Fork Brewing,Wheat,4.9,17.0,4.1,1.048,1.011,4.11,12.85,2.72
+230,North Fork Brewing,Porter,4.7,,25.8,1.047,1.011,4.61,14.09,2.68
+231,Anchor Hill Brewing,Sour,4.5,7.0,5.3,1.046,1.011,3.56,16.66,2.65
+232,North Fork Brewing,Amber,5.2,23.0,13.2,1.052,1.012,4.24,13.67,2.99
+233,Stillwater Brewing,Stout,0.079,47.0,37.7,1.08,1.019,4.21,16.61,3.8
+234,Lantern Brewing,Wheat,0.055,14.0,6.3,1.054,1.012,4.47,13.92,2.74
+235,Stillwater Brewing,Stout,6.6,46.0,55.3,1.067,1.017,4.03,16.67,2.93
+236,Wildflower Brewing,Lager,5.2,25.0,3.7,1.047,1.008,4.46,8.33,3.03
+237,Stillwater Brewing,Wheat,0.042,20.0,5.3,1.042,1.01,4.22,10.83,3.13
+238,Lantern Brewing,Pale Ale,4.4,26.0,9.2,1.045,1.012,4.32,13.6,3.13
+239,Copper Kettle Brewing,Sour,4.9,10.0,6.5,1.048,1.011,3.67,14.29,2.72
+240,Wildflower Brewing,IPA,7.8,102.0,7.1,1.072,1.013,4.56,16.42,4.4
+241,Stillwater Brewing,Lager,6.1,19.0,4.1,1.057,1.01,4.35,17.36,3.33
+242,Mill Creek Brewing,Wheat,4.7,9.0,4.8,1.05,1.015,4.26,13.96,2.96
+243,Quarry Brewing,Amber,6.0,20.0,18.2,1.06,1.015,4.5,13.17,3.4
+244,Lantern Brewing,IPA,6.1,67.0,6.8,1.059,1.013,4.38,17.62,3.28
+245,Stillwater Brewing,Wheat,4.7,13.0,5.2,1.048,1.012,4.09,14.47,3.27
+246,Lantern Brewing,Porter,6.7,35.0,40.4,1.065,1.014,4.48,14.54,4.02
+247,Mill Creek Brewing,IPA,5.5,98.0,7.7,1.054,1.012,4.21,14.62,4.39
+248,Mill Creek Brewing,Pale Ale,5.3,55.0,9.6,1.052,1.011,4.45,11.93,3.01
+249,Anchor Hill Brewing,Lager,5.0,19.0,4.3,1.048,1.01,4.19,9.06,3.42
+250,Tidewater Brewing,Wheat,4.9,14.0,4.7,1.051,1.013,4.28,9.43,3.37
+251,Ironwood Brewing,Wheat,3.9,14.0,5.7,1.043,1.014,4.54,13.37,2.46
+252,Anchor Hill Brewing,Lager,5.6,23.0,4.3,1.051,1.008,4.05,15.21,2.77
+253,North Fork Brewing,Lager,3.7,29.0,4.4,1.039,1.011,4.13,12.04,3.73
+254,Ironwood Brewing,Porter,5.8,24.0,33.5,1.06,1.016,4.77,13.58,3.19
+255,Red Barn Brewing,Amber,5.5,21.0,11.8,1.055,1.013,4.15,10.38,3.27
+256,Mill Creek Brewing,Lager,2.9,13.0,4.7,1.031,1.008,4.35,6.7,2.37
+257,Red Barn Brewing,Amber,5.5,28.0,14.4,1.053,1.011,4.28,13.78,3.54
+258,Red Barn Brewing,IPA,5.9,56.0,10.3,1.058,1.014,4.37,13.44,3.72
+259,Mill Creek Brewing,Amber,5.2,43.0,15.7,1.054,1.014,4.31,10.62,3.33
+260,Tidewater Brewing,Amber,5.0,28.0,17.1,1.048,1.01,4.28,15.91,3.03
+261,Stillwater Brewing,Wheat,4.7,15.0,6.3,1.05,1.014,4.41,12.23,3.14
+262,Ironwood Brewing,Stout,0.064,57.0,59.7,1.068,1.018,4.56,15.92,3.63
+263,Copper Kettle Brewing,Porter,5.4,43.0,41.6,1.054,1.013,4.37,10.21,3.46
+264,Quarry Brewing,Wheat,4.5,14.0,4.2,1.047,1.013,4.3,13.17,2.45
+265,Tidewater Brewing,Wheat,4.5,10.0,2.7,1.043,1.009,4.28,11.31,3.51
+266,Lantern Brewing,Lager,4.9,17.0,3.9,1.047,1.01,4.37,13.73,4.18
+267,Copper Kettle Brewing,Stout,6.4,38.0,47.0,1.065,1.017,4.4,17.34,3.65
+268,Anchor Hill Brewing,Sour,5.6,7.0,8.7,1.052,1.009,3.37,13.23,3.09
+269,Tidewater Brewing,Sour,4.6,12.0,5.5,1.046,1.011,3.6,13.73,2.46
+270,Tidewater Brewing,Lager,5.1,17.0,3.4,1.047,1.008,,13.9,2.71
+271,Lantern Brewing,Sour,3.5,7.0,4.8,1.036,1.009,3.48,8.3,2.84
+272,North Fork Brewing,Wheat,4.3,17.0,4.9,1.041,1.008,4.24,12.1,2.85
+273,Mill Creek Brewing,Wheat,5.6,20.0,7.9,1.054,1.012,4.45,15.43,2.6
+274,Mill Creek Brewing,Pale Ale,0.059,44.0,8.6,1.057,1.012,4.18,16.89,2.38
+275,Red Barn Brewing,Lager,3.8,13.0,4.2,1.04,1.011,4.29,10.34,3.07
+276,Tidewater Brewing,Wheat,4.5,9.0,5.7,1.05,1.016,4.22,15.06,3.13
+277,Foxglove Brewing,Wheat,3.7,20.0,4.8,1.043,1.015,4.21,10.52,3.58
+278,Mill Creek Brewing,Wheat,3.8,14.0,4.5,1.043,1.014,4.54,10.54,2.63
+279,Foxglove Brewing,Porter,6.4,25.0,38.0,1.061,1.012,4.27,14.51,2.93
+280,North Fork Brewing,Porter,6.6,33.0,31.3,1.063,1.013,4.45,18.5,3.12
+281,Anchor Hill Brewing,IPA,7.0,79.0,9.5,1.06,1.007,4.6,15.73,3.7
+282,Wildflower Brewing,IPA,7.6,69.0,7.4,1.068,1.01,4.16,16.48,4.1
+283,North Fork Brewing,IPA,7.1,78.0,8.0,1.065,1.011,4.22,15.01,4.24
+284,Anchor Hill Brewing,Amber,4.5,29.0,11.6,1.047,1.012,4.36,13.85,3.33
+285,Tidewater Brewing,Wheat,6.2,11.0,5.6,1.059,1.011,4.27,17.13,3.48
+286,Lantern Brewing,Porter,5.5,34.0,27.0,1.054,1.013,4.62,11.75,2.94
+287,Red Barn Brewing,Porter,6.3,,31.0,1.064,1.016,,14.83,3.28
+288,Foxglove Brewing,Amber,4.8,36.0,13.7,1.043,1.006,4.33,15.9,3.95
+289,Ironwood Brewing,Wheat,6.4,20.0,4.2,1.059,1.01,4.27,16.85,3.32
+290,Mill Creek Brewing,Sour,3.4,9.0,6.3,1.037,1.011,3.69,17.54,2.39
+291,Quarry Brewing,Wheat,5.1,17.0,4.8,1.047,1.007,4.18,12.74,3.5
+292,Ironwood Brewing,Amber,3.8,16.0,17.5,1.045,1.016,4.35,11.32,3.54
+293,Copper Kettle Brewing,Wheat,5.1,13.0,5.0,1.05,1.011,4.47,16.04,3.03
+294,Anchor Hill Brewing,Pale Ale,5.4,38.0,8.3,1.052,1.011,4.29,14.69,3.44
+295,Anchor Hill Brewing,IPA,5.7,59.0,7.3,1.054,1.011,4.24,14.06,3.83
+296,Red Barn Brewing,Lager,4.5,19.0,3.4,1.045,1.011,4.2,13.4,2.5
+297,Stillwater Brewing,Wheat,5.4,14.0,3.4,1.051,1.01,4.14,11.76,2.84
+298,Ironwood Brewing,Wheat,4.2,10.0,6.8,1.042,1.01,4.47,15.65,2.62
+299,Copper Kettle Brewing,IPA,6.6,67.0,7.2,1.062,1.012,4.28,16.16,3.06
+300,Tidewater Brewing,Amber,3.6,29.0,16.5,1.04,1.013,4.22,13.06,3.0
+301,Copper Kettle Brewing,Amber,5.0,37.0,16.4,1.052,1.014,4.28,16.5,3.52
+302,Foxglove Brewing,Wheat,6.2,16.0,4.3,1.06,1.013,4.32,13.18,3.43
+303,Quarry Brewing,Porter,0.05,30.0,31.8,1.054,1.016,,14.36,3.83
+304,Quarry Brewing,Amber,4.6,25.0,8.0,1.048,1.013,4.54,14.04,2.47
+305,Stillwater Brewing,Amber,6.3,21.0,12.2,1.063,1.015,4.34,14.36,3.57
+306,Ironwood Brewing,Wheat,5.6,,4.5,1.053,1.01,4.39,14.92,2.95
+307,Stillwater Brewing,Stout,6.6,31.0,32.5,1.069,1.019,4.27,17.44,3.78
+308,Anchor Hill Brewing,Amber,4.5,23.0,13.6,1.046,1.012,4.35,15.98,2.5
+309,Lantern Brewing,Porter,7.1,42.0,50.3,1.069,1.015,4.28,12.79,3.93
+310,Copper Kettle Brewing,Sour,4.2,8.0,6.8,1.044,1.012,3.41,10.44,2.31
+311,Stillwater Brewing,Pale Ale,5.3,42.0,6.5,1.051,1.011,4.24,15.39,3.32
+312,Foxglove Brewing,Sour,4.1,,6.7,1.042,1.011,3.33,13.93,2.87
+313,Copper Kettle Brewing,IPA,7.4,51.0,6.5,1.069,1.013,4.27,14.7,4.52
+314,Wildflower Brewing,Porter,6.2,28.0,30.3,1.061,1.014,4.36,10.26,3.29
+315,Foxglove Brewing,Amber,5.0,21.0,14.7,1.049,1.011,4.53,14.81,3.36
+316,Copper Kettle Brewing,IPA,6.6,80.0,6.9,1.063,1.013,4.67,17.28,3.57
+317,Copper Kettle Brewing,Pale Ale,4.8,54.0,9.1,1.048,1.011,,12.5,3.26
+318,Red Barn Brewing,Stout,7.9,27.0,62.0,1.074,1.015,4.2,16.6,4.07
+319,Red Barn Brewing,Porter,5.9,20.0,27.9,1.058,1.012,4.27,16.93,3.04
+320,Stillwater Brewing,Lager,5.2,14.0,4.6,1.051,1.011,4.34,16.52,3.1
+321,Foxglove Brewing,Stout,4.4,34.0,59.0,1.048,1.015,4.1,14.57,3.22
+322,Mill Creek Brewing,Pale Ale,5.9,32.0,8.2,1.054,1.009,4.29,14.44,3.67
+323,Ironwood Brewing,Sour,4.2,10.0,5.9,1.043,1.01,3.29,12.89,2.54
+324,Copper Kettle Brewing,Lager,4.6,22.0,4.4,1.046,1.011,4.21,12.57,3.15
+325,Quarry Brewing,Porter,5.8,25.0,25.9,1.059,1.015,4.2,14.56,3.08
+326,Stillwater Brewing,IPA,6.6,65.0,11.2,1.063,1.013,4.34,14.58,3.6
+327,Lantern Brewing,Amber,5.1,26.0,12.3,1.051,1.012,4.37,13.21,2.74
+328,Tidewater Brewing,Porter,5.7,41.0,35.1,1.058,1.014,4.54,12.36,3.93
+329,Anchor Hill Brewing,Stout,6.0,59.0,39.6,1.06,1.014,,15.27,3.48
+330,Wildflower Brewing,Amber,5.6,36.0,10.9,1.052,1.01,4.14,15.39,3.55
+331,North Fork Brewing,Stout,6.7,36.0,40.8,1.066,1.015,4.27,17.4,2.86
+332,Foxglove Brewing,Porter,4.5,34.0,28.7,1.047,1.013,4.39,14.23,3.63
+333,Anchor Hill Brewing,Pale Ale,6.0,37.0,8.1,1.054,1.008,4.16,15.49,2.51
+334,Ironwood Brewing,Pale Ale,5.7,35.0,6.0,1.052,1.009,,16.16,3.86
+335,Quarry Brewing,Amber,5.2,30.0,12.8,1.052,1.012,4.55,14.27,3.31
+336,Foxglove Brewing,Stout,6.9,40.0,42.4,1.069,1.017,,16.2,3.97
+337,North Fork Brewing,Pale Ale,5.0,37.0,8.1,1.051,1.013,4.25,15.72,3.38
+338,Red Barn Brewing,Lager,4.1,17.0,3.2,1.04,1.009,4.31,12.63,2.55
+339,Wildflower Brewing,Pale Ale,4.7,34.0,11.4,1.046,1.01,4.22,13.29,3.55
+340,North Fork Brewing,Sour,5.8,6.0,6.6,1.052,1.008,3.17,11.14,3.06
+341,Copper Kettle Brewing,Stout,0.07,39.0,30.8,1.067,1.013,4.26,14.36,4.21
+342,Wildflower Brewing,Porter,6.0,33.0,37.6,1.059,1.014,4.53,16.01,2.83
+343,Tidewater Brewing,Wheat,4.2,11.0,4.9,1.049,1.017,4.27,15.01,2.41
+344,Ironwood Brewing,IPA,7.4,62.0,7.1,1.068,1.012,4.39,16.15,3.6
+345,Stillwater Brewing,IPA,0.081,59.0,6.9,1.075,1.014,4.41,13.54,4.01
+346,Tidewater Brewing,Wheat,5.6,20.0,4.1,1.055,1.013,4.43,14.95,2.95
+347,Red Barn Brewing,Lager,4.2,22.0,3.7,1.038,1.006,4.39,11.94,2.45
+348,Tidewater Brewing,Porter,8.1,21.0,32.1,1.076,1.014,3.91,14.52,3.61
+349,North Fork Brewing,IPA,6.7,96.0,12.0,1.064,1.013,,12.23,4.02
+350,Copper Kettle Brewing,Porter,5.6,,30.7,1.053,1.01,4.18,14.24,3.47
+351,North Fork Brewing,Wheat,5.0,12.0,5.4,1.046,1.007,4.31,13.11,3.25
+352,Copper Kettle Brewing,Lager,5.0,26.0,3.7,1.048,1.01,4.26,12.16,4.02
+353,Copper Kettle Brewing,Lager,6.6,12.0,4.0,1.059,1.009,4.43,15.38,3.47
+354,Lantern Brewing,Sour,5.5,9.0,7.9,1.052,1.011,3.68,18.2,3.4
+355,Ironwood Brewing,Amber,0.04,23.0,12.6,1.045,1.014,4.41,15.66,3.65
+356,Foxglove Brewing,Stout,7.0,31.0,34.2,1.064,1.011,4.24,13.96,3.87
+357,North Fork Brewing,Amber,4.2,55.0,10.9,1.044,1.012,4.32,12.2,3.32
+358,Ironwood Brewing,Pale Ale,6.1,57.0,7.7,1.06,1.014,4.05,14.32,3.19
+359,Anchor Hill Brewing,Stout,7.4,37.0,47.7,1.074,1.017,4.25,13.99,3.16
+360,Tidewater Brewing,Wheat,4.6,10.0,4.8,1.043,1.008,4.41,15.34,3.1
+361,Quarry Brewing,Stout,6.0,,40.9,1.061,1.015,4.33,16.4,3.35
+362,Foxglove Brewing,Amber,5.2,,14.4,1.057,1.017,4.28,11.25,2.86
+363,Quarry Brewing,IPA,6.7,69.0,6.5,1.063,1.012,4.39,16.29,3.61
+364,North Fork Brewing,Pale Ale,5.6,31.0,11.5,1.055,1.012,4.3,15.13,3.2
+365,Ironwood Brewing,Amber,5.4,33.0,18.4,1.051,1.01,,14.82,3.61
+366,Tidewater Brewing,Stout,7.5,37.0,48.5,1.074,1.016,4.07,15.12,4.5
+367,Lantern Brewing,Pale Ale,0.045,39.0,10.0,1.048,1.014,4.29,11.01,3.05
+368,North Fork Brewing,IPA,6.7,34.0,9.4,1.064,1.013,4.24,14.12,3.17
+369,Mill Creek Brewing,Lager,5.3,17.0,4.3,1.049,1.009,4.01,12.69,2.77
+370,Ironwood Brewing,Lager,5.2,,3.4,1.048,1.008,4.46,11.79,3.22
+371,Ironwood Brewing,Pale Ale,5.6,36.0,7.5,1.055,1.013,4.21,15.21,3.21
+372,Red Barn Brewing,Stout,6.6,35.0,44.1,1.067,1.016,4.42,16.36,3.5
+373,Stillwater Brewing,Porter,6.9,20.0,23.3,1.064,1.012,4.27,15.44,3.78
+374,Wildflower Brewing,Lager,4.2,19.0,3.2,1.043,1.011,4.47,12.82,2.5
+375,Wildflower Brewing,IPA,6.9,,6.9,1.064,1.012,4.14,14.32,3.42
+376,Quarry Brewing,Lager,5.6,24.0,3.8,1.053,1.01,,16.16,2.77
+377,Red Barn Brewing,Amber,5.3,,9.4,1.053,1.012,4.29,11.87,3.32
+378,Anchor Hill Brewing,Amber,5.2,30.0,12.6,1.048,1.009,4.6,13.01,3.37
+379,Anchor Hill Brewing,Stout,6.2,25.0,54.5,1.063,1.016,4.3,16.44,3.07
+380,Ironwood Brewing,Pale Ale,6.7,35.0,13.4,1.06,1.009,4.28,15.52,3.38
+381,Mill Creek Brewing,Lager,3.7,20.0,4.4,1.038,1.01,4.31,11.44,3.51
+382,Mill Creek Brewing,Sour,5.3,12.0,5.6,1.048,1.008,3.41,10.84,3.28
+383,Copper Kettle Brewing,Pale Ale,0.054,62.0,8.1,1.054,1.013,4.33,15.42,3.51
+384,Quarry Brewing,Amber,4.9,37.0,16.3,1.051,1.014,4.43,13.73,2.78
+385,Wildflower Brewing,Wheat,5.6,,5.4,1.052,1.009,4.49,12.8,3.4
+386,Wildflower Brewing,Stout,7.7,52.0,45.2,1.074,1.015,4.37,13.07,3.83
+387,Foxglove Brewing,Amber,6.0,,10.6,1.057,1.011,4.16,13.74,3.23
+388,Copper Kettle Brewing,Amber,6.3,19.0,12.5,1.064,1.016,4.41,14.38,3.18
+389,North Fork Brewing,Pale Ale,4.5,29.0,6.1,1.046,1.012,4.03,13.71,3.39
+390,Tidewater Brewing,Porter,6.2,41.0,30.3,1.062,1.015,4.43,11.41,3.48
+391,North Fork Brewing,Sour,5.9,9.0,5.5,1.054,1.009,3.32,11.14,3.5
+392,Anchor Hill Brewing,Pale Ale,0.056,33.0,7.4,1.054,1.011,4.37,13.79,3.78
+393,Tidewater Brewing,Stout,7.1,29.0,33.0,1.07,1.016,,18.33,3.47
+394,Red Barn Brewing,Pale Ale,6.2,33.0,8.3,1.06,1.013,4.38,10.68,3.24
+395,Tidewater Brewing,Stout,6.4,45.0,42.0,1.063,1.015,4.28,11.61,3.52
+396,Quarry Brewing,Lager,4.2,28.0,4.1,1.042,1.01,4.28,13.79,3.06
+397,Tidewater Brewing,Wheat,5.4,,4.0,1.056,1.015,4.49,15.07,3.28
+398,Mill Creek Brewing,Pale Ale,4.1,40.0,6.7,1.044,1.013,3.99,11.52,2.78
+399,Tidewater Brewing,Lager,4.5,21.0,5.1,1.046,1.012,4.36,15.01,2.79
+400,Anchor Hill Brewing,Pale Ale,6.2,43.0,7.5,1.059,1.012,4.53,16.28,3.13
+401,Stillwater Brewing,Wheat,4.8,9.0,4.8,1.047,1.011,4.43,14.86,3.04
+402,Stillwater Brewing,Wheat,6.3,13.0,7.5,1.062,1.014,4.56,14.64,2.92
+403,Ironwood Brewing,Amber,6.5,31.0,15.1,1.066,1.017,4.29,13.69,2.9
+404,North Fork Brewing,Pale Ale,6.6,57.0,10.6,1.063,1.012,4.3,13.33,3.53
+405,Mill Creek Brewing,Wheat,4.5,12.0,6.0,1.05,1.015,4.44,13.3,2.45
+406,Anchor Hill Brewing,Wheat,5.4,14.0,4.9,1.05,1.008,4.47,14.27,3.21
+407,Stillwater Brewing,Lager,6.2,20.0,4.0,1.058,1.012,4.31,17.69,3.2
+408,Foxglove Brewing,Pale Ale,4.5,42.0,8.5,1.049,1.014,4.56,15.68,2.93
+409,Wildflower Brewing,Pale Ale,4.9,46.0,8.6,1.05,1.013,,12.61,2.74
+410,Anchor Hill Brewing,IPA,7.4,,8.6,1.069,1.013,4.49,19.78,4.3
+411,Tidewater Brewing,Wheat,5.1,14.0,4.3,1.05,1.011,4.18,16.26,2.96
+412,Stillwater Brewing,Stout,6.3,52.0,43.9,1.064,1.016,4.3,16.82,3.97
+413,Red Barn Brewing,Stout,7.0,32.0,53.5,1.069,1.015,4.52,19.28,3.74
+414,Red Barn Brewing,Amber,6.5,34.0,13.4,1.062,1.012,4.0,12.01,3.66
+415,Copper Kettle Brewing,Lager,4.8,19.0,4.2,1.05,1.014,4.16,12.86,4.01
+416,Copper Kettle Brewing,Stout,5.6,42.0,32.3,1.06,1.017,4.29,12.7,3.71
+417,Copper Kettle Brewing,IPA,6.4,82.0,10.4,1.065,1.016,4.22,18.65,3.6
+418,Quarry Brewing,Porter,5.1,21.0,16.9,1.052,1.014,4.14,11.63,3.16
+419,Anchor Hill Brewing,Wheat,4.7,23.0,4.6,1.052,1.016,4.2,12.18,3.28
+420,Anchor Hill Brewing,IPA,6.5,,8.3,1.066,1.016,4.26,17.17,4.01
+421,Red Barn Brewing,Pale Ale,5.8,30.0,9.3,1.053,1.008,4.32,14.3,3.48
+422,Copper Kettle Brewing,Stout,7.3,64.0,31.8,1.073,1.017,4.4,16.94,3.57
+423,Copper Kettle Brewing,Wheat,4.7,16.0,4.1,1.045,1.009,4.07,10.44,3.15
+424,North Fork Brewing,Sour,6.3,9.0,6.5,1.057,1.009,3.05,10.92,2.93
+425,Wildflower Brewing,Amber,0.061,25.0,15.5,1.059,1.012,4.28,15.44,3.46
+426,North Fork Brewing,Pale Ale,4.3,35.0,8.9,1.043,1.011,4.27,10.92,4.07
+427,Foxglove Brewing,Wheat,5.4,17.0,4.7,1.049,1.008,4.38,15.12,3.05
+428,Red Barn Brewing,IPA,6.8,43.0,7.9,1.061,1.01,4.1,13.19,4.13
+429,Lantern Brewing,Wheat,5.2,13.0,5.1,1.05,1.011,4.42,14.78,3.0
+430,Copper Kettle Brewing,Wheat,4.6,15.0,7.3,1.048,1.013,4.28,13.66,3.1
+431,Ironwood Brewing,IPA,5.6,35.0,6.2,1.054,1.012,4.1,12.48,4.22
+432,North Fork Brewing,Sour,4.1,5.0,6.0,1.041,1.01,3.24,11.09,2.63
+433,Tidewater Brewing,Pale Ale,5.1,30.0,6.3,1.05,1.011,4.43,13.4,3.36
+434,Wildflower Brewing,Sour,3.3,7.0,5.1,1.038,1.013,3.3,11.74,3.0
+435,Ironwood Brewing,Pale Ale,5.9,,7.4,1.055,1.01,4.43,12.16,3.97
+436,Lantern Brewing,Pale Ale,4.0,51.0,7.1,1.041,1.011,4.23,7.43,3.18
+437,Wildflower Brewing,IPA,5.9,,5.9,1.058,1.013,4.37,13.79,4.02
+438,Anchor Hill Brewing,Amber,5.1,32.0,22.1,1.058,1.019,4.07,13.17,3.3
+439,North Fork Brewing,Porter,6.0,22.0,26.2,1.06,1.014,4.4,15.09,2.87
+440,Anchor Hill Brewing,Lager,5.0,20.0,2.5,1.046,1.008,4.46,12.53,3.01
+441,North Fork Brewing,Amber,5.8,,13.3,1.057,1.012,4.32,11.37,3.63
+442,Foxglove Brewing,Sour,0.048,9.0,5.2,1.049,1.013,3.52,16.04,3.15
+443,North Fork Brewing,Pale Ale,5.4,55.0,9.2,1.053,1.012,4.25,12.82,3.36
+444,Foxglove Brewing,Pale Ale,6.7,37.0,8.8,1.067,1.016,4.41,13.03,3.56
+445,Quarry Brewing,IPA,6.6,50.0,6.9,1.062,1.012,4.16,14.15,3.27
+446,Mill Creek Brewing,Stout,7.6,32.0,82.9,1.073,1.015,4.49,13.17,4.22
+447,North Fork Brewing,IPA,5.5,64.0,8.2,1.053,1.011,4.41,15.67,3.56
+448,Red Barn Brewing,Porter,4.5,35.0,34.5,1.047,1.013,4.53,12.34,3.2
+449,Red Barn Brewing,IPA,5.5,72.0,7.8,1.051,1.009,4.39,14.19,3.0
+450,Quarry Brewing,Pale Ale,6.2,43.0,13.0,1.062,1.015,4.4,12.94,3.36
+451,Wildflower Brewing,Amber,4.8,27.0,15.3,1.045,1.009,4.26,13.41,3.65
+452,Stillwater Brewing,Amber,5.6,21.0,15.0,1.054,1.011,4.0,18.06,3.17
+453,Quarry Brewing,IPA,6.9,42.0,12.3,1.063,1.01,4.35,15.92,3.89
+454,Tidewater Brewing,Sour,5.0,8.0,6.0,1.049,1.01,3.57,11.64,3.16
+455,Anchor Hill Brewing,IPA,6.5,88.0,8.6,1.061,1.012,4.24,13.97,3.91
+456,Foxglove Brewing,Sour,4.6,11.0,5.9,1.049,1.013,3.4,10.05,3.6
+457,Stillwater Brewing,Lager,5.3,25.0,3.6,1.052,1.011,4.36,14.75,3.19
+458,Ironwood Brewing,Pale Ale,0.053,34.0,7.5,1.054,1.014,4.38,13.57,2.82
+459,North Fork Brewing,Amber,3.6,24.0,14.0,1.039,1.012,4.69,10.74,2.72
+460,Wildflower Brewing,Pale Ale,5.8,32.0,11.2,1.057,1.013,4.34,16.92,3.2
+461,Ironwood Brewing,Wheat,4.3,9.0,4.1,1.045,1.013,4.26,11.92,2.78
+462,Foxglove Brewing,Pale Ale,6.7,51.0,10.1,1.061,1.009,,18.76,4.13
+463,Stillwater Brewing,Amber,5.7,32.0,15.2,1.056,1.013,4.28,17.69,3.27
+464,Lantern Brewing,Pale Ale,6.2,45.0,8.3,1.06,1.012,4.43,17.84,2.86
+465,Mill Creek Brewing,Lager,4.3,,3.6,1.044,1.011,4.39,14.18,3.54
+466,Anchor Hill Brewing,Amber,4.7,35.0,12.3,1.05,1.014,4.27,11.68,3.23
+467,Lantern Brewing,Sour,6.6,,6.8,1.061,1.011,3.07,14.35,2.67
+468,Mill Creek Brewing,Stout,6.9,34.0,24.3,1.072,1.019,4.16,12.36,4.45
+469,Wildflower Brewing,Sour,3.5,13.0,7.0,1.036,1.009,3.32,11.55,2.57
+470,Tidewater Brewing,Pale Ale,5.0,25.0,7.4,1.048,1.01,4.53,14.6,4.1
+471,Tidewater Brewing,Lager,4.6,21.0,3.9,1.042,1.006,4.19,12.34,3.26
+472,Copper Kettle Brewing,Wheat,0.048,13.0,5.3,1.048,1.012,4.31,12.72,3.7
+473,Anchor Hill Brewing,Sour,3.5,11.0,7.9,1.031,1.005,2.99,10.8,2.26
+474,Wildflower Brewing,Lager,4.5,17.0,5.0,1.045,1.011,4.15,12.89,2.66
+475,Mill Creek Brewing,IPA,7.2,59.0,7.2,1.069,1.014,4.11,11.84,4.05
+476,Tidewater Brewing,IPA,6.8,85.0,7.2,1.066,1.014,4.1,13.57,4.12
+477,Anchor Hill Brewing,Amber,5.6,29.0,13.6,1.054,1.012,4.4,10.01,3.27
+478,Tidewater Brewing,Sour,4.6,7.0,4.5,1.043,1.008,3.25,10.82,2.96
+479,Foxglove Brewing,Lager,5.1,16.0,4.7,1.05,1.01,4.17,14.79,3.47
+480,Wildflower Brewing,Stout,7.4,50.0,70.1,1.076,1.02,4.31,16.85,3.71
+481,Wildflower Brewing,Pale Ale,5.3,43.0,9.6,1.051,1.01,4.62,14.04,2.72
+482,Foxglove Brewing,IPA,7.8,69.0,7.7,1.071,1.012,4.23,18.6,3.93
+483,Anchor Hill Brewing,Sour,5.0,6.0,5.7,1.049,1.011,3.49,14.48,3.38
+484,Mill Creek Brewing,Sour,4.9,11.0,5.3,1.05,1.012,3.09,10.16,2.52
+485,Ironwood Brewing,Porter,5.0,,24.1,1.052,1.014,4.45,15.25,3.42
+486,Tidewater Brewing,Sour,5.1,6.0,5.9,1.052,1.013,3.25,14.52,2.57
+487,Anchor Hill Brewing,Stout,6.4,50.0,45.8,1.063,1.014,4.4,16.55,4.0
+488,Mill Creek Brewing,Wheat,5.5,13.0,6.3,1.055,1.013,4.03,10.04,3.66
+489,Lantern Brewing,Porter,7.4,39.0,19.5,1.068,1.012,4.26,14.08,4.0
+490,Foxglove Brewing,Porter,4.3,36.0,34.5,1.045,1.012,4.32,12.05,3.24
+491,Tidewater Brewing,Lager,5.4,,3.5,1.051,1.01,4.06,15.87,3.26
+492,Copper Kettle Brewing,Amber,0.054,25.0,14.3,1.051,1.01,4.35,16.74,2.83
+493,Copper Kettle Brewing,Sour,4.6,9.0,5.3,1.048,1.013,3.33,14.0,2.55
+494,Foxglove Brewing,Lager,4.4,27.0,5.0,1.041,1.008,4.42,14.08,2.71
+495,North Fork Brewing,Wheat,3.5,15.0,4.0,1.04,1.013,4.01,10.53,2.61
+496,Red Barn Brewing,Sour,0.051,6.0,6.6,1.047,1.008,3.29,13.51,3.01
+497,Mill Creek Brewing,Wheat,5.0,15.0,5.4,1.05,1.012,3.92,11.19,2.97
+498,Copper Kettle Brewing,IPA,5.1,99.0,7.5,1.051,1.012,4.28,8.52,3.81
+499,Red Barn Brewing,IPA,5.7,63.0,10.5,1.055,1.012,,13.49,3.89
+500,Lantern Brewing,Wheat,4.7,,4.2,1.044,1.008,4.19,9.52,3.32
+501,Stillwater Brewing,Wheat,4.6,,5.3,1.047,1.012,4.06,13.03,3.36
+502,Wildflower Brewing,IPA,5.8,88.0,7.5,1.056,1.012,4.23,15.92,3.91
+503,Copper Kettle Brewing,Wheat,0.051,18.0,3.8,1.05,1.012,4.19,12.77,3.16
+504,Tidewater Brewing,IPA,5.0,88.0,10.2,1.051,1.013,4.45,14.63,3.35
+505,Mill Creek Brewing,Stout,7.4,40.0,51.8,1.072,1.015,4.12,18.88,3.33
+506,Copper Kettle Brewing,Lager,5.1,21.0,3.0,1.051,1.012,4.56,13.71,2.93
+507,Anchor Hill Brewing,Amber,5.4,30.0,17.8,1.053,1.012,4.41,14.06,3.4
+508,Ironwood Brewing,Wheat,6.8,13.0,5.2,1.062,1.01,4.31,15.91,3.06
+509,North Fork Brewing,Amber,4.5,18.0,14.0,1.049,1.015,4.18,16.78,3.2
+510,Lantern Brewing,Pale Ale,0.06,40.0,8.3,1.056,1.011,4.35,12.58,3.68
+511,Lantern Brewing,Wheat,5.5,10.0,5.7,1.053,1.011,4.38,15.55,2.96
+512,Foxglove Brewing,Pale Ale,5.4,,11.5,1.051,1.009,,12.4,3.38
+513,Copper Kettle Brewing,IPA,6.2,64.0,11.0,1.062,1.015,4.22,15.38,3.32
+514,Wildflower Brewing,Lager,0.048,24.0,2.7,1.048,1.011,4.42,14.99,3.41
+515,Ironwood Brewing,Sour,4.6,8.0,4.7,1.044,1.009,3.24,12.71,2.81
+516,Tidewater Brewing,Pale Ale,4.7,34.0,8.1,1.047,1.011,,11.59,2.96
+517,Anchor Hill Brewing,Stout,7.1,33.0,44.7,1.068,1.014,4.2,17.57,3.43
+518,Lantern Brewing,Pale Ale,6.9,35.0,9.8,1.062,1.009,4.4,12.01,4.21
+519,Lantern Brewing,Wheat,4.5,17.0,4.8,1.047,1.013,4.31,11.62,3.02
+520,Quarry Brewing,Pale Ale,5.4,41.0,9.5,1.057,1.016,4.42,13.79,3.28
+521,Copper Kettle Brewing,Porter,0.057,31.0,18.9,1.062,1.019,4.52,15.22,3.0
+522,Quarry Brewing,Wheat,0.041,12.0,5.1,1.041,1.01,4.5,15.03,2.51
+523,Red Barn Brewing,Wheat,6.3,21.0,6.1,1.056,1.009,4.32,13.94,3.67
+524,Quarry Brewing,Lager,3.8,20.0,3.9,1.039,1.01,4.04,11.91,3.79
+525,Mill Creek Brewing,Porter,4.7,26.0,30.6,1.045,1.01,4.22,12.02,3.57
+526,Copper Kettle Brewing,Sour,3.4,,7.3,1.033,1.008,3.36,12.0,2.57
+527,Tidewater Brewing,Amber,4.7,35.0,12.3,1.048,1.012,4.33,10.55,3.37
+528,Lantern Brewing,Pale Ale,4.3,33.0,10.4,1.042,1.01,4.29,14.96,3.12
+529,Anchor Hill Brewing,Pale Ale,4.1,38.0,12.0,1.041,1.01,4.33,13.65,3.15
+530,Red Barn Brewing,Stout,5.2,38.0,39.0,1.055,1.016,4.06,10.15,2.74
+531,Copper Kettle Brewing,Lager,4.8,11.0,3.1,1.044,1.008,4.15,14.49,3.29
+532,Wildflower Brewing,Pale Ale,6.2,33.0,7.6,1.057,1.009,4.17,15.55,3.25
+533,Stillwater Brewing,Stout,0.065,72.0,49.8,1.065,1.016,4.31,15.48,3.57
+534,Copper Kettle Brewing,IPA,7.6,79.0,9.4,1.071,1.014,4.52,14.23,4.34
+535,Tidewater Brewing,Porter,6.3,39.0,34.1,1.064,1.016,4.24,13.69,3.96
+536,Ironwood Brewing,Porter,4.7,43.0,24.2,1.052,1.016,4.36,13.49,3.43
+537,North Fork Brewing,IPA,7.4,80.0,8.5,1.069,1.013,4.27,17.16,4.36
+538,Copper Kettle Brewing,IPA,6.5,84.0,8.3,1.064,1.015,4.21,16.36,3.7
+539,Red Barn Brewing,Pale Ale,6.6,40.0,8.3,1.064,1.014,4.29,15.69,2.92
+540,Wildflower Brewing,Wheat,5.3,,4.3,1.059,1.019,4.22,13.47,3.67
+541,Anchor Hill Brewing,Amber,6.7,23.0,12.6,1.06,1.009,4.64,15.71,3.55
+542,Quarry Brewing,Stout,6.4,35.0,37.2,1.066,1.017,4.13,16.84,3.71
+543,Foxglove Brewing,Stout,6.0,46.0,44.6,1.063,1.016,4.12,13.95,3.92
+544,Stillwater Brewing,Porter,5.2,,26.2,1.054,1.015,4.34,13.9,3.78
+545,Foxglove Brewing,Sour,5.3,8.0,5.9,1.054,1.013,3.35,15.64,2.69
+546,Mill Creek Brewing,Lager,6.0,15.0,3.5,1.053,1.007,4.13,15.71,3.01
+547,Lantern Brewing,Wheat,5.4,16.0,3.8,1.052,1.011,4.38,12.8,3.21
+548,Wildflower Brewing,Stout,7.0,32.0,40.7,1.07,1.017,4.09,15.17,3.86
+549,Anchor Hill Brewing,Pale Ale,5.8,40.0,7.7,1.059,1.015,4.47,13.63,3.62
+550,Anchor Hill Brewing,Amber,5.6,20.0,11.1,1.058,1.015,4.3,13.21,3.62
+551,Anchor Hill Brewing,Porter,0.061,30.0,31.2,1.06,1.013,4.35,15.29,3.43
+552,Foxglove Brewing,Lager,5.9,12.0,5.4,1.054,1.009,4.14,17.38,4.01
+553,Copper Kettle Brewing,IPA,7.0,58.0,5.8,1.066,1.013,4.37,13.97,3.68
+554,Tidewater Brewing,Pale Ale,6.4,37.0,7.8,1.061,1.012,4.33,13.5,3.62
+555,Copper Kettle Brewing,Lager,5.6,20.0,4.0,1.056,1.013,4.16,13.44,3.22
+556,Anchor Hill Brewing,IPA,6.8,64.0,4.6,1.062,1.01,3.96,17.09,4.05
+557,Anchor Hill Brewing,Sour,3.8,6.0,7.1,1.04,1.011,3.32,13.95,2.8
+558,North Fork Brewing,Stout,7.2,35.0,46.8,1.072,1.017,4.46,15.37,3.72
+559,Stillwater Brewing,Sour,4.5,5.0,4.5,1.043,1.009,3.22,11.91,3.06
+560,Copper Kettle Brewing,Amber,6.0,27.0,15.3,1.057,1.011,4.26,18.04,3.35
+561,Foxglove Brewing,Amber,5.9,39.0,13.7,1.057,1.012,4.28,16.48,3.52
+562,Stillwater Brewing,Sour,5.3,10.0,6.3,1.049,1.009,3.04,16.03,2.44
+563,Foxglove Brewing,Amber,6.8,23.0,13.1,1.063,1.011,4.38,16.15,3.59
+564,Lantern Brewing,Pale Ale,3.8,37.0,10.4,1.041,1.012,4.28,10.37,2.89
+565,Mill Creek Brewing,Wheat,4.8,15.0,5.3,1.047,1.01,4.32,15.78,3.07
+566,North Fork Brewing,Stout,7.4,31.0,37.5,1.071,1.014,4.29,17.19,3.16
+567,Quarry Brewing,IPA,4.8,79.0,10.0,1.05,1.013,4.5,15.0,3.61
+568,North Fork Brewing,Pale Ale,5.3,46.0,8.8,1.054,1.013,4.13,12.3,3.39
+569,Stillwater Brewing,Amber,6.0,27.0,8.7,1.06,1.014,4.29,13.6,3.12
+570,Quarry Brewing,Sour,6.0,8.0,4.6,1.051,1.006,3.39,15.29,2.61
+571,Anchor Hill Brewing,Stout,5.7,40.0,36.0,1.059,1.016,4.61,12.38,3.27
+572,Ironwood Brewing,Wheat,5.4,8.0,3.8,1.051,1.009,4.19,16.91,2.9
+573,North Fork Brewing,Stout,6.2,38.0,47.3,1.06,1.013,4.39,17.79,3.97
+574,Mill Creek Brewing,Sour,4.5,7.0,5.0,1.047,1.012,3.36,12.33,2.87
+575,Mill Creek Brewing,Lager,5.3,23.0,3.9,1.049,1.009,4.34,13.41,3.19
+576,Lantern Brewing,Amber,0.055,34.0,10.0,1.053,1.011,4.25,15.71,2.7
+577,Anchor Hill Brewing,IPA,6.6,,5.5,1.063,1.012,4.27,15.61,3.83
+578,Ironwood Brewing,Wheat,4.9,12.0,5.0,1.049,1.011,4.15,15.35,3.29
+579,Foxglove Brewing,Porter,6.9,29.0,27.0,1.069,1.016,4.32,13.72,3.97
+580,Mill Creek Brewing,Porter,5.6,31.0,25.3,1.056,1.014,4.06,16.62,3.5
+581,Mill Creek Brewing,Pale Ale,0.067,30.0,7.3,1.062,1.011,3.87,13.45,2.96
+582,Red Barn Brewing,Pale Ale,6.6,36.0,10.5,1.066,1.016,4.45,14.71,3.19
+583,Anchor Hill Brewing,Porter,6.0,24.0,33.3,1.062,1.016,4.5,13.4,3.72
+584,Red Barn Brewing,Wheat,6.2,16.0,3.7,1.058,1.01,4.37,17.54,3.68
+585,Copper Kettle Brewing,Amber,5.5,31.0,12.7,1.055,1.012,4.35,12.1,3.19
+586,Stillwater Brewing,IPA,6.1,63.0,6.7,1.062,1.015,4.74,12.4,3.53
+587,Copper Kettle Brewing,Amber,5.8,36.0,13.8,1.056,1.012,4.08,12.05,3.39
+588,Ironwood Brewing,Porter,6.8,48.0,38.3,1.066,1.014,4.07,11.51,2.8
+589,Mill Creek Brewing,IPA,7.8,103.0,7.3,1.072,1.012,4.18,11.4,3.86
+590,Lantern Brewing,Porter,6.4,45.0,35.5,1.064,1.015,4.24,16.56,3.29
+591,Stillwater Brewing,Stout,6.6,50.0,32.3,1.067,1.017,4.26,13.01,3.58
+592,Quarry Brewing,Wheat,0.057,9.0,5.4,1.055,1.011,4.22,14.32,3.77
+593,Copper Kettle Brewing,Amber,5.8,28.0,13.6,1.055,1.011,4.44,15.96,2.77
+594,Quarry Brewing,Sour,5.4,7.0,4.6,1.05,1.01,3.38,15.28,3.24
+595,North Fork Brewing,Sour,2.5,8.0,6.0,1.028,1.009,3.13,12.11,2.39
+596,Stillwater Brewing,Sour,4.8,8.0,5.5,1.049,1.013,3.43,13.06,2.79
+597,Red Barn Brewing,Stout,6.5,42.0,44.6,1.066,1.016,4.16,12.54,4.11
+598,Ironwood Brewing,IPA,6.5,89.0,10.3,1.061,1.011,4.46,12.62,3.14
+599,Lantern Brewing,Lager,4.0,22.0,3.6,1.039,1.008,4.57,11.11,2.63
+600,Red Barn Brewing,Stout,6.8,32.0,41.5,1.063,1.012,4.39,13.46,3.65
+601,Tidewater Brewing,Lager,5.1,16.0,3.1,1.047,1.008,4.43,15.06,3.3
+602,Foxglove Brewing,Wheat,5.4,17.0,6.5,1.059,1.017,4.24,8.82,3.39
+603,Anchor Hill Brewing,Porter,6.2,31.0,19.4,1.058,1.011,4.36,13.62,3.41
+604,North Fork Brewing,Amber,0.066,27.0,11.6,1.063,1.012,4.18,13.73,3.43
+605,Red Barn Brewing,Amber,4.9,26.0,10.3,1.048,1.011,4.11,14.05,3.13
+606,Foxglove Brewing,IPA,6.8,93.0,10.0,1.067,1.015,4.51,15.37,4.15
+607,Ironwood Brewing,Lager,5.4,27.0,4.2,1.049,1.008,4.12,13.26,2.74
+608,Ironwood Brewing,Porter,5.8,,41.3,1.059,1.015,4.57,14.76,3.73
+609,Lantern Brewing,Pale Ale,6.2,37.0,7.2,1.058,1.011,4.21,17.01,3.99
+610,Stillwater Brewing,IPA,6.2,65.0,8.3,1.06,1.013,4.48,10.58,3.32
+611,Tidewater Brewing,Lager,5.6,20.0,2.5,1.052,1.009,4.31,13.6,3.4
+612,North Fork Brewing,Sour,3.3,9.0,8.3,1.036,1.01,3.44,9.81,2.75
+613,Quarry Brewing,Sour,4.4,8.0,5.5,1.044,1.011,3.35,14.93,2.8
+614,Tidewater Brewing,IPA,7.1,104.0,10.8,1.069,1.016,4.13,18.53,4.09
+615,Copper Kettle Brewing,IPA,6.2,66.0,7.2,1.065,1.017,4.12,16.82,3.77
+616,Foxglove Brewing,Stout,6.0,,41.8,1.06,1.015,4.2,16.06,3.05
+617,Tidewater Brewing,Sour,5.3,10.0,3.7,1.047,1.007,3.33,11.24,3.24
+618,Copper Kettle Brewing,Pale Ale,4.1,63.0,9.6,1.046,1.015,4.31,16.13,2.87
+619,Quarry Brewing,Porter,7.1,31.0,24.3,1.065,1.011,4.49,13.41,4.03
+620,Foxglove Brewing,Stout,6.8,60.0,46.1,1.07,1.018,,15.98,4.28
+621,Quarry Brewing,Wheat,6.2,15.0,4.5,1.062,1.014,4.35,13.06,3.3
+622,Anchor Hill Brewing,Wheat,6.4,15.0,5.0,1.058,1.009,4.27,14.61,4.07
+623,Copper Kettle Brewing,Porter,6.7,26.0,39.0,1.066,1.015,4.46,15.72,3.51
+624,Mill Creek Brewing,Porter,4.8,26.0,27.1,1.047,1.011,4.33,16.2,3.76
+625,North Fork Brewing,Stout,7.4,45.0,35.4,1.075,1.019,4.15,16.05,4.1
+626,Wildflower Brewing,Lager,0.046,26.0,4.8,1.048,1.013,4.31,11.75,3.2
+627,Mill Creek Brewing,Wheat,5.3,15.0,5.7,1.05,1.01,4.35,11.42,2.94
+628,Ironwood Brewing,Sour,5.0,5.0,8.3,1.051,1.013,3.35,14.93,3.42
+629,Stillwater Brewing,Sour,3.9,7.0,6.1,1.039,1.01,3.53,8.47,2.69
+630,Stillwater Brewing,Pale Ale,6.3,39.0,7.6,1.06,1.012,4.09,15.2,3.13
+631,Copper Kettle Brewing,Lager,3.2,19.0,5.7,1.034,1.01,4.14,11.43,2.97
+632,Ironwood Brewing,Sour,4.1,8.0,5.7,1.039,1.007,3.62,9.25,2.66
+633,Tidewater Brewing,Pale Ale,5.5,63.0,11.0,1.053,1.011,4.29,12.8,3.33
+634,Copper Kettle Brewing,Sour,4.8,9.0,7.1,1.045,1.009,3.35,15.32,2.92
+635,Wildflower Brewing,Sour,0.034,7.0,6.1,1.038,1.012,3.36,9.59,2.34
+636,North Fork Brewing,Wheat,6.3,13.0,4.3,1.061,1.013,4.23,15.06,2.79
+637,Quarry Brewing,Pale Ale,7.1,51.0,8.5,1.064,1.01,4.08,14.87,4.37
+638,Red Barn Brewing,Sour,6.0,9.0,5.2,1.054,1.009,3.31,18.23,3.09
+639,Wildflower Brewing,Amber,5.3,27.0,11.6,1.054,1.014,4.4,12.68,3.46
+640,Lantern Brewing,Stout,6.2,30.0,41.4,1.062,1.014,4.43,13.86,3.65
+641,Red Barn Brewing,Porter,5.1,30.0,28.5,1.051,1.011,4.27,14.64,4.23
+642,Tidewater Brewing,Stout,0.078,31.0,44.1,1.074,1.014,4.33,17.5,4.09
+643,Stillwater Brewing,Porter,6.2,46.0,41.6,1.06,1.013,4.47,14.2,3.53
+644,Mill Creek Brewing,Lager,5.1,16.0,4.6,1.049,1.01,4.02,12.42,2.97
+645,Red Barn Brewing,Lager,4.3,23.0,4.0,1.042,1.009,4.27,14.2,2.88
+646,Lantern Brewing,IPA,6.4,48.0,7.2,1.061,1.012,4.22,13.99,3.34
+647,Mill Creek Brewing,IPA,7.1,77.0,8.4,1.07,1.015,4.27,15.99,4.19
+648,Mill Creek Brewing,IPA,6.4,71.0,6.6,1.063,1.013,4.37,17.83,3.39
+649,Quarry Brewing,Sour,4.2,6.0,5.9,1.042,1.01,3.35,10.12,2.41
+650,Foxglove Brewing,Wheat,5.1,17.0,5.1,1.049,1.009,4.24,14.93,3.56
+651,Lantern Brewing,Sour,3.8,,6.6,1.038,1.009,3.38,11.78,2.78
+652,North Fork Brewing,Wheat,5.9,15.0,3.5,1.054,1.009,4.19,15.11,3.39
+653,Wildflower Brewing,Amber,4.7,28.0,17.8,1.049,1.013,4.61,13.95,2.72
+654,Wildflower Brewing,Stout,6.9,36.0,42.4,1.067,1.015,,12.21,3.42
+655,Wildflower Brewing,IPA,6.6,51.0,6.6,1.063,1.013,4.41,16.75,3.96
+656,Copper Kettle Brewing,Pale Ale,5.2,50.0,10.1,1.05,1.01,4.37,15.18,3.31
+657,Quarry Brewing,Lager,6.3,20.0,5.6,1.057,1.009,4.06,17.63,3.31
+658,Ironwood Brewing,Lager,3.7,31.0,3.9,1.036,1.008,4.39,8.53,3.4
+659,Mill Creek Brewing,Wheat,4.7,13.0,4.3,1.045,1.009,4.32,13.65,3.06
+660,Quarry Brewing,Pale Ale,4.6,45.0,7.9,1.047,1.012,4.43,12.67,3.15
+661,Anchor Hill Brewing,Amber,0.052,45.0,13.5,1.051,1.012,4.38,13.82,2.99
+662,Ironwood Brewing,Wheat,4.9,15.0,6.3,1.048,1.011,4.42,12.84,2.52
+663,Anchor Hill Brewing,Sour,4.7,9.0,5.0,1.047,1.012,3.03,14.29,2.76
+664,Tidewater Brewing,Wheat,5.2,12.0,4.5,1.051,1.012,4.27,16.95,3.43
+665,Ironwood Brewing,Wheat,4.2,13.0,5.5,1.045,1.013,4.5,13.75,2.15
+666,Stillwater Brewing,Pale Ale,6.8,42.0,13.2,1.065,1.013,4.38,16.77,3.94
+667,Foxglove Brewing,Amber,6.9,24.0,11.9,1.064,1.012,4.29,14.1,3.6
+668,North Fork Brewing,Lager,4.1,23.0,2.6,1.038,1.007,4.33,11.67,2.93
+669,Wildflower Brewing,Lager,5.7,19.0,3.3,1.053,1.01,4.09,12.2,3.17
+670,Foxglove Brewing,Wheat,4.7,11.0,3.8,1.046,1.01,,15.01,2.92
+671,Foxglove Brewing,Sour,3.7,10.0,4.8,1.04,1.012,3.52,11.49,2.0
+672,Mill Creek Brewing,Sour,0.041,9.0,5.5,1.04,1.009,3.22,12.85,2.85
+673,Wildflower Brewing,Lager,3.5,18.0,5.9,1.039,1.012,4.31,14.11,3.24
+674,Copper Kettle Brewing,Stout,5.5,36.0,31.6,1.058,1.016,4.46,16.02,3.44
+675,North Fork Brewing,Amber,5.6,25.0,13.0,1.052,1.01,4.3,14.08,4.23
+676,Ironwood Brewing,Amber,5.1,21.0,15.6,1.05,1.011,4.08,17.27,3.77
+677,Red Barn Brewing,Amber,5.2,23.0,18.5,1.054,1.014,4.27,15.54,3.41
+678,Anchor Hill Brewing,Wheat,5.2,12.0,4.3,1.054,1.015,4.32,18.41,2.98
+679,North Fork Brewing,Wheat,4.6,18.0,5.2,1.047,1.012,4.45,11.47,3.44
+680,Mill Creek Brewing,IPA,6.6,62.0,10.4,1.064,1.014,4.13,11.53,4.19
+681,Red Barn Brewing,Wheat,4.7,16.0,5.3,1.049,1.013,4.21,8.36,3.32
+682,North Fork Brewing,Stout,0.053,,27.6,1.061,1.02,4.31,14.06,3.39
+683,Lantern Brewing,Wheat,0.037,11.0,4.7,1.036,1.008,4.49,12.54,3.8
+684,Mill Creek Brewing,Porter,0.054,34.0,35.2,1.056,1.015,4.2,14.24,3.83
+685,Anchor Hill Brewing,Wheat,5.2,18.0,3.5,1.052,1.012,4.2,15.2,3.38
+686,Anchor Hill Brewing,Stout,6.4,53.0,33.6,1.062,1.014,4.15,15.01,3.46
+687,Foxglove Brewing,Pale Ale,4.7,,12.4,1.044,1.008,4.35,13.09,3.96
+688,Foxglove Brewing,Wheat,4.9,15.0,4.7,1.05,1.013,4.33,14.59,2.97
+689,Red Barn Brewing,Stout,7.5,47.0,47.0,1.074,1.017,4.26,16.65,3.8
+690,Wildflower Brewing,Stout,7.1,40.0,46.9,1.067,1.013,4.35,14.12,3.55
+691,North Fork Brewing,IPA,6.1,50.0,7.2,1.058,1.012,4.29,14.91,3.4
+692,Mill Creek Brewing,Stout,6.7,30.0,48.7,1.068,1.017,4.46,14.57,3.09
+693,Copper Kettle Brewing,Pale Ale,5.1,37.0,7.2,1.052,1.012,4.26,17.35,3.83
+694,Ironwood Brewing,Wheat,4.5,12.0,5.9,1.046,1.012,4.5,15.74,2.84
+695,Wildflower Brewing,Porter,6.1,31.0,18.8,1.06,1.014,4.64,16.75,3.92
+696,North Fork Brewing,Stout,6.0,,42.8,1.063,1.017,4.18,16.45,4.12
+697,Mill Creek Brewing,Wheat,4.2,16.0,5.0,1.045,1.013,4.41,12.58,2.71
+698,Red Barn Brewing,Wheat,5.4,22.0,6.0,1.052,1.011,4.4,13.8,3.52
+699,Copper Kettle Brewing,Lager,5.2,13.0,3.9,1.049,1.01,4.15,13.13,2.83
+700,North Fork Brewing,Pale Ale,4.8,51.0,11.2,1.047,1.01,4.24,11.28,3.52
+701,Red Barn Brewing,Stout,7.5,32.0,36.2,1.073,1.016,4.61,15.44,3.51
+702,Copper Kettle Brewing,Wheat,0.052,14.0,4.7,1.048,1.009,4.38,14.3,3.59
+703,Anchor Hill Brewing,Amber,5.3,39.0,15.4,1.053,1.012,4.24,12.33,3.52
+704,Red Barn Brewing,Lager,0.048,11.0,4.4,1.045,1.008,4.46,13.19,2.95
+705,Quarry Brewing,Porter,6.7,29.0,35.5,1.061,1.01,4.19,16.82,3.6
+706,Mill Creek Brewing,Porter,3.4,29.0,26.0,1.039,1.013,4.17,10.08,3.42
+707,Stillwater Brewing,Pale Ale,5.2,29.0,12.0,1.051,1.011,4.28,16.55,3.7
+708,Lantern Brewing,Stout,6.8,34.0,46.3,1.067,1.015,4.16,15.4,3.61
+709,Wildflower Brewing,Porter,5.9,36.0,27.0,1.059,1.014,4.36,10.96,3.4
+710,Foxglove Brewing,Amber,4.7,29.0,15.0,1.046,1.011,4.23,13.62,3.05
+711,Foxglove Brewing,Amber,5.1,,13.2,1.05,1.012,4.16,13.23,3.18
+712,Quarry Brewing,Wheat,4.5,,6.9,1.046,1.012,4.15,14.04,3.94
+713,Copper Kettle Brewing,Pale Ale,5.8,26.0,8.2,1.054,1.01,,16.01,3.03
+714,Anchor Hill Brewing,IPA,6.6,75.0,8.0,1.064,1.014,4.49,16.98,4.07
+715,Wildflower Brewing,Stout,5.0,48.0,36.0,1.054,1.016,4.41,15.23,3.51
+716,Lantern Brewing,Amber,5.9,19.0,13.4,1.056,1.012,4.42,17.83,2.59
+717,Wildflower Brewing,Amber,4.9,22.0,10.9,1.047,1.01,3.97,13.61,3.15
+718,Quarry Brewing,Pale Ale,5.4,29.0,11.2,1.051,1.01,4.16,15.97,3.74
+719,Red Barn Brewing,Sour,5.3,9.0,5.7,1.046,1.006,3.03,12.21,2.4
+720,Quarry Brewing,Sour,3.9,11.0,6.5,1.047,1.017,3.32,6.29,3.05
+721,North Fork Brewing,Sour,0.031,13.0,4.1,1.031,1.008,3.22,11.89,2.45
+722,Copper Kettle Brewing,Amber,0.066,28.0,16.0,1.063,1.013,4.33,12.66,3.56
+723,Stillwater Brewing,Pale Ale,7.1,36.0,7.3,1.066,1.012,,13.12,3.83
+724,Ironwood Brewing,Wheat,3.5,18.0,6.4,1.038,1.012,4.15,12.26,3.08
+725,Tidewater Brewing,Stout,8.3,47.0,43.9,1.082,1.019,4.35,17.48,3.9
+726,Foxglove Brewing,IPA,6.7,61.0,7.7,1.062,1.011,4.28,15.82,3.66
+727,Ironwood Brewing,IPA,6.6,73.0,8.0,1.061,1.011,4.32,15.27,3.62
+728,Anchor Hill Brewing,Amber,6.3,27.0,18.7,1.062,1.014,4.4,19.07,3.7
+729,Stillwater Brewing,IPA,5.4,109.0,7.7,1.055,1.013,4.47,13.71,3.63
+730,North Fork Brewing,Porter,6.6,21.0,25.9,1.064,1.014,3.94,15.39,3.69
+731,North Fork Brewing,Amber,5.1,27.0,12.8,1.049,1.01,4.19,9.36,2.64
+732,Mill Creek Brewing,Wheat,4.3,14.0,6.2,1.048,1.015,4.23,14.67,3.27
+733,Mill Creek Brewing,Pale Ale,4.6,57.0,8.6,1.046,1.011,,12.0,3.62
+734,North Fork Brewing,Lager,3.8,18.0,3.7,1.037,1.008,4.28,12.03,2.85
+735,Red Barn Brewing,Stout,7.3,,41.2,1.071,1.015,4.65,16.41,3.59
+736,Mill Creek Brewing,IPA,6.4,84.0,9.1,1.062,1.013,4.05,16.42,4.2
+737,Lantern Brewing,Lager,5.4,22.0,3.2,1.049,1.008,4.22,14.17,3.33
+738,North Fork Brewing,Stout,7.1,51.0,32.7,1.069,1.015,4.26,14.31,3.83
+739,Mill Creek Brewing,Wheat,4.2,24.0,3.6,1.045,1.013,4.44,10.46,2.42
+740,North Fork Brewing,Stout,8.0,33.0,41.9,1.077,1.016,4.31,18.94,4.07
+741,Anchor Hill Brewing,Amber,5.1,41.0,15.0,1.054,1.015,4.39,14.32,3.08
+742,Stillwater Brewing,Amber,5.6,26.0,15.2,1.056,1.014,4.5,13.65,3.62
+743,Lantern Brewing,Wheat,6.5,20.0,6.5,1.063,1.013,4.2,12.01,3.56
+744,Lantern Brewing,Lager,3.8,18.0,2.3,1.038,1.009,4.22,13.83,2.37
+745,Mill Creek Brewing,Sour,0.045,,6.1,1.043,1.009,,14.37,2.63
+746,Ironwood Brewing,Wheat,5.2,11.0,3.5,1.051,1.012,4.42,10.77,3.15
+747,North Fork Brewing,Sour,4.7,7.0,6.3,1.045,1.009,3.52,13.24,3.32
+748,Red Barn Brewing,Lager,3.0,19.0,3.5,1.034,1.012,4.14,10.89,2.76
+749,Copper Kettle Brewing,Stout,7.3,31.0,45.0,1.073,1.017,4.24,14.74,3.98
+750,Mill Creek Brewing,Wheat,4.4,13.0,6.5,1.045,1.012,4.28,11.28,3.15
+751,Wildflower Brewing,IPA,7.2,71.0,8.5,1.065,1.01,4.2,16.75,3.86
+752,Stillwater Brewing,Wheat,5.3,12.0,6.9,1.052,1.011,4.39,14.41,3.26
+753,Anchor Hill Brewing,Amber,5.0,41.0,12.4,1.05,1.011,4.22,9.4,3.81
+754,Ironwood Brewing,Lager,5.9,11.0,3.7,1.059,1.014,4.2,12.41,3.55
+755,Ironwood Brewing,Amber,6.4,23.0,15.0,1.06,1.011,4.36,16.8,3.73
+756,Copper Kettle Brewing,Stout,7.1,34.0,36.9,1.07,1.016,4.16,13.46,3.38
+757,Mill Creek Brewing,IPA,0.055,39.0,8.8,1.055,1.013,4.25,16.97,3.43
+758,Red Barn Brewing,Wheat,5.9,13.0,4.6,1.06,1.015,4.24,9.36,3.55
+759,Wildflower Brewing,IPA,6.0,72.0,9.0,1.057,1.011,4.35,14.71,3.35
+760,Mill Creek Brewing,Lager,4.2,21.0,4.7,1.042,1.01,4.48,15.13,2.95
+761,Lantern Brewing,Sour,5.4,11.0,6.6,1.053,1.012,3.33,11.03,3.12
+762,Wildflower Brewing,Lager,0.053,14.0,3.9,1.048,1.008,4.14,12.44,3.4
+763,Anchor Hill Brewing,Stout,6.0,28.0,39.7,1.064,1.019,4.23,17.09,3.26
+764,Anchor Hill Brewing,IPA,4.8,52.0,7.9,1.05,1.013,4.23,12.99,3.31
+765,North Fork Brewing,Stout,6.7,37.0,27.3,1.065,1.014,4.1,19.29,3.78
+766,Anchor Hill Brewing,Stout,0.064,40.0,33.4,1.064,1.015,4.39,13.15,3.36
+767,Wildflower Brewing,Porter,5.4,32.0,27.4,1.053,1.012,4.28,13.19,3.27
+768,North Fork Brewing,Wheat,5.7,11.0,3.7,1.053,1.01,4.13,13.37,4.42
+769,Wildflower Brewing,Lager,4.1,23.0,4.4,1.04,1.008,4.28,9.51,3.01
+770,Foxglove Brewing,Lager,0.048,15.0,2.8,1.048,1.011,4.28,11.65,3.77
+771,North Fork Brewing,Porter,5.1,26.0,31.8,1.057,1.018,4.22,15.31,3.63
+772,Ironwood Brewing,Wheat,5.6,15.0,3.9,1.052,1.01,4.25,13.88,3.02
+773,Ironwood Brewing,Sour,3.7,11.0,4.6,1.039,1.011,3.07,11.15,2.59
+774,Copper Kettle Brewing,Stout,7.0,38.0,32.2,1.069,1.016,4.36,17.3,3.06
+775,Quarry Brewing,Lager,6.1,15.0,2.9,1.056,1.009,4.47,13.49,2.59
+776,Ironwood Brewing,Wheat,5.7,,5.3,1.057,1.014,4.43,11.52,3.19
+777,Anchor Hill Brewing,Stout,6.4,43.0,63.5,1.063,1.015,4.16,18.66,4.08
+778,Mill Creek Brewing,Stout,7.4,72.0,44.9,1.073,1.017,4.63,12.43,3.58
+779,Quarry Brewing,Amber,5.7,32.0,16.6,1.055,1.012,4.7,13.85,3.81
+780,Lantern Brewing,Amber,5.3,20.0,13.6,1.052,1.011,4.36,16.5,3.28
+781,Wildflower Brewing,IPA,5.5,57.0,10.8,1.055,1.013,4.09,15.1,3.61
+782,Ironwood Brewing,IPA,6.8,69.0,9.4,1.06,1.008,4.55,17.92,4.05
+783,Foxglove Brewing,Wheat,6.0,14.0,5.5,1.057,1.011,4.3,16.32,3.59
+784,Mill Creek Brewing,Amber,6.5,27.0,17.6,1.061,1.012,4.39,12.91,3.17
+785,Red Barn Brewing,Wheat,3.5,18.0,5.6,1.038,1.011,4.38,12.56,2.44
+786,Tidewater Brewing,Porter,7.0,29.0,36.2,1.068,1.015,4.28,17.01,4.26
+787,Quarry Brewing,Porter,5.1,26.0,30.1,1.054,1.015,4.14,15.21,2.77
+788,Lantern Brewing,Amber,5.3,45.0,16.7,1.055,1.015,4.57,12.34,3.29
+789,Lantern Brewing,Stout,0.057,43.0,52.8,1.058,1.014,4.37,18.15,3.89
+790,Tidewater Brewing,Lager,5.0,13.0,5.9,1.048,1.009,,16.41,3.48
+791,North Fork Brewing,IPA,6.2,61.0,4.9,1.059,1.012,4.26,12.94,3.72
+792,Lantern Brewing,Stout,7.6,38.0,51.5,1.072,1.013,4.38,19.22,3.72
+793,Copper Kettle Brewing,Porter,6.1,43.0,30.2,1.06,1.013,4.26,11.01,3.37
+794,Tidewater Brewing,Wheat,4.7,21.0,4.7,1.049,1.013,4.52,12.82,2.42
+795,Red Barn Brewing,Lager,5.1,16.0,4.5,1.05,1.011,4.21,14.58,3.21
+796,Red Barn Brewing,Lager,4.5,20.0,3.6,1.043,1.009,4.24,12.95,3.38
+797,Tidewater Brewing,Porter,7.0,32.0,25.1,1.066,1.013,4.22,17.09,3.62
+798,Ironwood Brewing,Lager,0.063,25.0,3.9,1.058,1.01,4.51,17.36,3.47
+799,Red Barn Brewing,IPA,6.5,42.0,6.4,1.063,1.013,4.18,18.06,3.18
+800,Stillwater Brewing,Stout,7.3,67.0,29.2,1.076,1.02,4.32,20.3,4.36
+801,Copper Kettle Brewing,Stout,5.7,32.0,36.4,1.064,1.02,4.15,13.57,2.99
+802,Stillwater Brewing,Lager,4.8,18.0,5.2,1.042,1.006,4.42,12.92,2.84
+803,Foxglove Brewing,Lager,5.1,15.0,3.6,1.046,1.007,4.37,13.28,2.69
+804,Red Barn Brewing,Wheat,5.0,14.0,4.6,1.052,1.013,4.38,13.53,3.12
+805,Red Barn Brewing,Amber,5.7,29.0,17.8,1.055,1.011,4.51,16.43,3.81
+806,Quarry Brewing,IPA,6.3,70.0,9.0,1.059,1.011,4.21,13.01,3.31
+807,Anchor Hill Brewing,Porter,6.5,,28.2,1.061,1.012,4.49,17.79,3.43
+808,North Fork Brewing,Lager,4.8,13.0,3.7,1.049,1.012,4.37,12.82,3.34
+809,Copper Kettle Brewing,Pale Ale,5.0,43.0,8.1,1.049,1.012,4.37,16.23,3.38
+810,Quarry Brewing,IPA,5.5,39.0,9.6,1.052,1.01,4.23,15.0,3.22
+811,Quarry Brewing,Wheat,5.1,18.0,4.4,1.052,1.013,4.56,15.92,3.23
+812,Copper Kettle Brewing,Stout,8.1,72.0,23.8,1.081,1.02,4.45,14.31,3.16
+813,Mill Creek Brewing,Porter,5.9,21.0,30.7,1.059,1.014,4.06,10.35,3.29
+814,Wildflower Brewing,IPA,6.4,,8.7,1.063,1.014,4.3,17.86,3.95
+815,Red Barn Brewing,Stout,7.2,33.0,56.0,1.072,1.017,4.66,18.29,2.94
+816,Mill Creek Brewing,Amber,4.6,24.0,12.7,1.048,1.013,4.1,12.93,2.95
+817,Tidewater Brewing,IPA,5.4,52.0,7.7,1.057,1.016,4.25,14.41,3.3
+818,North Fork Brewing,Wheat,4.6,11.0,5.2,1.046,1.011,4.17,11.12,3.01
+819,Tidewater Brewing,Stout,6.9,53.0,42.5,1.068,1.015,4.55,13.78,3.56
+820,Anchor Hill Brewing,Lager,4.3,26.0,4.2,1.044,1.011,4.36,9.83,3.08
+821,Lantern Brewing,Sour,5.5,9.0,6.2,1.053,1.011,3.24,11.72,2.81
+822,North Fork Brewing,IPA,6.8,73.0,8.1,1.063,1.011,4.15,16.29,3.53
+823,Tidewater Brewing,Pale Ale,4.9,36.0,9.8,1.048,1.011,4.43,16.03,3.35
+824,Copper Kettle Brewing,Wheat,5.1,11.0,6.2,1.051,1.012,4.22,15.56,3.27
+825,Tidewater Brewing,Lager,4.4,19.0,4.1,1.041,1.007,4.62,15.33,2.76
+826,Copper Kettle Brewing,IPA,6.5,114.0,9.5,1.064,1.014,4.45,11.81,3.78
+827,Wildflower Brewing,Porter,5.4,33.0,24.9,1.053,1.012,4.05,12.19,3.17
+828,Mill Creek Brewing,Lager,5.2,14.0,3.8,1.049,1.009,4.57,15.98,3.8
+829,Tidewater Brewing,Pale Ale,6.3,26.0,6.5,1.059,1.011,4.41,14.94,3.01
+830,Wildflower Brewing,Lager,5.2,11.0,4.5,1.053,1.014,4.24,10.73,3.08
+831,North Fork Brewing,Lager,4.2,24.0,4.4,1.041,1.009,4.25,14.93,3.35
+832,Red Barn Brewing,Amber,0.062,39.0,14.2,1.063,1.016,4.19,13.32,3.49
+833,Lantern Brewing,Pale Ale,5.4,36.0,8.0,1.052,1.01,4.55,13.34,3.29
+834,Wildflower Brewing,Pale Ale,5.2,47.0,11.0,1.053,1.014,4.19,13.4,3.79
+835,Stillwater Brewing,IPA,6.8,72.0,7.9,1.061,1.01,4.41,17.41,3.4
+836,Mill Creek Brewing,IPA,6.9,126.0,7.1,1.062,1.009,4.4,15.99,3.66
+837,Stillwater Brewing,Pale Ale,5.1,33.0,11.8,1.052,1.013,4.3,11.92,2.81
+838,Quarry Brewing,Stout,6.6,32.0,34.6,1.064,1.014,4.32,17.07,3.32
+839,Red Barn Brewing,Pale Ale,5.4,26.0,7.7,1.05,1.01,4.51,10.08,3.19
+840,Quarry Brewing,Amber,5.1,29.0,16.2,1.051,1.012,4.33,11.34,3.21
+841,Stillwater Brewing,IPA,5.3,113.0,7.5,1.05,1.01,4.23,14.88,4.13
+842,Copper Kettle Brewing,Stout,6.8,,31.5,1.067,1.015,4.13,12.69,3.27
+843,Copper Kettle Brewing,Stout,7.6,42.0,24.6,1.075,1.017,4.2,16.36,4.71
+844,North Fork Brewing,Amber,6.2,16.0,13.2,1.058,1.011,4.15,16.47,3.33
+845,Tidewater Brewing,Pale Ale,5.7,37.0,5.8,1.056,1.013,4.28,16.31,3.79
+846,Anchor Hill Brewing,Wheat,5.3,12.0,5.5,1.054,1.013,4.39,18.83,3.01
+847,Quarry Brewing,Amber,6.1,32.0,15.7,1.06,1.013,4.19,13.99,3.6
+848,Foxglove Brewing,Amber,5.8,36.0,17.4,1.058,1.013,4.32,17.04,3.25
+849,Copper Kettle Brewing,Lager,4.4,16.0,3.8,1.044,1.011,4.46,9.97,3.03
+850,Anchor Hill Brewing,Porter,0.052,26.0,33.7,1.055,1.016,4.33,10.42,3.35
+851,Lantern Brewing,Porter,6.3,30.0,34.5,1.061,1.013,4.21,14.45,3.23
+852,Stillwater Brewing,Sour,4.2,10.0,5.6,1.042,1.01,3.16,8.66,3.08
+853,Tidewater Brewing,IPA,5.9,40.0,8.1,1.06,1.015,4.4,15.43,3.61
+854,Foxglove Brewing,Pale Ale,4.6,54.0,8.6,1.045,1.01,,10.45,3.94
+855,Copper Kettle Brewing,Stout,7.1,32.0,30.0,1.066,1.012,4.51,19.01,3.48
+856,Anchor Hill Brewing,Amber,3.8,23.0,12.5,1.042,1.013,4.53,13.99,3.03
+857,Red Barn Brewing,Wheat,5.1,10.0,5.2,1.049,1.01,3.99,14.1,3.06
+858,Quarry Brewing,Wheat,4.7,13.0,4.1,1.048,1.012,4.22,11.83,3.95
+859,Copper Kettle Brewing,Wheat,4.3,10.0,4.2,1.046,1.013,4.33,14.02,3.1
+860,Lantern Brewing,Porter,0.056,42.0,37.2,1.054,1.011,4.19,9.67,3.43
+861,Stillwater Brewing,Amber,0.06,27.0,16.5,1.061,1.015,4.45,15.91,3.44
+862,Wildflower Brewing,Pale Ale,5.9,55.0,10.5,1.055,1.01,4.27,13.27,3.61
+863,Stillwater Brewing,Pale Ale,6.9,44.0,9.2,1.062,1.01,4.32,16.1,3.67
+864,Copper Kettle Brewing,Stout,6.9,30.0,30.9,1.066,1.014,4.57,19.0,3.48
+865,Anchor Hill Brewing,Porter,7.9,56.0,21.3,1.074,1.014,4.34,15.47,3.64
+866,Wildflower Brewing,Lager,4.6,16.0,3.0,1.045,1.01,4.2,18.03,3.29
+867,Wildflower Brewing,Stout,6.1,42.0,44.8,1.063,1.017,4.33,14.58,3.51
+868,Copper Kettle Brewing,IPA,4.9,68.0,10.0,1.048,1.011,4.16,15.18,3.67
+869,Foxglove Brewing,Porter,5.1,37.0,27.3,1.048,1.009,4.43,13.49,3.09
+870,Stillwater Brewing,Lager,5.5,14.0,5.2,1.05,1.009,4.1,13.89,3.62
+871,Foxglove Brewing,Amber,6.2,26.0,17.2,1.059,1.012,4.3,14.14,3.18
+872,Copper Kettle Brewing,Wheat,5.5,9.0,4.6,1.051,1.009,4.15,13.01,3.38
+873,Lantern Brewing,IPA,5.5,71.0,7.6,1.052,1.01,,12.4,4.21
+874,Red Barn Brewing,Porter,5.7,36.0,24.3,1.058,1.015,4.22,14.58,3.42
+875,Tidewater Brewing,Amber,5.7,32.0,17.4,1.059,1.015,4.23,13.84,3.74
+876,Quarry Brewing,Pale Ale,5.9,26.0,7.4,1.057,1.012,4.25,16.01,3.29
+877,Ironwood Brewing,Wheat,6.0,14.0,4.4,1.055,1.009,4.23,14.01,2.68
+878,Foxglove Brewing,Sour,4.5,8.0,5.3,1.045,1.01,3.33,12.76,2.5
+879,Ironwood Brewing,Stout,5.5,39.0,48.3,1.06,1.018,4.35,11.38,3.4
+880,Ironwood Brewing,Stout,7.3,,45.8,1.073,1.017,4.64,13.14,3.22
+881,North Fork Brewing,Amber,6.6,27.0,13.7,1.063,1.012,4.37,16.6,3.7
+882,Anchor Hill Brewing,Lager,5.2,16.0,4.2,1.048,1.009,4.18,13.18,2.72
+883,Tidewater Brewing,Wheat,5.0,18.0,4.6,1.048,1.01,3.84,15.02,3.07
+884,Foxglove Brewing,Amber,6.9,23.0,13.5,1.067,1.015,4.27,13.71,3.05
+885,Wildflower Brewing,Sour,5.5,11.0,7.9,1.054,1.012,3.14,12.34,3.52
+886,Red Barn Brewing,IPA,7.4,109.0,7.6,1.067,1.011,4.26,16.2,3.53
+887,Lantern Brewing,Porter,8.0,30.0,29.6,1.075,1.014,4.06,16.64,3.68
+888,Anchor Hill Brewing,IPA,7.0,72.0,9.5,1.064,1.011,4.18,16.59,4.33
+889,Mill Creek Brewing,Sour,4.7,6.0,8.5,1.046,1.01,3.22,10.99,2.62
+890,Stillwater Brewing,Pale Ale,4.3,41.0,8.7,1.043,1.01,4.18,10.53,4.19
+891,Mill Creek Brewing,Stout,5.7,30.0,35.1,1.057,1.014,3.94,13.39,3.75
+892,Foxglove Brewing,Amber,6.9,19.0,13.3,1.064,1.011,4.18,16.58,3.57
+893,North Fork Brewing,Wheat,3.8,9.0,6.2,1.041,1.012,4.38,10.24,2.76
+894,Lantern Brewing,IPA,7.1,105.0,5.6,1.069,1.015,4.06,13.17,3.78
+895,Mill Creek Brewing,Porter,0.05,41.0,25.3,1.055,1.017,4.25,10.93,3.56
+896,Stillwater Brewing,IPA,5.7,59.0,8.8,1.057,1.013,4.41,15.55,2.95
+897,Ironwood Brewing,Porter,5.9,36.0,38.5,1.063,1.018,4.15,13.26,2.88
+898,Tidewater Brewing,Wheat,0.053,12.0,3.6,1.05,1.009,4.25,12.08,2.94
+899,Ironwood Brewing,Porter,5.6,38.0,21.4,1.058,1.016,4.58,14.1,3.12
+900,Red Barn Brewing,Pale Ale,0.064,36.0,9.7,1.06,1.011,4.12,14.14,3.76
+901,Copper Kettle Brewing,Lager,3.8,22.0,3.3,1.038,1.009,4.16,10.61,2.97
+902,Anchor Hill Brewing,Wheat,0.045,,7.3,1.043,1.009,4.25,15.54,2.97
+903,Quarry Brewing,Pale Ale,5.7,30.0,10.1,1.056,1.013,4.29,20.68,3.17
+904,Ironwood Brewing,IPA,6.5,70.0,6.5,1.066,1.016,4.27,17.53,3.61
+905,Quarry Brewing,Amber,5.6,30.0,16.3,1.059,1.016,4.16,15.22,2.71
+906,Foxglove Brewing,Amber,6.1,32.0,16.5,1.057,1.011,4.31,15.02,3.53
+907,North Fork Brewing,Pale Ale,6.2,32.0,6.6,1.059,1.012,,15.8,3.01
+908,Wildflower Brewing,IPA,7.5,56.0,7.6,1.068,1.011,4.33,16.46,4.49
+909,Wildflower Brewing,Lager,3.9,21.0,4.2,1.04,1.01,3.98,11.28,2.47
+910,Mill Creek Brewing,Wheat,4.1,18.0,5.7,1.042,1.011,4.37,11.7,2.99
+911,Mill Creek Brewing,Porter,5.4,40.0,24.0,1.056,1.015,4.08,14.31,3.18
+912,Stillwater Brewing,Lager,4.8,17.0,2.7,1.045,1.009,4.18,16.05,3.23
+913,Anchor Hill Brewing,Pale Ale,4.7,43.0,8.7,1.049,1.013,4.23,15.21,3.98
+914,Foxglove Brewing,Sour,6.8,12.0,6.0,1.062,1.01,3.64,10.51,3.7
+915,North Fork Brewing,IPA,7.9,47.0,9.7,1.072,1.011,4.3,14.18,3.94
+916,Stillwater Brewing,Wheat,5.0,10.0,4.2,1.052,1.014,4.09,10.93,3.17
+917,Quarry Brewing,Porter,5.7,22.0,24.4,1.062,1.019,4.42,13.26,2.78
+918,Anchor Hill Brewing,Sour,4.1,9.0,5.5,1.041,1.009,3.25,9.13,3.08
+919,Anchor Hill Brewing,Amber,5.6,21.0,12.3,1.053,1.01,4.2,13.25,3.2
+920,Stillwater Brewing,Sour,5.1,9.0,5.8,1.047,1.008,3.34,12.47,2.36
+921,Foxglove Brewing,Wheat,5.5,14.0,4.0,1.056,1.014,4.2,13.06,2.96
+922,Wildflower Brewing,Porter,6.6,27.0,25.7,1.066,1.016,4.16,12.23,3.28
+923,Stillwater Brewing,Amber,5.7,19.0,12.5,1.057,1.013,4.54,12.66,3.23
+924,Mill Creek Brewing,IPA,5.7,78.0,6.7,1.057,1.013,4.26,14.52,3.41
+925,Foxglove Brewing,Wheat,5.7,9.0,5.1,1.057,1.013,4.18,14.68,3.32
+926,Lantern Brewing,Pale Ale,5.7,36.0,10.2,1.055,1.011,4.13,9.93,3.08
+927,Quarry Brewing,Porter,5.4,46.0,32.6,1.058,1.017,4.36,14.58,3.27
+928,Foxglove Brewing,Porter,6.0,,36.0,1.058,1.012,4.21,13.84,3.25
+929,North Fork Brewing,Sour,4.6,8.0,5.2,1.045,1.01,3.13,13.88,2.47
+930,Red Barn Brewing,Amber,5.7,40.0,16.3,1.051,1.008,4.03,17.46,3.33
+931,Anchor Hill Brewing,Porter,5.6,36.0,24.2,1.053,1.01,4.31,18.58,3.28
+932,Wildflower Brewing,Porter,4.6,39.0,21.3,1.048,1.014,4.39,13.72,3.21
+933,Copper Kettle Brewing,Lager,5.8,14.0,2.9,1.054,1.01,4.51,12.72,2.61
+934,Tidewater Brewing,Wheat,5.7,,3.7,1.056,1.012,4.31,10.63,3.41
+935,Lantern Brewing,Wheat,6.0,15.0,6.4,1.057,1.011,4.21,15.25,2.8
+936,Stillwater Brewing,Sour,3.9,9.0,5.7,1.038,1.009,3.29,9.63,2.42
+937,Stillwater Brewing,Wheat,4.3,12.0,6.2,1.047,1.014,4.33,14.54,3.07
+938,Lantern Brewing,Amber,0.058,,9.7,1.056,1.012,4.42,14.68,3.16
+939,Copper Kettle Brewing,Sour,4.0,7.0,4.8,1.041,1.01,3.27,11.34,2.46
+940,Mill Creek Brewing,Porter,4.9,,31.3,1.053,1.015,4.32,11.45,2.96
+941,Ironwood Brewing,IPA,6.8,50.0,9.0,1.062,1.01,4.3,16.09,4.3
+942,North Fork Brewing,Wheat,3.8,17.0,6.3,1.044,1.015,4.0,13.09,3.13
+943,Copper Kettle Brewing,Porter,5.6,35.0,30.3,1.058,1.016,4.05,14.73,3.49
+944,Lantern Brewing,Lager,5.2,27.0,5.4,1.048,1.009,4.1,13.17,3.0
+945,Copper Kettle Brewing,Amber,5.8,27.0,17.5,1.056,1.012,4.26,12.61,3.41
+946,Quarry Brewing,Porter,3.5,34.0,29.5,1.039,1.012,4.22,14.64,3.6
+947,Foxglove Brewing,IPA,5.8,67.0,8.2,1.053,1.009,4.34,17.42,3.62
+948,Anchor Hill Brewing,Sour,4.3,9.0,4.0,1.044,1.011,3.03,14.5,2.87
+949,Anchor Hill Brewing,Stout,6.9,29.0,62.7,1.069,1.017,4.21,18.16,3.62
+950,Ironwood Brewing,Sour,3.6,7.0,6.3,1.037,1.01,3.17,12.62,2.51
+951,Quarry Brewing,Amber,5.4,,13.5,1.052,1.011,4.43,14.95,2.96
+952,Copper Kettle Brewing,Sour,4.7,10.0,5.9,1.047,1.012,3.2,12.87,3.21
+953,Stillwater Brewing,Porter,0.061,30.0,25.1,1.06,1.014,4.38,15.49,3.11
+954,Mill Creek Brewing,Porter,0.055,29.0,34.5,1.056,1.014,4.45,11.15,2.99
+955,Tidewater Brewing,IPA,5.2,85.0,9.8,1.05,1.01,4.18,14.95,3.35
+956,Wildflower Brewing,Amber,5.0,20.0,15.8,1.045,1.007,4.18,13.49,3.8
+957,Quarry Brewing,IPA,0.065,51.0,10.7,1.064,1.014,4.17,15.1,3.55
+958,Wildflower Brewing,Lager,4.1,11.0,3.4,1.042,1.01,4.31,11.72,3.39
+959,Lantern Brewing,IPA,5.9,77.0,6.7,1.056,1.011,4.4,13.81,3.43
+960,Ironwood Brewing,Stout,7.4,46.0,36.9,1.073,1.017,4.2,19.41,4.02
+961,Red Barn Brewing,Stout,6.1,31.0,37.3,1.063,1.016,4.11,16.53,3.68
+962,Wildflower Brewing,Lager,4.9,28.0,3.8,1.047,1.009,4.27,12.45,3.41
+963,Copper Kettle Brewing,IPA,7.3,58.0,7.6,1.07,1.014,4.26,12.72,2.96
+964,Copper Kettle Brewing,Wheat,6.1,19.0,5.5,1.064,1.017,4.45,16.62,3.26
+965,North Fork Brewing,Sour,4.8,9.0,5.7,1.049,1.012,3.35,15.92,3.19
+966,Anchor Hill Brewing,Lager,4.0,12.0,5.3,1.038,1.008,4.05,12.21,3.29
+967,Lantern Brewing,Wheat,6.7,15.0,5.1,1.061,1.009,4.19,19.07,3.61
+968,Red Barn Brewing,Porter,5.2,34.0,40.2,1.051,1.011,4.25,19.2,2.66
+969,Foxglove Brewing,Sour,5.0,6.0,6.4,1.05,1.012,3.39,15.03,2.65
+970,Ironwood Brewing,Stout,6.4,47.0,44.0,1.063,1.014,4.27,12.46,3.59
+971,Stillwater Brewing,Lager,4.9,15.0,5.1,1.049,1.012,4.49,13.15,3.05
+972,Lantern Brewing,Stout,5.7,,47.7,1.064,1.02,4.11,14.63,3.25
+973,Copper Kettle Brewing,Porter,0.05,57.0,36.7,1.053,1.015,4.38,13.57,3.13
+974,Quarry Brewing,IPA,7.1,76.0,6.4,1.065,1.011,4.33,13.99,3.93
+975,Copper Kettle Brewing,IPA,6.9,65.0,7.2,1.062,1.01,4.48,17.72,3.97
+976,Quarry Brewing,Stout,7.4,41.0,48.8,1.073,1.016,4.29,14.16,3.94
+977,Wildflower Brewing,Sour,4.5,8.0,6.2,1.042,1.008,3.33,17.15,2.52
+978,Mill Creek Brewing,Stout,0.057,49.0,24.1,1.059,1.016,4.47,14.79,3.1
+979,North Fork Brewing,Amber,0.032,30.0,23.5,1.039,1.015,4.53,8.43,2.75
+980,Lantern Brewing,Amber,5.0,27.0,10.0,1.049,1.011,4.35,9.6,2.77
+981,Anchor Hill Brewing,Porter,0.072,32.0,36.2,1.069,1.014,4.31,17.15,3.38
+982,Tidewater Brewing,Lager,4.8,25.0,3.9,1.047,1.01,4.34,15.85,3.85
+983,Tidewater Brewing,Wheat,4.4,14.0,4.8,1.045,1.011,4.47,14.46,3.16
+984,Tidewater Brewing,Pale Ale,5.1,41.0,8.2,1.051,1.012,4.45,10.93,3.25
+985,Mill Creek Brewing,Wheat,5.5,11.0,4.6,1.055,1.013,4.21,13.99,3.3
+986,Mill Creek Brewing,Porter,5.4,22.0,20.2,1.053,1.012,4.42,17.12,3.22
+987,Stillwater Brewing,Pale Ale,0.046,37.0,7.2,1.045,1.01,4.39,13.89,2.5
+988,Stillwater Brewing,Porter,6.2,22.0,21.5,1.061,1.014,4.18,18.69,3.56
+989,Mill Creek Brewing,Pale Ale,5.7,33.0,9.6,1.053,1.01,4.43,14.48,3.72
+990,Quarry Brewing,Amber,5.2,24.0,12.3,1.05,1.011,4.29,11.8,3.44
+991,Tidewater Brewing,Sour,0.053,7.0,5.9,1.051,1.01,3.41,15.77,3.59
+992,Ironwood Brewing,Amber,4.4,20.0,14.4,1.048,1.014,4.47,13.65,3.43
+993,Stillwater Brewing,Wheat,4.6,12.0,4.0,1.048,1.013,4.39,11.72,3.36
+994,Red Barn Brewing,Lager,4.4,18.0,4.7,1.044,1.01,4.59,11.31,2.96
+995,Stillwater Brewing,Wheat,0.054,13.0,6.9,1.054,1.013,4.11,14.7,3.1
+996,Foxglove Brewing,Pale Ale,5.7,28.0,6.5,1.054,1.01,,14.64,3.62
+997,Stillwater Brewing,Stout,5.4,48.0,35.6,1.055,1.014,4.31,14.72,3.36
+998,Mill Creek Brewing,Porter,7.1,43.0,33.6,1.065,1.011,4.35,15.01,3.25
+999,Copper Kettle Brewing,Amber,5.6,19.0,19.0,1.057,1.014,4.48,14.71,2.72
+1000,Mill Creek Brewing,Wheat,4.0,11.0,3.9,1.044,1.013,4.52,9.65,3.34
+1001,Wildflower Brewing,IPA,0.062,78.0,11.4,1.062,1.015,4.27,17.3,4.07
+1002,Stillwater Brewing,Lager,4.5,15.0,4.5,1.043,1.009,4.53,13.8,3.07
+1003,Foxglove Brewing,Pale Ale,4.8,46.0,14.6,1.048,1.011,4.05,12.27,3.08
+1004,Quarry Brewing,Lager,3.8,,4.0,1.038,1.009,4.18,12.19,2.8
+1005,Lantern Brewing,Amber,6.8,21.0,17.4,1.066,1.014,4.28,14.11,3.5
+1006,Wildflower Brewing,Stout,0.052,37.0,35.5,1.055,1.015,4.24,13.18,3.07
+1007,North Fork Brewing,Amber,5.7,24.0,13.1,1.057,1.013,4.41,17.55,2.51
+1008,Foxglove Brewing,Wheat,5.1,18.0,3.9,1.048,1.009,4.18,12.6,3.24
+1009,Lantern Brewing,Amber,5.2,21.0,10.4,1.054,1.015,4.54,13.46,3.89
+1010,Anchor Hill Brewing,Porter,6.0,20.0,38.1,1.062,1.017,4.23,13.68,3.76
+1011,Mill Creek Brewing,IPA,5.6,59.0,6.9,1.05,1.008,4.25,15.35,3.45
+1012,Lantern Brewing,Stout,6.2,48.0,45.9,1.063,1.016,4.34,15.96,3.24
+1013,North Fork Brewing,IPA,6.2,120.0,6.5,1.06,1.013,4.45,12.43,3.78
+1014,Tidewater Brewing,Lager,3.0,24.0,2.7,1.031,1.008,4.16,14.14,2.77
+1015,Anchor Hill Brewing,Sour,0.055,11.0,5.4,1.056,1.014,3.3,13.61,3.1
+1016,Mill Creek Brewing,IPA,7.9,100.0,9.0,1.072,1.012,4.47,15.52,4.68
+1017,Stillwater Brewing,Pale Ale,5.5,34.0,7.9,1.053,1.011,,12.42,3.78
+1018,Copper Kettle Brewing,Pale Ale,5.0,33.0,10.3,1.049,1.01,4.1,14.02,2.66
+1019,Mill Creek Brewing,Amber,5.8,24.0,20.4,1.055,1.011,4.34,12.72,2.85
+1020,Stillwater Brewing,Porter,5.6,23.0,23.6,1.057,1.014,4.42,13.13,3.66
+1021,Foxglove Brewing,Porter,6.7,29.0,24.5,1.065,1.014,4.19,15.38,3.84
+1022,Lantern Brewing,Porter,6.2,,41.6,1.061,1.014,4.24,13.33,3.75
+1023,Copper Kettle Brewing,Sour,4.4,7.0,4.7,1.045,1.012,3.45,11.02,2.44
+1024,Mill Creek Brewing,Wheat,5.1,15.0,6.2,1.055,1.016,4.13,16.35,3.16
+1025,Red Barn Brewing,Porter,5.7,35.0,27.1,1.055,1.011,4.54,12.59,3.03
+1026,Foxglove Brewing,Sour,4.1,13.0,6.3,1.036,1.005,3.35,10.19,2.24
+1027,Foxglove Brewing,Amber,6.6,35.0,13.4,1.061,1.01,4.34,15.03,3.76
+1028,Stillwater Brewing,Amber,4.4,39.0,11.7,1.047,1.013,4.13,14.41,3.81
+1029,Mill Creek Brewing,Stout,5.9,28.0,42.1,1.063,1.018,,11.47,3.54
+1030,Stillwater Brewing,Amber,6.0,24.0,14.7,1.057,1.012,4.33,16.76,3.86
+1031,Lantern Brewing,Lager,5.0,,5.7,1.045,1.007,4.5,11.15,2.61
+1032,Wildflower Brewing,Sour,6.0,8.0,5.8,1.057,1.011,3.17,12.19,3.02
+1033,Wildflower Brewing,Pale Ale,6.2,38.0,8.2,1.06,1.013,,15.26,3.89
+1034,Wildflower Brewing,Sour,4.7,6.0,7.0,1.047,1.011,3.44,14.33,2.5
+1035,Mill Creek Brewing,Amber,5.4,28.0,11.2,1.057,1.016,3.97,13.67,3.19
+1036,Quarry Brewing,Pale Ale,0.052,41.0,8.0,1.051,1.011,4.18,12.49,3.46
+1037,Lantern Brewing,Lager,4.3,16.0,6.4,1.047,1.015,4.4,10.42,3.71
+1038,Tidewater Brewing,Sour,5.3,6.0,5.4,1.054,1.014,3.26,13.57,2.73
+1039,Mill Creek Brewing,Stout,7.3,37.0,33.4,1.074,1.018,4.22,18.12,3.77
+1040,Red Barn Brewing,Amber,6.2,20.0,10.5,1.061,1.013,4.63,16.31,3.87
+1041,Quarry Brewing,Lager,5.1,22.0,5.3,1.046,1.007,4.28,11.95,3.4
+1042,Red Barn Brewing,Porter,6.4,27.0,26.5,1.064,1.015,4.34,14.59,3.16
+1043,Foxglove Brewing,Stout,0.063,41.0,45.5,1.066,1.018,4.25,14.57,3.71
+1044,Wildflower Brewing,Stout,5.9,36.0,40.6,1.059,1.014,4.2,14.91,3.54
+1045,Quarry Brewing,Wheat,3.5,13.0,4.4,1.036,1.009,4.54,11.75,3.2
+1046,Tidewater Brewing,IPA,7.5,61.0,9.2,1.069,1.012,4.47,16.86,3.71
+1047,Red Barn Brewing,Sour,4.4,7.0,7.1,1.041,1.008,3.23,10.2,2.51
+1048,Anchor Hill Brewing,Pale Ale,5.6,36.0,10.4,1.055,1.012,4.19,15.05,3.74
+1049,Tidewater Brewing,Pale Ale,5.0,34.0,8.9,1.05,1.012,4.47,16.23,3.04
+1050,Red Barn Brewing,Wheat,3.9,16.0,4.6,1.04,1.01,4.1,11.95,3.35
+1051,Foxglove Brewing,Stout,7.7,36.0,59.2,1.076,1.017,4.32,10.97,4.21
+1052,Foxglove Brewing,IPA,0.057,56.0,6.8,1.058,1.014,4.27,14.59,3.09
+1053,Anchor Hill Brewing,Wheat,5.1,15.0,5.2,1.051,1.011,4.39,12.34,3.21
+1054,Mill Creek Brewing,Wheat,5.9,18.0,6.2,1.056,1.011,4.35,14.42,3.21
+1055,Foxglove Brewing,Amber,5.8,,15.3,1.057,1.013,4.58,13.79,4.01
+1056,Mill Creek Brewing,Lager,5.1,18.0,2.5,1.052,1.013,4.36,14.06,2.78
+1057,Ironwood Brewing,Amber,6.0,29.0,13.6,1.054,1.008,4.43,15.24,3.33
+1058,Foxglove Brewing,Pale Ale,0.053,75.0,9.8,1.049,1.008,4.4,15.8,3.82
+1059,Foxglove Brewing,Amber,5.9,39.0,8.2,1.055,1.01,4.32,15.53,4.2
+1060,Quarry Brewing,Amber,5.4,26.0,8.5,1.053,1.012,4.23,14.13,3.26
+1061,Copper Kettle Brewing,Lager,4.8,18.0,2.8,1.044,1.008,4.11,13.51,3.17
+1062,Stillwater Brewing,Porter,6.0,33.0,44.5,1.06,1.015,4.09,14.2,3.55
+1063,Copper Kettle Brewing,Sour,3.3,8.0,6.0,1.034,1.008,3.37,10.84,2.92
+1064,Mill Creek Brewing,Wheat,0.052,18.0,5.3,1.052,1.013,4.28,13.78,3.29
+1065,Quarry Brewing,Amber,5.6,,12.4,1.052,1.01,4.28,15.24,3.68
+1066,Lantern Brewing,Pale Ale,5.1,41.0,7.9,1.051,1.012,4.15,15.75,3.36
+1067,Tidewater Brewing,Pale Ale,5.7,31.0,6.6,1.054,1.01,4.35,15.87,3.58
+1068,Ironwood Brewing,Pale Ale,6.2,46.0,8.4,1.06,1.013,4.37,11.35,3.17
+1069,Mill Creek Brewing,Porter,5.3,33.0,27.4,1.053,1.012,4.22,9.52,3.37
+1070,Tidewater Brewing,Lager,4.8,15.0,3.8,1.048,1.012,4.29,15.86,3.29
+1071,North Fork Brewing,IPA,6.5,70.0,9.2,1.058,1.008,4.26,14.66,3.68
+1072,Wildflower Brewing,Sour,6.6,9.0,7.2,1.059,1.009,3.17,16.85,3.06
+1073,Wildflower Brewing,IPA,6.4,46.0,9.3,1.06,1.011,4.29,14.85,3.39
+1074,Foxglove Brewing,Amber,6.1,28.0,17.7,1.057,1.011,4.33,14.01,3.78
+1075,Red Barn Brewing,Wheat,4.8,10.0,5.8,1.047,1.011,4.26,14.99,2.47
+1076,Ironwood Brewing,IPA,0.059,71.0,6.8,1.055,1.01,4.48,14.24,4.4
+1077,Quarry Brewing,Amber,6.9,23.0,14.9,1.063,1.011,4.55,15.51,3.51
+1078,Ironwood Brewing,Pale Ale,5.5,30.0,10.5,1.052,1.01,4.16,14.99,4.05
+1079,Red Barn Brewing,Porter,6.3,32.0,26.0,1.06,1.013,4.4,16.41,3.63
+1080,Mill Creek Brewing,Porter,4.9,25.0,39.2,1.052,1.014,,8.8,3.81
+1081,Lantern Brewing,Lager,5.5,14.0,6.5,1.049,1.008,4.53,9.25,2.43
+1082,Copper Kettle Brewing,Amber,0.056,28.0,19.1,1.058,1.015,4.29,12.16,2.73
+1083,North Fork Brewing,Amber,4.4,34.0,13.7,1.046,1.012,4.31,13.32,3.44
+1084,North Fork Brewing,Porter,6.6,33.0,34.5,1.063,1.014,4.3,16.01,3.4
+1085,Wildflower Brewing,Stout,6.4,37.0,55.4,1.066,1.017,4.18,15.89,3.57
+1086,Foxglove Brewing,Amber,4.5,17.0,14.6,1.048,1.013,4.23,13.12,2.76
+1087,Anchor Hill Brewing,Stout,7.2,32.0,40.6,1.067,1.012,4.06,17.48,2.9
+1088,Copper Kettle Brewing,Wheat,5.7,13.0,6.3,1.055,1.012,4.46,15.1,2.98
+1089,Lantern Brewing,Porter,0.038,29.0,23.4,1.041,1.012,4.36,13.21,3.58
+1090,Tidewater Brewing,Wheat,5.5,14.0,4.0,1.054,1.012,4.25,15.55,2.71
+1091,Mill Creek Brewing,Pale Ale,6.1,,10.8,1.058,1.011,4.44,10.66,3.95
+1092,Copper Kettle Brewing,IPA,5.4,48.0,8.3,1.052,1.011,4.1,15.83,3.5
+1093,Ironwood Brewing,IPA,7.5,,5.8,1.066,1.009,,13.5,3.84
+1094,Foxglove Brewing,Lager,5.3,10.0,3.9,1.051,1.011,4.48,12.11,3.53
+1095,Stillwater Brewing,Wheat,0.045,,3.3,1.045,1.011,4.4,14.76,2.95
+1096,Mill Creek Brewing,Sour,5.1,8.0,4.5,1.049,1.01,2.94,12.48,2.11
+1097,Mill Creek Brewing,Pale Ale,4.0,,8.8,1.042,1.012,4.23,11.75,3.24
+1098,North Fork Brewing,IPA,6.9,36.0,7.5,1.066,1.013,4.37,14.73,3.54
+1099,Lantern Brewing,Lager,3.8,18.0,3.7,1.041,1.013,4.09,9.92,2.43
+1100,Lantern Brewing,Sour,4.7,10.0,4.7,1.042,1.006,3.2,9.83,2.43
+1101,Stillwater Brewing,Sour,0.052,7.0,6.0,1.051,1.011,3.39,16.99,2.94
+1102,Copper Kettle Brewing,IPA,6.9,56.0,6.0,1.064,1.012,4.41,14.52,3.15
+1103,Lantern Brewing,Lager,4.5,14.0,3.1,1.045,1.011,4.08,11.2,3.03
+1104,Quarry Brewing,Wheat,0.043,10.0,3.7,1.046,1.014,4.45,13.83,3.46
+1105,Lantern Brewing,Wheat,4.8,10.0,3.4,1.05,1.013,4.63,11.9,2.58
+1106,North Fork Brewing,Stout,7.9,35.0,36.8,1.079,1.02,4.18,19.28,4.22
+1107,Ironwood Brewing,Pale Ale,4.3,28.0,10.0,1.044,1.011,4.48,11.07,3.09
+1108,Red Barn Brewing,Lager,0.045,19.0,4.5,1.044,1.009,4.44,13.24,3.35
+1109,Copper Kettle Brewing,Pale Ale,3.9,25.0,6.4,1.04,1.011,4.04,14.22,2.82
+1110,Stillwater Brewing,Sour,3.2,10.0,5.7,1.033,1.009,3.38,9.18,2.57
+1111,Anchor Hill Brewing,Pale Ale,6.8,49.0,10.1,1.064,1.012,4.56,17.07,3.09
+1112,Foxglove Brewing,Stout,6.0,39.0,31.0,1.062,1.016,4.29,15.91,4.43
+1113,Copper Kettle Brewing,Pale Ale,5.6,47.0,10.1,1.053,1.01,4.37,15.32,3.72
+1114,Mill Creek Brewing,Amber,3.7,30.0,20.8,1.039,1.01,4.57,11.43,2.66
+1115,Copper Kettle Brewing,Wheat,5.7,13.0,5.5,1.055,1.012,4.41,14.6,3.6
+1116,Wildflower Brewing,Lager,4.7,17.0,3.1,1.045,1.009,4.31,12.73,3.57
+1117,North Fork Brewing,Sour,6.1,9.0,7.7,1.055,1.009,3.25,17.88,2.88
+1118,Ironwood Brewing,Sour,4.8,6.0,7.8,1.046,1.01,3.44,11.59,2.69
+1119,Quarry Brewing,Wheat,5.7,11.0,7.4,1.051,1.008,4.56,17.0,3.0
+1120,Stillwater Brewing,Wheat,5.0,16.0,4.5,1.049,1.011,4.22,15.34,3.0
+1121,Wildflower Brewing,Pale Ale,5.4,54.0,8.0,1.053,1.012,4.36,9.08,3.26
+1122,Foxglove Brewing,Lager,5.0,15.0,3.3,1.047,1.009,4.32,13.56,3.01
+1123,Anchor Hill Brewing,Wheat,4.1,22.0,5.6,1.046,1.014,4.22,13.18,3.56
+1124,Foxglove Brewing,Amber,4.3,29.0,17.3,1.046,1.013,4.4,11.36,3.11
+1125,Quarry Brewing,Porter,6.3,27.0,30.9,1.061,1.013,4.15,11.63,3.29
+1126,Mill Creek Brewing,Wheat,4.8,14.0,6.2,1.048,1.011,4.28,11.96,2.91
+1127,Copper Kettle Brewing,Porter,6.5,29.0,32.7,1.064,1.015,4.01,11.21,3.25
+1128,Quarry Brewing,Pale Ale,6.6,22.0,6.5,1.057,1.006,4.19,11.97,3.24
+1129,Quarry Brewing,Porter,6.5,25.0,23.4,1.063,1.013,4.27,14.61,3.11
+1130,Quarry Brewing,Stout,6.5,46.0,38.0,1.067,1.018,4.43,14.05,3.64
+1131,Anchor Hill Brewing,Amber,5.0,21.0,12.7,1.049,1.011,4.01,11.74,2.93
+1132,Quarry Brewing,Porter,6.2,37.0,29.7,1.063,1.015,4.39,13.75,3.12
+1133,Lantern Brewing,Wheat,4.2,21.0,5.2,1.046,1.013,4.47,15.26,3.1
+1134,Copper Kettle Brewing,Stout,7.8,28.0,32.6,1.074,1.015,,14.37,4.09
+1135,Copper Kettle Brewing,Lager,4.0,15.0,4.0,1.041,1.01,4.15,15.24,2.56
+1136,Stillwater Brewing,Wheat,4.2,17.0,7.9,1.046,1.014,,12.82,2.94
+1137,Foxglove Brewing,Lager,5.6,16.0,4.3,1.053,1.01,4.01,13.33,2.92
+1138,Stillwater Brewing,Wheat,4.5,18.0,5.0,1.047,1.013,4.48,12.47,2.79
+1139,Foxglove Brewing,Porter,6.0,24.0,31.3,1.06,1.014,4.27,15.66,3.59
+1140,Quarry Brewing,Porter,6.4,17.0,25.8,1.06,1.011,4.07,13.12,3.4
+1141,Quarry Brewing,Amber,6.2,33.0,12.9,1.059,1.012,4.33,16.11,3.6
+1142,Foxglove Brewing,Porter,5.7,38.0,27.7,1.058,1.014,4.11,14.97,3.3
+1143,Stillwater Brewing,Porter,5.6,27.0,24.3,1.056,1.013,4.38,13.59,3.46
+1144,Tidewater Brewing,IPA,6.3,84.0,7.8,1.061,1.013,4.22,11.61,3.16
+1145,Anchor Hill Brewing,Stout,7.2,22.0,37.1,1.069,1.014,3.91,17.13,3.42
+1146,Red Barn Brewing,IPA,6.8,82.0,8.4,1.064,1.012,4.65,17.68,3.6
+1147,Ironwood Brewing,Lager,5.0,16.0,5.0,1.046,1.008,4.04,13.12,3.62
+1148,North Fork Brewing,Amber,4.9,48.0,13.6,1.05,1.013,4.21,11.9,3.28
+1149,Lantern Brewing,Pale Ale,5.5,48.0,8.3,1.053,1.011,4.16,14.25,3.51
+1150,Wildflower Brewing,IPA,5.8,71.0,6.3,1.06,1.016,3.99,15.44,4.07
+1151,Copper Kettle Brewing,IPA,0.054,42.0,8.3,1.056,1.015,4.38,16.28,3.39
+1152,Quarry Brewing,Amber,6.1,32.0,13.2,1.057,1.01,4.22,15.0,3.99
+1153,Red Barn Brewing,Porter,6.0,42.0,41.2,1.061,1.015,4.18,14.43,3.45
+1154,Mill Creek Brewing,Stout,6.3,32.0,49.7,1.066,1.018,4.3,13.6,3.71
+1155,Anchor Hill Brewing,Stout,7.2,49.0,49.9,1.07,1.016,4.5,18.23,4.1
+1156,Tidewater Brewing,Porter,6.5,32.0,26.5,1.062,1.013,4.31,9.29,3.83
+1157,Lantern Brewing,Sour,3.4,8.0,4.9,1.038,1.012,3.34,9.54,2.16
+1158,Mill Creek Brewing,Amber,5.3,30.0,14.8,1.052,1.011,4.27,13.36,3.1
+1159,Tidewater Brewing,Stout,7.3,32.0,43.6,1.072,1.016,4.3,15.14,3.31
+1160,Foxglove Brewing,Lager,0.043,,5.9,1.041,1.008,4.06,14.22,2.99
+1161,Copper Kettle Brewing,IPA,6.8,63.0,6.9,1.061,1.009,4.1,13.11,3.34
+1162,Anchor Hill Brewing,Stout,6.7,39.0,36.1,1.069,1.018,4.38,18.25,3.55
+1163,Copper Kettle Brewing,Amber,6.1,34.0,10.8,1.06,1.014,4.12,13.24,3.78
+1164,Wildflower Brewing,Wheat,5.3,20.0,4.6,1.053,1.012,4.34,14.65,2.72
+1165,Anchor Hill Brewing,Stout,0.049,40.0,45.6,1.056,1.018,4.28,12.57,3.02
+1166,Foxglove Brewing,Porter,5.8,43.0,31.6,1.058,1.014,4.43,19.06,3.22
+1167,Foxglove Brewing,Sour,4.7,,7.2,1.048,1.012,3.46,12.33,2.8
+1168,Foxglove Brewing,Wheat,4.0,20.0,5.1,1.043,1.013,4.1,13.16,3.52
+1169,Tidewater Brewing,IPA,7.7,78.0,8.9,1.068,1.009,4.45,14.86,3.96
+1170,Stillwater Brewing,Porter,4.2,32.0,29.1,1.046,1.014,4.28,13.24,3.64
+1171,Ironwood Brewing,Lager,4.3,15.0,4.1,1.043,1.01,4.24,13.23,2.73
+1172,Quarry Brewing,Sour,4.2,8.0,6.5,1.041,1.01,3.35,13.7,3.29
+1173,Wildflower Brewing,IPA,5.8,62.0,14.8,1.059,1.015,4.25,14.4,3.48
+1174,Stillwater Brewing,Porter,6.5,28.0,31.7,1.065,1.016,4.27,14.28,3.5
+1175,Red Barn Brewing,Porter,0.066,24.0,23.7,1.062,1.012,4.33,16.16,3.76
+1176,Mill Creek Brewing,Wheat,4.6,14.0,5.9,1.048,1.013,4.33,16.08,3.22
+1177,Wildflower Brewing,Sour,5.0,9.0,5.1,1.048,1.01,3.28,9.4,2.44
+1178,Copper Kettle Brewing,Amber,0.047,29.0,12.9,1.049,1.013,4.31,13.47,3.04
+1179,Red Barn Brewing,IPA,5.7,64.0,4.2,1.055,1.012,4.2,17.3,3.08
+1180,Stillwater Brewing,Sour,4.5,,6.5,1.044,1.009,3.32,15.89,2.3
+1181,Copper Kettle Brewing,IPA,6.1,118.0,10.9,1.056,1.01,4.33,12.83,4.6
+1182,Mill Creek Brewing,Amber,5.0,38.0,12.6,1.048,1.01,4.25,10.76,3.23
+1183,Stillwater Brewing,Wheat,5.8,9.0,5.8,1.055,1.01,4.25,10.24,2.8
+1184,Ironwood Brewing,Pale Ale,5.5,61.0,10.8,1.055,1.013,4.19,18.31,4.03
+1185,Lantern Brewing,Amber,5.0,19.0,19.9,1.046,1.007,4.53,10.34,3.26
+1186,Stillwater Brewing,Amber,5.9,20.0,11.8,1.059,1.014,4.27,15.37,3.12
+1187,Lantern Brewing,Wheat,3.7,20.0,6.0,1.041,1.013,4.48,16.21,2.69
+1188,Ironwood Brewing,Amber,4.6,24.0,12.0,1.049,1.014,4.19,12.26,3.35
+1189,Stillwater Brewing,Amber,6.5,22.0,14.3,1.06,1.011,4.07,14.1,3.18
+1190,Wildflower Brewing,Porter,0.065,57.0,28.7,1.063,1.014,4.04,19.21,4.17
+1191,Ironwood Brewing,IPA,7.7,38.0,7.0,1.071,1.013,4.14,21.59,4.0
+1192,Wildflower Brewing,Stout,6.5,32.0,33.5,1.067,1.017,4.18,15.95,3.48
+1193,Mill Creek Brewing,Wheat,5.0,18.0,4.1,1.047,1.009,4.39,13.11,3.35
+1194,North Fork Brewing,Sour,0.052,,9.3,1.049,1.009,3.15,16.0,2.2
+1195,Quarry Brewing,Porter,5.8,39.0,28.5,1.059,1.014,4.56,14.94,3.18
+1196,North Fork Brewing,Pale Ale,5.5,39.0,9.2,1.053,1.012,4.21,12.5,3.69
+1197,Mill Creek Brewing,Pale Ale,4.5,25.0,11.1,1.047,1.013,4.2,10.59,3.1
+1198,Quarry Brewing,Porter,6.2,32.0,25.5,1.062,1.014,4.47,15.65,3.99
+1199,Anchor Hill Brewing,Porter,5.3,46.0,34.5,1.054,1.014,4.44,13.68,3.61
+1200,Lantern Brewing,Amber,5.7,26.0,18.4,1.055,1.011,4.24,12.02,4.14
+1201,Foxglove Brewing,Porter,6.5,33.0,37.5,1.064,1.015,4.08,16.04,3.36
+1202,Foxglove Brewing,Sour,4.7,7.0,9.2,1.047,1.011,3.35,10.4,2.47
+1203,Copper Kettle Brewing,Amber,6.3,28.0,14.2,1.056,1.008,4.4,14.54,3.19
+1204,Ironwood Brewing,Sour,4.4,8.0,4.7,1.043,1.01,3.24,10.16,2.94
+1205,Red Barn Brewing,IPA,0.055,66.0,8.7,1.053,1.012,4.34,10.89,3.06
+1206,Quarry Brewing,Lager,5.1,15.0,3.4,1.049,1.01,4.24,12.86,3.15
+1207,Lantern Brewing,Porter,6.5,27.0,27.0,1.061,1.011,4.35,14.31,3.4
+1208,Red Barn Brewing,Wheat,5.6,19.0,4.6,1.058,1.015,4.5,12.11,3.82
+1209,Anchor Hill Brewing,Amber,5.1,26.0,17.0,1.054,1.015,4.0,11.59,2.82
+1210,North Fork Brewing,Sour,3.3,9.0,6.1,1.035,1.01,,11.89,2.14
+1211,Foxglove Brewing,Amber,0.045,22.0,11.7,1.044,1.01,4.31,8.36,2.46
+1212,North Fork Brewing,Porter,7.0,29.0,39.5,1.068,1.015,4.29,14.34,3.67
+1213,Mill Creek Brewing,IPA,6.4,65.0,9.2,1.06,1.012,4.55,13.17,3.35
+1214,Stillwater Brewing,Stout,7.0,47.0,44.6,1.069,1.016,4.15,17.46,3.64
+1215,Lantern Brewing,Lager,6.3,,3.7,1.056,1.008,4.12,17.45,4.12
+1216,Quarry Brewing,Sour,5.1,8.0,5.3,1.048,1.01,3.41,11.96,3.11
+1217,Quarry Brewing,Amber,6.3,25.0,16.3,1.06,1.013,,14.82,3.33
+1218,North Fork Brewing,Pale Ale,5.6,,6.6,1.052,1.009,4.25,14.07,3.9
+1219,Foxglove Brewing,Sour,5.6,7.0,6.8,1.051,1.008,3.49,11.64,3.23
+1220,Red Barn Brewing,Wheat,5.0,11.0,5.9,1.052,1.014,4.0,12.44,2.93
+1221,Quarry Brewing,Sour,2.8,9.0,4.9,1.028,1.006,3.36,9.92,2.35
+1222,Mill Creek Brewing,Sour,4.8,9.0,6.5,1.046,1.01,,8.9,3.03
+1223,North Fork Brewing,Wheat,5.4,14.0,5.3,1.053,1.012,4.42,13.16,2.73
+1224,Quarry Brewing,Porter,0.063,19.0,33.0,1.062,1.014,4.21,14.74,3.53
+1225,Quarry Brewing,Porter,5.1,33.0,29.8,1.054,1.014,4.16,12.09,3.09
+1226,Foxglove Brewing,Wheat,3.6,16.0,5.4,1.041,1.013,,13.65,2.87
+1227,North Fork Brewing,Amber,5.4,37.0,17.1,1.056,1.015,4.15,12.43,3.65
+1228,Lantern Brewing,Stout,0.067,53.0,36.2,1.067,1.016,3.99,14.41,3.9
+1229,Lantern Brewing,Lager,5.9,20.0,4.2,1.056,1.011,,14.87,4.09
+1230,North Fork Brewing,Stout,6.3,45.0,45.6,1.064,1.016,4.04,13.18,3.21
+1231,Copper Kettle Brewing,Amber,5.3,22.0,18.8,1.054,1.014,4.43,11.12,2.95
+1232,Ironwood Brewing,Amber,5.4,34.0,12.9,1.055,1.014,4.47,16.4,2.37
+1233,Quarry Brewing,Pale Ale,4.8,36.0,10.6,1.048,1.011,4.27,9.6,3.68
+1234,Ironwood Brewing,IPA,5.4,73.0,8.0,1.054,1.012,4.35,13.84,3.75
+1235,Ironwood Brewing,Lager,5.7,28.0,4.3,1.05,1.006,4.38,15.06,3.76
+1236,Foxglove Brewing,Stout,7.1,,37.4,1.07,1.015,4.41,17.31,3.37
+1237,Red Barn Brewing,Porter,7.7,32.0,36.2,1.072,1.013,4.65,15.63,2.94
+1238,Ironwood Brewing,Porter,5.9,25.0,42.8,1.059,1.014,3.99,12.84,3.86
+1239,Stillwater Brewing,Wheat,3.8,13.0,4.3,1.043,1.014,4.21,13.85,2.89
+1240,Ironwood Brewing,Stout,6.6,37.0,36.4,1.067,1.016,4.16,13.52,4.21
+1241,Lantern Brewing,IPA,6.9,93.0,6.1,1.065,1.012,3.97,14.18,4.16
+1242,Anchor Hill Brewing,Sour,4.7,10.0,5.1,1.044,1.007,3.42,12.19,2.93
+1243,Mill Creek Brewing,Wheat,3.9,13.0,4.0,1.044,1.014,4.25,8.38,2.93
+1244,Ironwood Brewing,Lager,4.3,20.0,3.7,1.044,1.012,4.44,10.15,3.05
+1245,Copper Kettle Brewing,Sour,3.1,11.0,9.2,1.031,1.007,3.44,7.91,3.05
+1246,Stillwater Brewing,Amber,5.5,23.0,14.8,1.054,1.013,3.92,13.99,2.71
+1247,Tidewater Brewing,Pale Ale,5.9,37.0,8.1,1.057,1.012,4.29,16.48,3.62
+1248,Tidewater Brewing,Stout,7.0,48.0,55.5,1.07,1.016,3.93,15.71,3.31
+1249,Red Barn Brewing,Lager,4.5,20.0,4.3,1.045,1.01,4.24,15.09,2.96
+1250,Anchor Hill Brewing,Pale Ale,6.0,29.0,9.9,1.063,1.017,4.16,14.85,3.4
+1251,Lantern Brewing,Wheat,5.2,14.0,5.9,1.049,1.009,4.29,15.65,3.05
+1252,Red Barn Brewing,Amber,4.8,31.0,15.9,1.046,1.01,4.29,16.19,3.65
+1253,Anchor Hill Brewing,Stout,7.2,39.0,37.5,1.07,1.015,,16.39,3.52
+1254,Lantern Brewing,Porter,0.05,32.0,31.4,1.052,1.014,4.38,13.72,2.73
+1255,North Fork Brewing,Lager,4.8,20.0,4.7,1.047,1.01,4.16,17.89,3.09
+1256,Copper Kettle Brewing,Wheat,6.4,,4.9,1.061,1.012,4.42,17.69,3.43
+1257,Quarry Brewing,Wheat,6.7,19.0,6.4,1.062,1.011,4.66,16.82,3.27
+1258,North Fork Brewing,Lager,4.4,25.0,2.9,1.044,1.01,4.64,13.62,2.28
+1259,Stillwater Brewing,Wheat,4.3,12.0,4.6,1.046,1.013,,13.35,3.13
+1260,Ironwood Brewing,IPA,7.3,56.0,7.3,1.069,1.014,4.14,15.28,3.3
+1261,North Fork Brewing,Amber,5.0,,16.7,1.052,1.014,4.17,13.58,3.54
+1262,Copper Kettle Brewing,Stout,6.6,36.0,43.1,1.063,1.013,4.39,15.94,3.58
+1263,Wildflower Brewing,IPA,7.7,122.0,8.6,1.07,1.011,4.03,15.06,4.42
+1264,Quarry Brewing,Pale Ale,5.1,44.0,7.4,1.052,1.014,4.19,13.28,3.42
+1265,Stillwater Brewing,Stout,0.062,33.0,51.8,1.064,1.017,4.34,18.31,3.43
+1266,Foxglove Brewing,Amber,6.5,38.0,9.3,1.061,1.011,4.1,15.57,3.07
+1267,Quarry Brewing,Porter,5.4,52.0,26.8,1.055,1.014,4.39,15.5,2.58
+1268,Tidewater Brewing,Stout,6.3,46.0,37.8,1.063,1.016,4.28,15.62,3.36
+1269,Stillwater Brewing,Wheat,4.1,10.0,6.5,1.044,1.012,,10.44,3.71
+1270,Red Barn Brewing,Lager,3.7,20.0,3.6,1.041,1.013,4.28,13.67,2.74
+1271,Anchor Hill Brewing,Porter,5.4,35.0,30.6,1.053,1.012,4.22,16.98,3.43
+1272,Foxglove Brewing,Pale Ale,4.7,34.0,11.8,1.049,1.013,4.14,14.33,3.31
+1273,Tidewater Brewing,Porter,0.045,20.0,23.9,1.051,1.017,4.43,13.79,2.12
+1274,North Fork Brewing,Porter,0.071,31.0,25.5,1.068,1.014,4.27,15.11,3.82
+1275,Copper Kettle Brewing,Stout,7.9,31.0,30.2,1.075,1.015,4.18,16.39,4.07
+1276,Stillwater Brewing,Pale Ale,4.7,35.0,6.9,1.048,1.012,4.33,13.25,2.93
+1277,North Fork Brewing,Lager,5.9,27.0,3.5,1.055,1.009,,11.52,3.3
+1278,Quarry Brewing,Porter,6.7,,29.3,1.064,1.013,4.37,13.32,3.43
+1279,Wildflower Brewing,IPA,5.2,49.0,8.1,1.053,1.014,4.49,14.91,2.9
+1280,Foxglove Brewing,Amber,5.8,45.0,12.4,1.052,1.007,4.25,17.11,3.16
+1281,Anchor Hill Brewing,Porter,6.5,35.0,24.0,1.061,1.011,4.35,17.54,3.74
+1282,Anchor Hill Brewing,IPA,7.2,72.0,9.7,1.063,1.009,4.34,14.85,3.62
+1283,Ironwood Brewing,IPA,5.4,43.0,7.1,1.058,1.017,4.49,13.66,3.12
+1284,Red Barn Brewing,Porter,6.2,32.0,31.8,1.062,1.014,,10.43,3.12
+1285,Stillwater Brewing,IPA,5.0,38.0,10.1,1.054,1.016,4.57,12.64,3.05
+1286,Wildflower Brewing,Porter,6.2,,33.4,1.061,1.014,4.22,16.82,3.48
+1287,Ironwood Brewing,IPA,6.0,76.0,7.5,1.057,1.011,4.12,11.92,3.2
+1288,Lantern Brewing,Lager,4.8,14.0,4.5,1.048,1.012,4.29,10.39,3.5
+1289,Mill Creek Brewing,Amber,6.1,14.0,14.5,1.061,1.015,4.35,15.04,3.85
+1290,Wildflower Brewing,Sour,4.2,6.0,6.1,1.042,1.01,3.29,9.39,3.08
+1291,Ironwood Brewing,IPA,6.1,85.0,10.0,1.059,1.013,4.36,16.3,3.15
+1292,Quarry Brewing,Lager,5.0,20.0,2.7,1.047,1.009,4.4,10.32,3.39
+1293,Mill Creek Brewing,Lager,4.3,19.0,3.9,1.046,1.014,,11.02,2.96
+1294,Ironwood Brewing,Wheat,0.055,15.0,5.0,1.057,1.016,4.2,10.03,3.65
+1295,Stillwater Brewing,Pale Ale,5.2,47.0,8.1,1.052,1.013,4.46,11.54,3.4
+1296,Copper Kettle Brewing,Wheat,4.5,17.0,6.9,1.048,1.014,4.29,10.2,3.04
+1297,Mill Creek Brewing,Lager,5.5,15.0,3.8,1.051,1.008,4.17,11.2,2.75
+1298,Anchor Hill Brewing,Porter,5.3,35.0,27.8,1.055,1.015,4.3,16.67,3.06
+1299,Ironwood Brewing,Pale Ale,3.1,49.0,9.1,1.035,1.011,4.07,8.48,2.29
+1300,North Fork Brewing,Sour,5.1,10.0,6.6,1.047,1.008,3.24,13.73,3.03
+1301,Red Barn Brewing,Stout,5.6,38.0,47.0,1.059,1.017,4.22,16.1,4.21
+1302,Foxglove Brewing,Stout,7.0,39.0,41.5,1.072,1.019,4.59,13.56,3.64
+1303,Tidewater Brewing,Amber,0.053,31.0,18.0,1.054,1.014,4.38,14.51,3.4
+1304,Stillwater Brewing,Amber,5.9,26.0,13.4,1.056,1.011,4.37,12.86,3.79
+1305,Stillwater Brewing,Sour,5.5,,9.3,1.053,1.011,3.37,8.28,3.04
+1306,Anchor Hill Brewing,Amber,5.1,41.0,13.3,1.049,1.01,4.34,11.76,3.58
+1307,Lantern Brewing,Lager,3.9,15.0,2.7,1.039,1.009,4.43,12.99,2.85
+1308,Mill Creek Brewing,Sour,4.6,8.0,5.4,1.046,1.011,3.39,7.94,3.1
+1309,Wildflower Brewing,Stout,5.5,46.0,29.0,1.057,1.016,4.28,18.34,3.19
+1310,Quarry Brewing,Wheat,4.8,13.0,5.3,1.054,1.017,4.03,14.01,3.16
+1311,Anchor Hill Brewing,Stout,7.0,69.0,31.1,1.068,1.015,4.17,17.35,3.95
+1312,Copper Kettle Brewing,Amber,5.5,25.0,12.5,1.056,1.014,4.46,14.93,2.59
+1313,Anchor Hill Brewing,Wheat,5.4,9.0,4.7,1.057,1.016,4.45,12.18,3.59
+1314,Wildflower Brewing,Sour,4.9,10.0,6.7,1.047,1.01,3.02,15.69,2.41
+1315,Mill Creek Brewing,Sour,4.5,9.0,5.3,1.044,1.01,3.12,13.88,2.17
+1316,Ironwood Brewing,Porter,5.9,30.0,26.6,1.056,1.011,4.29,16.88,4.08
+1317,Quarry Brewing,Wheat,4.5,13.0,5.5,1.048,1.013,4.3,13.18,2.73
+1318,Lantern Brewing,Amber,5.3,41.0,15.4,1.054,1.014,4.25,13.03,3.45
+1319,North Fork Brewing,Lager,0.032,18.0,3.6,1.029,1.004,4.18,12.42,3.09
+1320,Stillwater Brewing,Wheat,6.4,11.0,5.1,1.059,1.011,4.08,14.51,3.42
+1321,Tidewater Brewing,Amber,5.9,23.0,18.5,1.06,1.015,4.21,14.44,3.56
+1322,Quarry Brewing,Amber,0.06,23.0,13.4,1.061,1.015,4.31,19.62,3.25
+1323,Anchor Hill Brewing,Amber,6.1,34.0,15.8,1.06,1.014,4.08,14.54,3.36
+1324,Ironwood Brewing,IPA,5.9,63.0,7.5,1.054,1.01,4.45,14.81,4.04
+1325,Anchor Hill Brewing,Stout,7.3,47.0,33.4,1.07,1.014,4.45,13.77,3.39
+1326,Ironwood Brewing,Lager,3.0,13.0,3.8,1.032,1.009,4.09,11.3,2.41
+1327,Ironwood Brewing,Pale Ale,0.047,41.0,8.6,1.047,1.012,4.21,12.33,4.05
+1328,Mill Creek Brewing,Wheat,5.4,12.0,5.6,1.055,1.014,4.38,14.59,3.85
+1329,Wildflower Brewing,Sour,5.5,7.0,6.1,1.05,1.008,3.41,15.33,3.01
+1330,Lantern Brewing,Stout,6.6,32.0,40.4,1.069,1.018,4.22,15.67,3.14
+1331,Wildflower Brewing,Stout,7.2,29.0,40.6,1.073,1.018,4.32,19.57,3.84
+1332,Foxglove Brewing,Sour,0.051,6.0,6.0,1.05,1.011,3.37,14.46,3.0
+1333,Wildflower Brewing,Lager,4.5,14.0,4.1,1.046,1.012,4.12,13.14,3.08
+1334,Ironwood Brewing,Sour,3.6,10.0,6.0,1.036,1.008,3.19,10.37,2.11
+1335,Stillwater Brewing,Amber,5.7,36.0,16.3,1.056,1.012,4.41,13.72,3.61
+1336,Ironwood Brewing,IPA,5.1,64.0,10.3,1.053,1.014,3.98,11.36,3.71
+1337,Lantern Brewing,Sour,0.04,5.0,5.3,1.043,1.012,3.47,14.5,2.53
+1338,Ironwood Brewing,Lager,3.4,20.0,3.0,1.035,1.009,4.22,13.14,3.45
+1339,North Fork Brewing,Wheat,4.7,10.0,6.2,1.048,1.012,4.55,17.1,3.51
+1340,Foxglove Brewing,Lager,5.2,12.0,3.8,1.049,1.009,4.39,13.55,2.92
+1341,North Fork Brewing,Lager,5.4,,2.7,1.049,1.008,4.34,14.74,2.66
+1342,Wildflower Brewing,IPA,7.2,60.0,7.9,1.069,1.015,4.32,15.95,3.67
+1343,Wildflower Brewing,Pale Ale,4.9,56.0,11.2,1.05,1.013,4.42,10.15,3.53
+1344,Mill Creek Brewing,IPA,6.7,75.0,8.1,1.064,1.013,4.33,12.87,4.04
+1345,Lantern Brewing,Wheat,5.1,12.0,5.4,1.05,1.011,4.19,13.82,3.32
+1346,Red Barn Brewing,Amber,4.7,21.0,9.5,1.046,1.011,4.31,14.37,3.0
+1347,Lantern Brewing,Stout,7.0,29.0,43.5,1.068,1.014,4.5,18.4,3.56
+1348,Quarry Brewing,Stout,7.0,48.0,37.4,1.068,1.014,4.28,12.67,3.44
+1349,Red Barn Brewing,IPA,7.6,42.0,6.5,1.069,1.011,4.43,15.25,3.77
+1350,Red Barn Brewing,Stout,7.2,25.0,41.0,1.073,1.018,4.32,17.52,3.61
+1351,Ironwood Brewing,Stout,0.058,53.0,35.2,1.058,1.014,4.12,16.11,3.93
+1352,Ironwood Brewing,Stout,7.0,38.0,35.4,1.07,1.016,4.2,14.68,3.71
+1353,Wildflower Brewing,Porter,5.8,23.0,36.9,1.057,1.014,4.38,17.04,3.93
+1354,Tidewater Brewing,Porter,5.2,32.0,25.7,1.054,1.014,4.38,11.73,3.35
+1355,Foxglove Brewing,Stout,6.8,66.0,51.9,1.071,1.019,4.29,13.72,3.7
+1356,Mill Creek Brewing,Wheat,6.1,,5.0,1.056,1.01,4.66,12.45,3.12
+1357,Anchor Hill Brewing,Pale Ale,5.8,37.0,8.8,1.053,1.01,4.46,10.35,3.64
+1358,Lantern Brewing,Sour,4.8,10.0,5.1,1.046,1.009,3.45,13.89,3.01
+1359,Tidewater Brewing,Lager,5.6,,3.3,1.055,1.012,4.35,14.42,3.1
+1360,Wildflower Brewing,Lager,4.9,26.0,3.6,1.048,1.011,4.21,14.18,3.2
+1361,Quarry Brewing,Wheat,4.4,12.0,4.1,1.045,1.012,4.36,11.82,3.21
+1362,Ironwood Brewing,Sour,4.9,17.0,8.1,1.047,1.01,3.29,12.55,3.19
+1363,Red Barn Brewing,Wheat,4.9,19.0,7.1,1.047,1.009,3.96,12.39,3.85
+1364,Wildflower Brewing,Lager,2.7,23.0,2.8,1.032,1.011,4.3,10.37,2.69
+1365,Red Barn Brewing,IPA,6.9,83.0,8.0,1.064,1.012,4.29,15.62,4.45
+1366,Quarry Brewing,IPA,0.087,85.0,9.3,1.078,1.012,4.31,19.3,4.8
+1367,Stillwater Brewing,Wheat,3.9,16.0,4.8,1.041,1.011,4.26,14.02,2.56
+1368,Red Barn Brewing,Pale Ale,5.6,23.0,9.2,1.054,1.011,4.17,17.61,3.33
+1369,Wildflower Brewing,Porter,3.9,22.0,22.0,1.043,1.014,4.26,11.75,2.96
+1370,Anchor Hill Brewing,Sour,3.9,8.0,4.4,1.041,1.011,3.03,11.79,2.55
+1371,Lantern Brewing,Wheat,0.03,12.0,4.0,1.04,1.017,4.29,9.58,3.2
+1372,Mill Creek Brewing,Stout,6.5,93.0,61.3,1.064,1.015,4.24,15.04,4.1
+1373,North Fork Brewing,Stout,6.5,42.0,41.9,1.066,1.017,4.28,20.32,3.34
+1374,Stillwater Brewing,IPA,6.8,92.0,8.5,1.061,1.009,4.44,15.68,3.72
+1375,Copper Kettle Brewing,Porter,6.0,19.0,26.3,1.062,1.016,4.39,13.46,2.71
+1376,Ironwood Brewing,IPA,5.7,65.0,7.2,1.054,1.011,4.25,14.03,3.43
+1377,Tidewater Brewing,Stout,7.4,40.0,36.5,1.074,1.017,4.2,16.7,4.58
+1378,Stillwater Brewing,Stout,6.3,32.0,32.9,1.062,1.014,4.34,11.86,3.7
+1379,Foxglove Brewing,Porter,6.0,28.0,24.2,1.056,1.011,4.58,13.55,3.27
+1380,Wildflower Brewing,Amber,5.4,25.0,10.7,1.051,1.01,4.47,13.7,3.29
+1381,Lantern Brewing,Wheat,5.1,16.0,7.7,1.052,1.014,4.29,8.57,2.96
+1382,Copper Kettle Brewing,Amber,4.7,39.0,16.7,1.05,1.014,4.62,10.86,3.51
+1383,Mill Creek Brewing,Pale Ale,0.055,45.0,7.8,1.061,1.019,4.35,13.37,3.56
+1384,Copper Kettle Brewing,IPA,6.5,66.0,6.8,1.061,1.011,,13.8,4.14
+1385,Lantern Brewing,Sour,3.9,11.0,8.5,1.041,1.012,3.27,13.61,2.82
+1386,Mill Creek Brewing,Amber,5.8,42.0,13.6,1.056,1.012,4.02,15.54,2.97
+1387,Tidewater Brewing,Lager,4.9,22.0,4.3,1.047,1.009,4.28,15.08,3.31
+1388,Mill Creek Brewing,Wheat,4.2,26.0,4.7,1.044,1.012,4.18,13.51,3.22
+1389,Quarry Brewing,Sour,3.5,10.0,5.5,1.038,1.011,3.17,13.09,2.19
+1390,Anchor Hill Brewing,Porter,5.1,35.0,28.4,1.051,1.012,4.33,11.89,3.08
+1391,Tidewater Brewing,Pale Ale,5.6,59.0,10.8,1.054,1.011,4.37,15.65,2.85
+1392,Copper Kettle Brewing,Wheat,5.7,13.0,5.1,1.055,1.011,4.37,9.67,3.38
+1393,Foxglove Brewing,Amber,5.8,38.0,11.7,1.056,1.012,4.45,11.94,3.04
+1394,Mill Creek Brewing,Stout,6.6,51.0,42.7,1.069,1.019,4.48,14.81,3.55
+1395,Lantern Brewing,Amber,5.4,27.0,14.0,1.053,1.012,3.95,11.78,3.31
+1396,Wildflower Brewing,Lager,3.3,16.0,4.5,1.035,1.01,4.17,10.56,2.53
+1397,Red Barn Brewing,Stout,5.4,,44.8,1.061,1.02,4.31,15.2,3.28
+1398,Lantern Brewing,Sour,5.5,9.0,5.5,1.056,1.014,3.01,13.84,2.45
+1399,Quarry Brewing,Porter,6.9,30.0,24.2,1.064,1.012,4.39,10.49,4.04
+1400,Anchor Hill Brewing,Wheat,0.06,16.0,4.5,1.057,1.012,4.37,11.35,2.97
+1401,Wildflower Brewing,Porter,5.3,38.0,26.5,1.054,1.014,4.35,13.56,3.53
+1402,Wildflower Brewing,Pale Ale,5.8,45.0,7.8,1.058,1.014,4.61,9.88,3.58
+1403,Red Barn Brewing,Stout,8.0,38.0,40.5,1.077,1.017,4.47,13.5,3.5
+1404,Ironwood Brewing,Wheat,5.2,18.0,4.3,1.051,1.011,4.47,15.81,2.92
+1405,Foxglove Brewing,Amber,5.9,28.0,15.5,1.058,1.013,4.24,13.18,3.12
+1406,Stillwater Brewing,Wheat,4.7,12.0,6.9,1.049,1.013,4.37,17.98,3.9
+1407,Mill Creek Brewing,Stout,0.072,57.0,49.7,1.071,1.016,4.45,16.7,3.45
+1408,Ironwood Brewing,Amber,4.1,43.0,19.3,1.046,1.015,4.39,11.47,3.36
+1409,Quarry Brewing,Porter,5.8,35.0,30.3,1.056,1.012,4.36,12.12,3.53
+1410,Wildflower Brewing,Wheat,4.6,20.0,4.0,1.046,1.011,4.37,10.64,3.65
+1411,Red Barn Brewing,Amber,6.3,24.0,14.8,1.058,1.01,4.23,14.85,3.38
+1412,Copper Kettle Brewing,Wheat,3.6,11.0,3.2,1.039,1.011,4.03,9.62,3.55
+1413,Foxglove Brewing,Wheat,3.2,17.0,4.9,1.036,1.012,4.04,12.95,2.86
+1414,Ironwood Brewing,Amber,0.065,16.0,9.0,1.056,1.006,4.29,16.19,3.4
+1415,Ironwood Brewing,Pale Ale,0.047,44.0,10.2,1.047,1.011,4.54,14.72,2.7
+1416,Ironwood Brewing,IPA,0.06,70.0,6.9,1.059,1.013,4.29,16.5,3.92
+1417,Mill Creek Brewing,Sour,2.9,,5.6,1.031,1.009,3.24,7.95,2.77
+1418,Ironwood Brewing,Porter,6.0,30.0,19.6,1.06,1.014,4.26,16.87,3.83
+1419,Red Barn Brewing,Amber,5.6,36.0,23.7,1.053,1.01,4.29,12.9,3.62
+1420,Copper Kettle Brewing,Porter,0.038,33.0,34.3,1.043,1.014,4.46,10.66,1.98
+1421,Ironwood Brewing,Amber,4.8,39.0,17.4,1.048,1.012,4.33,15.34,3.08
+1422,Lantern Brewing,Porter,6.1,52.0,34.3,1.059,1.013,4.26,16.51,3.51
+1423,Red Barn Brewing,Stout,5.7,32.0,48.1,1.062,1.019,4.56,11.37,2.37
+1424,Lantern Brewing,Pale Ale,3.0,51.0,8.5,1.035,1.012,4.29,10.56,2.7
+1425,Foxglove Brewing,Lager,5.4,15.0,4.7,1.048,1.007,4.46,12.43,3.2
+1426,Foxglove Brewing,Sour,4.2,9.0,5.1,1.044,1.012,3.21,11.0,2.68
+1427,Anchor Hill Brewing,Wheat,6.9,11.0,5.6,1.065,1.013,4.11,15.1,3.61
+1428,Tidewater Brewing,Pale Ale,6.5,42.0,9.2,1.058,1.009,4.46,16.07,4.0
+1429,Ironwood Brewing,Amber,5.0,26.0,8.7,1.054,1.016,4.4,11.17,3.66
+1430,Tidewater Brewing,Pale Ale,5.0,41.0,14.0,1.051,1.013,4.39,13.0,3.06
+1431,Tidewater Brewing,Amber,6.0,50.0,15.7,1.058,1.013,4.46,15.58,3.88
+1432,Stillwater Brewing,Sour,5.0,13.0,5.9,1.048,1.01,3.19,12.89,3.01
+1433,Stillwater Brewing,Lager,3.8,21.0,3.5,1.038,1.009,4.34,11.98,2.47
+1434,Anchor Hill Brewing,Stout,6.2,43.0,31.4,1.068,1.021,4.51,14.5,3.58
+1435,Quarry Brewing,Wheat,4.2,15.0,3.7,1.044,1.012,4.24,12.43,3.04
+1436,Anchor Hill Brewing,Amber,4.9,34.0,15.3,1.051,1.014,4.29,12.78,2.87
+1437,Mill Creek Brewing,Stout,7.6,,42.0,1.074,1.016,4.26,15.33,4.4
+1438,Lantern Brewing,Stout,0.063,50.0,54.0,1.066,1.018,4.48,13.83,4.05
+1439,North Fork Brewing,Stout,7.1,42.0,38.1,1.071,1.017,4.04,15.84,3.96
+1440,Mill Creek Brewing,IPA,6.3,,5.4,1.064,1.017,,14.49,3.83
+1441,Copper Kettle Brewing,Pale Ale,5.6,32.0,9.7,1.053,1.01,4.27,15.81,3.62
+1442,Red Barn Brewing,Amber,5.6,28.0,11.6,1.058,1.015,4.04,10.35,2.74
+1443,Ironwood Brewing,Wheat,5.4,15.0,5.1,1.055,1.014,4.32,13.13,2.77
+1444,Wildflower Brewing,Porter,6.5,45.0,24.9,1.062,1.013,4.27,19.29,3.55
+1445,Anchor Hill Brewing,Pale Ale,4.3,37.0,8.9,1.043,1.01,4.51,14.42,2.23
+1446,Foxglove Brewing,Pale Ale,0.053,,11.5,1.051,1.011,4.57,13.83,2.8
+1447,Stillwater Brewing,Pale Ale,5.7,48.0,9.9,1.054,1.011,4.27,17.15,3.92
+1448,North Fork Brewing,Stout,7.6,26.0,35.2,1.073,1.016,4.18,14.71,3.94
+1449,Ironwood Brewing,Porter,7.4,57.0,26.0,1.069,1.013,4.04,14.18,3.65
+1450,Red Barn Brewing,Amber,5.7,25.0,18.5,1.055,1.011,4.16,13.06,3.02
+1451,Anchor Hill Brewing,Pale Ale,5.8,44.0,9.5,1.056,1.011,4.42,14.92,3.28
+1452,Copper Kettle Brewing,IPA,6.8,75.0,12.0,1.064,1.013,4.11,13.29,3.8
+1453,Copper Kettle Brewing,IPA,6.0,80.0,8.9,1.061,1.016,4.4,15.85,3.19
+1454,North Fork Brewing,Pale Ale,0.049,31.0,10.6,1.047,1.01,4.28,13.91,3.5
+1455,Anchor Hill Brewing,Sour,3.4,8.0,6.9,1.04,1.014,3.64,10.54,2.3
+1456,Mill Creek Brewing,Amber,6.3,29.0,11.9,1.064,1.016,4.47,18.95,3.72
+1457,Stillwater Brewing,Pale Ale,5.6,42.0,9.2,1.057,1.015,4.26,14.45,3.16
+1458,Foxglove Brewing,Sour,4.3,7.0,6.1,1.043,1.01,3.1,12.76,2.43
+1459,Wildflower Brewing,IPA,5.9,46.0,6.3,1.058,1.013,4.33,14.64,2.95
+1460,Anchor Hill Brewing,Porter,0.06,29.0,22.5,1.057,1.011,4.61,11.67,3.25
+1461,Mill Creek Brewing,Pale Ale,5.5,53.0,12.4,1.051,1.01,4.51,10.95,3.22
+1462,Tidewater Brewing,Sour,4.6,8.0,5.9,1.043,1.008,3.42,10.95,2.62
+1463,Wildflower Brewing,Amber,5.9,35.0,10.6,1.054,1.009,,13.52,3.77
+1464,Quarry Brewing,IPA,0.05,78.0,8.5,1.047,1.009,4.33,14.03,2.97
+1465,Quarry Brewing,IPA,7.6,52.0,7.3,1.069,1.012,4.41,16.63,4.08
+1466,Stillwater Brewing,Porter,5.9,32.0,34.0,1.059,1.014,4.1,14.48,3.43
+1467,Stillwater Brewing,Porter,5.2,21.0,23.4,1.054,1.014,4.19,12.84,3.21
+1468,Quarry Brewing,IPA,7.5,59.0,6.6,1.071,1.014,4.4,18.95,3.37
+1469,Foxglove Brewing,Lager,4.1,16.0,5.0,1.036,1.005,4.03,12.85,2.47
+1470,Mill Creek Brewing,Stout,8.1,19.0,33.3,1.073,1.012,4.41,14.73,3.84
+1471,Ironwood Brewing,Pale Ale,5.2,41.0,10.2,1.05,1.011,4.15,16.46,3.37
+1472,Ironwood Brewing,Pale Ale,4.8,41.0,12.2,1.047,1.01,4.45,12.52,2.97
+1473,Red Barn Brewing,Wheat,4.1,12.0,5.7,1.043,1.012,4.1,14.98,3.66
+1474,Wildflower Brewing,Pale Ale,5.6,44.0,7.0,1.055,1.013,4.64,15.76,3.56
+1475,Ironwood Brewing,Lager,4.8,19.0,4.1,1.047,1.01,4.38,13.06,3.04
+1476,North Fork Brewing,Wheat,5.9,18.0,5.4,1.054,1.009,4.24,14.67,3.14
+1477,Quarry Brewing,Lager,6.4,18.0,3.9,1.059,1.01,4.41,15.63,3.69
+1478,Anchor Hill Brewing,Sour,5.1,7.0,4.8,1.052,1.013,3.52,14.22,2.72
+1479,Quarry Brewing,Wheat,0.039,10.0,5.2,1.04,1.01,4.36,12.93,2.88
+1480,Foxglove Brewing,Pale Ale,5.8,34.0,10.9,1.053,1.009,4.02,11.08,3.59
+1481,Red Barn Brewing,Amber,0.068,29.0,12.3,1.063,1.012,4.24,16.18,3.51
+1482,Foxglove Brewing,Sour,3.5,10.0,6.0,1.034,1.007,3.38,8.44,2.54
+1483,North Fork Brewing,Sour,4.6,10.0,8.8,1.046,1.01,3.51,11.74,2.56
+1484,Ironwood Brewing,Wheat,5.9,12.0,6.4,1.056,1.011,4.48,13.75,3.21
+1485,Stillwater Brewing,Porter,7.3,28.0,27.4,1.068,1.012,4.35,17.38,3.81
+1486,Foxglove Brewing,Amber,0.058,17.0,11.7,1.058,1.014,4.21,15.57,3.36
+1487,Red Barn Brewing,Lager,6.0,18.0,4.8,1.054,1.008,4.37,18.17,3.43
+1488,Stillwater Brewing,IPA,6.5,47.0,8.8,1.062,1.012,4.38,18.19,3.64
+1489,Red Barn Brewing,Pale Ale,4.5,48.0,11.2,1.042,1.008,4.24,12.89,3.62
+1490,Stillwater Brewing,Wheat,5.3,13.0,5.4,1.055,1.014,4.01,12.14,2.29
+1491,Lantern Brewing,Porter,6.9,24.0,28.9,1.067,1.014,4.41,15.26,3.29
+1492,North Fork Brewing,Porter,6.7,25.0,35.3,1.063,1.012,4.46,15.94,3.12
+1493,Red Barn Brewing,Sour,5.6,10.0,7.3,1.053,1.01,3.45,16.5,3.37
+1494,Mill Creek Brewing,Lager,4.6,25.0,5.8,1.041,1.007,4.43,13.44,2.64
+1495,Copper Kettle Brewing,Amber,6.2,38.0,11.6,1.06,1.013,3.95,15.9,3.19
+1496,Foxglove Brewing,Amber,0.063,22.0,8.2,1.06,1.012,4.19,12.53,2.83
+1497,Stillwater Brewing,Wheat,5.9,14.0,4.5,1.054,1.009,4.41,15.99,3.47
+1498,Ironwood Brewing,Lager,5.0,13.0,3.1,1.046,1.008,4.3,12.68,3.36
+1499,Foxglove Brewing,Stout,7.7,34.0,42.8,1.076,1.018,4.5,17.56,4.08
+1500,Foxglove Brewing,Wheat,5.3,17.0,4.1,1.052,1.012,4.6,12.62,3.31

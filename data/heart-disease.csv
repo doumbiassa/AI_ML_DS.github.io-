@@ -1,0 +1,1819 @@
+patient_id,age,sex,chest_pain_type,resting_bp_mmhg,cholesterol_mg_dl,fasting_sugar_over_120,resting_ecg,max_heart_rate,exercise_angina,st_depression,st_slope,major_vessels,thallium_test,heart_disease
+1368,48,Female,Atypical angina,119.0,0.0,No,ST-T abnormality,140,Yes,1.3,Flat,0.0,Normal,0
+133,48,Male,Typical angina,122.0,199.0,No,Normal,153,No,0.5,Upsloping,0.0,Normal,0
+108,47,Female,Typical angina,133.0,176.0,Yes,Normal,176,No,2.3,Upsloping,0.0,Reversible defect,0
+924,57,Male,Asymptomatic,128.0,196.0,No,LV hypertrophy,152,No,0.1,Flat,0.0,Normal,0
+1551,47,Male,3,110.0,188.0,Yes,Normal,159,No,1.7,Flat,0.0,Normal,0
+70,55,Male,Non-anginal pain,115.0,168.0,No,Normal,152,Yes,3.6,Upsloping,0.0,Normal,0
+6,56,Male,Asymptomatic,135.0,233.0,No,Normal,144,No,0.9,Flat,0.0,Normal,1
+1477,64,Female,Asymptomatic,114.0,276.0,No,Normal,155,Yes,2.1,Flat,0.0,Normal,1
+1572,59,Male,Asymptomatic,125.0,271.0,No,Normal,166,Yes,4.6,Flat,1.0,Normal,1
+1384,57,Female,Atypical angina,97.0,272.0,No,Normal,141,No,1.8,Upsloping,2.0,Reversible defect,0
+1014,60,Male,Asymptomatic,118.0,219.0,No,LV hypertrophy,160,No,0.1,Upsloping,0.0,Normal,1
+1613,69,Female,Non-anginal pain,124.0,194.0,No,ST-T abnormality,161,No,0.6,Flat,0.0,Normal,0
+213,49,Male,Non-anginal pain,117.0,260.0,Yes,ST-T abnormality,155,No,0.5,Downsloping,0.0,Normal,1
+1751,52,Female,2,126.0,201.0,Yes,ST-T abnormality,186,No,0.4,Downsloping,0.0,Normal,0
+642,56,Male,Asymptomatic,129.0,129.0,Yes,Normal,175,Yes,1.0,Upsloping,3.0,Normal,0
+1742,54,Male,Non-anginal pain,88.0,243.0,No,LV hypertrophy,149,No,2.0,Upsloping,0.0,Reversible defect,1
+1793,52,Female,Non-anginal pain,164.0,269.0,No,Normal,166,No,0.4,Downsloping,1.0,Normal,0
+1290,38,Male,Asymptomatic,99.0,217.0,No,LV hypertrophy,165,Yes,0.2,Flat,0.0,Fixed defect,0
+122,58,Male,Asymptomatic,103.0,116.0,No,ST-T abnormality,136,No,0.9,Upsloping,0.0,Normal,0
+638,55,Female,Atypical angina,113.0,236.0,No,Normal,137,Yes,0.2,Upsloping,0.0,Reversible defect,0
+1481,52,Female,Non-anginal pain,91.0,269.0,Yes,ST-T abnormality,149,No,0.7,Upsloping,,Normal,0
+854,60,Male,Atypical angina,136.0,182.0,Yes,ST-T abnormality,137,No,1.0,Flat,2.0,Normal,1
+759,59,Male,Asymptomatic,128.0,267.0,No,Normal,142,No,0.1,Flat,2.0,Normal,1
+1472,60,Male,4,121.0,310.0,No,ST-T abnormality,160,No,0.3,Flat,0.0,Normal,0
+708,29,Female,4,133.0,204.0,No,ST-T abnormality,200,Yes,0.8,Flat,1.0,Normal,0
+1185,58,Male,Atypical angina,117.0,233.0,No,Normal,166,No,2.2,Upsloping,0.0,Normal,0
+1677,38,Female,Asymptomatic,124.0,165.0,No,Normal,175,No,0.2,Downsloping,0.0,Normal,1
+683,49,Male,Asymptomatic,101.0,146.0,No,Normal,174,Yes,1.9,Upsloping,0.0,Normal,1
+1115,51,Female,Asymptomatic,120.0,172.0,No,Normal,185,No,0.9,Flat,0.0,Normal,0
+818,63,Female,Asymptomatic,138.0,233.0,No,ST-T abnormality,149,No,2.9,Flat,2.0,Fixed defect,1
+1190,50,Male,Asymptomatic,106.0,315.0,No,Normal,173,Yes,1.1,Upsloping,0.0,Reversible defect,1
+159,60,Male,Asymptomatic,161.0,190.0,Yes,ST-T abnormality,148,No,2.5,Upsloping,0.0,Reversible defect,1
+855,43,Male,Non-anginal pain,105.0,263.0,No,ST-T abnormality,158,Yes,0.7,Flat,2.0,Reversible defect,1
+652,46,Male,Asymptomatic,98.0,150.0,No,LV hypertrophy,176,No,0.8,Upsloping,1.0,Reversible defect,0
+1749,41,Male,Non-anginal pain,76.0,179.0,No,LV hypertrophy,140,No,0.1,Upsloping,0.0,Fixed defect,1
+110,48,Male,Non-anginal pain,92.0,219.0,No,LV hypertrophy,156,No,0.4,Upsloping,0.0,Reversible defect,0
+1203,49,Male,Asymptomatic,134.0,271.0,Yes,Normal,159,Yes,5.5,Upsloping,0.0,Normal,1
+1453,73,Male,3,128.0,0.0,Yes,Normal,134,No,0.6,Upsloping,1.0,Normal,1
+733,46,Male,Asymptomatic,122.0,188.0,No,LV hypertrophy,182,No,1.1,Upsloping,1.0,Reversible defect,0
+910,42,Female,Asymptomatic,108.0,224.0,No,ST-T abnormality,184,No,0.3,Downsloping,3.0,Normal,0
+1626,57,Female,1,123.0,179.0,No,Normal,175,No,0.0,Flat,2.0,Reversible defect,0
+900,62,Male,Atypical angina,129.0,171.0,No,Normal,147,No,0.6,Downsloping,0.0,Reversible defect,0
+1771,59,Male,Non-anginal pain,118.0,220.0,No,Normal,140,Yes,0.2,Upsloping,1.0,Normal,0
+808,38,Male,3,117.0,0.0,No,Normal,178,No,0.2,Flat,0.0,Normal,0
+496,56,Male,Typical angina,109.0,251.0,No,ST-T abnormality,160,No,0.7,Flat,2.0,Normal,0
+1614,49,Male,1,100.0,201.0,No,LV hypertrophy,150,No,2.6,Upsloping,0.0,Normal,1
+1517,53,Male,Asymptomatic,106.0,236.0,No,ST-T abnormality,143,No,0.4,Upsloping,0.0,Normal,0
+608,53,Male,Non-anginal pain,129.0,211.0,No,Normal,185,No,0.6,Upsloping,0.0,Reversible defect,0
+586,55,Male,Asymptomatic,113.0,208.0,No,Normal,137,No,0.4,Flat,0.0,Normal,1
+1445,74,Male,4,120.0,298.0,No,ST-T abnormality,103,No,0.3,Upsloping,1.0,Reversible defect,1
+124,68,Male,3,118.0,120.0,No,LV hypertrophy,186,No,0.8,Flat,,Reversible defect,1
+814,44,Male,Atypical angina,99.0,248.0,No,ST-T abnormality,166,Yes,2.6,Flat,3.0,Fixed defect,1
+930,56,Female,Non-anginal pain,116.0,212.0,No,ST-T abnormality,163,Yes,1.5,Upsloping,1.0,Normal,1
+1163,44,Male,Atypical angina,97.0,167.0,No,Normal,181,No,1.0,Upsloping,2.0,Reversible defect,1
+1564,50,Female,Asymptomatic,113.0,286.0,No,Normal,133,Yes,1.8,Upsloping,0.0,Fixed defect,0
+754,46,Male,Non-anginal pain,100.0,269.0,No,Normal,180,No,2.2,Upsloping,0.0,Normal,0
+825,53,Female,Typical angina,118.0,270.0,No,ST-T abnormality,164,Yes,5.2,Upsloping,1.0,Normal,1
+1146,47,Male,3,123.0,216.0,No,Normal,154,No,0.3,Upsloping,0.0,Normal,0
+872,53,Female,3,120.0,135.0,No,ST-T abnormality,144,No,3.9,Downsloping,,Normal,1
+311,52,Female,4,126.0,182.0,No,Normal,130,No,0.3,Flat,0.0,Normal,0
+766,64,Male,Asymptomatic,117.0,247.0,No,ST-T abnormality,178,Yes,3.9,Flat,0.0,Normal,1
+956,57,Female,Non-anginal pain,83.0,191.0,No,Normal,134,No,0.7,Upsloping,1.0,Reversible defect,0
+62,52,Male,Asymptomatic,135.0,214.0,No,LV hypertrophy,177,Yes,3.4,Upsloping,3.0,Reversible defect,1
+1539,46,Male,Non-anginal pain,114.0,0.0,No,ST-T abnormality,142,No,0.4,Flat,1.0,,0
+1119,64,Male,Asymptomatic,110.0,257.0,No,LV hypertrophy,145,No,4.5,Flat,1.0,Normal,1
+714,47,Male,4,115.0,145.0,No,Normal,151,Yes,0.8,Flat,0.0,Reversible defect,0
+236,33,Female,Asymptomatic,122.0,0.0,No,ST-T abnormality,175,Yes,0.4,Upsloping,0.0,Normal,0
+449,68,Female,Asymptomatic,130.0,269.0,Yes,ST-T abnormality,152,No,1.4,Downsloping,2.0,Reversible defect,1
+235,43,Male,2,116.0,259.0,No,LV hypertrophy,177,No,3.4,Flat,0.0,Reversible defect,0
+450,59,Male,Atypical angina,119.0,292.0,No,ST-T abnormality,126,Yes,1.4,Upsloping,0.0,Normal,1
+1634,67,Male,Non-anginal pain,145.0,140.0,No,ST-T abnormality,151,Yes,3.1,Upsloping,0.0,Normal,0
+1351,62,Female,Non-anginal pain,126.0,228.0,Yes,LV hypertrophy,135,Yes,0.3,Flat,1.0,Reversible defect,1
+36,61,Male,4,150.0,162.0,No,ST-T abnormality,139,Yes,3.4,Flat,0.0,Normal,1
+981,66,Female,4,162.0,219.0,No,Normal,155,No,1.0,Flat,0.0,Normal,1
+1008,57,Male,3,93.0,0.0,No,Normal,135,No,0.2,Upsloping,0.0,Normal,1
+1164,70,Female,Atypical angina,0.0,123.0,No,LV hypertrophy,147,Yes,3.6,Upsloping,0.0,Normal,1
+1478,46,Female,Atypical angina,109.0,232.0,Yes,ST-T abnormality,166,No,4.0,Upsloping,0.0,Normal,0
+1357,64,Male,Asymptomatic,144.0,180.0,Yes,Normal,149,No,1.0,Flat,0.0,Reversible defect,1
+1198,59,Male,Atypical angina,123.0,175.0,No,Normal,159,No,0.6,Flat,1.0,Reversible defect,0
+704,68,Female,Asymptomatic,140.0,208.0,No,Normal,158,No,0.5,Upsloping,0.0,Normal,1
+1188,46,Female,Asymptomatic,156.0,172.0,No,ST-T abnormality,156,No,1.1,Flat,1.0,Normal,1
+780,53,Male,Asymptomatic,132.0,242.0,No,Normal,132,No,0.2,Flat,0.0,Normal,1
+237,64,Male,Non-anginal pain,108.0,285.0,No,ST-T abnormality,139,No,0.8,Flat,2.0,Normal,1
+706,57,Female,4,131.0,0.0,No,Normal,119,No,1.5,Upsloping,1.0,Normal,1
+1760,43,Male,Non-anginal pain,91.0,260.0,No,Normal,125,No,1.0,Downsloping,0.0,Normal,1
+233,39,Female,Asymptomatic,120.0,234.0,No,Normal,170,No,2.9,Flat,1.0,Normal,1
+877,55,Female,Atypical angina,122.0,221.0,Yes,ST-T abnormality,160,No,1.1,Flat,0.0,Normal,0
+1574,53,Female,Non-anginal pain,127.0,215.0,No,ST-T abnormality,140,No,0.3,Upsloping,1.0,Normal,0
+1289,63,Female,Non-anginal pain,139.0,260.0,No,LV hypertrophy,156,No,0.1,Upsloping,0.0,Normal,0
+1051,60,Female,Non-anginal pain,136.0,216.0,Yes,LV hypertrophy,124,No,2.4,Upsloping,0.0,Normal,0
+1019,72,Male,Non-anginal pain,117.0,0.0,No,Normal,95,No,0.8,Upsloping,0.0,Normal,1
+472,65,Female,Non-anginal pain,125.0,195.0,No,ST-T abnormality,155,No,1.6,Downsloping,0.0,Reversible defect,1
+455,57,Male,Non-anginal pain,109.0,228.0,No,Normal,177,Yes,0.8,Upsloping,0.0,Normal,1
+960,52,Male,Asymptomatic,151.0,0.0,No,LV hypertrophy,138,No,0.6,Flat,3.0,Reversible defect,1
+1687,51,Male,Non-anginal pain,133.0,171.0,No,ST-T abnormality,144,Yes,2.0,Upsloping,2.0,Normal,1
+953,55,Female,Asymptomatic,118.0,179.0,No,Normal,149,No,0.2,Flat,0.0,Normal,1
+729,51,Male,Asymptomatic,112.0,138.0,No,ST-T abnormality,173,No,0.4,Flat,1.0,Normal,1
+1764,42,Male,2,117.0,112.0,No,LV hypertrophy,190,No,0.1,Upsloping,1.0,Reversible defect,0
+616,39,Female,Non-anginal pain,105.0,192.0,Yes,Normal,169,Yes,1.0,Downsloping,0.0,Normal,0
+1107,59,Male,Typical angina,122.0,181.0,No,ST-T abnormality,164,No,0.3,Flat,0.0,Normal,0
+1375,53,Male,Asymptomatic,143.0,276.0,Yes,Normal,178,No,1.4,Flat,2.0,Reversible defect,1
+1755,49,Female,3,107.0,225.0,No,ST-T abnormality,149,Yes,0.7,Upsloping,0.0,Fixed defect,0
+47,47,Male,Non-anginal pain,128.0,209.0,No,ST-T abnormality,175,Yes,1.1,Upsloping,1.0,Reversible defect,0
+927,55,Male,Non-anginal pain,117.0,183.0,No,Normal,151,No,0.7,Upsloping,0.0,Normal,0
+482,58,Male,4,97.0,219.0,No,ST-T abnormality,160,No,1.8,Upsloping,0.0,Normal,0
+684,56,Male,Asymptomatic,106.0,208.0,No,Normal,119,No,2.0,Upsloping,1.0,Normal,1
+1378,54,Male,Asymptomatic,111.0,299.0,No,Normal,164,Yes,3.9,Upsloping,0.0,Normal,0
+1799,45,Male,Non-anginal pain,124.0,292.0,Yes,LV hypertrophy,173,No,0.1,Flat,0.0,Normal,0
+1170,50,Male,Atypical angina,103.0,174.0,No,ST-T abnormality,149,No,1.2,Flat,2.0,Normal,1
+882,52,Female,1,89.0,176.0,No,Normal,144,No,0.1,Upsloping,0.0,Normal,0
+836,63,Male,Non-anginal pain,130.0,250.0,No,LV hypertrophy,148,No,0.7,Upsloping,0.0,Reversible defect,1
+1488,62,Male,Typical angina,138.0,234.0,No,Normal,112,No,1.1,Flat,0.0,Reversible defect,1
+1013,49,Male,Non-anginal pain,116.0,204.0,No,Normal,158,No,1.1,Flat,3.0,Reversible defect,0
+1632,49,Female,Asymptomatic,123.0,125.0,No,Normal,168,No,2.7,Flat,2.0,Reversible defect,0
+1774,59,Female,3,98.0,282.0,Yes,Normal,151,No,1.5,Upsloping,0.0,Normal,0
+474,63,Female,4,144.0,198.0,No,LV hypertrophy,157,No,1.1,Downsloping,0.0,Reversible defect,0
+206,45,Female,Asymptomatic,103.0,222.0,No,ST-T abnormality,164,No,1.1,Upsloping,1.0,Reversible defect,0
+1344,42,Male,Typical angina,114.0,238.0,No,ST-T abnormality,173,No,0.1,Upsloping,0.0,Normal,0
+502,55,Male,Asymptomatic,122.0,145.0,No,Normal,140,No,2.0,Flat,,Reversible defect,1
+541,65,Male,Asymptomatic,138.0,245.0,No,Normal,154,No,2.1,Flat,0.0,Reversible defect,1
+664,33,Male,Asymptomatic,104.0,163.0,No,Normal,175,No,2.0,Flat,0.0,Reversible defect,0
+151,54,Female,3,128.0,136.0,No,LV hypertrophy,162,Yes,0.3,Upsloping,0.0,Normal,0
+1601,46,Male,4,138.0,129.0,No,ST-T abnormality,169,No,0.1,Upsloping,2.0,Reversible defect,0
+1605,58,Male,4,119.0,183.0,No,LV hypertrophy,181,No,0.4,Flat,0.0,Reversible defect,0
+1637,61,Male,Asymptomatic,99.0,221.0,No,ST-T abnormality,183,Yes,1.3,Flat,3.0,Reversible defect,1
+730,50,Male,Atypical angina,118.0,211.0,No,ST-T abnormality,158,No,0.0,Downsloping,0.0,Normal,0
+410,56,Male,2,116.0,253.0,No,ST-T abnormality,179,Yes,0.8,Flat,1.0,,1
+169,56,Male,2,105.0,221.0,No,LV hypertrophy,158,No,0.6,Upsloping,0.0,Normal,1
+223,44,Male,Non-anginal pain,118.0,214.0,No,LV hypertrophy,154,Yes,4.0,Downsloping,0.0,Normal,1
+1277,50,Female,Asymptomatic,101.0,233.0,No,Normal,183,No,0.8,Upsloping,0.0,Normal,0
+1619,59,Female,Asymptomatic,114.0,244.0,No,Normal,157,No,0.7,Flat,0.0,Normal,0
+605,41,Male,Atypical angina,104.0,123.0,No,ST-T abnormality,161,Yes,2.5,Upsloping,0.0,Reversible defect,0
+1346,52,Female,Asymptomatic,136.0,147.0,No,ST-T abnormality,161,Yes,1.7,Downsloping,3.0,Normal,1
+1412,55,Male,Atypical angina,122.0,247.0,No,ST-T abnormality,147,No,2.3,Upsloping,1.0,Reversible defect,1
+552,62,Male,Atypical angina,129.0,0.0,No,Normal,164,No,1.1,Flat,0.0,Reversible defect,0
+1361,62,Female,4,119.0,211.0,No,ST-T abnormality,137,No,1.3,Upsloping,0.0,Reversible defect,1
+1187,54,Female,3,96.0,253.0,No,Normal,181,Yes,0.8,Upsloping,1.0,Reversible defect,1
+1463,64,Male,Asymptomatic,136.0,295.0,Yes,LV hypertrophy,161,No,1.0,Upsloping,0.0,Normal,1
+387,55,Male,Non-anginal pain,134.0,187.0,No,Normal,161,Yes,1.2,Flat,0.0,Reversible defect,1
+886,61,Male,Asymptomatic,148.0,256.0,Yes,ST-T abnormality,164,No,5.2,Upsloping,1.0,Normal,1
+69,56,Male,1,109.0,171.0,No,ST-T abnormality,165,No,0.8,Upsloping,1.0,Normal,1
+575,46,Female,Asymptomatic,111.0,201.0,No,ST-T abnormality,169,Yes,0.2,Flat,0.0,Normal,1
+794,45,Male,Asymptomatic,126.0,146.0,No,Normal,184,Yes,0.1,Flat,1.0,Reversible defect,1
+959,53,Female,Non-anginal pain,134.0,241.0,No,Normal,161,No,1.7,Flat,0.0,Normal,1
+1744,57,Male,Asymptomatic,126.0,213.0,Yes,Normal,154,No,1.1,Upsloping,0.0,Normal,1
+58,54,Male,Atypical angina,97.0,287.0,No,Normal,147,Yes,2.6,Upsloping,0.0,Normal,1
+1752,67,Female,Asymptomatic,105.0,198.0,No,LV hypertrophy,162,No,0.3,Upsloping,0.0,Normal,1
+784,66,Male,Asymptomatic,139.0,249.0,Yes,LV hypertrophy,146,Yes,0.8,Flat,1.0,Normal,1
+1596,55,Male,Asymptomatic,93.0,166.0,No,ST-T abnormality,187,No,0.2,Flat,2.0,Reversible defect,1
+138,47,Male,Asymptomatic,116.0,174.0,No,ST-T abnormality,178,No,1.4,Upsloping,3.0,Reversible defect,1
+461,52,Male,Asymptomatic,106.0,244.0,No,ST-T abnormality,146,No,0.0,Flat,2.0,Reversible defect,1
+1007,53,Female,Asymptomatic,111.0,180.0,No,ST-T abnormality,163,No,3.0,Upsloping,3.0,Reversible defect,1
+1611,59,Male,Asymptomatic,115.0,211.0,No,ST-T abnormality,153,No,0.8,Flat,0.0,Reversible defect,1
+134,46,Male,Asymptomatic,111.0,213.0,No,Normal,161,No,1.2,Upsloping,0.0,Normal,0
+419,74,Male,3,135.0,169.0,No,ST-T abnormality,134,No,0.7,Downsloping,3.0,Reversible defect,0
+1269,46,Male,Asymptomatic,131.0,220.0,No,Normal,179,No,1.7,Flat,,Reversible defect,0
+994,60,Male,Non-anginal pain,132.0,195.0,No,ST-T abnormality,170,Yes,3.5,Downsloping,0.0,Reversible defect,1
+1516,64,Male,Asymptomatic,127.0,287.0,No,Normal,129,No,1.6,Upsloping,,Reversible defect,0
+880,52,Female,Asymptomatic,123.0,186.0,No,Normal,138,Yes,2.0,Upsloping,0.0,Reversible defect,1
+1720,49,Female,Non-anginal pain,136.0,141.0,No,Normal,152,No,0.0,Upsloping,0.0,Reversible defect,0
+783,55,Male,Non-anginal pain,107.0,0.0,No,Normal,156,No,0.3,Flat,0.0,Reversible defect,0
+1268,56,Male,Asymptomatic,115.0,301.0,No,ST-T abnormality,138,No,1.9,Flat,2.0,Reversible defect,1
+1133,69,Male,Atypical angina,118.0,225.0,No,ST-T abnormality,119,No,1.0,Upsloping,1.0,Normal,1
+567,59,Male,Atypical angina,126.0,225.0,No,LV hypertrophy,153,Yes,1.3,Upsloping,3.0,Reversible defect,1
+742,58,Male,2,123.0,166.0,No,ST-T abnormality,146,No,0.3,Downsloping,1.0,Normal,0
+873,48,Female,4,108.0,229.0,No,ST-T abnormality,169,No,0.0,Upsloping,1.0,Normal,0
+1423,48,Male,Asymptomatic,123.0,239.0,No,Normal,138,Yes,3.2,Flat,1.0,Reversible defect,1
+984,53,Male,Asymptomatic,111.0,225.0,Yes,Normal,162,No,2.1,Flat,0.0,Normal,0
+393,45,Male,Typical angina,102.0,176.0,No,Normal,193,Yes,11.4,Upsloping,2.0,Reversible defect,1
+761,51,Male,4,106.0,177.0,No,Normal,156,No,2.5,Flat,1.0,Reversible defect,0
+477,67,Female,Atypical angina,134.0,256.0,No,Normal,138,No,1.6,Flat,1.0,Reversible defect,1
+130,50,Female,Asymptomatic,141.0,243.0,No,Normal,165,Yes,1.0,Upsloping,3.0,Normal,0
+1093,51,Female,Asymptomatic,146.0,290.0,Yes,Normal,163,No,1.6,Upsloping,0.0,Normal,1
+971,51,Male,Asymptomatic,102.0,206.0,No,Normal,149,Yes,0.2,Upsloping,0.0,Fixed defect,1
+1052,52,Female,3,105.0,255.0,No,ST-T abnormality,150,Yes,1.0,Upsloping,0.0,Normal,0
+1441,62,Male,3,126.0,239.0,Yes,Normal,140,No,0.4,Flat,0.0,Normal,1
+1317,49,Female,Asymptomatic,116.0,214.0,No,Normal,162,No,2.1,Upsloping,0.0,Normal,0
+185,54,Male,Non-anginal pain,119.0,229.0,Yes,ST-T abnormality,169,No,1.0,Downsloping,0.0,,0
+560,55,Male,Asymptomatic,139.0,311.0,No,ST-T abnormality,162,No,0.5,Flat,0.0,Normal,1
+1338,43,Female,4,113.0,199.0,No,ST-T abnormality,167,Yes,0.6,Downsloping,1.0,Normal,0
+1150,42,Male,3,106.0,186.0,No,ST-T abnormality,185,No,0.1,Downsloping,0.0,Normal,0
+963,47,Male,Typical angina,107.0,110.0,No,ST-T abnormality,145,Yes,0.4,Flat,0.0,Fixed defect,0
+256,52,Female,Non-anginal pain,97.0,230.0,No,LV hypertrophy,155,No,0.3,Upsloping,2.0,Fixed defect,0
+56,56,Female,4,116.0,182.0,Yes,Normal,127,Yes,1.4,Upsloping,0.0,Reversible defect,1
+1220,55,Female,Non-anginal pain,132.0,158.0,No,Normal,156,No,0.3,Downsloping,0.0,Reversible defect,0
+1284,58,Male,4,119.0,0.0,No,Normal,175,Yes,0.1,Flat,2.0,Normal,1
+720,58,Female,Atypical angina,131.0,185.0,No,Normal,139,No,1.9,Upsloping,1.0,Normal,0
+782,57,Female,Non-anginal pain,116.0,235.0,Yes,Normal,151,No,0.1,Flat,1.0,Reversible defect,1
+452,73,Male,3,148.0,263.0,No,Normal,95,Yes,0.4,Flat,0.0,Normal,1
+339,41,Male,Non-anginal pain,120.0,159.0,No,ST-T abnormality,181,No,0.3,Flat,0.0,Reversible defect,0
+270,61,Male,Asymptomatic,117.0,247.0,No,Normal,152,No,1.2,Flat,3.0,Normal,1
+22,50,Male,Non-anginal pain,124.0,206.0,No,ST-T abnormality,158,No,0.7,Flat,,Normal,0
+1235,54,Male,Non-anginal pain,155.0,191.0,No,Normal,157,No,0.1,Flat,0.0,Reversible defect,1
+76,63,Male,Asymptomatic,110.0,228.0,No,Normal,180,Yes,0.3,Flat,0.0,Reversible defect,0
+1379,53,Female,Typical angina,98.0,251.0,No,Normal,187,Yes,2.9,Downsloping,1.0,Reversible defect,0
+843,60,Male,Atypical angina,121.0,293.0,Yes,Normal,161,No,1.6,Upsloping,2.0,Normal,1
+388,62,Female,3,95.0,267.0,No,LV hypertrophy,149,No,1.7,Upsloping,0.0,Normal,0
+1243,54,Male,Asymptomatic,115.0,190.0,No,ST-T abnormality,166,No,2.9,Flat,0.0,Fixed defect,1
+973,45,Male,Asymptomatic,100.0,183.0,Yes,Normal,150,No,0.8,Upsloping,3.0,Normal,1
+645,56,Male,Asymptomatic,121.0,260.0,No,ST-T abnormality,147,No,1.5,Upsloping,0.0,Normal,1
+1232,43,Male,Atypical angina,94.0,113.0,No,LV hypertrophy,133,Yes,0.8,Flat,0.0,Reversible defect,0
+71,56,Male,Asymptomatic,106.0,254.0,No,Normal,158,Yes,0.4,Flat,0.0,Reversible defect,1
+1134,46,Female,Non-anginal pain,83.0,192.0,No,ST-T abnormality,180,No,1.2,Upsloping,1.0,Normal,0
+813,53,Female,Non-anginal pain,104.0,214.0,Yes,ST-T abnormality,147,Yes,1.0,Upsloping,1.0,Fixed defect,0
+510,52,Male,1,112.0,161.0,No,Normal,161,No,0.4,Upsloping,0.0,Normal,0
+1341,42,Male,1,96.0,205.0,No,Normal,164,No,5.6,Upsloping,0.0,Normal,1
+693,52,Female,Atypical angina,98.0,251.0,Yes,Normal,162,No,0.2,Upsloping,1.0,Normal,0
+826,55,Female,4,140.0,270.0,Yes,Normal,176,Yes,0.5,Upsloping,0.0,Reversible defect,0
+38,60,Male,Typical angina,96.0,243.0,No,LV hypertrophy,153,No,1.4,Flat,1.0,Reversible defect,1
+214,31,Male,Asymptomatic,89.0,195.0,No,LV hypertrophy,177,No,0.4,Flat,2.0,Normal,1
+103,56,Male,4,149.0,233.0,No,Normal,138,Yes,0.3,Flat,3.0,Reversible defect,1
+1251,48,Male,Atypical angina,119.0,148.0,Yes,Normal,155,No,0.2,Flat,0.0,Normal,0
+1580,57,Male,Non-anginal pain,119.0,121.0,No,ST-T abnormality,156,No,0.3,Upsloping,0.0,Reversible defect,0
+863,63,Male,Atypical angina,107.0,183.0,No,ST-T abnormality,125,Yes,1.6,Upsloping,0.0,Normal,1
+1660,54,Female,Atypical angina,110.0,110.0,Yes,Normal,148,No,2.6,Flat,3.0,Normal,1
+1157,47,Male,Asymptomatic,109.0,199.0,No,ST-T abnormality,175,No,0.6,Upsloping,0.0,Reversible defect,1
+1635,64,Male,3,109.0,240.0,No,ST-T abnormality,151,No,0.9,Upsloping,0.0,Normal,1
+577,44,Male,Asymptomatic,125.0,221.0,No,Normal,165,No,2.2,Downsloping,0.0,Normal,1
+1496,40,Female,Asymptomatic,69.0,126.0,No,Normal,153,No,0.1,Flat,0.0,Normal,0
+454,60,Male,Asymptomatic,145.0,252.0,No,ST-T abnormality,143,Yes,5.7,Upsloping,0.0,Reversible defect,1
+1701,54,Male,4,133.0,268.0,No,Normal,155,No,0.1,Upsloping,1.0,Normal,0
+907,64,Male,Atypical angina,152.0,191.0,No,ST-T abnormality,139,Yes,3.4,Upsloping,0.0,Reversible defect,1
+1648,55,Male,Asymptomatic,86.0,215.0,No,ST-T abnormality,153,Yes,1.8,Upsloping,3.0,Normal,1
+926,48,Male,Asymptomatic,119.0,225.0,No,Normal,147,Yes,0.9,Flat,1.0,Normal,1
+1253,70,Male,Atypical angina,146.0,235.0,No,Normal,137,Yes,1.1,Upsloping,0.0,Normal,1
+1668,49,Male,1,144.0,155.0,Yes,ST-T abnormality,137,No,0.2,Upsloping,1.0,Normal,0
+34,61,Female,Asymptomatic,115.0,178.0,No,ST-T abnormality,112,No,0.8,Upsloping,0.0,Reversible defect,1
+840,57,Female,Non-anginal pain,112.0,252.0,No,Normal,140,Yes,5.0,Upsloping,0.0,Normal,1
+1355,37,Female,Non-anginal pain,107.0,213.0,No,Normal,176,No,1.0,Upsloping,0.0,Reversible defect,0
+1521,65,Male,Asymptomatic,137.0,289.0,No,ST-T abnormality,146,No,0.3,Flat,0.0,Normal,1
+1182,58,Female,Asymptomatic,122.0,184.0,No,Normal,155,No,0.2,Upsloping,0.0,Reversible defect,0
+636,65,Male,4,105.0,246.0,No,ST-T abnormality,150,No,0.4,Flat,0.0,Reversible defect,1
+285,45,Male,Asymptomatic,118.0,215.0,No,ST-T abnormality,161,Yes,1.9,Upsloping,0.0,Normal,1
+895,58,Male,Atypical angina,119.0,277.0,No,Normal,150,Yes,0.3,Flat,0.0,Reversible defect,1
+1798,50,Male,Asymptomatic,121.0,199.0,No,ST-T abnormality,160,Yes,1.6,Upsloping,,Reversible defect,1
+127,69,Male,Asymptomatic,106.0,286.0,No,Normal,132,No,0.3,Flat,0.0,Normal,1
+1402,47,Male,Atypical angina,130.0,211.0,No,Normal,152,No,0.7,Flat,,Normal,1
+283,64,Male,4,118.0,227.0,No,Normal,148,No,1.2,Upsloping,1.0,Reversible defect,1
+1116,44,Female,Asymptomatic,116.0,173.0,No,Normal,168,No,0.4,Upsloping,0.0,Reversible defect,0
+1471,58,Female,Typical angina,117.0,321.0,No,Normal,150,No,0.7,Downsloping,0.0,Reversible defect,0
+335,60,Female,4,148.0,242.0,Yes,ST-T abnormality,167,Yes,2.7,Flat,0.0,Fixed defect,1
+1515,57,Female,Non-anginal pain,105.0,250.0,No,ST-T abnormality,167,No,0.4,Downsloping,0.0,Normal,0
+1121,71,Female,Non-anginal pain,112.0,214.0,Yes,Normal,144,No,2.3,Flat,0.0,Normal,1
+488,62,Female,2,145.0,110.0,No,ST-T abnormality,119,No,2.5,Flat,0.0,Normal,1
+1531,47,Male,Atypical angina,112.0,179.0,Yes,ST-T abnormality,172,No,0.3,Downsloping,0.0,Normal,0
+351,57,Male,Atypical angina,106.0,283.0,No,Normal,161,Yes,2.8,Flat,0.0,Reversible defect,1
+183,47,Female,4,97.0,302.0,No,Normal,203,No,0.4,Upsloping,0.0,Reversible defect,0
+1264,48,Female,Typical angina,90.0,203.0,No,Normal,179,No,2.4,Flat,0.0,Normal,0
+1533,49,Male,1,153.0,236.0,No,Normal,128,Yes,2.2,Downsloping,0.0,Reversible defect,1
+1768,57,Male,Non-anginal pain,130.0,0.0,No,ST-T abnormality,158,No,0.3,Flat,0.0,Reversible defect,0
+1585,43,Female,Atypical angina,108.0,193.0,No,Normal,170,No,1.5,Upsloping,2.0,Reversible defect,0
+734,54,Female,Asymptomatic,131.0,212.0,No,Normal,137,Yes,2.3,Flat,0.0,Normal,1
+571,64,Male,Typical angina,126.0,237.0,No,LV hypertrophy,151,Yes,1.2,Flat,,Normal,0
+1541,67,Female,Non-anginal pain,140.0,198.0,No,Normal,126,No,0.0,Upsloping,1.0,Reversible defect,1
+1127,47,Male,Asymptomatic,125.0,193.0,No,Normal,172,No,1.8,Downsloping,0.0,Reversible defect,0
+337,61,Male,Non-anginal pain,126.0,160.0,No,Normal,152,Yes,0.4,Upsloping,0.0,Normal,1
+1732,54,Female,Asymptomatic,113.0,200.0,No,Normal,165,No,0.2,Upsloping,0.0,Normal,1
+72,56,Male,Atypical angina,148.0,217.0,No,LV hypertrophy,146,No,0.3,Flat,0.0,Fixed defect,0
+287,53,Male,Asymptomatic,101.0,231.0,Yes,Normal,163,No,0.2,Flat,3.0,Normal,1
+989,56,Male,Non-anginal pain,134.0,260.0,No,ST-T abnormality,138,Yes,5.0,Flat,0.0,Normal,1
+1578,62,Female,Non-anginal pain,115.0,246.0,Yes,Normal,157,No,0.4,Flat,2.0,Normal,0
+377,56,Male,2,112.0,204.0,No,LV hypertrophy,142,No,0.0,Flat,0.0,Reversible defect,0
+878,52,Female,Asymptomatic,116.0,261.0,No,Normal,174,No,0.6,Flat,1.0,Normal,0
+570,49,Male,Non-anginal pain,103.0,281.0,No,LV hypertrophy,185,No,0.7,Upsloping,1.0,Normal,0
+1790,52,Male,Asymptomatic,124.0,227.0,No,Normal,170,Yes,5.2,Flat,0.0,Normal,1
+850,54,Female,Asymptomatic,125.0,305.0,No,Normal,139,No,0.1,Upsloping,0.0,Normal,0
+1105,39,Female,Asymptomatic,95.0,190.0,No,ST-T abnormality,181,Yes,2.0,Downsloping,0.0,Reversible defect,0
+2,57,Female,Non-anginal pain,134.0,197.0,No,LV hypertrophy,145,No,0.1,Upsloping,0.0,Normal,0
+709,58,Female,Asymptomatic,109.0,159.0,No,ST-T abnormality,158,No,0.9,Upsloping,1.0,Normal,1
+361,58,Male,Non-anginal pain,103.0,187.0,No,ST-T abnormality,187,No,3.7,Flat,0.0,Fixed defect,1
+738,62,Male,Asymptomatic,85.0,212.0,No,Normal,149,No,4.5,Upsloping,0.0,Normal,1
+470,57,Female,Atypical angina,117.0,228.0,No,ST-T abnormality,129,Yes,0.3,Flat,0.0,Normal,0
+635,47,Male,Atypical angina,82.0,207.0,No,ST-T abnormality,176,Yes,0.4,Flat,,Reversible defect,1
+1480,47,Female,Asymptomatic,136.0,180.0,No,Normal,184,No,0.5,Flat,0.0,Normal,0
+177,64,Male,Atypical angina,112.0,213.0,No,ST-T abnormality,130,No,0.2,Downsloping,1.0,Reversible defect,1
+1347,61,Female,Asymptomatic,125.0,287.0,No,LV hypertrophy,150,Yes,0.4,Upsloping,0.0,Normal,1
+1718,49,Male,Non-anginal pain,96.0,217.0,No,Normal,170,No,0.3,Flat,0.0,Normal,1
+425,69,Male,Non-anginal pain,103.0,314.0,No,LV hypertrophy,182,No,0.9,Downsloping,2.0,Reversible defect,1
+48,58,Female,Atypical angina,133.0,110.0,No,Normal,154,Yes,0.7,Upsloping,1.0,Reversible defect,0
+63,58,Male,Non-anginal pain,116.0,201.0,No,Normal,143,Yes,1.1,Upsloping,1.0,Reversible defect,1
+1373,57,Male,Atypical angina,137.0,267.0,No,ST-T abnormality,144,No,1.3,Upsloping,0.0,Normal,1
+681,54,Male,3,136.0,150.0,Yes,ST-T abnormality,154,No,0.6,Upsloping,0.0,Normal,0
+1565,60,Male,Atypical angina,101.0,200.0,No,LV hypertrophy,157,No,0.4,Flat,0.0,Normal,0
+365,67,Female,1,102.0,204.0,Yes,ST-T abnormality,138,Yes,3.6,Upsloping,,Normal,1
+306,64,Male,Non-anginal pain,124.0,145.0,No,ST-T abnormality,143,Yes,1.8,Flat,1.0,Normal,0
+350,58,Female,Asymptomatic,114.0,208.0,No,Normal,141,Yes,2.2,Downsloping,0.0,Normal,0
+1055,38,Female,4,91.0,110.0,Yes,ST-T abnormality,221,No,0.3,Upsloping,,Normal,0
+1421,42,Male,2,121.0,123.0,No,ST-T abnormality,153,Yes,0.5,Flat,0.0,Reversible defect,1
+1018,52,Female,4,109.0,110.0,No,ST-T abnormality,157,No,0.7,Flat,1.0,Reversible defect,0
+68,63,Female,Non-anginal pain,133.0,110.0,No,Normal,125,No,0.3,Upsloping,0.0,Reversible defect,0
+1525,46,Male,Non-anginal pain,132.0,189.0,Yes,ST-T abnormality,188,No,0.9,Downsloping,0.0,Normal,0
+1410,43,Male,Asymptomatic,114.0,244.0,No,LV hypertrophy,171,Yes,0.5,Flat,1.0,Normal,1
+846,56,Male,1,112.0,255.0,No,ST-T abnormality,160,No,0.8,Flat,2.0,Reversible defect,1
+866,56,Male,3,135.0,221.0,No,ST-T abnormality,177,No,2.0,Downsloping,0.0,Normal,0
+1025,65,Female,Asymptomatic,120.0,231.0,No,ST-T abnormality,143,No,3.0,Upsloping,1.0,Reversible defect,1
+1308,66,Male,Asymptomatic,126.0,276.0,No,ST-T abnormality,137,Yes,0.3,Flat,1.0,Normal,1
+96,59,Male,Asymptomatic,120.0,224.0,Yes,Normal,144,No,1.5,Flat,0.0,Normal,1
+1036,63,Male,4,142.0,167.0,No,LV hypertrophy,132,No,0.1,Upsloping,2.0,Normal,1
+1166,47,Female,Non-anginal pain,108.0,0.0,No,ST-T abnormality,168,Yes,2.6,Upsloping,0.0,Reversible defect,0
+375,50,Male,Asymptomatic,122.0,234.0,No,Normal,106,No,0.7,Upsloping,0.0,Reversible defect,1
+1370,55,Male,Non-anginal pain,129.0,216.0,No,Normal,155,No,0.8,Upsloping,2.0,Normal,1
+962,59,Male,Asymptomatic,95.0,194.0,No,Normal,164,No,1.3,Upsloping,3.0,Reversible defect,0
+1773,44,Male,4,122.0,0.0,No,Normal,172,No,1.9,Flat,2.0,Normal,1
+1535,45,Male,Atypical angina,136.0,229.0,No,Normal,189,No,0.2,Flat,0.0,Normal,0
+976,59,Male,Atypical angina,147.0,178.0,No,Normal,166,Yes,0.2,Flat,1.0,Reversible defect,1
+84,42,Female,3,111.0,269.0,No,Normal,163,Yes,1.5,Downsloping,,Normal,0
+1560,54,Male,Non-anginal pain,140.0,236.0,No,ST-T abnormality,193,Yes,2.7,Upsloping,1.0,Reversible defect,1
+376,53,Male,Atypical angina,105.0,292.0,Yes,ST-T abnormality,172,No,0.4,Flat,2.0,Normal,1
+344,53,Male,Asymptomatic,113.0,0.0,No,Normal,139,No,0.8,Upsloping,1.0,Normal,0
+220,50,Male,Asymptomatic,129.0,166.0,No,Normal,175,Yes,3.0,Flat,0.0,Normal,1
+1499,48,Male,Non-anginal pain,122.0,117.0,No,ST-T abnormality,161,No,1.2,Flat,0.0,Reversible defect,0
+271,54,Male,Asymptomatic,111.0,185.0,Yes,LV hypertrophy,162,No,0.9,Upsloping,2.0,Normal,1
+1484,47,Female,Asymptomatic,96.0,282.0,No,Normal,173,Yes,1.5,Flat,0.0,Normal,1
+1329,73,Male,Typical angina,138.0,220.0,No,Normal,160,No,0.3,Upsloping,1.0,Fixed defect,1
+1513,55,Male,3,125.0,187.0,No,ST-T abnormality,156,No,0.1,Flat,0.0,Normal,0
+531,54,Male,Atypical angina,104.0,131.0,Yes,LV hypertrophy,150,No,2.5,Upsloping,3.0,Normal,1
+1229,55,Male,Atypical angina,137.0,0.0,Yes,Normal,143,No,1.5,Upsloping,1.0,Reversible defect,1
+914,52,Male,Asymptomatic,86.0,239.0,Yes,Normal,155,No,1.6,Flat,0.0,,0
+742,58,Male,2,123.0,166.0,No,ST-T abnormality,146,No,0.3,Downsloping,1.0,Normal,0
+658,44,Male,4,87.0,236.0,No,ST-T abnormality,163,No,0.3,Upsloping,0.0,Normal,0
+1523,54,Male,Non-anginal pain,133.0,225.0,No,ST-T abnormality,135,No,0.7,Upsloping,0.0,Normal,0
+33,49,Male,Non-anginal pain,120.0,199.0,No,Normal,160,No,1.0,Flat,0.0,Reversible defect,0
+1085,60,Male,Non-anginal pain,104.0,253.0,Yes,ST-T abnormality,121,No,1.8,Upsloping,0.0,Normal,0
+397,58,Male,Asymptomatic,125.0,173.0,No,ST-T abnormality,165,No,0.3,Upsloping,2.0,Normal,1
+756,57,Male,Asymptomatic,132.0,214.0,No,Normal,162,Yes,0.4,Downsloping,0.0,,1
+1042,39,Female,Typical angina,110.0,169.0,No,ST-T abnormality,173,No,0.9,Flat,0.0,Normal,0
+135,61,Female,Non-anginal pain,107.0,175.0,No,Normal,151,No,0.4,Upsloping,0.0,Fixed defect,0
+1023,57,Male,Asymptomatic,115.0,203.0,No,ST-T abnormality,148,Yes,0.5,Upsloping,0.0,Reversible defect,1
+432,51,Male,Typical angina,84.0,187.0,No,Normal,140,No,1.1,Flat,0.0,Normal,0
+1122,68,Female,Asymptomatic,126.0,210.0,No,LV hypertrophy,151,No,0.9,Upsloping,2.0,Normal,1
+1552,64,Male,Atypical angina,117.0,153.0,No,Normal,141,Yes,0.3,Upsloping,0.0,Reversible defect,0
+222,49,Male,Atypical angina,104.0,207.0,No,Normal,164,Yes,0.3,Flat,1.0,,1
+884,40,Male,Asymptomatic,119.0,234.0,No,ST-T abnormality,195,Yes,4.1,Upsloping,2.0,Normal,0
+1195,61,Male,Asymptomatic,155.0,178.0,No,Normal,126,Yes,3.5,Upsloping,1.0,Normal,1
+399,53,Female,3,124.0,239.0,No,ST-T abnormality,166,No,1.2,Upsloping,0.0,Normal,0
+218,56,Male,Asymptomatic,131.0,240.0,No,Normal,147,Yes,1.6,Flat,0.0,Normal,1
+170,50,Male,Asymptomatic,127.0,202.0,No,Normal,171,Yes,1.2,Upsloping,0.0,Normal,1
+1673,45,Male,Asymptomatic,105.0,143.0,No,ST-T abnormality,157,Yes,0.1,Flat,1.0,Normal,0
+1522,35,Male,Non-anginal pain,101.0,133.0,No,ST-T abnormality,184,No,0.8,Flat,1.0,Reversible defect,0
+937,58,Male,2,127.0,136.0,Yes,Normal,164,No,0.1,Upsloping,1.0,Normal,0
+1335,64,Male,Asymptomatic,77.0,196.0,No,Normal,141,No,1.3,Flat,2.0,Normal,1
+49,53,Male,Asymptomatic,136.0,233.0,No,Normal,138,No,1.0,Downsloping,1.0,Normal,1
+1538,46,Male,Typical angina,103.0,261.0,No,Normal,158,No,0.5,Upsloping,1.0,Normal,0
+1492,64,Male,Atypical angina,141.0,260.0,Yes,Normal,156,No,0.5,Flat,0.0,Normal,0
+1772,48,Male,Non-anginal pain,111.0,129.0,No,Normal,162,No,0.1,Upsloping,1.0,Normal,0
+743,66,Male,Non-anginal pain,137.0,110.0,Yes,Normal,174,No,1.4,Flat,1.0,Reversible defect,1
+391,77,Female,Asymptomatic,107.0,222.0,No,ST-T abnormality,142,No,0.5,Upsloping,1.0,Reversible defect,1
+1197,57,Male,Non-anginal pain,154.0,0.0,No,Normal,155,No,1.5,Upsloping,1.0,Normal,0
+23,37,Female,Non-anginal pain,125.0,216.0,No,ST-T abnormality,166,No,0.2,Upsloping,1.0,Reversible defect,0
+1004,70,Male,Typical angina,140.0,219.0,No,Normal,114,No,0.1,Upsloping,1.0,Normal,1
+386,57,Male,Asymptomatic,97.0,295.0,Yes,ST-T abnormality,148,Yes,0.2,Upsloping,,Normal,1
+671,57,Male,Asymptomatic,126.0,182.0,No,ST-T abnormality,154,Yes,0.9,Upsloping,1.0,Normal,1
+731,55,Male,Asymptomatic,144.0,219.0,No,ST-T abnormality,144,No,1.0,Flat,2.0,Normal,1
+245,68,Male,Asymptomatic,118.0,176.0,Yes,ST-T abnormality,136,No,3.2,Upsloping,0.0,Normal,1
+156,52,Female,Asymptomatic,110.0,112.0,No,Normal,183,No,1.4,Flat,2.0,Reversible defect,1
+727,58,Female,Non-anginal pain,98.0,168.0,No,LV hypertrophy,136,No,0.6,Flat,3.0,Fixed defect,0
+650,60,Male,Asymptomatic,152.0,215.0,No,Normal,122,No,0.7,Flat,3.0,Normal,1
+1380,67,Male,4,139.0,284.0,No,ST-T abnormality,157,No,0.0,Upsloping,2.0,Normal,1
+677,80,Female,Non-anginal pain,165.0,181.0,No,Normal,137,No,1.6,Downsloping,2.0,Reversible defect,1
+303,62,Male,Atypical angina,101.0,226.0,No,ST-T abnormality,135,No,2.6,Upsloping,0.0,Reversible defect,0
+1015,51,Male,Non-anginal pain,108.0,123.0,No,Normal,164,No,0.4,Flat,1.0,Normal,0
+1208,61,Female,Asymptomatic,155.0,257.0,No,ST-T abnormality,165,No,2.1,Flat,0.0,Reversible defect,1
+146,65,Female,Asymptomatic,122.0,257.0,No,Normal,139,No,2.5,Upsloping,2.0,Normal,1
+991,51,Male,4,100.0,238.0,No,ST-T abnormality,141,Yes,0.6,Upsloping,2.0,Normal,1
+85,50,Female,Asymptomatic,133.0,0.0,Yes,Normal,193,Yes,0.2,Upsloping,0.0,Reversible defect,0
+1741,49,Male,4,103.0,278.0,No,ST-T abnormality,132,No,0.4,Flat,0.0,Normal,1
+562,49,Female,Asymptomatic,110.0,203.0,No,ST-T abnormality,168,Yes,1.1,Upsloping,1.0,Reversible defect,0
+656,63,Female,Non-anginal pain,129.0,263.0,No,LV hypertrophy,150,No,0.0,Upsloping,0.0,Normal,0
+416,46,Female,Non-anginal pain,119.0,182.0,No,ST-T abnormality,180,Yes,2.3,Upsloping,2.0,Reversible defect,1
+418,55,Male,Non-anginal pain,117.0,235.0,No,LV hypertrophy,136,No,1.4,Upsloping,3.0,Normal,1
+520,61,Female,Non-anginal pain,96.0,261.0,No,ST-T abnormality,164,No,0.4,Upsloping,0.0,Normal,0
+407,50,Female,Non-anginal pain,122.0,177.0,No,ST-T abnormality,206,Yes,0.9,Upsloping,0.0,Normal,0
+1726,38,Female,Typical angina,89.0,188.0,No,Normal,171,Yes,7.0,Downsloping,0.0,Reversible defect,1
+1322,45,Male,Non-anginal pain,105.0,167.0,No,ST-T abnormality,168,No,0.1,Flat,0.0,Reversible defect,0
+1766,50,Male,Asymptomatic,103.0,154.0,No,Normal,179,No,0.4,Flat,0.0,Reversible defect,1
+1743,40,Female,Asymptomatic,94.0,241.0,No,Normal,182,Yes,2.8,Upsloping,2.0,Normal,1
+1608,61,Male,Asymptomatic,108.0,266.0,No,ST-T abnormality,147,Yes,0.3,Upsloping,2.0,Reversible defect,1
+760,70,Female,4,108.0,180.0,No,ST-T abnormality,144,No,0.6,Upsloping,0.0,Normal,0
+1474,52,Female,Asymptomatic,110.0,182.0,No,LV hypertrophy,137,Yes,0.3,Flat,0.0,Normal,1
+955,51,Female,Non-anginal pain,122.0,201.0,No,ST-T abnormality,164,No,0.8,Flat,2.0,Normal,0
+1325,39,Male,4,105.0,209.0,No,Normal,169,Yes,2.9,Flat,0.0,Normal,1
+1781,55,Male,Non-anginal pain,122.0,263.0,No,ST-T abnormality,156,No,0.4,Flat,1.0,Normal,1
+909,60,Male,Atypical angina,128.0,275.0,No,ST-T abnormality,159,No,0.6,Flat,0.0,Reversible defect,0
+1757,61,Male,Asymptomatic,128.0,222.0,No,LV hypertrophy,173,No,0.2,Upsloping,0.0,Normal,0
+179,47,Male,Asymptomatic,117.0,0.0,No,ST-T abnormality,184,No,1.7,Flat,2.0,Reversible defect,1
+696,72,Male,Asymptomatic,89.0,183.0,No,LV hypertrophy,130,No,0.1,Upsloping,1.0,Normal,0
+1500,47,Male,Non-anginal pain,107.0,268.0,No,LV hypertrophy,181,Yes,3.1,Flat,1.0,Normal,1
+1592,53,Male,Asymptomatic,129.0,237.0,No,Normal,123,Yes,0.5,Upsloping,3.0,Normal,1
+74,57,Male,Typical angina,118.0,270.0,Yes,Normal,178,No,0.7,Upsloping,0.0,Normal,0
+35,61,Female,4,103.0,233.0,No,Normal,171,No,1.3,Upsloping,0.0,Reversible defect,0
+75,55,Male,Asymptomatic,123.0,223.0,No,Normal,179,No,0.4,Upsloping,0.0,Normal,1
+1767,50,Female,Non-anginal pain,132.0,204.0,No,Normal,152,No,0.2,Flat,1.0,Normal,0
+773,64,Female,4,94.0,236.0,Yes,Normal,121,No,0.1,Flat,1.0,Normal,1
+1623,54,Female,4,121.0,180.0,No,Normal,146,Yes,2.8,Upsloping,0.0,Reversible defect,1
+988,50,Female,3,125.0,258.0,No,LV hypertrophy,163,No,1.0,Upsloping,0.0,Reversible defect,0
+390,42,Male,Non-anginal pain,144.0,157.0,No,ST-T abnormality,159,Yes,4.3,Flat,0.0,Normal,1
+1610,58,Male,1,114.0,0.0,No,LV hypertrophy,180,No,0.9,Upsloping,1.0,Reversible defect,1
+371,52,Male,Asymptomatic,131.0,229.0,No,Normal,172,Yes,1.1,Upsloping,0.0,Fixed defect,1
+1064,55,Female,Asymptomatic,134.0,0.0,No,ST-T abnormality,175,No,4.8,Upsloping,0.0,Normal,1
+498,67,Male,Atypical angina,142.0,216.0,No,ST-T abnormality,178,No,0.2,Upsloping,1.0,Normal,0
+1716,55,Male,4,120.0,223.0,Yes,Normal,158,No,0.5,Upsloping,2.0,Normal,1
+631,52,Male,Non-anginal pain,129.0,221.0,No,LV hypertrophy,155,No,1.8,Flat,0.0,Reversible defect,1
+253,46,Female,Asymptomatic,120.0,210.0,No,ST-T abnormality,178,No,1.1,Upsloping,3.0,Normal,1
+1161,46,Male,Non-anginal pain,128.0,280.0,No,LV hypertrophy,195,No,0.2,Flat,1.0,Normal,0
+1318,69,Male,3,136.0,225.0,No,LV hypertrophy,140,No,0.1,Flat,1.0,Reversible defect,1
+1265,66,Male,4,123.0,203.0,No,Normal,160,No,0.9,Flat,0.0,Reversible defect,0
+1405,57,Male,Asymptomatic,104.0,229.0,Yes,Normal,148,No,0.9,Flat,0.0,Reversible defect,1
+1061,57,Female,Asymptomatic,121.0,186.0,No,LV hypertrophy,136,Yes,0.1,Flat,,Reversible defect,1
+1062,62,Female,Non-anginal pain,124.0,280.0,No,ST-T abnormality,154,No,0.6,Flat,1.0,Normal,1
+1468,55,Male,Asymptomatic,113.0,241.0,No,Normal,152,No,2.6,Upsloping,0.0,Reversible defect,1
+1782,62,Male,Asymptomatic,160.0,165.0,No,LV hypertrophy,160,Yes,0.5,Downsloping,1.0,Fixed defect,1
+204,55,Female,Asymptomatic,120.0,227.0,No,ST-T abnormality,134,No,1.4,Flat,0.0,Normal,1
+1612,59,Male,Asymptomatic,130.0,211.0,No,ST-T abnormality,169,No,0.5,Upsloping,1.0,Reversible defect,1
+499,43,Female,Asymptomatic,108.0,0.0,No,ST-T abnormality,163,No,1.1,Flat,0.0,Reversible defect,0
+539,48,Male,Typical angina,119.0,113.0,No,ST-T abnormality,166,Yes,0.9,Downsloping,1.0,Normal,1
+1080,57,Male,Asymptomatic,96.0,193.0,Yes,LV hypertrophy,176,Yes,1.9,Downsloping,0.0,Normal,1
+89,54,Male,Asymptomatic,102.0,148.0,No,Normal,135,Yes,6.3,Flat,1.0,Normal,1
+447,57,Male,4,124.0,192.0,No,ST-T abnormality,157,No,1.0,Upsloping,3.0,Normal,0
+1789,45,Male,Asymptomatic,114.0,157.0,Yes,Normal,146,No,2.2,Flat,0.0,Normal,1
+748,67,Female,Non-anginal pain,132.0,226.0,No,Normal,161,No,0.1,Flat,0.0,Reversible defect,0
+576,57,Male,4,83.0,257.0,No,Normal,176,No,2.8,Flat,0.0,Fixed defect,1
+1424,55,Female,Non-anginal pain,116.0,251.0,No,ST-T abnormality,148,Yes,1.9,Flat,1.0,Normal,0
+297,54,Male,Typical angina,131.0,281.0,No,ST-T abnormality,186,No,0.4,Downsloping,2.0,Normal,1
+1381,56,Male,Atypical angina,116.0,282.0,No,Normal,151,No,0.6,Downsloping,0.0,Normal,1
+1537,50,Male,Asymptomatic,171.0,146.0,No,Normal,147,No,0.7,Upsloping,2.0,Reversible defect,1
+1737,61,Male,Atypical angina,124.0,197.0,No,Normal,163,Yes,2.9,Downsloping,0.0,Normal,1
+1527,63,Male,Asymptomatic,122.0,250.0,No,Normal,145,No,1.8,Flat,0.0,Normal,0
+373,49,Male,Asymptomatic,118.0,184.0,Yes,ST-T abnormality,162,No,0.8,Upsloping,0.0,Reversible defect,0
+580,52,Male,Asymptomatic,96.0,223.0,No,Normal,168,Yes,0.3,Flat,0.0,Reversible defect,0
+273,54,Female,Non-anginal pain,108.0,233.0,No,Normal,149,Yes,0.7,Downsloping,1.0,Reversible defect,1
+1342,49,Female,Asymptomatic,133.0,257.0,No,Normal,151,No,2.0,Flat,2.0,Reversible defect,1
+509,41,Male,Asymptomatic,111.0,203.0,No,Normal,180,No,1.4,Upsloping,1.0,Normal,0
+1788,68,Male,Asymptomatic,145.0,167.0,No,Normal,140,No,0.1,Upsloping,1.0,Normal,1
+1454,38,Male,Typical angina,126.0,191.0,No,ST-T abnormality,182,No,0.6,Flat,1.0,Reversible defect,0
+1506,63,Female,Asymptomatic,110.0,188.0,No,Normal,148,No,0.8,Flat,1.0,Normal,0
+1419,69,Male,Asymptomatic,118.0,225.0,No,Normal,118,No,0.1,Flat,0.0,Fixed defect,1
+965,45,Female,4,105.0,260.0,No,ST-T abnormality,165,No,4.4,Upsloping,1.0,Normal,1
+1360,52,Female,Non-anginal pain,139.0,272.0,No,Normal,159,No,0.4,Flat,0.0,Reversible defect,0
+772,67,Male,Non-anginal pain,136.0,245.0,No,ST-T abnormality,131,No,0.1,Upsloping,2.0,Normal,1
+670,40,Male,Asymptomatic,131.0,152.0,No,Normal,159,Yes,1.1,Upsloping,0.0,Reversible defect,1
+897,47,Male,Non-anginal pain,85.0,178.0,No,ST-T abnormality,118,No,1.2,Flat,0.0,Reversible defect,0
+1172,57,Male,Non-anginal pain,136.0,191.0,No,LV hypertrophy,173,Yes,1.4,Upsloping,0.0,Normal,0
+648,50,Female,Asymptomatic,106.0,301.0,No,Normal,157,No,0.6,Upsloping,2.0,Fixed defect,0
+1735,50,Male,2,110.0,293.0,Yes,Normal,196,No,0.1,Flat,0.0,Normal,0
+1388,58,Male,Asymptomatic,104.0,227.0,No,ST-T abnormality,116,Yes,2.1,Upsloping,0.0,Normal,1
+1676,41,Male,Typical angina,108.0,177.0,Yes,Normal,172,No,0.3,Flat,1.0,Reversible defect,0
+77,61,Male,Asymptomatic,140.0,245.0,No,ST-T abnormality,126,No,1.3,Upsloping,0.0,Normal,1
+987,59,Female,Non-anginal pain,126.0,223.0,No,ST-T abnormality,156,Yes,3.7,Flat,0.0,,0
+757,58,Female,Atypical angina,111.0,253.0,Yes,Normal,160,No,0.8,Upsloping,2.0,Normal,1
+1519,56,Male,Non-anginal pain,108.0,189.0,No,ST-T abnormality,170,Yes,1.3,Flat,0.0,Reversible defect,1
+10,65,Female,4,121.0,285.0,Yes,LV hypertrophy,128,No,0.1,Upsloping,2.0,Normal,1
+1594,44,Female,Asymptomatic,101.0,174.0,No,Normal,139,No,0.9,Flat,0.0,Normal,0
+1712,47,Male,Atypical angina,90.0,265.0,No,Normal,158,Yes,0.5,Upsloping,1.0,Normal,1
+230,59,Male,Typical angina,125.0,249.0,Yes,ST-T abnormality,159,No,0.6,Downsloping,0.0,Normal,0
+1199,70,Female,Non-anginal pain,120.0,216.0,No,LV hypertrophy,143,No,0.5,Flat,0.0,Normal,0
+1740,54,Male,Atypical angina,79.0,206.0,No,Normal,144,No,1.9,Flat,0.0,Normal,0
+812,51,Male,Atypical angina,126.0,218.0,No,ST-T abnormality,163,No,0.1,Upsloping,1.0,Reversible defect,0
+294,39,Male,Asymptomatic,113.0,253.0,No,Normal,195,No,0.2,Flat,0.0,Normal,0
+1588,55,Male,Asymptomatic,158.0,219.0,No,Normal,168,Yes,0.7,Flat,0.0,Reversible defect,1
+862,49,Male,Asymptomatic,125.0,0.0,No,LV hypertrophy,166,No,0.0,Upsloping,,Normal,1
+687,42,Male,Non-anginal pain,91.0,312.0,No,ST-T abnormality,189,No,1.1,Downsloping,0.0,Normal,1
+601,80,Female,Asymptomatic,112.0,261.0,No,ST-T abnormality,169,Yes,1.2,Flat,,Normal,1
+624,54,Female,Asymptomatic,144.0,190.0,No,Normal,155,No,1.5,Flat,0.0,Reversible defect,0
+435,40,Male,Non-anginal pain,121.0,243.0,No,LV hypertrophy,145,No,0.4,Upsloping,0.0,Normal,0
+522,61,Male,Non-anginal pain,138.0,144.0,No,ST-T abnormality,151,No,1.0,Flat,1.0,Fixed defect,0
+824,48,Female,2,128.0,192.0,No,Normal,147,No,0.4,Downsloping,0.0,Normal,0
+322,57,Female,1,111.0,263.0,No,Normal,145,Yes,0.4,Flat,0.0,Normal,1
+691,52,Male,Asymptomatic,129.0,244.0,No,LV hypertrophy,137,Yes,6.3,Upsloping,0.0,Reversible defect,1
+331,48,Female,1,98.0,139.0,No,ST-T abnormality,178,Yes,1.5,Upsloping,1.0,,0
+226,59,Male,Typical angina,134.0,227.0,No,LV hypertrophy,152,Yes,3.4,Flat,2.0,Normal,0
+944,49,Male,Typical angina,116.0,216.0,No,LV hypertrophy,135,No,0.8,Flat,0.0,Normal,0
+191,66,Male,Asymptomatic,139.0,249.0,No,ST-T abnormality,144,No,0.5,Downsloping,0.0,Normal,1
+1738,43,Female,Atypical angina,105.0,242.0,No,Normal,170,Yes,3.6,Upsloping,2.0,Reversible defect,1
+1160,50,Male,Asymptomatic,120.0,285.0,No,ST-T abnormality,154,Yes,0.2,Upsloping,0.0,Normal,1
+1260,59,Female,Non-anginal pain,118.0,176.0,Yes,Normal,170,No,0.6,Upsloping,0.0,Reversible defect,0
+548,57,Male,Asymptomatic,123.0,204.0,No,Normal,178,No,2.0,Flat,0.0,Normal,0
+1,66,Female,3,106.0,224.0,No,Normal,143,No,0.5,Downsloping,1.0,Reversible defect,1
+1390,58,Male,Atypical angina,128.0,238.0,Yes,ST-T abnormality,138,Yes,2.1,Upsloping,0.0,Normal,1
+1028,53,Male,Atypical angina,125.0,0.0,No,Normal,123,Yes,0.2,Downsloping,0.0,Reversible defect,1
+1449,47,Male,Asymptomatic,109.0,129.0,No,Normal,129,No,0.6,Upsloping,0.0,Normal,1
+792,53,Male,Non-anginal pain,96.0,270.0,No,LV hypertrophy,165,No,0.8,Upsloping,1.0,Normal,1
+1497,61,Male,Asymptomatic,112.0,259.0,No,Normal,169,No,2.1,Upsloping,2.0,Reversible defect,1
+1466,59,Male,4,137.0,223.0,No,LV hypertrophy,156,No,1.1,Upsloping,0.0,Reversible defect,1
+1714,58,Male,Atypical angina,94.0,225.0,No,ST-T abnormality,167,No,1.3,Upsloping,1.0,Normal,0
+595,60,Male,Asymptomatic,112.0,179.0,Yes,Normal,170,No,3.0,Upsloping,1.0,Normal,1
+599,51,Male,2,121.0,173.0,No,ST-T abnormality,156,No,2.0,Upsloping,0.0,Reversible defect,0
+473,57,Female,Typical angina,111.0,242.0,Yes,Normal,136,Yes,1.6,Upsloping,0.0,Normal,1
+1573,60,Male,Non-anginal pain,125.0,212.0,No,Normal,172,No,0.2,Flat,0.0,Reversible defect,0
+542,42,Male,Asymptomatic,105.0,227.0,No,Normal,189,Yes,3.7,Flat,2.0,Normal,1
+490,47,Male,Asymptomatic,109.0,241.0,No,LV hypertrophy,163,No,0.3,Upsloping,2.0,Reversible defect,1
+1098,49,Male,Non-anginal pain,131.0,214.0,No,Normal,148,No,0.2,Downsloping,0.0,Normal,1
+587,48,Male,Asymptomatic,108.0,226.0,No,Normal,192,No,0.3,Flat,0.0,Normal,1
+665,60,Female,Asymptomatic,129.0,273.0,No,ST-T abnormality,156,Yes,2.5,Flat,0.0,Fixed defect,1
+1529,44,Male,4,127.0,0.0,Yes,LV hypertrophy,180,Yes,0.2,Flat,0.0,Normal,1
+682,59,Male,Atypical angina,99.0,193.0,No,ST-T abnormality,121,Yes,2.8,Upsloping,0.0,Fixed defect,1
+1012,55,Female,2,95.0,239.0,No,Normal,133,No,0.6,Downsloping,0.0,Reversible defect,0
+1727,52,Male,Asymptomatic,86.0,197.0,No,Normal,157,No,0.6,Flat,0.0,Normal,1
+99,53,Female,Typical angina,100.0,216.0,No,Normal,177,No,0.1,Flat,1.0,Normal,0
+1084,42,Male,Typical angina,98.0,216.0,No,ST-T abnormality,198,No,2.0,Downsloping,0.0,Normal,0
+1202,52,Male,Atypical angina,107.0,133.0,No,ST-T abnormality,132,No,0.7,Flat,3.0,Normal,1
+983,67,Male,Atypical angina,127.0,238.0,No,ST-T abnormality,162,Yes,3.8,Upsloping,0.0,Normal,1
+160,52,Male,Asymptomatic,135.0,153.0,No,Normal,139,No,0.6,Upsloping,1.0,Normal,1
+241,54,Male,Asymptomatic,96.0,171.0,No,Normal,166,No,1.1,Flat,0.0,Normal,0
+4,42,Male,Atypical angina,123.0,120.0,Yes,LV hypertrophy,143,No,2.2,Flat,0.0,Normal,0
+1233,53,Male,Non-anginal pain,114.0,146.0,No,Normal,152,Yes,0.3,Flat,1.0,Reversible defect,0
+967,36,Female,Atypical angina,87.0,137.0,Yes,ST-T abnormality,174,Yes,1.5,Flat,0.0,Normal,0
+50,68,Male,Typical angina,124.0,204.0,No,ST-T abnormality,146,No,0.9,Flat,0.0,Reversible defect,1
+298,43,Male,Asymptomatic,112.0,248.0,No,Normal,153,Yes,0.9,Upsloping,1.0,Fixed defect,0
+98,55,Male,4,132.0,250.0,Yes,Normal,151,Yes,1.6,Downsloping,3.0,Normal,1
+1624,48,Male,Asymptomatic,108.0,213.0,No,LV hypertrophy,152,No,1.3,Upsloping,3.0,Normal,1
+277,64,Male,4,135.0,297.0,No,ST-T abnormality,161,No,0.0,Upsloping,1.0,Reversible defect,1
+922,50,Male,Non-anginal pain,111.0,282.0,Yes,Normal,160,Yes,0.5,Flat,1.0,Reversible defect,0
+1509,51,Female,3,121.0,193.0,Yes,LV hypertrophy,174,Yes,1.9,Upsloping,0.0,Fixed defect,0
+500,51,Male,3,95.0,238.0,No,Normal,169,No,0.9,Flat,3.0,Normal,1
+1217,48,Male,Asymptomatic,134.0,162.0,No,ST-T abnormality,161,No,0.3,Upsloping,0.0,Reversible defect,1
+1715,53,Male,Asymptomatic,115.0,303.0,No,ST-T abnormality,145,No,0.0,Upsloping,0.0,Normal,1
+1320,66,Male,Atypical angina,115.0,170.0,Yes,LV hypertrophy,147,No,0.9,Flat,0.0,Normal,0
+806,52,Female,Non-anginal pain,102.0,173.0,No,LV hypertrophy,178,No,0.4,Upsloping,3.0,Reversible defect,1
+19,48,Female,Non-anginal pain,129.0,280.0,No,Normal,174,No,1.6,Upsloping,1.0,Normal,0
+249,56,Female,Asymptomatic,127.0,156.0,No,ST-T abnormality,162,No,1.6,Upsloping,0.0,Normal,1
+1336,44,Male,Non-anginal pain,107.0,187.0,No,ST-T abnormality,160,No,1.2,Downsloping,0.0,Normal,0
+787,59,Male,Non-anginal pain,107.0,235.0,No,LV hypertrophy,158,No,0.1,Upsloping,0.0,Reversible defect,0
+793,48,Female,Atypical angina,122.0,233.0,Yes,Normal,165,No,0.5,Flat,,Normal,0
+996,52,Female,Atypical angina,147.0,206.0,No,ST-T abnormality,162,No,0.9,Upsloping,0.0,Reversible defect,0
+81,46,Male,Non-anginal pain,116.0,181.0,No,Normal,199,No,2.1,Upsloping,3.0,Normal,1
+719,50,Female,Non-anginal pain,112.0,153.0,No,ST-T abnormality,165,No,0.2,Flat,0.0,Normal,0
+107,52,Male,Asymptomatic,126.0,273.0,No,ST-T abnormality,157,No,0.9,Upsloping,0.0,Normal,1
+221,60,Male,Asymptomatic,130.0,246.0,No,Normal,135,No,0.4,Upsloping,1.0,Reversible defect,1
+171,57,Male,3,114.0,267.0,No,LV hypertrophy,135,No,0.5,Upsloping,0.0,Normal,0
+186,32,Female,2,100.0,195.0,No,Normal,175,No,1.6,Upsloping,0.0,Fixed defect,0
+320,57,Male,Typical angina,98.0,220.0,No,Normal,140,No,1.3,Flat,3.0,Reversible defect,1
+193,54,Male,Asymptomatic,135.0,244.0,No,Normal,138,Yes,1.2,Downsloping,0.0,Reversible defect,1
+1314,48,Female,Asymptomatic,98.0,187.0,No,Normal,168,No,0.3,Downsloping,2.0,Normal,1
+1124,56,Female,Non-anginal pain,118.0,249.0,No,Normal,172,No,0.0,Downsloping,0.0,Reversible defect,0
+431,71,Male,1,157.0,187.0,No,Normal,142,No,0.8,Upsloping,,Normal,1
+1089,49,Male,Non-anginal pain,123.0,202.0,No,Normal,171,No,0.6,Flat,2.0,Normal,0
+181,47,Male,Asymptomatic,103.0,270.0,No,Normal,147,No,0.2,Flat,1.0,Reversible defect,1
+1066,60,Female,2,95.0,112.0,No,Normal,139,No,0.6,Upsloping,0.0,Normal,1
+456,46,Male,Non-anginal pain,107.0,159.0,No,LV hypertrophy,175,No,0.0,Upsloping,0.0,Fixed defect,0
+668,42,Male,Asymptomatic,129.0,226.0,No,ST-T abnormality,184,No,1.4,Upsloping,1.0,Reversible defect,0
+1180,47,Female,Atypical angina,114.0,149.0,No,Normal,161,Yes,0.9,Flat,3.0,Reversible defect,1
+839,57,Female,Atypical angina,96.0,256.0,No,LV hypertrophy,137,Yes,0.3,Upsloping,1.0,Normal,1
+969,49,Female,Non-anginal pain,126.0,136.0,No,Normal,167,No,1.7,Flat,2.0,Normal,0
+597,51,Male,Asymptomatic,126.0,213.0,No,Normal,141,Yes,1.9,Upsloping,0.0,Reversible defect,1
+39,53,Male,Asymptomatic,101.0,302.0,No,ST-T abnormality,124,Yes,1.3,Upsloping,2.0,,1
+1739,51,Male,Asymptomatic,115.0,169.0,No,Normal,157,No,1.1,Flat,0.0,Normal,0
+92,50,Female,Non-anginal pain,74.0,154.0,No,LV hypertrophy,170,Yes,0.4,Upsloping,0.0,Normal,0
+1669,64,Male,Non-anginal pain,100.0,282.0,No,Normal,115,No,0.9,Downsloping,1.0,Reversible defect,0
+1705,61,Male,4,121.0,233.0,No,Normal,157,Yes,0.9,Flat,3.0,Normal,0
+1710,58,Male,Asymptomatic,103.0,222.0,No,ST-T abnormality,192,Yes,0.0,Downsloping,0.0,Normal,1
+154,52,Female,Atypical angina,103.0,165.0,No,ST-T abnormality,147,Yes,1.5,Upsloping,3.0,Reversible defect,1
+405,70,Female,Asymptomatic,123.0,189.0,No,LV hypertrophy,152,No,0.2,Flat,1.0,Reversible defect,0
+352,65,Male,Asymptomatic,116.0,236.0,No,LV hypertrophy,124,No,0.5,Upsloping,0.0,Normal,1
+774,46,Male,2,78.0,248.0,No,Normal,159,Yes,3.2,Flat,2.0,Normal,1
+439,63,Male,Asymptomatic,94.0,226.0,No,ST-T abnormality,168,No,0.3,Upsloping,0.0,,1
+559,50,Male,Non-anginal pain,121.0,223.0,No,ST-T abnormality,147,No,1.7,Upsloping,1.0,Reversible defect,0
+628,49,Female,Non-anginal pain,95.0,228.0,No,Normal,144,Yes,1.4,Flat,0.0,Normal,1
+903,43,Female,Asymptomatic,127.0,246.0,No,ST-T abnormality,184,No,0.9,Upsloping,1.0,Reversible defect,0
+1282,41,Male,Asymptomatic,136.0,247.0,No,ST-T abnormality,194,No,1.8,Flat,0.0,Fixed defect,1
+485,41,Male,Asymptomatic,128.0,0.0,No,Normal,168,No,0.7,Flat,3.0,Fixed defect,1
+370,49,Female,Typical angina,132.0,230.0,No,ST-T abnormality,178,No,4.9,Upsloping,0.0,Normal,1
+1520,60,Male,Atypical angina,119.0,201.0,No,LV hypertrophy,163,No,2.3,Flat,0.0,Normal,0
+132,48,Male,Atypical angina,129.0,216.0,Yes,Normal,140,Yes,0.6,Flat,0.0,Reversible defect,1
+765,62,Male,Typical angina,124.0,241.0,No,ST-T abnormality,153,No,0.4,Downsloping,2.0,Normal,0
+357,55,Male,Asymptomatic,99.0,178.0,No,Normal,162,No,2.4,Flat,2.0,Normal,1
+1440,74,Male,Asymptomatic,177.0,192.0,No,Normal,153,No,0.8,Flat,0.0,Normal,1
+1563,55,Male,Non-anginal pain,102.0,221.0,Yes,ST-T abnormality,131,No,0.7,Upsloping,0.0,Normal,0
+841,63,Female,Asymptomatic,133.0,258.0,No,ST-T abnormality,174,No,0.1,Flat,2.0,Normal,1
+1178,64,Male,Atypical angina,114.0,292.0,No,LV hypertrophy,153,No,1.7,Downsloping,1.0,Reversible defect,1
+800,57,Male,Atypical angina,128.0,194.0,No,Normal,141,No,0.6,Flat,0.0,Reversible defect,0
+1554,53,Female,Atypical angina,130.0,189.0,No,ST-T abnormality,141,Yes,1.8,Upsloping,0.0,Normal,1
+1697,53,Male,Non-anginal pain,115.0,204.0,No,ST-T abnormality,159,Yes,1.1,Upsloping,0.0,Normal,1
+622,57,Male,Atypical angina,131.0,153.0,No,Normal,155,No,0.4,Flat,0.0,Normal,0
+796,59,Male,Atypical angina,118.0,218.0,No,ST-T abnormality,134,No,0.3,Downsloping,0.0,Normal,0
+347,55,Female,Asymptomatic,81.0,256.0,No,LV hypertrophy,134,No,0.6,Flat,0.0,Normal,0
+804,51,Male,4,120.0,189.0,No,Normal,145,No,1.7,Upsloping,0.0,Normal,0
+444,30,Female,Non-anginal pain,143.0,161.0,No,LV hypertrophy,198,No,0.7,Upsloping,2.0,Normal,1
+1350,51,Male,Non-anginal pain,135.0,221.0,No,LV hypertrophy,169,No,0.8,Upsloping,0.0,Normal,0
+262,63,Male,Non-anginal pain,112.0,172.0,Yes,Normal,119,No,0.4,Downsloping,0.0,Normal,0
+1294,66,Male,Non-anginal pain,130.0,200.0,No,LV hypertrophy,148,Yes,2.3,Upsloping,0.0,Fixed defect,1
+593,52,Male,Asymptomatic,129.0,144.0,No,ST-T abnormality,163,No,0.6,Flat,0.0,Normal,0
+764,34,Female,Asymptomatic,90.0,288.0,No,ST-T abnormality,150,No,0.3,Upsloping,0.0,Reversible defect,0
+93,51,Female,3,160.0,221.0,No,Normal,139,No,0.7,Flat,0.0,Reversible defect,0
+610,49,Female,Asymptomatic,148.0,214.0,No,LV hypertrophy,158,No,1.2,Flat,0.0,Reversible defect,1
+189,38,Male,Atypical angina,117.0,176.0,No,Normal,135,Yes,0.9,Flat,0.0,Reversible defect,0
+745,59,Male,Asymptomatic,135.0,149.0,No,LV hypertrophy,161,No,0.7,Upsloping,1.0,Fixed defect,1
+1593,70,Male,Non-anginal pain,117.0,261.0,No,LV hypertrophy,144,No,1.3,Flat,0.0,Reversible defect,1
+869,55,Male,3,136.0,271.0,Yes,Normal,144,No,1.4,Upsloping,0.0,Reversible defect,1
+755,45,Male,Asymptomatic,109.0,224.0,Yes,Normal,137,No,0.5,Upsloping,2.0,Normal,0
+1259,62,Female,3,119.0,215.0,Yes,LV hypertrophy,157,Yes,1.2,Upsloping,1.0,Reversible defect,1
+1508,62,Female,Atypical angina,135.0,277.0,No,Normal,173,No,1.7,Upsloping,0.0,Reversible defect,1
+1083,52,Male,Atypical angina,118.0,258.0,No,ST-T abnormality,119,No,0.1,Upsloping,0.0,Normal,0
+327,69,Male,3,115.0,214.0,No,Normal,156,No,1.0,Upsloping,1.0,Normal,1
+1092,42,Female,Asymptomatic,112.0,194.0,No,Normal,162,No,0.3,Upsloping,1.0,Normal,0
+848,54,Female,Non-anginal pain,114.0,232.0,No,Normal,150,Yes,0.1,Upsloping,0.0,Reversible defect,0
+1607,53,Male,Asymptomatic,104.0,237.0,Yes,Normal,174,No,0.3,Flat,0.0,Reversible defect,0
+752,59,Male,4,126.0,328.0,No,Normal,181,No,0.5,Flat,1.0,Normal,1
+57,69,Male,Atypical angina,126.0,175.0,No,ST-T abnormality,121,No,0.9,Upsloping,,Normal,0
+632,56,Male,Non-anginal pain,119.0,178.0,No,Normal,143,No,0.4,Upsloping,0.0,Reversible defect,0
+1666,64,Male,4,164.0,253.0,No,LV hypertrophy,170,No,2.6,Upsloping,2.0,Normal,1
+933,78,Female,Atypical angina,122.0,127.0,No,LV hypertrophy,134,No,1.3,Downsloping,1.0,Fixed defect,1
+1532,61,Male,3,134.0,242.0,No,Normal,174,No,2.5,Upsloping,3.0,Normal,1
+678,50,Male,3,105.0,175.0,No,Normal,195,Yes,3.4,Upsloping,2.0,Normal,1
+1561,39,Female,4,100.0,169.0,No,LV hypertrophy,182,No,2.5,Flat,0.0,Reversible defect,1
+1193,45,Male,Non-anginal pain,119.0,191.0,No,Normal,184,No,1.1,Upsloping,1.0,Normal,0
+210,63,Female,Asymptomatic,120.0,0.0,No,Normal,153,No,0.8,Flat,,Fixed defect,0
+901,58,Male,Non-anginal pain,92.0,215.0,No,ST-T abnormality,163,Yes,1.4,Flat,1.0,Normal,1
+1073,62,Female,Asymptomatic,127.0,289.0,No,Normal,187,No,0.6,Flat,0.0,Fixed defect,1
+1081,39,Male,Asymptomatic,124.0,266.0,No,ST-T abnormality,196,Yes,1.2,Upsloping,0.0,Normal,0
+1615,50,Male,Atypical angina,143.0,227.0,No,Normal,138,Yes,1.3,Flat,0.0,Reversible defect,0
+974,52,Male,Asymptomatic,129.0,110.0,No,ST-T abnormality,173,Yes,0.2,Upsloping,3.0,Reversible defect,1
+1566,38,Male,Asymptomatic,144.0,250.0,No,ST-T abnormality,147,No,0.3,Upsloping,1.0,Normal,0
+644,62,Female,3,147.0,162.0,No,LV hypertrophy,163,No,1.3,Upsloping,0.0,Normal,0
+1324,58,Male,Asymptomatic,128.0,214.0,No,ST-T abnormality,127,No,0.5,Upsloping,1.0,Reversible defect,1
+330,52,Male,Asymptomatic,106.0,193.0,No,LV hypertrophy,164,Yes,2.4,Upsloping,0.0,Normal,1
+1490,60,Male,Asymptomatic,130.0,234.0,No,Normal,135,No,0.2,Flat,1.0,Reversible defect,1
+292,45,Male,4,117.0,176.0,Yes,Normal,189,No,0.3,Flat,0.0,Reversible defect,0
+1639,59,Male,Non-anginal pain,113.0,271.0,No,Normal,185,Yes,2.4,Flat,0.0,Reversible defect,1
+1038,65,Male,Asymptomatic,111.0,173.0,No,Normal,169,Yes,0.1,Flat,1.0,Reversible defect,1
+1643,63,Male,1,110.0,228.0,No,Normal,155,No,1.3,Flat,0.0,Normal,0
+1657,50,Female,Non-anginal pain,112.0,253.0,No,Normal,152,No,1.0,Flat,0.0,Reversible defect,1
+875,55,Male,Asymptomatic,142.0,214.0,No,Normal,152,No,0.3,Flat,0.0,Fixed defect,1
+1024,49,Female,Asymptomatic,125.0,136.0,Yes,ST-T abnormality,149,No,1.0,Flat,0.0,Reversible defect,0
+1037,58,Male,Asymptomatic,134.0,238.0,Yes,ST-T abnormality,117,Yes,2.8,Downsloping,1.0,Normal,1
+939,63,Male,Asymptomatic,88.0,198.0,No,ST-T abnormality,167,No,0.7,Flat,0.0,Normal,0
+1775,59,Female,Asymptomatic,102.0,176.0,No,Normal,171,No,1.1,Upsloping,0.0,Reversible defect,1
+1704,54,Female,Non-anginal pain,120.0,244.0,No,LV hypertrophy,153,No,0.4,Flat,2.0,Reversible defect,0
+1358,54,Female,4,126.0,258.0,No,ST-T abnormality,153,No,0.5,Upsloping,0.0,Reversible defect,1
+274,62,Male,Non-anginal pain,121.0,110.0,No,Normal,136,No,0.3,Upsloping,0.0,Normal,0
+1702,36,Female,Atypical angina,105.0,152.0,No,ST-T abnormality,133,No,3.4,Flat,1.0,Normal,0
+705,73,Male,Asymptomatic,122.0,231.0,No,ST-T abnormality,139,No,0.1,Downsloping,0.0,Fixed defect,1
+1206,62,Male,Non-anginal pain,121.0,238.0,No,Normal,150,No,1.5,Upsloping,0.0,Reversible defect,0
+569,36,Female,Typical angina,114.0,171.0,Yes,Normal,166,No,1.7,Upsloping,2.0,Reversible defect,0
+1691,77,Female,Non-anginal pain,113.0,197.0,No,Normal,126,No,0.8,Flat,1.0,Normal,1
+1256,61,Male,Typical angina,124.0,253.0,No,ST-T abnormality,125,No,0.5,Flat,0.0,Reversible defect,1
+1770,47,Male,Non-anginal pain,127.0,164.0,Yes,LV hypertrophy,171,Yes,2.6,Downsloping,0.0,Normal,1
+1128,47,Male,Asymptomatic,97.0,237.0,No,Normal,145,No,0.7,Flat,0.0,Normal,0
+852,33,Male,Non-anginal pain,115.0,179.0,Yes,Normal,161,Yes,0.2,Upsloping,1.0,Fixed defect,0
+1442,50,Female,Non-anginal pain,93.0,268.0,No,LV hypertrophy,167,No,3.1,Upsloping,0.0,Reversible defect,1
+372,56,Male,4,127.0,235.0,No,ST-T abnormality,129,No,3.0,Flat,1.0,Normal,1
+115,47,Male,Non-anginal pain,143.0,253.0,No,ST-T abnormality,190,No,1.2,Upsloping,0.0,Normal,1
+1553,61,Male,Typical angina,140.0,232.0,No,ST-T abnormality,134,Yes,2.1,Flat,0.0,Normal,1
+980,68,Male,Asymptomatic,118.0,206.0,Yes,ST-T abnormality,108,No,0.7,Upsloping,0.0,Normal,1
+529,63,Male,Asymptomatic,120.0,287.0,No,Normal,131,Yes,0.1,Downsloping,0.0,Normal,1
+462,51,Male,Atypical angina,131.0,218.0,Yes,Normal,174,No,1.3,Flat,2.0,Normal,0
+167,65,Male,Non-anginal pain,108.0,171.0,No,ST-T abnormality,147,Yes,3.5,Flat,0.0,Reversible defect,1
+1087,58,Male,Asymptomatic,130.0,199.0,No,Normal,156,Yes,3.8,Upsloping,0.0,Fixed defect,1
+1371,45,Male,Asymptomatic,103.0,237.0,No,LV hypertrophy,199,No,0.6,Flat,2.0,Reversible defect,1
+1352,65,Male,Asymptomatic,133.0,214.0,No,Normal,140,No,0.2,Upsloping,0.0,Reversible defect,0
+300,49,Male,Asymptomatic,116.0,237.0,No,Normal,168,Yes,0.7,Flat,0.0,Normal,1
+596,57,Male,2,165.0,168.0,No,Normal,145,No,2.2,Upsloping,1.0,Normal,1
+598,73,Male,Asymptomatic,117.0,201.0,No,Normal,141,Yes,4.6,Flat,1.0,Reversible defect,1
+486,57,Male,Asymptomatic,107.0,185.0,No,ST-T abnormality,173,No,0.7,Upsloping,0.0,Reversible defect,1
+396,52,Female,Typical angina,117.0,326.0,No,LV hypertrophy,145,No,0.3,Flat,1.0,Normal,0
+188,58,Male,Atypical angina,104.0,254.0,No,Normal,126,Yes,0.4,Flat,1.0,Normal,0
+348,60,Male,Typical angina,130.0,215.0,No,ST-T abnormality,157,No,0.9,Flat,3.0,Reversible defect,1
+1498,71,Male,Asymptomatic,130.0,207.0,No,Normal,144,No,1.4,Flat,0.0,Normal,1
+299,55,Female,Atypical angina,101.0,257.0,Yes,Normal,152,No,0.5,Flat,0.0,Normal,0
+232,55,Female,Atypical angina,120.0,161.0,No,Normal,166,No,0.9,Upsloping,0.0,Normal,1
+673,57,Female,3,140.0,226.0,No,Normal,184,No,1.6,Flat,0.0,Reversible defect,0
+296,60,Male,Atypical angina,148.0,271.0,No,ST-T abnormality,137,No,0.6,Upsloping,0.0,Reversible defect,1
+1524,54,Male,Non-anginal pain,108.0,228.0,No,Normal,122,No,0.3,Downsloping,,Normal,1
+623,42,Male,Asymptomatic,132.0,160.0,No,Normal,180,Yes,0.8,Flat,0.0,Fixed defect,0
+1270,67,Male,Typical angina,139.0,248.0,No,Normal,171,No,2.4,Upsloping,1.0,Normal,1
+65,52,Male,2,94.0,232.0,No,Normal,155,No,0.9,Flat,,Reversible defect,0
+1602,57,Male,4,129.0,179.0,No,ST-T abnormality,175,Yes,0.2,Upsloping,0.0,Normal,1
+768,49,Female,Non-anginal pain,98.0,0.0,No,Normal,174,Yes,1.3,Flat,0.0,Normal,0
+823,59,Female,Asymptomatic,138.0,183.0,No,ST-T abnormality,165,No,0.0,Flat,0.0,Reversible defect,1
+1778,52,Male,4,137.0,221.0,No,LV hypertrophy,166,No,0.7,Upsloping,0.0,Normal,1
+1242,66,Male,4,140.0,307.0,Yes,LV hypertrophy,174,No,1.0,Upsloping,,Reversible defect,1
+998,50,Male,Asymptomatic,128.0,323.0,No,Normal,153,Yes,1.6,Flat,0.0,Normal,1
+1759,60,Male,Asymptomatic,126.0,182.0,No,Normal,155,No,0.8,Flat,2.0,Normal,1
+1511,78,Male,Atypical angina,117.0,233.0,No,LV hypertrophy,131,No,1.1,Flat,0.0,Reversible defect,0
+1505,51,Male,Asymptomatic,112.0,217.0,No,ST-T abnormality,178,No,2.2,Upsloping,3.0,Reversible defect,1
+777,54,Male,Non-anginal pain,116.0,218.0,No,Normal,177,No,2.1,Flat,1.0,Reversible defect,0
+1747,65,Male,Asymptomatic,133.0,183.0,No,ST-T abnormality,144,No,2.1,Upsloping,0.0,Normal,1
+356,62,Male,Non-anginal pain,100.0,144.0,No,ST-T abnormality,145,Yes,5.8,Upsloping,0.0,Normal,1
+1020,71,Male,Asymptomatic,142.0,160.0,No,Normal,115,Yes,2.1,Flat,2.0,Reversible defect,1
+662,71,Male,Asymptomatic,150.0,214.0,Yes,LV hypertrophy,162,Yes,3.1,Upsloping,1.0,Normal,1
+639,54,Male,Non-anginal pain,120.0,217.0,No,ST-T abnormality,114,No,1.2,Upsloping,1.0,Normal,1
+114,73,Male,Asymptomatic,127.0,299.0,Yes,LV hypertrophy,120,No,1.4,Flat,2.0,Normal,1
+1595,50,Male,Non-anginal pain,141.0,271.0,No,Normal,150,No,1.8,Flat,0.0,Reversible defect,0
+1571,66,Female,Non-anginal pain,139.0,241.0,No,ST-T abnormality,132,Yes,0.7,Flat,0.0,Reversible defect,0
+672,49,Female,Asymptomatic,100.0,137.0,No,Normal,155,Yes,0.1,Upsloping,3.0,Normal,1
+726,46,Male,Non-anginal pain,148.0,250.0,Yes,Normal,180,No,0.2,Upsloping,0.0,Reversible defect,0
+1780,69,Male,Asymptomatic,142.0,219.0,No,ST-T abnormality,129,No,0.4,Upsloping,0.0,Reversible defect,1
+268,45,Female,Asymptomatic,129.0,177.0,No,LV hypertrophy,149,Yes,2.6,Upsloping,3.0,Normal,1
+589,61,Male,Atypical angina,129.0,171.0,No,ST-T abnormality,133,No,3.6,Flat,3.0,Normal,1
+161,53,Male,Asymptomatic,133.0,232.0,No,Normal,146,No,0.8,Flat,1.0,Reversible defect,1
+260,59,Male,2,128.0,287.0,No,Normal,148,Yes,3.9,Upsloping,2.0,Reversible defect,1
+1428,48,Female,Atypical angina,95.0,110.0,No,ST-T abnormality,198,Yes,3.2,Upsloping,3.0,Normal,1
+215,65,Male,Non-anginal pain,129.0,231.0,No,Normal,153,Yes,4.5,Upsloping,0.0,Normal,1
+1027,64,Female,Asymptomatic,127.0,269.0,No,Normal,160,Yes,0.3,Flat,1.0,Reversible defect,1
+495,34,Male,Non-anginal pain,104.0,201.0,No,ST-T abnormality,169,No,3.3,Flat,1.0,Reversible defect,1
+176,56,Female,3,137.0,195.0,Yes,Normal,167,No,1.4,Flat,0.0,Normal,1
+584,51,Male,Asymptomatic,108.0,185.0,No,Normal,158,No,0.1,Flat,2.0,Normal,0
+398,59,Male,Non-anginal pain,140.0,185.0,Yes,LV hypertrophy,133,No,0.6,Upsloping,0.0,Normal,1
+1377,67,Female,Atypical angina,111.0,304.0,No,Normal,138,No,0.0,Upsloping,1.0,Reversible defect,1
+1315,59,Male,Atypical angina,137.0,232.0,No,Normal,162,No,1.7,Flat,0.0,Reversible defect,1
+751,55,Male,Atypical angina,141.0,216.0,No,Normal,185,Yes,0.4,Flat,0.0,Normal,0
+60,43,Male,Asymptomatic,145.0,145.0,No,Normal,156,Yes,3.1,Upsloping,0.0,Normal,1
+885,60,Male,Atypical angina,118.0,187.0,No,ST-T abnormality,199,No,1.3,Flat,0.0,Reversible defect,0
+561,58,Male,Asymptomatic,154.0,178.0,No,ST-T abnormality,174,No,0.6,Upsloping,1.0,Normal,1
+1769,46,Female,Atypical angina,103.0,183.0,No,ST-T abnormality,160,No,1.8,Upsloping,0.0,Normal,0
+1255,54,Male,Asymptomatic,147.0,211.0,No,Normal,184,No,0.2,Upsloping,1.0,Normal,1
+240,48,Female,4,134.0,222.0,No,ST-T abnormality,138,No,2.3,Flat,2.0,Fixed defect,1
+1040,54,Female,Non-anginal pain,131.0,185.0,No,Normal,164,No,0.5,Flat,3.0,Fixed defect,1
+1476,50,Male,1,146.0,282.0,No,ST-T abnormality,179,No,0.6,Upsloping,0.0,Normal,1
+354,54,Male,Asymptomatic,113.0,198.0,No,Normal,186,No,1.2,Flat,2.0,Reversible defect,0
+1077,63,Female,Atypical angina,136.0,238.0,No,ST-T abnormality,129,Yes,1.3,Flat,0.0,Normal,1
+1618,60,Male,3,85.0,315.0,No,Normal,180,Yes,1.1,Upsloping,1.0,Normal,0
+1758,46,Male,Typical angina,100.0,207.0,Yes,ST-T abnormality,171,Yes,4.3,Upsloping,0.0,Reversible defect,1
+1448,60,Female,Non-anginal pain,122.0,216.0,No,Normal,135,No,0.3,Flat,1.0,Fixed defect,0
+1056,61,Male,Typical angina,118.0,231.0,No,LV hypertrophy,163,Yes,0.4,Upsloping,0.0,Normal,1
+627,75,Female,Typical angina,133.0,191.0,Yes,Normal,153,No,0.0,Upsloping,0.0,Normal,0
+775,58,Male,Non-anginal pain,93.0,175.0,No,Normal,157,Yes,0.8,Flat,0.0,Reversible defect,0
+1795,60,Male,Asymptomatic,158.0,226.0,No,LV hypertrophy,152,Yes,0.1,Flat,0.0,Reversible defect,1
+993,46,Female,Asymptomatic,93.0,181.0,No,Normal,209,No,2.9,Downsloping,0.0,,0
+26,54,Male,Non-anginal pain,137.0,197.0,No,ST-T abnormality,161,No,0.0,Downsloping,0.0,Normal,0
+736,60,Female,Asymptomatic,122.0,293.0,No,LV hypertrophy,147,No,1.5,Upsloping,0.0,Reversible defect,1
+368,50,Male,Asymptomatic,103.0,233.0,No,LV hypertrophy,156,No,0.2,Downsloping,,Fixed defect,0
+961,54,Female,Non-anginal pain,109.0,150.0,No,Normal,150,No,0.2,Downsloping,2.0,Fixed defect,1
+125,63,Male,Asymptomatic,138.0,220.0,No,Normal,155,No,0.6,Upsloping,1.0,Normal,1
+475,66,Male,Atypical angina,100.0,192.0,Yes,Normal,130,No,1.7,Upsloping,1.0,Normal,1
+1022,63,Male,4,112.0,245.0,No,Normal,181,No,2.8,Flat,1.0,Reversible defect,0
+1695,41,Male,Asymptomatic,125.0,161.0,Yes,Normal,161,No,1.2,Downsloping,1.0,Reversible defect,0
+113,59,Male,Non-anginal pain,117.0,265.0,No,ST-T abnormality,143,No,0.2,Upsloping,0.0,Normal,1
+1044,48,Male,Asymptomatic,117.0,177.0,No,Normal,167,No,1.7,Upsloping,0.0,Reversible defect,1
+174,57,Female,4,123.0,162.0,No,Normal,169,Yes,2.9,Upsloping,0.0,Reversible defect,1
+254,60,Male,Asymptomatic,132.0,0.0,No,Normal,153,No,1.4,Flat,0.0,Normal,1
+305,58,Male,Non-anginal pain,99.0,0.0,No,Normal,163,No,1.4,Upsloping,1.0,Normal,1
+1654,49,Male,Non-anginal pain,116.0,110.0,Yes,Normal,160,Yes,7.3,Flat,0.0,Normal,1
+492,54,Female,3,143.0,204.0,Yes,LV hypertrophy,167,No,0.9,Upsloping,0.0,Normal,0
+1117,48,Male,Asymptomatic,128.0,181.0,No,Normal,120,No,0.5,Flat,0.0,Reversible defect,0
+640,48,Female,Atypical angina,106.0,144.0,No,Normal,177,No,0.3,Flat,1.0,Normal,0
+911,58,Female,Asymptomatic,128.0,268.0,No,LV hypertrophy,134,No,0.3,Upsloping,0.0,Reversible defect,1
+258,48,Male,1,102.0,205.0,No,ST-T abnormality,130,No,1.8,Upsloping,0.0,Normal,0
+1603,67,Male,Asymptomatic,139.0,192.0,No,Normal,134,No,0.2,Upsloping,1.0,Reversible defect,1
+1184,64,Male,4,150.0,262.0,No,Normal,150,No,0.1,Flat,2.0,Reversible defect,1
+920,36,Female,Non-anginal pain,112.0,177.0,No,LV hypertrophy,159,No,0.2,Upsloping,1.0,Normal,0
+1271,61,Male,4,136.0,235.0,No,LV hypertrophy,175,Yes,0.2,Upsloping,2.0,Reversible defect,1
+918,31,Male,Non-anginal pain,84.0,165.0,No,LV hypertrophy,157,No,1.6,Flat,0.0,Fixed defect,0
+892,48,Male,Asymptomatic,121.0,135.0,No,ST-T abnormality,185,Yes,3.4,Upsloping,0.0,Reversible defect,1
+25,65,Male,Atypical angina,151.0,157.0,Yes,Normal,123,No,1.8,Upsloping,0.0,Normal,1
+753,61,Male,Asymptomatic,142.0,220.0,No,Normal,155,No,1.6,Upsloping,3.0,,1
+1104,62,Female,Non-anginal pain,127.0,231.0,Yes,ST-T abnormality,135,No,0.6,Flat,0.0,Reversible defect,0
+102,55,Female,Typical angina,131.0,230.0,No,Normal,154,No,0.1,Upsloping,2.0,Normal,0
+178,51,Male,Non-anginal pain,124.0,194.0,No,Normal,172,No,0.3,Upsloping,0.0,Normal,0
+392,45,Male,Atypical angina,112.0,189.0,No,Normal,168,No,0.2,Flat,3.0,Reversible defect,0
+12,60,Male,Non-anginal pain,116.0,258.0,No,Normal,146,No,0.5,Flat,2.0,Normal,1
+293,53,Male,Asymptomatic,133.0,199.0,No,LV hypertrophy,146,No,0.7,Flat,1.0,Normal,0
+904,59,Female,3,135.0,188.0,No,Normal,151,No,0.4,Upsloping,1.0,Reversible defect,1
+238,51,Male,4,121.0,190.0,Yes,Normal,141,Yes,5.4,Flat,2.0,Normal,1
+550,56,Male,Atypical angina,111.0,258.0,No,Normal,169,Yes,1.8,Flat,1.0,Normal,1
+1196,52,Female,Asymptomatic,130.0,146.0,Yes,Normal,177,No,1.5,Upsloping,2.0,Fixed defect,1
+769,47,Male,Atypical angina,121.0,232.0,No,LV hypertrophy,156,Yes,0.6,Downsloping,1.0,Normal,1
+986,53,Female,Asymptomatic,76.0,191.0,No,Normal,157,Yes,1.6,Flat,3.0,Reversible defect,1
+55,65,Female,Asymptomatic,119.0,211.0,No,ST-T abnormality,128,No,0.3,Downsloping,0.0,Fixed defect,1
+286,58,Female,Typical angina,110.0,200.0,No,Normal,177,No,1.0,Flat,2.0,Reversible defect,0
+990,44,Male,3,113.0,305.0,No,Normal,235,No,0.4,Upsloping,2.0,Reversible defect,0
+395,45,Female,Atypical angina,104.0,241.0,Yes,ST-T abnormality,149,No,1.1,Upsloping,0.0,Normal,0
+1609,67,Male,Asymptomatic,114.0,222.0,No,Normal,144,No,1.0,Upsloping,0.0,Reversible defect,1
+715,73,Male,Atypical angina,141.0,306.0,Yes,Normal,122,No,0.1,Upsloping,0.0,Reversible defect,0
+61,62,Male,Atypical angina,142.0,0.0,No,Normal,163,No,2.8,Upsloping,0.0,Normal,1
+1343,65,Male,Non-anginal pain,116.0,238.0,Yes,Normal,162,Yes,0.1,Upsloping,0.0,Normal,0
+1072,53,Female,Asymptomatic,132.0,267.0,No,ST-T abnormality,175,No,0.3,Upsloping,0.0,Normal,1
+385,51,Male,Asymptomatic,103.0,177.0,No,LV hypertrophy,178,No,1.0,Flat,0.0,Normal,0
+266,53,Male,Asymptomatic,138.0,260.0,No,Normal,172,No,1.3,Flat,,Normal,1
+82,70,Male,4,119.0,217.0,No,ST-T abnormality,133,Yes,2.1,Upsloping,0.0,Normal,1
+1501,60,Male,Asymptomatic,111.0,261.0,No,Normal,169,Yes,0.6,Downsloping,1.0,Normal,1
+831,40,Female,Typical angina,154.0,196.0,No,ST-T abnormality,181,No,1.3,Upsloping,0.0,Normal,0
+1337,56,Male,Asymptomatic,101.0,255.0,Yes,ST-T abnormality,144,No,0.9,Downsloping,1.0,Normal,1
+788,60,Male,2,121.0,229.0,No,Normal,179,Yes,0.3,Upsloping,0.0,Reversible defect,0
+1452,70,Male,Asymptomatic,135.0,220.0,No,Normal,144,No,0.6,Flat,0.0,Fixed defect,1
+832,53,Male,Asymptomatic,124.0,190.0,No,Normal,158,No,1.4,Flat,0.0,Normal,0
+1584,59,Female,4,102.0,186.0,No,ST-T abnormality,160,No,0.2,Upsloping,0.0,Reversible defect,1
+1159,60,Male,3,117.0,134.0,No,ST-T abnormality,173,No,0.1,Upsloping,1.0,Normal,0
+508,48,Female,Non-anginal pain,119.0,237.0,No,ST-T abnormality,159,No,0.7,Downsloping,0.0,Normal,0
+778,47,Male,Asymptomatic,151.0,228.0,No,Normal,164,Yes,2.7,Downsloping,0.0,Reversible defect,1
+1356,65,Male,Asymptomatic,116.0,193.0,No,ST-T abnormality,118,Yes,3.5,Downsloping,0.0,Reversible defect,1
+1543,51,Male,Typical angina,153.0,157.0,No,ST-T abnormality,160,No,0.3,Upsloping,0.0,Normal,0
+1312,57,Male,Non-anginal pain,132.0,250.0,Yes,ST-T abnormality,175,No,0.6,Flat,0.0,Normal,0
+400,54,Female,Atypical angina,118.0,203.0,No,Normal,156,No,0.1,Flat,2.0,Reversible defect,0
+1494,63,Female,Typical angina,105.0,165.0,No,Normal,146,No,0.8,Upsloping,1.0,Reversible defect,0
+838,49,Female,4,121.0,253.0,No,Normal,166,No,0.3,Flat,0.0,Reversible defect,0
+630,53,Male,4,112.0,219.0,No,LV hypertrophy,122,No,2.9,Flat,0.0,Normal,1
+1218,55,Male,Non-anginal pain,83.0,224.0,No,ST-T abnormality,195,No,0.1,Upsloping,1.0,Reversible defect,0
+1305,60,Male,2,120.0,265.0,No,LV hypertrophy,154,No,0.0,Flat,1.0,Fixed defect,0
+1248,63,Male,Non-anginal pain,137.0,229.0,No,ST-T abnormality,151,Yes,3.0,Downsloping,1.0,Normal,1
+1530,51,Female,Asymptomatic,104.0,225.0,Yes,Normal,165,No,0.2,Downsloping,1.0,Reversible defect,0
+1367,55,Male,Atypical angina,139.0,151.0,No,Normal,166,No,1.7,Upsloping,0.0,Normal,0
+1761,58,Female,Atypical angina,153.0,256.0,No,ST-T abnormality,159,No,0.1,Downsloping,0.0,Reversible defect,0
+1763,60,Male,Asymptomatic,96.0,261.0,No,ST-T abnormality,170,No,2.5,Upsloping,3.0,Reversible defect,1
+1672,49,Male,Non-anginal pain,113.0,246.0,No,LV hypertrophy,159,No,1.0,Flat,0.0,Reversible defect,0
+1078,57,Male,Asymptomatic,118.0,129.0,No,Normal,150,No,0.4,Downsloping,2.0,Reversible defect,1
+1057,54,Female,Typical angina,132.0,197.0,Yes,Normal,186,Yes,1.0,Upsloping,1.0,Normal,0
+771,72,Male,Typical angina,100.0,280.0,No,Normal,135,No,0.9,Flat,3.0,Reversible defect,1
+675,65,Male,Asymptomatic,98.0,290.0,No,ST-T abnormality,140,No,0.4,Flat,0.0,Normal,0
+257,53,Male,1,109.0,205.0,No,ST-T abnormality,117,Yes,0.5,Downsloping,0.0,Reversible defect,0
+626,65,Female,Non-anginal pain,107.0,166.0,No,LV hypertrophy,150,No,0.3,Upsloping,1.0,,0
+1136,66,Male,Asymptomatic,108.0,203.0,Yes,ST-T abnormality,120,No,0.9,Upsloping,1.0,Normal,1
+1236,53,Female,Asymptomatic,117.0,166.0,No,Normal,156,Yes,5.2,Flat,0.0,Reversible defect,1
+1130,55,Female,Asymptomatic,139.0,207.0,Yes,Normal,159,No,1.0,Downsloping,0.0,Normal,1
+52,35,Male,Non-anginal pain,103.0,110.0,Yes,Normal,167,No,0.2,Flat,0.0,Normal,0
+1162,55,Male,Asymptomatic,117.0,227.0,No,ST-T abnormality,163,Yes,2.5,Upsloping,0.0,Reversible defect,1
+1413,50,Female,Asymptomatic,115.0,180.0,No,Normal,134,Yes,1.3,Upsloping,0.0,Reversible defect,1
+815,40,Female,Asymptomatic,132.0,238.0,No,ST-T abnormality,185,No,1.1,Flat,1.0,Reversible defect,0
+1328,55,Male,Typical angina,114.0,166.0,No,Normal,171,Yes,1.5,Flat,1.0,Normal,1
+842,51,Male,Typical angina,118.0,110.0,Yes,Normal,176,Yes,2.8,Upsloping,0.0,Normal,1
+1366,42,Female,Asymptomatic,91.0,175.0,No,LV hypertrophy,161,No,0.3,Upsloping,0.0,Normal,0
+1049,50,Female,Asymptomatic,120.0,121.0,No,Normal,153,Yes,0.9,Flat,0.0,Normal,0
+674,70,Male,4,103.0,283.0,No,ST-T abnormality,112,No,0.2,Flat,0.0,Normal,0
+37,39,Male,Asymptomatic,118.0,253.0,No,Normal,194,No,0.5,Downsloping,0.0,Normal,0
+1006,50,Male,Typical angina,107.0,219.0,No,Normal,185,Yes,3.6,Upsloping,0.0,Normal,1
+309,63,Female,Non-anginal pain,96.0,224.0,No,Normal,144,Yes,2.0,Upsloping,2.0,Normal,1
+466,48,Male,4,128.0,246.0,No,Normal,145,Yes,1.8,Upsloping,1.0,Fixed defect,1
+15,56,Male,Atypical angina,108.0,315.0,No,Normal,138,No,0.6,Flat,0.0,Reversible defect,0
+1762,55,Female,Typical angina,132.0,293.0,No,Normal,179,No,3.6,Flat,0.0,Normal,0
+530,47,Male,4,108.0,199.0,No,ST-T abnormality,147,Yes,1.3,Upsloping,2.0,Normal,1
+234,73,Male,3,117.0,263.0,No,LV hypertrophy,141,No,0.3,Upsloping,0.0,Normal,1
+1777,55,Male,Atypical angina,133.0,193.0,No,ST-T abnormality,189,No,0.7,Upsloping,2.0,Normal,1
+464,52,Female,Non-anginal pain,147.0,246.0,No,ST-T abnormality,148,No,0.7,Downsloping,3.0,Normal,1
+547,51,Male,Asymptomatic,141.0,192.0,No,Normal,184,Yes,3.2,Flat,0.0,,1
+527,52,Male,Atypical angina,109.0,219.0,No,ST-T abnormality,159,No,0.8,Upsloping,0.0,Normal,0
+543,56,Male,Asymptomatic,126.0,265.0,No,Normal,147,No,0.3,Upsloping,0.0,Normal,1
+762,48,Female,Typical angina,146.0,204.0,No,Normal,195,Yes,3.1,Flat,2.0,Reversible defect,0
+315,71,Male,Asymptomatic,121.0,227.0,No,ST-T abnormality,182,No,1.5,Flat,0.0,Normal,0
+1244,50,Male,Typical angina,123.0,146.0,No,ST-T abnormality,153,No,0.2,Upsloping,0.0,Reversible defect,0
+1675,48,Male,Typical angina,140.0,169.0,No,LV hypertrophy,152,No,0.7,Flat,0.0,Normal,0
+1145,45,Female,Non-anginal pain,110.0,210.0,No,Normal,182,Yes,1.1,Flat,1.0,Normal,1
+24,56,Female,Non-anginal pain,148.0,221.0,No,Normal,165,No,3.4,Flat,0.0,Reversible defect,1
+1400,68,Female,Non-anginal pain,154.0,229.0,No,ST-T abnormality,175,No,0.1,Upsloping,0.0,Reversible defect,0
+1512,48,Male,4,88.0,265.0,No,Normal,164,Yes,3.5,Flat,0.0,Reversible defect,0
+537,55,Female,Asymptomatic,121.0,162.0,No,ST-T abnormality,187,No,1.7,Flat,3.0,Normal,0
+1577,48,Male,Asymptomatic,105.0,250.0,No,ST-T abnormality,183,Yes,1.7,Flat,2.0,Normal,1
+1307,62,Male,Asymptomatic,0.0,176.0,No,Normal,145,Yes,0.1,Flat,1.0,,1
+1698,65,Male,4,99.0,143.0,No,LV hypertrophy,124,Yes,0.2,Flat,0.0,Normal,1
+1334,53,Male,Asymptomatic,124.0,201.0,No,Normal,158,Yes,0.7,Upsloping,1.0,Reversible defect,1
+366,39,Male,Asymptomatic,106.0,208.0,No,Normal,164,No,2.0,Flat,1.0,Normal,1
+1547,45,Female,4,96.0,241.0,No,ST-T abnormality,163,No,2.3,Upsloping,,Reversible defect,0
+438,47,Male,Asymptomatic,127.0,228.0,No,Normal,151,No,2.7,Upsloping,1.0,Normal,1
+997,65,Female,Asymptomatic,121.0,265.0,No,ST-T abnormality,154,No,0.9,Upsloping,1.0,Reversible defect,1
+333,35,Male,3,124.0,181.0,No,ST-T abnormality,168,No,2.9,Flat,1.0,Reversible defect,1
+1334,53,Male,Asymptomatic,124.0,201.0,No,Normal,158,Yes,0.7,Upsloping,1.0,Reversible defect,1
+1401,57,Female,Asymptomatic,122.0,152.0,No,Normal,154,No,1.4,Upsloping,0.0,Normal,0
+1589,57,Male,Atypical angina,110.0,310.0,No,Normal,193,No,1.2,Flat,2.0,Normal,0
+484,67,Female,Asymptomatic,119.0,252.0,No,Normal,170,No,1.6,Flat,0.0,Fixed defect,0
+1703,61,Male,Asymptomatic,154.0,215.0,No,ST-T abnormality,162,No,0.4,Flat,0.0,,1
+316,45,Male,4,116.0,203.0,No,Normal,160,Yes,1.1,Upsloping,0.0,Normal,0
+620,69,Male,Asymptomatic,163.0,0.0,No,LV hypertrophy,130,No,5.9,Upsloping,3.0,Fixed defect,1
+633,46,Male,Asymptomatic,126.0,225.0,No,LV hypertrophy,136,No,0.7,Upsloping,1.0,Reversible defect,1
+1630,39,Male,Atypical angina,104.0,248.0,No,ST-T abnormality,165,No,2.3,Upsloping,2.0,Normal,1
+1418,46,Female,Atypical angina,121.0,172.0,No,Normal,185,No,0.3,Upsloping,0.0,Normal,0
+860,52,Male,Non-anginal pain,118.0,277.0,No,ST-T abnormality,168,Yes,1.1,Flat,1.0,Normal,0
+579,70,Male,Asymptomatic,120.0,158.0,No,Normal,137,Yes,0.1,Upsloping,0.0,Reversible defect,1
+963,47,Male,Typical angina,107.0,110.0,No,ST-T abnormality,145,Yes,0.4,Flat,0.0,Fixed defect,0
+902,52,Male,Typical angina,105.0,187.0,No,Normal,172,Yes,0.0,Upsloping,0.0,Normal,1
+1021,62,Female,2,137.0,163.0,No,Normal,132,No,2.2,Upsloping,0.0,Normal,0
+1303,66,Male,Non-anginal pain,154.0,277.0,No,Normal,131,Yes,0.4,Upsloping,0.0,Reversible defect,0
+1652,52,Male,Atypical angina,136.0,273.0,No,ST-T abnormality,159,No,0.5,Flat,1.0,Reversible defect,0
+40,47,Male,Non-anginal pain,132.0,173.0,No,Normal,187,No,0.1,Flat,0.0,Normal,0
+702,63,Male,Non-anginal pain,116.0,237.0,No,Normal,141,Yes,2.8,Upsloping,0.0,Normal,1
+1462,55,Male,Asymptomatic,135.0,159.0,No,Normal,183,No,1.5,Upsloping,0.0,Normal,0
+717,59,Male,Typical angina,115.0,216.0,No,Normal,163,No,0.8,Upsloping,2.0,Fixed defect,1
+779,46,Male,Asymptomatic,114.0,121.0,No,ST-T abnormality,169,No,0.6,Upsloping,0.0,Normal,0
+689,58,Female,Asymptomatic,113.0,232.0,No,LV hypertrophy,164,Yes,1.7,Upsloping,0.0,Reversible defect,1
+781,48,Male,Atypical angina,94.0,140.0,No,Normal,176,No,0.6,Flat,0.0,Normal,0
+394,63,Male,Asymptomatic,118.0,0.0,No,Normal,168,No,0.3,Flat,0.0,Reversible defect,1
+1275,51,Female,4,137.0,205.0,No,LV hypertrophy,169,No,0.7,Upsloping,0.0,Normal,0
+881,72,Female,3,139.0,215.0,No,ST-T abnormality,147,No,0.9,Flat,3.0,Reversible defect,1
+51,60,Male,Asymptomatic,151.0,254.0,No,Normal,184,No,0.6,Upsloping,0.0,Normal,1
+1736,66,Male,4,113.0,185.0,No,Normal,176,Yes,2.5,Upsloping,2.0,Fixed defect,1
+978,67,Male,Non-anginal pain,134.0,201.0,No,ST-T abnormality,152,No,0.8,Upsloping,3.0,Reversible defect,1
+1721,58,Female,Asymptomatic,131.0,189.0,No,Normal,191,Yes,6.1,Upsloping,1.0,Normal,1
+1191,68,Male,Asymptomatic,122.0,224.0,No,Normal,154,No,0.1,Upsloping,0.0,,0
+906,63,Male,4,127.0,220.0,No,Normal,136,No,0.4,Downsloping,2.0,Reversible defect,1
+1097,50,Male,Asymptomatic,113.0,158.0,No,Normal,175,No,0.1,Upsloping,0.0,Normal,0
+1345,41,Female,Non-anginal pain,130.0,144.0,No,Normal,155,No,1.2,Flat,,Normal,0
+64,57,Female,Non-anginal pain,112.0,190.0,No,ST-T abnormality,183,No,1.5,Flat,0.0,Fixed defect,0
+101,54,Male,Atypical angina,130.0,205.0,No,Normal,189,No,1.9,Flat,2.0,Normal,1
+275,58,Male,4,132.0,233.0,No,Normal,173,Yes,2.9,Upsloping,0.0,Reversible defect,1
+1016,51,Male,Non-anginal pain,127.0,128.0,No,ST-T abnormality,128,Yes,0.3,Flat,0.0,Normal,1
+267,59,Male,Non-anginal pain,111.0,196.0,No,Normal,140,Yes,0.7,Upsloping,0.0,Reversible defect,1
+749,42,Male,Asymptomatic,134.0,190.0,No,ST-T abnormality,148,Yes,4.6,Flat,3.0,Normal,1
+739,59,Female,3,105.0,231.0,No,ST-T abnormality,149,Yes,0.3,Flat,0.0,Reversible defect,0
+1555,57,Male,3,112.0,238.0,No,ST-T abnormality,136,Yes,1.1,Upsloping,0.0,Normal,0
+851,61,Male,Asymptomatic,100.0,276.0,Yes,ST-T abnormality,129,Yes,0.7,Upsloping,0.0,Reversible defect,1
+1627,53,Male,Non-anginal pain,103.0,194.0,No,LV hypertrophy,149,Yes,2.7,Upsloping,2.0,Normal,1
+735,50,Male,Asymptomatic,147.0,110.0,No,Normal,148,No,0.4,Upsloping,,Reversible defect,1
+211,74,Female,Non-anginal pain,144.0,211.0,No,ST-T abnormality,166,No,0.8,Flat,1.0,Reversible defect,0
+995,53,Female,Asymptomatic,115.0,185.0,No,ST-T abnormality,142,No,0.5,Flat,3.0,Fixed defect,1
+1376,51,Female,Non-anginal pain,132.0,309.0,No,Normal,138,No,0.3,Flat,0.0,Fixed defect,0
+938,47,Male,3,128.0,164.0,No,ST-T abnormality,183,No,0.4,Flat,0.0,Fixed defect,0
+758,62,Male,Non-anginal pain,118.0,195.0,No,Normal,147,Yes,3.9,Flat,0.0,Normal,0
+817,62,Female,Non-anginal pain,99.0,125.0,No,ST-T abnormality,140,Yes,1.5,Flat,0.0,Normal,1
+1311,66,Male,Asymptomatic,152.0,281.0,No,ST-T abnormality,150,No,0.4,Flat,0.0,Normal,0
+898,66,Female,Non-anginal pain,133.0,278.0,No,Normal,152,No,1.0,Upsloping,0.0,Fixed defect,0
+1091,57,Male,Asymptomatic,137.0,216.0,Yes,Normal,139,Yes,1.6,Upsloping,0.0,Normal,1
+1363,68,Male,Non-anginal pain,115.0,277.0,No,Normal,141,Yes,1.8,Flat,1.0,Reversible defect,1
+1298,43,Female,Atypical angina,118.0,133.0,No,Normal,171,No,0.9,Flat,0.0,Reversible defect,0
+1109,55,Male,Atypical angina,111.0,156.0,No,Normal,141,No,0.1,Flat,0.0,,0
+112,55,Male,Atypical angina,107.0,183.0,Yes,ST-T abnormality,154,Yes,0.2,Upsloping,3.0,Normal,1
+239,48,Male,3,102.0,162.0,No,Normal,154,No,1.6,Upsloping,0.0,Reversible defect,0
+558,37,Male,Atypical angina,108.0,181.0,Yes,Normal,157,Yes,3.9,Flat,0.0,Normal,1
+158,61,Male,Atypical angina,132.0,255.0,No,Normal,155,No,1.3,Flat,0.0,Normal,1
+355,71,Male,Atypical angina,115.0,229.0,No,Normal,149,Yes,3.3,Flat,0.0,Reversible defect,1
+1151,67,Female,Atypical angina,127.0,272.0,No,Normal,150,No,1.4,Upsloping,0.0,Fixed defect,1
+163,65,Male,Atypical angina,114.0,282.0,No,Normal,123,No,0.5,Downsloping,1.0,,0
+1393,56,Female,Non-anginal pain,105.0,242.0,No,ST-T abnormality,134,Yes,2.7,Downsloping,3.0,Reversible defect,1
+1724,51,Male,Asymptomatic,79.0,160.0,No,Normal,178,No,0.5,Upsloping,0.0,Normal,0
+1734,60,Female,Asymptomatic,100.0,275.0,No,Normal,157,No,1.1,Flat,0.0,Normal,0
+1776,55,Female,Non-anginal pain,96.0,197.0,No,Normal,165,No,0.3,Flat,0.0,Normal,0
+578,53,Male,Typical angina,102.0,215.0,Yes,LV hypertrophy,175,No,0.8,Downsloping,0.0,Reversible defect,0
+651,48,Male,Asymptomatic,103.0,158.0,No,Normal,158,No,0.4,Upsloping,2.0,Reversible defect,1
+1549,48,Male,4,118.0,211.0,No,Normal,175,No,0.7,Flat,2.0,Reversible defect,1
+588,43,Male,2,105.0,179.0,No,Normal,162,No,0.0,Flat,2.0,Normal,0
+1545,57,Male,4,112.0,158.0,No,Normal,149,Yes,2.5,Upsloping,0.0,Normal,0
+421,52,Female,Asymptomatic,122.0,179.0,No,ST-T abnormality,125,Yes,0.1,Flat,1.0,Fixed defect,1
+1000,62,Male,Asymptomatic,136.0,227.0,No,Normal,141,No,1.3,Upsloping,2.0,Normal,1
+557,51,Female,Atypical angina,129.0,222.0,No,Normal,153,No,1.3,Flat,0.0,Reversible defect,0
+1228,63,Male,Non-anginal pain,121.0,299.0,No,LV hypertrophy,145,No,0.5,Upsloping,0.0,Normal,1
+876,55,Male,Atypical angina,131.0,264.0,Yes,Normal,159,Yes,2.0,Flat,2.0,Normal,1
+147,60,Male,Non-anginal pain,143.0,277.0,No,ST-T abnormality,153,No,0.5,Upsloping,1.0,,1
+891,51,Male,Asymptomatic,129.0,0.0,No,ST-T abnormality,182,No,1.4,Upsloping,1.0,Reversible defect,0
+1118,56,Male,Asymptomatic,129.0,125.0,No,Normal,168,No,0.1,Upsloping,,Reversible defect,1
+845,49,Female,4,118.0,192.0,No,LV hypertrophy,121,No,0.1,Upsloping,1.0,Normal,1
+14,59,Female,Asymptomatic,143.0,165.0,No,Normal,124,No,1.8,Flat,1.0,Reversible defect,1
+1215,57,Female,Atypical angina,140.0,186.0,No,LV hypertrophy,141,No,0.7,Upsloping,0.0,Reversible defect,0
+1785,62,Male,Asymptomatic,114.0,224.0,No,Normal,142,No,0.1,Flat,0.0,Fixed defect,1
+1369,58,Male,3,95.0,291.0,No,Normal,144,No,2.5,Flat,3.0,Normal,1
+954,55,Female,4,135.0,172.0,No,ST-T abnormality,161,No,0.1,Downsloping,0.0,Reversible defect,0
+1304,45,Male,Non-anginal pain,113.0,195.0,Yes,Normal,161,Yes,0.4,Upsloping,0.0,Normal,0
+476,58,Male,Asymptomatic,111.0,233.0,Yes,Normal,137,No,0.8,Flat,1.0,Reversible defect,1
+1562,55,Male,Non-anginal pain,137.0,277.0,No,LV hypertrophy,162,Yes,1.0,Flat,0.0,Fixed defect,1
+471,50,Male,Asymptomatic,111.0,304.0,No,Normal,143,No,0.2,Flat,1.0,Normal,1
+1032,62,Male,Asymptomatic,117.0,209.0,No,ST-T abnormality,153,No,2.5,Flat,0.0,Reversible defect,1
+1576,43,Female,Asymptomatic,119.0,194.0,No,LV hypertrophy,168,No,1.1,Flat,0.0,Reversible defect,0
+1200,59,Female,Non-anginal pain,117.0,323.0,Yes,Normal,137,No,1.5,Flat,1.0,Normal,1
+422,48,Male,Asymptomatic,117.0,243.0,No,ST-T abnormality,172,Yes,2.6,Flat,0.0,Reversible defect,1
+1485,47,Male,Asymptomatic,125.0,233.0,No,Normal,125,No,1.5,Flat,0.0,Normal,1
+1444,61,Male,Non-anginal pain,103.0,264.0,Yes,ST-T abnormality,168,No,0.8,Flat,0.0,Reversible defect,0
+1054,52,Female,Asymptomatic,120.0,192.0,Yes,LV hypertrophy,159,Yes,0.3,Upsloping,0.0,Reversible defect,0
+1123,36,Male,Typical angina,123.0,213.0,No,Normal,168,Yes,2.2,Flat,3.0,Normal,1
+1171,77,Male,4,131.0,262.0,Yes,Normal,149,No,1.6,Flat,0.0,Normal,1
+741,56,Female,Non-anginal pain,133.0,178.0,No,ST-T abnormality,184,No,1.0,Upsloping,0.0,Reversible defect,1
+1667,54,Male,Non-anginal pain,124.0,205.0,No,ST-T abnormality,156,No,0.8,Flat,1.0,Reversible defect,1
+448,48,Male,Asymptomatic,109.0,122.0,No,Normal,138,No,1.9,Upsloping,0.0,Reversible defect,1
+278,59,Male,Atypical angina,111.0,246.0,Yes,Normal,180,No,0.2,Flat,1.0,Reversible defect,1
+1292,55,Male,Atypical angina,126.0,171.0,No,Normal,139,Yes,0.4,Flat,3.0,Reversible defect,0
+646,61,Male,Asymptomatic,129.0,194.0,No,Normal,147,No,1.2,Flat,0.0,Normal,1
+360,69,Male,Asymptomatic,135.0,199.0,Yes,Normal,130,No,0.0,Flat,0.0,Normal,1
+1108,78,Female,Asymptomatic,124.0,261.0,No,LV hypertrophy,111,No,2.3,Flat,0.0,Normal,1
+1616,46,Male,Asymptomatic,122.0,303.0,Yes,ST-T abnormality,168,No,1.1,Upsloping,0.0,Normal,1
+380,49,Male,4,107.0,207.0,No,Normal,164,No,0.3,Downsloping,0.0,Normal,0
+1391,53,Female,Asymptomatic,135.0,157.0,No,LV hypertrophy,160,Yes,4.3,Upsloping,1.0,Normal,0
+1681,50,Male,Non-anginal pain,112.0,0.0,No,ST-T abnormality,134,No,0.0,Flat,0.0,Reversible defect,0
+228,61,Male,1,119.0,165.0,Yes,Normal,144,Yes,3.0,Upsloping,1.0,Reversible defect,1
+328,55,Male,4,106.0,206.0,Yes,ST-T abnormality,147,No,1.1,Upsloping,2.0,Normal,1
+968,48,Female,Non-anginal pain,97.0,175.0,Yes,LV hypertrophy,195,No,2.0,Upsloping,0.0,Normal,1
+1387,40,Male,Asymptomatic,126.0,241.0,No,ST-T abnormality,142,Yes,1.4,Upsloping,,,1
+617,58,Male,Asymptomatic,113.0,225.0,No,Normal,150,No,0.3,Upsloping,3.0,Normal,1
+481,55,Male,Asymptomatic,103.0,178.0,No,Normal,193,Yes,3.4,Upsloping,2.0,Reversible defect,1
+1649,57,Male,Asymptomatic,120.0,254.0,Yes,Normal,143,No,0.9,Upsloping,0.0,Normal,1
+1674,38,Male,Non-anginal pain,100.0,226.0,No,Normal,141,No,1.2,Flat,0.0,Reversible defect,0
+1567,59,Male,3,123.0,248.0,No,LV hypertrophy,146,No,0.2,Flat,0.0,Fixed defect,0
+785,73,Male,Typical angina,136.0,223.0,No,Normal,133,Yes,0.8,Upsloping,2.0,Normal,1
+791,54,Female,Typical angina,117.0,256.0,No,LV hypertrophy,163,Yes,3.3,Flat,0.0,Reversible defect,1
+1733,56,Male,Asymptomatic,123.0,180.0,No,ST-T abnormality,153,No,0.9,Downsloping,0.0,Reversible defect,0
+1205,63,Male,Atypical angina,98.0,197.0,No,ST-T abnormality,185,No,1.0,Flat,0.0,Fixed defect,0
+661,48,Female,Atypical angina,131.0,228.0,No,Normal,175,No,1.0,Upsloping,0.0,Reversible defect,0
+1604,47,Male,Asymptomatic,111.0,0.0,No,Normal,170,No,0.3,Downsloping,0.0,Reversible defect,1
+1058,58,Male,Non-anginal pain,150.0,171.0,No,Normal,156,No,0.3,Upsloping,0.0,Normal,1
+1450,57,Male,Typical angina,108.0,232.0,No,Normal,162,No,3.3,Upsloping,2.0,Normal,1
+1432,63,Female,Asymptomatic,110.0,237.0,No,ST-T abnormality,151,No,0.6,Downsloping,0.0,Reversible defect,0
+1030,65,Female,Asymptomatic,146.0,192.0,No,ST-T abnormality,136,Yes,1.8,Upsloping,0.0,Reversible defect,1
+1631,49,Male,Non-anginal pain,124.0,161.0,Yes,ST-T abnormality,156,Yes,0.3,Flat,0.0,Normal,1
+99,53,Female,Typical angina,100.0,216.0,No,Normal,177,No,0.1,Flat,1.0,Normal,0
+467,69,Female,Atypical angina,107.0,199.0,No,Normal,141,No,1.2,Upsloping,0.0,Reversible defect,0
+607,43,Male,Asymptomatic,110.0,208.0,No,Normal,171,No,0.8,Downsloping,,Normal,1
+503,45,Female,Typical angina,132.0,241.0,Yes,ST-T abnormality,175,Yes,1.0,Downsloping,0.0,Normal,0
+905,55,Female,Non-anginal pain,170.0,201.0,No,ST-T abnormality,161,Yes,5.0,Upsloping,0.0,Normal,1
+451,67,Female,Atypical angina,127.0,174.0,No,ST-T abnormality,144,No,1.4,Upsloping,1.0,Reversible defect,0
+313,63,Female,4,112.0,269.0,No,Normal,157,Yes,0.8,Downsloping,1.0,Normal,0
+263,50,Male,Atypical angina,129.0,0.0,Yes,ST-T abnormality,151,No,0.4,Upsloping,1.0,Reversible defect,0
+1756,49,Male,Asymptomatic,117.0,167.0,Yes,Normal,144,Yes,5.5,Flat,1.0,Reversible defect,1
+1586,66,Male,4,136.0,191.0,No,ST-T abnormality,146,No,0.1,Upsloping,2.0,Reversible defect,1
+487,43,Female,Typical angina,93.0,248.0,No,Normal,178,No,0.9,Flat,0.0,Reversible defect,0
+1374,60,Female,Asymptomatic,131.0,221.0,No,Normal,129,No,4.1,Upsloping,0.0,Reversible defect,1
+1487,64,Male,Atypical angina,112.0,248.0,No,ST-T abnormality,133,No,0.4,Upsloping,0.0,,0
+195,31,Male,3,100.0,156.0,Yes,Normal,156,No,0.2,Flat,3.0,Fixed defect,1
+1663,58,Male,Asymptomatic,102.0,246.0,No,ST-T abnormality,133,No,0.9,Upsloping,0.0,Reversible defect,1
+713,68,Female,Non-anginal pain,118.0,203.0,No,ST-T abnormality,151,Yes,5.4,Upsloping,1.0,Reversible defect,1
+707,59,Male,Asymptomatic,121.0,253.0,No,LV hypertrophy,146,No,0.1,Downsloping,0.0,Reversible defect,1
+1113,58,Male,Atypical angina,111.0,279.0,No,Normal,126,No,0.4,Upsloping,,Reversible defect,0
+663,63,Female,Asymptomatic,130.0,275.0,No,Normal,136,Yes,0.5,Downsloping,3.0,Reversible defect,1
+1546,48,Male,Asymptomatic,74.0,215.0,Yes,LV hypertrophy,206,Yes,1.0,Downsloping,0.0,Normal,0
+457,50,Male,Non-anginal pain,127.0,204.0,Yes,Normal,159,Yes,1.9,Flat,0.0,Reversible defect,0
+594,55,Female,Non-anginal pain,120.0,228.0,Yes,ST-T abnormality,134,No,0.4,Upsloping,1.0,Normal,0
+424,48,Male,4,102.0,237.0,Yes,LV hypertrophy,184,No,0.5,Flat,1.0,Normal,1
+1651,59,Male,Asymptomatic,121.0,0.0,No,LV hypertrophy,109,No,0.4,Flat,1.0,Normal,1
+1459,51,Male,Non-anginal pain,136.0,208.0,Yes,LV hypertrophy,183,Yes,0.1,Upsloping,0.0,Reversible defect,1
+157,39,Female,Atypical angina,133.0,248.0,No,ST-T abnormality,165,No,0.6,Upsloping,1.0,Normal,0
+1238,48,Male,Non-anginal pain,107.0,144.0,Yes,ST-T abnormality,177,No,0.5,Flat,0.0,Reversible defect,0
+1409,54,Female,Non-anginal pain,120.0,245.0,No,ST-T abnormality,155,Yes,0.4,Flat,1.0,Normal,1
+1784,53,Male,Asymptomatic,104.0,219.0,No,Normal,138,No,0.6,Flat,2.0,Normal,1
+1455,57,Male,Atypical angina,120.0,250.0,Yes,ST-T abnormality,153,No,0.1,Flat,0.0,Normal,1
+137,49,Male,Non-anginal pain,106.0,228.0,Yes,Normal,139,No,1.4,Downsloping,1.0,Normal,0
+282,57,Female,4,122.0,269.0,No,LV hypertrophy,165,No,1.3,Upsloping,0.0,Normal,0
+1095,62,Male,Typical angina,112.0,0.0,Yes,ST-T abnormality,133,Yes,4.5,Flat,0.0,Reversible defect,1
+404,61,Male,3,153.0,266.0,Yes,ST-T abnormality,143,No,2.9,Downsloping,1.0,Fixed defect,1
+168,45,Male,Non-anginal pain,120.0,222.0,Yes,Normal,193,No,0.8,Upsloping,0.0,Normal,0
+1288,63,Male,2,101.0,215.0,No,ST-T abnormality,113,No,1.2,Upsloping,0.0,Normal,1
+1394,47,Male,Asymptomatic,105.0,291.0,No,ST-T abnormality,146,Yes,5.1,Flat,1.0,Normal,1
+1065,63,Male,Non-anginal pain,133.0,252.0,Yes,LV hypertrophy,152,No,1.9,Downsloping,1.0,Normal,1
+546,56,Male,Typical angina,153.0,235.0,No,Normal,173,No,2.0,Upsloping,1.0,Normal,1
+591,65,Male,3,141.0,245.0,No,LV hypertrophy,143,No,1.5,Upsloping,0.0,Normal,1
+142,56,Male,Asymptomatic,135.0,251.0,No,LV hypertrophy,171,No,2.4,Upsloping,3.0,Reversible defect,1
+699,65,Male,4,112.0,168.0,No,LV hypertrophy,133,Yes,1.5,Upsloping,1.0,Normal,1
+822,48,Male,Non-anginal pain,119.0,176.0,No,ST-T abnormality,146,No,0.4,Downsloping,1.0,Reversible defect,0
+1587,56,Male,3,109.0,202.0,No,Normal,173,No,0.3,Upsloping,0.0,Normal,0
+192,57,Female,2,116.0,228.0,No,Normal,157,No,1.4,Flat,0.0,Normal,0
+600,54,Male,Non-anginal pain,118.0,234.0,Yes,Normal,174,No,2.4,Upsloping,0.0,Fixed defect,0
+86,66,Female,Asymptomatic,127.0,171.0,Yes,LV hypertrophy,122,No,0.2,Upsloping,0.0,Normal,0
+1082,46,Female,Asymptomatic,97.0,222.0,No,Normal,198,No,0.3,Upsloping,0.0,Normal,0
+104,60,Male,Asymptomatic,128.0,229.0,No,Normal,135,No,1.0,Upsloping,0.0,Normal,1
+441,54,Male,Asymptomatic,108.0,173.0,No,ST-T abnormality,158,No,1.9,Flat,0.0,Reversible defect,0
+1272,62,Female,Atypical angina,136.0,139.0,No,ST-T abnormality,123,Yes,3.4,Flat,0.0,Reversible defect,1
+1332,56,Male,2,123.0,223.0,No,ST-T abnormality,173,Yes,4.0,Upsloping,0.0,Normal,0
+807,64,Female,2,105.0,233.0,No,LV hypertrophy,152,No,0.3,Upsloping,1.0,Reversible defect,0
+1414,70,Male,Asymptomatic,124.0,213.0,No,Normal,159,No,0.6,Flat,1.0,Normal,1
+879,58,Male,Asymptomatic,114.0,247.0,No,Normal,171,No,0.1,Upsloping,1.0,Reversible defect,0
+7,57,Male,Asymptomatic,118.0,279.0,No,Normal,150,Yes,2.3,Upsloping,3.0,Reversible defect,1
+27,40,Female,Non-anginal pain,111.0,171.0,No,Normal,170,Yes,6.6,Upsloping,1.0,Reversible defect,1
+1583,62,Male,Atypical angina,113.0,141.0,No,Normal,136,No,3.0,Flat,3.0,Fixed defect,1
+252,71,Male,4,145.0,131.0,No,Normal,173,Yes,0.4,Upsloping,0.0,Reversible defect,1
+935,59,Male,Asymptomatic,129.0,147.0,No,Normal,157,No,0.5,Flat,1.0,Normal,0
+896,47,Male,Non-anginal pain,136.0,317.0,No,ST-T abnormality,159,No,1.5,Upsloping,2.0,Normal,1
+830,51,Female,2,106.0,282.0,No,LV hypertrophy,179,No,0.3,Upsloping,0.0,Fixed defect,0
+972,41,Male,2,108.0,234.0,No,LV hypertrophy,137,Yes,1.1,Flat,1.0,Normal,1
+106,55,Male,Asymptomatic,179.0,163.0,No,Normal,147,Yes,3.4,Downsloping,1.0,Normal,1
+849,52,Male,Atypical angina,123.0,220.0,No,ST-T abnormality,155,Yes,0.3,Flat,3.0,Reversible defect,1
+118,70,Male,2,134.0,216.0,No,Normal,141,No,0.2,Flat,0.0,Reversible defect,0
+1306,50,Male,4,127.0,159.0,No,LV hypertrophy,140,Yes,0.6,Downsloping,0.0,Normal,1
+913,51,Male,Asymptomatic,124.0,179.0,No,Normal,142,No,0.3,Flat,0.0,Reversible defect,1
+1746,57,Male,Atypical angina,120.0,276.0,No,ST-T abnormality,160,No,0.5,Upsloping,0.0,Normal,0
+1787,44,Female,Atypical angina,135.0,144.0,No,Normal,180,No,0.6,Flat,1.0,Normal,0
+430,49,Male,Non-anginal pain,140.0,232.0,No,LV hypertrophy,164,No,0.0,Upsloping,0.0,Normal,0
+1359,62,Female,Typical angina,116.0,221.0,No,LV hypertrophy,145,Yes,0.5,Upsloping,0.0,Reversible defect,0
+669,70,Female,Non-anginal pain,114.0,195.0,No,LV hypertrophy,94,Yes,5.1,Upsloping,2.0,Fixed defect,1
+893,41,Male,Non-anginal pain,105.0,224.0,No,Normal,138,Yes,4.9,Upsloping,0.0,Normal,1
+1237,42,Female,Asymptomatic,117.0,129.0,No,ST-T abnormality,181,Yes,6.6,Upsloping,0.0,Reversible defect,1
+479,63,Male,Asymptomatic,134.0,171.0,No,Normal,196,No,1.3,Flat,0.0,Reversible defect,1
+1475,62,Male,Non-anginal pain,158.0,239.0,No,Normal,147,No,0.6,Upsloping,3.0,Normal,1
+1063,52,Male,Asymptomatic,99.0,0.0,No,ST-T abnormality,140,No,3.0,Flat,0.0,Normal,1
+1045,41,Male,Non-anginal pain,107.0,288.0,No,Normal,180,Yes,4.6,Upsloping,0.0,Reversible defect,1
+1644,54,Male,Asymptomatic,109.0,204.0,Yes,ST-T abnormality,135,No,1.2,Upsloping,0.0,Normal,0
+172,50,Female,Non-anginal pain,149.0,110.0,Yes,Normal,152,No,1.4,Downsloping,0.0,Normal,0
+975,54,Male,Non-anginal pain,158.0,168.0,No,LV hypertrophy,118,Yes,3.1,Flat,1.0,Reversible defect,1
+15,56,Male,Atypical angina,108.0,315.0,No,Normal,138,No,0.6,Flat,0.0,Reversible defect,0
+128,64,Male,Asymptomatic,151.0,210.0,No,ST-T abnormality,147,No,1.3,Upsloping,1.0,Normal,1
+367,41,Female,Non-anginal pain,117.0,172.0,No,ST-T abnormality,193,Yes,3.0,Upsloping,0.0,Normal,0
+5,53,Male,Atypical angina,135.0,242.0,No,ST-T abnormality,149,No,0.1,Flat,0.0,Normal,0
+494,53,Male,2,130.0,253.0,No,ST-T abnormality,131,No,2.1,Flat,1.0,Reversible defect,1
+231,69,Female,4,129.0,0.0,No,ST-T abnormality,126,No,0.0,Upsloping,0.0,Reversible defect,1
+538,66,Male,Asymptomatic,104.0,287.0,No,LV hypertrophy,131,Yes,7.2,Flat,0.0,Normal,1
+412,33,Male,Non-anginal pain,114.0,279.0,Yes,ST-T abnormality,176,No,0.8,Flat,1.0,Normal,0
+45,50,Female,Asymptomatic,117.0,188.0,No,Normal,117,Yes,3.7,Upsloping,1.0,Normal,1
+1659,59,Male,Non-anginal pain,103.0,0.0,No,ST-T abnormality,139,Yes,10.4,Upsloping,1.0,Normal,1
+429,60,Female,1,131.0,222.0,No,LV hypertrophy,168,No,0.9,Upsloping,3.0,Reversible defect,1
+1326,59,Male,Asymptomatic,162.0,172.0,No,Normal,147,No,1.7,Flat,3.0,Reversible defect,1
+259,38,Male,3,123.0,269.0,No,Normal,185,Yes,5.2,Flat,0.0,Reversible defect,1
+323,51,Male,3,131.0,210.0,No,Normal,179,No,1.6,Downsloping,0.0,Normal,0
+301,52,Female,Asymptomatic,143.0,206.0,Yes,ST-T abnormality,123,No,2.0,Flat,2.0,Normal,1
+442,48,Male,Non-anginal pain,108.0,149.0,No,ST-T abnormality,183,Yes,4.8,Downsloping,2.0,Normal,1
+536,50,Female,Typical angina,115.0,169.0,No,ST-T abnormality,168,No,0.3,Upsloping,0.0,Normal,0
+1147,53,Male,Non-anginal pain,128.0,209.0,No,Normal,198,No,0.6,Upsloping,1.0,Reversible defect,0
+649,50,Male,Asymptomatic,115.0,258.0,No,Normal,164,Yes,0.3,Flat,3.0,Normal,0
+820,64,Male,Non-anginal pain,125.0,204.0,No,Normal,135,No,0.4,Flat,0.0,Normal,0
+506,62,Male,Asymptomatic,124.0,270.0,No,ST-T abnormality,161,No,1.5,Upsloping,1.0,Reversible defect,1
+345,59,Male,Atypical angina,137.0,222.0,No,LV hypertrophy,147,No,0.5,Flat,1.0,Reversible defect,1
+1101,47,Male,Asymptomatic,137.0,214.0,No,Normal,170,No,2.6,Upsloping,0.0,Normal,1
+1486,56,Male,Non-anginal pain,122.0,191.0,No,ST-T abnormality,163,Yes,2.8,Flat,1.0,Reversible defect,1
+1794,53,Male,Asymptomatic,114.0,235.0,No,Normal,144,No,0.6,Flat,2.0,Reversible defect,1
+603,49,Female,Non-anginal pain,114.0,174.0,No,Normal,157,No,2.4,Flat,0.0,Reversible defect,1
+209,51,Male,Atypical angina,120.0,183.0,No,ST-T abnormality,165,Yes,2.8,Flat,0.0,Normal,1
+94,47,Male,Non-anginal pain,125.0,231.0,No,LV hypertrophy,157,No,3.6,Flat,0.0,Normal,0
+225,46,Male,Asymptomatic,139.0,279.0,No,Normal,193,No,0.4,Upsloping,0.0,Normal,1
+856,56,Male,Asymptomatic,97.0,290.0,No,Normal,119,No,0.2,Flat,0.0,Normal,1
+829,60,Male,Asymptomatic,154.0,230.0,No,LV hypertrophy,143,Yes,0.4,Upsloping,0.0,Normal,1
+141,58,Male,Asymptomatic,127.0,143.0,No,Normal,136,No,0.4,Flat,2.0,Normal,1
+1600,53,Female,Non-anginal pain,120.0,127.0,No,Normal,137,Yes,0.1,Flat,0.0,Normal,0
+797,30,Female,3,84.0,187.0,No,ST-T abnormality,163,No,0.2,Upsloping,1.0,Reversible defect,0
+1246,54,Male,Non-anginal pain,156.0,139.0,No,Normal,157,No,0.4,Flat,1.0,Normal,1
+1333,57,Male,Non-anginal pain,107.0,234.0,No,LV hypertrophy,157,No,0.3,Upsloping,0.0,Normal,0
+321,57,Male,4,111.0,195.0,No,Normal,118,Yes,2.6,Flat,3.0,,1
+1398,62,Male,Asymptomatic,116.0,0.0,No,ST-T abnormality,140,Yes,1.2,Downsloping,0.0,Normal,1
+940,43,Male,Asymptomatic,124.0,166.0,Yes,ST-T abnormality,191,No,1.4,Flat,0.0,Normal,1
+1135,52,Male,Non-anginal pain,94.0,250.0,Yes,ST-T abnormality,187,Yes,1.6,Upsloping,1.0,Fixed defect,0
+143,64,Male,4,117.0,243.0,No,ST-T abnormality,152,No,0.4,Upsloping,0.0,Reversible defect,1
+1114,61,Male,Non-anginal pain,118.0,182.0,No,ST-T abnormality,136,No,0.4,Upsloping,0.0,Normal,0
+710,66,Male,4,117.0,218.0,No,Normal,118,No,0.1,Upsloping,0.0,Normal,0
+190,44,Male,3,109.0,219.0,No,LV hypertrophy,169,No,0.4,Upsloping,0.0,Fixed defect,0
+434,33,Female,Atypical angina,129.0,183.0,Yes,ST-T abnormality,163,Yes,0.8,Downsloping,0.0,Reversible defect,0
+744,65,Female,Asymptomatic,120.0,278.0,No,LV hypertrophy,152,No,1.3,Upsloping,1.0,Fixed defect,0
+149,55,Male,Asymptomatic,136.0,144.0,No,LV hypertrophy,155,No,0.8,Flat,2.0,Normal,1
+1096,72,Male,Non-anginal pain,158.0,137.0,No,LV hypertrophy,140,No,0.9,Upsloping,2.0,Reversible defect,1
+941,45,Female,Asymptomatic,91.0,163.0,No,ST-T abnormality,154,No,0.5,Upsloping,0.0,Normal,0
+1625,55,Male,Non-anginal pain,118.0,199.0,No,Normal,156,No,0.2,Flat,0.0,Normal,0
+641,48,Male,Non-anginal pain,139.0,209.0,No,LV hypertrophy,158,No,0.3,Flat,0.0,Normal,1
+1671,63,Female,4,139.0,195.0,No,Normal,164,No,0.7,Upsloping,0.0,Normal,0
+810,42,Male,Typical angina,110.0,184.0,No,LV hypertrophy,153,No,0.8,Upsloping,1.0,Normal,0
+381,48,Male,Atypical angina,108.0,233.0,No,ST-T abnormality,191,Yes,0.2,Downsloping,0.0,Normal,1
+947,48,Male,Atypical angina,135.0,183.0,No,LV hypertrophy,171,No,0.6,Upsloping,1.0,Normal,0
+1647,69,Male,Asymptomatic,119.0,171.0,No,ST-T abnormality,138,No,0.4,Upsloping,3.0,Normal,1
+1688,46,Female,Non-anginal pain,93.0,235.0,No,Normal,181,No,0.3,Flat,0.0,Reversible defect,0
+1090,74,Male,Asymptomatic,151.0,233.0,No,Normal,135,Yes,0.7,Flat,0.0,Normal,1
+566,52,Male,Asymptomatic,127.0,241.0,No,Normal,147,No,0.4,Flat,0.0,Reversible defect,1
+1437,45,Male,2,123.0,185.0,No,Normal,202,No,0.6,Flat,1.0,Normal,0
+166,54,Female,Non-anginal pain,115.0,161.0,No,ST-T abnormality,165,Yes,0.9,Upsloping,0.0,Normal,0
+1204,47,Female,4,102.0,179.0,Yes,ST-T abnormality,169,No,0.4,Upsloping,1.0,Reversible defect,1
+629,52,Female,1,101.0,214.0,No,Normal,158,No,1.3,Upsloping,1.0,Normal,0
+1240,45,Female,Typical angina,138.0,247.0,No,Normal,179,Yes,3.4,Flat,1.0,Normal,1
+217,75,Female,Asymptomatic,132.0,241.0,No,LV hypertrophy,117,Yes,2.5,Upsloping,0.0,Reversible defect,1
+208,44,Male,4,136.0,146.0,No,Normal,170,No,0.7,Upsloping,2.0,Normal,0
+340,64,Male,Non-anginal pain,124.0,220.0,Yes,ST-T abnormality,133,Yes,5.3,Upsloping,2.0,Reversible defect,1
+1389,53,Female,Asymptomatic,132.0,110.0,No,Normal,190,No,0.2,Upsloping,0.0,Normal,0
+78,55,Male,Asymptomatic,103.0,152.0,No,ST-T abnormality,147,No,0.9,Flat,0.0,Reversible defect,1
+634,44,Male,Asymptomatic,119.0,178.0,No,Normal,187,No,2.8,Upsloping,0.0,Normal,1
+95,46,Male,4,109.0,161.0,No,ST-T abnormality,152,No,1.8,Flat,,Normal,1
+943,46,Female,Atypical angina,94.0,166.0,No,Normal,152,Yes,3.3,Flat,0.0,Reversible defect,0
+799,74,Male,Typical angina,142.0,219.0,Yes,Normal,128,No,1.1,Upsloping,1.0,Normal,1
+504,69,Male,4,137.0,300.0,No,ST-T abnormality,110,Yes,1.4,Upsloping,1.0,Normal,1
+1686,49,Male,Asymptomatic,89.0,261.0,No,LV hypertrophy,152,Yes,2.6,Downsloping,0.0,Normal,1
+934,68,Male,Non-anginal pain,148.0,242.0,No,ST-T abnormality,165,No,1.7,Downsloping,3.0,Normal,1
+1210,39,Female,Asymptomatic,97.0,248.0,No,Normal,141,No,2.0,Flat,0.0,Reversible defect,0
+583,56,Female,Atypical angina,116.0,211.0,No,ST-T abnormality,137,Yes,1.8,Flat,0.0,Normal,0
+383,53,Male,Non-anginal pain,111.0,269.0,Yes,ST-T abnormality,171,Yes,4.0,Upsloping,2.0,Reversible defect,1
+697,63,Male,2,142.0,183.0,No,LV hypertrophy,145,Yes,3.3,Downsloping,0.0,Normal,1
+1050,47,Male,Non-anginal pain,123.0,225.0,No,ST-T abnormality,164,Yes,0.6,Upsloping,0.0,Normal,0
+1153,38,Male,Atypical angina,104.0,177.0,No,Normal,166,No,0.9,Flat,1.0,Reversible defect,0
+433,55,Male,Asymptomatic,102.0,218.0,No,Normal,154,Yes,5.8,Flat,0.0,Normal,1
+319,44,Female,Non-anginal pain,86.0,181.0,No,ST-T abnormality,167,Yes,0.9,Upsloping,0.0,Reversible defect,0
+30,52,Female,Asymptomatic,141.0,247.0,No,Normal,151,No,0.7,Downsloping,3.0,Reversible defect,1
+1383,67,Female,Asymptomatic,102.0,146.0,No,Normal,148,No,0.1,Flat,0.0,Reversible defect,1
+197,58,Male,Asymptomatic,125.0,232.0,No,ST-T abnormality,191,No,0.8,Upsloping,0.0,Normal,0
+445,56,Female,Asymptomatic,107.0,229.0,No,LV hypertrophy,148,No,0.2,Flat,0.0,Reversible defect,0
+483,50,Female,Non-anginal pain,144.0,276.0,No,Normal,148,No,1.9,Flat,0.0,Normal,0
+1041,59,Male,4,131.0,173.0,No,ST-T abnormality,133,Yes,1.1,Upsloping,0.0,Reversible defect,1
+1223,54,Male,Asymptomatic,110.0,228.0,No,Normal,151,Yes,1.2,Upsloping,3.0,Normal,1
+1753,48,Male,4,94.0,223.0,No,Normal,122,Yes,1.4,Upsloping,1.0,Fixed defect,1
+819,47,Male,Asymptomatic,136.0,162.0,No,Normal,147,No,0.1,Flat,0.0,Normal,1
+592,64,Female,Asymptomatic,130.0,246.0,No,ST-T abnormality,160,Yes,2.3,Flat,0.0,Normal,1
+1731,57,Male,4,108.0,122.0,No,Normal,151,Yes,1.3,Flat,2.0,Normal,1
+1679,56,Female,Asymptomatic,104.0,233.0,No,Normal,147,No,0.1,Flat,0.0,Normal,0
+746,50,Male,Asymptomatic,103.0,247.0,No,Normal,154,Yes,2.1,Upsloping,0.0,Reversible defect,1
+1213,52,Female,3,111.0,228.0,Yes,ST-T abnormality,185,Yes,1.3,Flat,0.0,Normal,0
+747,59,Female,Asymptomatic,113.0,265.0,No,Normal,135,No,0.1,Downsloping,0.0,Normal,0
+613,51,Male,Asymptomatic,128.0,222.0,No,Normal,171,Yes,0.8,Upsloping,1.0,Fixed defect,1
+1599,53,Male,Asymptomatic,130.0,222.0,No,ST-T abnormality,149,No,0.4,Upsloping,3.0,Fixed defect,1
+29,44,Female,3,136.0,173.0,No,Normal,170,No,2.4,Flat,0.0,Normal,1
+420,70,Female,4,129.0,263.0,No,Normal,127,No,0.3,Upsloping,0.0,Normal,1
+1664,70,Male,Asymptomatic,144.0,322.0,No,Normal,139,No,0.6,Upsloping,0.0,Normal,1
+1385,65,Male,3,156.0,173.0,No,Normal,183,No,0.7,Downsloping,0.0,Reversible defect,1
+1503,64,Male,Asymptomatic,118.0,225.0,No,LV hypertrophy,151,Yes,5.7,Flat,1.0,Normal,1
+767,49,Male,Non-anginal pain,127.0,228.0,No,ST-T abnormality,169,Yes,1.8,Upsloping,1.0,Reversible defect,1
+615,44,Male,Asymptomatic,129.0,182.0,No,ST-T abnormality,162,No,0.0,Upsloping,0.0,Normal,0
+1258,51,Male,Asymptomatic,99.0,268.0,No,Normal,158,Yes,0.3,Downsloping,0.0,Normal,1
+1542,56,Male,Asymptomatic,119.0,181.0,No,LV hypertrophy,133,No,0.4,Upsloping,,Reversible defect,1
+28,54,Female,Asymptomatic,133.0,176.0,No,ST-T abnormality,142,No,0.2,Flat,2.0,Fixed defect,1
+1362,62,Male,Non-anginal pain,137.0,246.0,No,LV hypertrophy,154,No,1.4,Upsloping,0.0,Normal,0
+343,54,Male,Typical angina,107.0,237.0,No,Normal,163,No,0.3,Upsloping,1.0,Reversible defect,1
+1620,61,Male,3,109.0,185.0,No,ST-T abnormality,176,No,0.0,Flat,3.0,Normal,1
+1216,58,Male,Non-anginal pain,103.0,198.0,No,Normal,124,Yes,0.6,Upsloping,1.0,Normal,1
+1234,51,Female,Non-anginal pain,120.0,217.0,No,Normal,176,No,0.4,Upsloping,0.0,Normal,0
+1461,55,Male,Non-anginal pain,112.0,144.0,No,ST-T abnormality,170,No,0.7,Flat,,Reversible defect,1
+1201,56,Male,Typical angina,95.0,239.0,No,Normal,174,No,1.1,Flat,2.0,Normal,0
+123,48,Female,Typical angina,113.0,179.0,No,Normal,155,No,0.4,Upsloping,0.0,Reversible defect,0
+1266,42,Female,Atypical angina,96.0,175.0,No,Normal,123,No,2.8,Flat,0.0,Reversible defect,1
+1775,59,Female,Asymptomatic,102.0,176.0,No,Normal,171,No,1.1,Upsloping,0.0,Reversible defect,1
+1722,56,Male,Non-anginal pain,132.0,222.0,No,ST-T abnormality,153,No,1.8,Flat,1.0,Reversible defect,0
+703,63,Female,Asymptomatic,120.0,220.0,No,LV hypertrophy,155,No,0.2,Flat,0.0,Fixed defect,1
+517,43,Male,4,105.0,210.0,No,Normal,158,Yes,3.5,Flat,0.0,Reversible defect,1
+1665,51,Male,Typical angina,105.0,212.0,No,Normal,143,No,1.0,Downsloping,2.0,Normal,1
+460,48,Female,Non-anginal pain,111.0,169.0,No,ST-T abnormality,144,No,0.8,Upsloping,0.0,Normal,1
+855,43,Male,Non-anginal pain,105.0,263.0,No,ST-T abnormality,158,Yes,0.7,Flat,2.0,Reversible defect,1
+1473,58,Male,2,120.0,0.0,No,ST-T abnormality,153,Yes,0.2,Flat,0.0,Normal,1
+1139,34,Male,Asymptomatic,104.0,110.0,No,ST-T abnormality,194,No,1.8,Downsloping,0.0,Normal,0
+936,55,Female,Typical angina,140.0,210.0,No,LV hypertrophy,157,Yes,4.1,Upsloping,0.0,Normal,1
+459,58,Male,Asymptomatic,129.0,258.0,Yes,ST-T abnormality,171,No,0.1,Flat,0.0,Reversible defect,1
+555,67,Male,Asymptomatic,143.0,182.0,No,Normal,121,No,0.5,Flat,1.0,Reversible defect,0
+1194,55,Male,Non-anginal pain,131.0,161.0,No,Normal,168,Yes,2.3,Upsloping,0.0,Normal,1
+1222,62,Female,Asymptomatic,162.0,171.0,No,ST-T abnormality,174,Yes,3.7,Upsloping,0.0,Reversible defect,1
+466,48,Male,4,128.0,246.0,No,Normal,145,Yes,1.8,Upsloping,1.0,Fixed defect,1
+1590,51,Male,1,127.0,209.0,No,ST-T abnormality,147,Yes,2.3,Upsloping,0.0,Reversible defect,1
+1682,61,Female,Asymptomatic,117.0,252.0,No,Normal,173,No,0.2,Upsloping,0.0,Reversible defect,1
+1458,65,Male,Asymptomatic,159.0,0.0,No,Normal,147,No,2.0,Upsloping,1.0,Normal,1
+1231,60,Male,3,157.0,110.0,No,Normal,163,No,0.0,Flat,1.0,Normal,0
+341,49,Male,Atypical angina,112.0,270.0,No,Normal,160,No,0.2,Downsloping,1.0,Normal,1
+1700,31,Female,Typical angina,109.0,226.0,No,Normal,207,No,0.4,Flat,0.0,Normal,0
+446,48,Female,Non-anginal pain,78.0,183.0,No,ST-T abnormality,175,No,0.1,Flat,1.0,Reversible defect,0
+1502,44,Male,3,117.0,171.0,No,Normal,152,No,1.3,Upsloping,3.0,Fixed defect,0
+540,58,Female,Atypical angina,141.0,220.0,No,ST-T abnormality,147,No,0.1,Flat,2.0,Normal,0
+1416,63,Female,Atypical angina,111.0,149.0,No,Normal,146,No,1.2,Upsloping,1.0,Reversible defect,0
+121,58,Male,Asymptomatic,131.0,170.0,No,Normal,160,No,0.1,Flat,0.0,Reversible defect,1
+692,43,Male,Non-anginal pain,92.0,190.0,No,ST-T abnormality,156,No,1.0,Upsloping,3.0,Normal,0
+1349,59,Female,Asymptomatic,109.0,226.0,No,Normal,169,No,0.9,Flat,1.0,Normal,1
+1417,62,Female,1,113.0,232.0,No,LV hypertrophy,151,No,0.0,Upsloping,0.0,Reversible defect,0
+551,58,Male,Atypical angina,127.0,185.0,No,ST-T abnormality,131,No,0.5,Flat,0.0,Reversible defect,0
+491,42,Female,Typical angina,111.0,238.0,No,ST-T abnormality,156,Yes,3.4,Downsloping,0.0,Reversible defect,1
+925,56,Male,Non-anginal pain,138.0,181.0,No,Normal,136,Yes,7.9,Flat,0.0,Reversible defect,1
+1395,56,Female,Non-anginal pain,109.0,214.0,No,Normal,177,No,1.2,Upsloping,0.0,Normal,0
+798,65,Female,Asymptomatic,123.0,291.0,Yes,ST-T abnormality,140,No,0.2,Flat,2.0,Normal,1
+507,64,Male,Asymptomatic,157.0,219.0,No,Normal,166,No,0.7,Upsloping,3.0,Normal,1
+1138,42,Female,Asymptomatic,153.0,177.0,Yes,ST-T abnormality,159,No,0.4,Flat,0.0,Reversible defect,1
+686,61,Male,Typical angina,104.0,297.0,No,ST-T abnormality,168,Yes,0.4,Flat,2.0,Reversible defect,1
+1628,50,Female,Atypical angina,95.0,220.0,No,ST-T abnormality,166,Yes,2.3,Upsloping,1.0,Reversible defect,1
+1296,44,Male,Asymptomatic,124.0,0.0,No,Normal,159,Yes,0.9,Flat,0.0,Normal,0
+1011,51,Male,Atypical angina,110.0,186.0,Yes,ST-T abnormality,189,No,0.6,Upsloping,1.0,Normal,0
+992,55,Male,Non-anginal pain,104.0,184.0,No,Normal,140,No,2.5,Flat,0.0,Normal,0
+1364,60,Male,Typical angina,128.0,225.0,No,Normal,160,No,1.5,Flat,,Normal,0
+611,70,Female,Atypical angina,160.0,225.0,No,Normal,156,No,0.6,Upsloping,0.0,Normal,0
+1629,51,Male,3,137.0,260.0,Yes,Normal,130,Yes,0.3,Flat,0.0,Fixed defect,0
+152,50,Male,Typical angina,141.0,181.0,No,ST-T abnormality,182,No,0.8,Upsloping,2.0,Reversible defect,0
+614,57,Male,4,170.0,210.0,No,Normal,127,No,1.0,Upsloping,1.0,Reversible defect,1
+1430,56,Male,Atypical angina,145.0,205.0,No,ST-T abnormality,165,No,0.6,Flat,0.0,Normal,0
+1033,46,Female,Atypical angina,149.0,145.0,No,Normal,185,No,1.3,Upsloping,1.0,Reversible defect,0
+1685,46,Female,Atypical angina,124.0,220.0,No,ST-T abnormality,139,Yes,0.1,Flat,0.0,Normal,0
+1300,58,Female,Asymptomatic,133.0,222.0,No,ST-T abnormality,140,No,0.5,Upsloping,0.0,Normal,1
+1438,68,Female,Atypical angina,113.0,344.0,No,LV hypertrophy,133,Yes,0.3,Flat,0.0,Normal,0
+42,48,Male,Atypical angina,136.0,188.0,No,Normal,141,No,0.3,Flat,0.0,Normal,0
+1386,44,Female,Asymptomatic,157.0,214.0,No,Normal,159,No,1.1,Flat,0.0,Reversible defect,0
+196,54,Male,Asymptomatic,153.0,266.0,No,Normal,136,No,0.2,Flat,,Reversible defect,1
+1556,52,Female,Asymptomatic,107.0,195.0,No,ST-T abnormality,150,Yes,2.0,Flat,1.0,Normal,0
+497,52,Female,Asymptomatic,128.0,196.0,Yes,LV hypertrophy,183,Yes,2.5,Downsloping,0.0,Reversible defect,1
+801,41,Male,4,130.0,0.0,No,Normal,180,No,0.5,Flat,2.0,Normal,0
+1404,62,Female,Asymptomatic,135.0,159.0,No,ST-T abnormality,142,No,0.7,Upsloping,0.0,Normal,0
+1653,39,Male,Atypical angina,118.0,183.0,No,Normal,161,Yes,0.6,Flat,0.0,Normal,1
+1796,63,Female,Non-anginal pain,117.0,281.0,No,Normal,190,No,1.4,Upsloping,0.0,Normal,1
+916,49,Male,Asymptomatic,107.0,204.0,No,ST-T abnormality,192,Yes,2.6,Upsloping,,Normal,1
+1730,51,Male,Asymptomatic,101.0,202.0,No,Normal,124,Yes,10.8,Flat,,Normal,1
+1283,54,Male,Typical angina,99.0,211.0,No,Normal,155,Yes,1.5,Upsloping,0.0,Normal,1
+227,44,Male,Non-anginal pain,121.0,174.0,No,Normal,144,No,2.4,Upsloping,0.0,Normal,1
+1309,40,Male,2,87.0,245.0,No,Normal,168,No,0.6,Flat,0.0,Fixed defect,0
+250,59,Male,Asymptomatic,96.0,227.0,No,Normal,184,No,0.2,Upsloping,1.0,Normal,1
+1331,80,Male,Non-anginal pain,125.0,261.0,No,Normal,125,No,0.4,Flat,1.0,Reversible defect,0
+1661,72,Male,Typical angina,117.0,0.0,Yes,Normal,135,No,0.1,Downsloping,0.0,Normal,1
+251,57,Male,Non-anginal pain,139.0,171.0,No,Normal,154,Yes,0.6,Flat,1.0,Fixed defect,0
+950,73,Male,Asymptomatic,116.0,246.0,No,LV hypertrophy,127,Yes,0.2,Flat,3.0,Normal,1
+1670,67,Female,4,119.0,129.0,No,Normal,126,No,1.1,Upsloping,1.0,Normal,1
+1100,55,Male,Non-anginal pain,132.0,297.0,No,ST-T abnormality,140,Yes,0.4,Upsloping,0.0,Normal,1
+1403,59,Female,Non-anginal pain,146.0,227.0,No,LV hypertrophy,90,Yes,0.5,Upsloping,1.0,Reversible defect,1
+770,63,Male,Atypical angina,126.0,271.0,No,LV hypertrophy,157,No,0.4,Flat,0.0,Normal,0
+1489,48,Female,Asymptomatic,111.0,256.0,No,Normal,185,No,0.2,Downsloping,0.0,Normal,0
+712,46,Female,4,133.0,224.0,No,Normal,167,No,0.6,Upsloping,0.0,Normal,1
+1641,45,Male,Non-anginal pain,115.0,294.0,Yes,Normal,184,No,1.7,Upsloping,0.0,Normal,0
+1684,65,Female,Asymptomatic,129.0,277.0,No,Normal,162,No,2.6,Flat,2.0,Reversible defect,1
+1548,51,Male,Asymptomatic,142.0,223.0,No,ST-T abnormality,156,No,2.2,Flat,0.0,Reversible defect,1
+1214,60,Female,Typical angina,130.0,202.0,No,Normal,162,Yes,1.2,Flat,0.0,Reversible defect,0
+54,67,Male,Asymptomatic,123.0,217.0,No,ST-T abnormality,144,No,0.6,Upsloping,0.0,Normal,0
+1493,48,Female,Asymptomatic,114.0,249.0,No,Normal,140,Yes,4.0,Upsloping,1.0,Reversible defect,1
+724,52,Male,Non-anginal pain,108.0,110.0,Yes,Normal,165,Yes,1.5,Flat,2.0,Normal,1
+1009,56,Male,Atypical angina,0.0,219.0,No,LV hypertrophy,129,No,1.0,Upsloping,0.0,Reversible defect,0
+1179,49,Male,Typical angina,121.0,183.0,No,Normal,126,No,0.3,Flat,1.0,Reversible defect,1
+291,65,Male,Asymptomatic,111.0,278.0,No,ST-T abnormality,169,Yes,4.5,Flat,1.0,Normal,1
+1708,53,Male,Asymptomatic,141.0,316.0,No,LV hypertrophy,166,Yes,1.5,Flat,0.0,Normal,1
+423,67,Male,Non-anginal pain,118.0,155.0,Yes,Normal,117,No,0.6,Downsloping,0.0,Reversible defect,0
+871,49,Male,Asymptomatic,144.0,212.0,No,Normal,172,No,0.1,Upsloping,0.0,Normal,1
+544,64,Male,Asymptomatic,144.0,172.0,No,ST-T abnormality,137,No,0.1,Flat,,Normal,0
+269,50,Female,Asymptomatic,146.0,276.0,Yes,ST-T abnormality,138,No,0.2,Upsloping,0.0,Reversible defect,0
+1460,45,Female,Typical angina,114.0,296.0,No,ST-T abnormality,199,No,3.4,Upsloping,0.0,Normal,0
+1279,62,Male,Non-anginal pain,126.0,335.0,No,Normal,138,No,1.9,Flat,1.0,Reversible defect,0
+224,66,Female,Asymptomatic,135.0,332.0,Yes,Normal,105,Yes,1.3,Flat,0.0,Fixed defect,1
+426,55,Male,4,128.0,189.0,No,Normal,183,No,0.6,Upsloping,2.0,Normal,1
+11,50,Male,Asymptomatic,113.0,179.0,No,ST-T abnormality,178,No,2.5,Flat,0.0,Fixed defect,1
+1225,47,Male,Non-anginal pain,133.0,234.0,Yes,Normal,169,No,0.4,Flat,3.0,Normal,1
+864,55,Male,1,115.0,208.0,No,ST-T abnormality,119,No,1.0,Flat,0.0,Reversible defect,1
+202,46,Male,Asymptomatic,105.0,0.0,No,Normal,160,No,1.2,Downsloping,0.0,Normal,1
+415,62,Male,Asymptomatic,94.0,254.0,No,ST-T abnormality,120,No,2.2,Upsloping,0.0,Normal,0
+496,56,Male,Typical angina,109.0,251.0,No,ST-T abnormality,160,No,0.7,Flat,2.0,Normal,0
+194,54,Male,2,94.0,233.0,No,LV hypertrophy,142,No,0.5,Upsloping,0.0,Normal,0
+1280,57,Male,Asymptomatic,121.0,194.0,No,Normal,158,No,0.1,Flat,1.0,Normal,0
+1313,61,Female,Atypical angina,139.0,254.0,No,Normal,157,Yes,2.5,Downsloping,1.0,Normal,1
+719,50,Female,Non-anginal pain,112.0,153.0,No,ST-T abnormality,165,No,0.2,Flat,0.0,Normal,0
+1169,49,Female,Asymptomatic,99.0,225.0,No,Normal,175,No,1.0,Upsloping,0.0,Normal,1
+198,53,Female,Atypical angina,144.0,210.0,No,Normal,183,Yes,3.7,Flat,0.0,Reversible defect,0
+175,39,Male,Asymptomatic,106.0,241.0,No,Normal,152,No,0.4,Upsloping,0.0,Reversible defect,0
+409,57,Female,Non-anginal pain,129.0,147.0,No,Normal,110,Yes,0.1,Downsloping,0.0,Normal,1
+307,56,Male,Atypical angina,105.0,0.0,No,Normal,140,No,0.1,Upsloping,0.0,Normal,0
+545,67,Male,Asymptomatic,113.0,229.0,No,Normal,130,Yes,0.1,Upsloping,0.0,Normal,1
+140,54,Male,Non-anginal pain,103.0,243.0,Yes,Normal,148,No,0.3,Downsloping,0.0,Normal,0
+1426,51,Male,Non-anginal pain,105.0,125.0,No,ST-T abnormality,159,Yes,12.9,Upsloping,0.0,Normal,1
+1149,66,Male,Asymptomatic,137.0,207.0,No,Normal,150,No,1.0,Upsloping,1.0,Normal,1
+932,70,Male,Non-anginal pain,125.0,212.0,No,ST-T abnormality,136,No,0.6,Flat,2.0,Fixed defect,0
+1520,60,Male,Atypical angina,119.0,201.0,No,LV hypertrophy,163,No,2.3,Flat,0.0,Normal,0
+100,72,Female,1,106.0,213.0,No,Normal,115,No,1.0,Flat,2.0,Reversible defect,1
+535,53,Female,Atypical angina,96.0,168.0,No,Normal,153,No,0.2,Flat,0.0,Reversible defect,0
+379,54,Male,Non-anginal pain,137.0,142.0,No,ST-T abnormality,137,No,0.4,Upsloping,0.0,Normal,0
+1241,51,Female,2,115.0,289.0,No,ST-T abnormality,158,No,0.5,Upsloping,1.0,Reversible defect,0
+923,60,Female,4,113.0,235.0,Yes,ST-T abnormality,120,No,0.5,Flat,1.0,Normal,0
+606,60,Female,Non-anginal pain,136.0,285.0,No,Normal,149,Yes,3.2,Flat,0.0,Normal,1
+1495,56,Female,Asymptomatic,94.0,299.0,No,Normal,156,Yes,0.8,Flat,1.0,Normal,1
+248,58,Male,Non-anginal pain,125.0,110.0,No,ST-T abnormality,172,No,1.1,Downsloping,0.0,Normal,0
+660,45,Male,Asymptomatic,123.0,241.0,No,Normal,155,Yes,3.7,Upsloping,0.0,Reversible defect,1
+1399,41,Female,Typical angina,142.0,240.0,No,Normal,170,No,0.2,Flat,3.0,Reversible defect,0
+557,51,Female,Atypical angina,129.0,222.0,No,Normal,153,No,1.3,Flat,0.0,Reversible defect,0
+1723,48,Female,Asymptomatic,115.0,156.0,No,ST-T abnormality,122,No,1.4,Downsloping,0.0,Normal,1
+207,74,Female,Asymptomatic,118.0,169.0,Yes,Normal,124,No,0.2,Flat,0.0,Normal,1
+1310,46,Female,Asymptomatic,147.0,298.0,No,Normal,140,No,0.4,Flat,1.0,Reversible defect,0
+1491,60,Male,Asymptomatic,151.0,228.0,No,ST-T abnormality,137,No,0.0,Flat,2.0,Normal,1
+1005,39,Female,Asymptomatic,110.0,234.0,No,ST-T abnormality,187,No,0.1,Upsloping,0.0,Normal,0
+417,70,Female,Asymptomatic,114.0,267.0,No,ST-T abnormality,115,No,0.4,Upsloping,0.0,Normal,0
+129,53,Female,Atypical angina,137.0,172.0,No,Normal,140,No,0.1,Upsloping,1.0,,0
+150,51,Female,Atypical angina,127.0,174.0,No,Normal,132,Yes,3.2,Flat,0.0,Normal,1
+453,35,Female,2,131.0,191.0,No,Normal,179,No,1.0,Upsloping,1.0,Normal,0
+1550,62,Male,1,133.0,234.0,No,ST-T abnormality,140,No,0.2,Flat,0.0,Normal,0
+1048,51,Male,Asymptomatic,137.0,215.0,No,ST-T abnormality,179,No,1.8,Flat,0.0,Reversible defect,1
+1348,55,Male,Non-anginal pain,113.0,150.0,Yes,Normal,146,Yes,0.8,Upsloping,0.0,Reversible defect,0
+1174,70,Male,Non-anginal pain,118.0,234.0,No,Normal,149,No,0.6,Flat,1.0,Fixed defect,1
+1469,43,Male,Atypical angina,94.0,131.0,No,Normal,167,No,0.4,Upsloping,0.0,Normal,0
+795,41,Male,Asymptomatic,126.0,168.0,No,ST-T abnormality,158,No,1.7,Flat,1.0,Normal,1
+516,54,Male,Non-anginal pain,110.0,228.0,No,ST-T abnormality,155,No,1.2,Upsloping,0.0,Reversible defect,1
+1094,53,Male,Non-anginal pain,98.0,209.0,No,ST-T abnormality,180,Yes,2.3,Upsloping,1.0,Normal,1
+1568,65,Male,Non-anginal pain,133.0,175.0,No,ST-T abnormality,166,Yes,0.2,Flat,2.0,Normal,1
+1415,56,Male,4,123.0,286.0,No,Normal,140,No,0.5,Flat,0.0,Normal,1
+308,58,Male,Atypical angina,115.0,230.0,No,Normal,162,No,0.6,Flat,0.0,Fixed defect,0
+1230,40,Male,Asymptomatic,106.0,190.0,No,Normal,181,No,1.9,Flat,2.0,Reversible defect,1
+1287,60,Male,Asymptomatic,110.0,224.0,No,Normal,155,Yes,0.2,Upsloping,3.0,Normal,1
+1465,57,Female,2,115.0,283.0,No,Normal,164,No,2.0,Downsloping,0.0,Reversible defect,0
+585,55,Female,3,142.0,242.0,No,Normal,181,No,0.1,Flat,0.0,Fixed defect,0
+868,52,Male,Asymptomatic,117.0,213.0,No,Normal,154,No,0.4,Flat,3.0,Reversible defect,1
+1422,58,Male,Asymptomatic,99.0,157.0,No,LV hypertrophy,126,No,1.3,Flat,0.0,Reversible defect,1
+288,47,Male,Asymptomatic,130.0,227.0,No,LV hypertrophy,159,Yes,0.2,Flat,0.0,Reversible defect,0
+1479,45,Male,Atypical angina,120.0,178.0,Yes,ST-T abnormality,146,Yes,1.6,Flat,0.0,Normal,0
+899,63,Male,Atypical angina,127.0,195.0,Yes,ST-T abnormality,137,No,1.0,Flat,1.0,Reversible defect,1
+13,58,Male,2,133.0,208.0,No,Normal,154,Yes,0.9,Flat,0.0,Reversible defect,0
+512,52,Male,Asymptomatic,124.0,214.0,No,LV hypertrophy,138,No,0.3,Upsloping,3.0,Reversible defect,1
+1436,67,Female,4,146.0,138.0,No,Normal,145,No,0.7,Flat,0.0,Reversible defect,1
+513,64,Female,Non-anginal pain,140.0,215.0,No,LV hypertrophy,177,Yes,0.3,Upsloping,1.0,Reversible defect,0
+255,49,Male,Asymptomatic,127.0,216.0,No,Normal,151,No,0.5,Upsloping,3.0,Normal,1
+1582,68,Female,Asymptomatic,114.0,289.0,No,Normal,117,No,0.1,Downsloping,0.0,Normal,0
+247,67,Male,Non-anginal pain,105.0,240.0,No,ST-T abnormality,147,Yes,1.1,Upsloping,0.0,,1
+1176,49,Female,Non-anginal pain,120.0,332.0,No,LV hypertrophy,171,No,0.2,Flat,0.0,Normal,0
+342,47,Male,Non-anginal pain,109.0,156.0,No,Normal,156,No,0.4,Upsloping,2.0,Reversible defect,0
+1112,52,Male,Asymptomatic,142.0,221.0,No,LV hypertrophy,162,Yes,3.0,Flat,0.0,Normal,1
+1142,60,Male,Non-anginal pain,136.0,183.0,No,Normal,137,Yes,2.2,Flat,0.0,Normal,1
+1597,56,Female,Non-anginal pain,150.0,215.0,No,Normal,159,Yes,2.0,Upsloping,0.0,Reversible defect,1
+1340,59,Male,Asymptomatic,129.0,221.0,No,ST-T abnormality,149,No,2.2,Upsloping,0.0,Reversible defect,1
+1689,53,Male,4,122.0,199.0,No,Normal,182,No,1.3,Flat,2.0,Reversible defect,1
+216,55,Male,4,125.0,177.0,No,Normal,156,No,0.7,Flat,0.0,Normal,1
+1447,65,Male,Non-anginal pain,113.0,120.0,No,Normal,184,No,2.7,Flat,0.0,Fixed defect,0
+1382,38,Female,Non-anginal pain,105.0,184.0,No,Normal,167,Yes,0.9,Upsloping,3.0,Normal,1
+1569,59,Male,Non-anginal pain,116.0,204.0,No,ST-T abnormality,166,No,0.7,Flat,0.0,Normal,0
+874,52,Male,Asymptomatic,126.0,238.0,No,Normal,176,No,0.3,Upsloping,0.0,Reversible defect,1
+401,59,Male,Atypical angina,144.0,135.0,No,Normal,152,No,2.0,Upsloping,0.0,Normal,1
+1088,64,Female,Non-anginal pain,99.0,128.0,No,LV hypertrophy,147,No,2.1,Downsloping,0.0,Normal,0
+120,67,Male,Typical angina,128.0,225.0,No,ST-T abnormality,133,No,0.0,Flat,0.0,Reversible defect,0
+200,47,Female,4,137.0,245.0,No,ST-T abnormality,208,Yes,1.4,Flat,0.0,Normal,1
+131,67,Male,Non-anginal pain,96.0,257.0,No,Normal,124,No,1.1,Downsloping,,Reversible defect,1
+205,67,Male,Asymptomatic,120.0,220.0,No,ST-T abnormality,130,Yes,1.4,Flat,0.0,Reversible defect,1
+413,54,Female,Asymptomatic,125.0,230.0,No,ST-T abnormality,138,Yes,1.5,Flat,0.0,Normal,1
+458,68,Male,4,141.0,0.0,Yes,Normal,148,No,0.7,Flat,1.0,Reversible defect,1
+763,70,Male,Asymptomatic,96.0,204.0,Yes,ST-T abnormality,106,No,0.1,Upsloping,0.0,Reversible defect,1
+116,61,Male,Non-anginal pain,131.0,209.0,No,ST-T abnormality,97,No,0.6,Flat,1.0,Normal,1
+1297,52,Female,Asymptomatic,149.0,184.0,No,ST-T abnormality,177,No,0.2,Flat,1.0,Normal,1
+314,47,Female,Asymptomatic,131.0,241.0,No,Normal,183,No,1.9,Flat,0.0,Normal,1
+111,43,Male,Non-anginal pain,90.0,191.0,No,Normal,147,Yes,3.1,Upsloping,3.0,Reversible defect,1
+619,65,Female,1,150.0,209.0,No,Normal,157,No,0.1,Upsloping,0.0,Normal,1
+1076,52,Female,3,153.0,158.0,No,Normal,152,No,0.3,Upsloping,0.0,Normal,0
+534,47,Male,4,130.0,199.0,No,Normal,146,No,0.1,Upsloping,2.0,Normal,1
+1598,52,Male,Asymptomatic,136.0,120.0,No,Normal,156,Yes,0.4,Flat,0.0,Reversible defect,1
+861,46,Female,Typical angina,128.0,224.0,Yes,ST-T abnormality,158,No,0.7,Downsloping,2.0,Normal,1
+1711,41,Male,Asymptomatic,132.0,194.0,No,Normal,152,No,0.7,Flat,0.0,Normal,0
+966,70,Male,Non-anginal pain,164.0,110.0,No,Normal,153,No,0.8,Flat,0.0,Normal,1
+1026,64,Male,Asymptomatic,127.0,275.0,Yes,LV hypertrophy,131,Yes,0.4,Flat,3.0,Normal,1
+870,37,Female,Atypical angina,115.0,222.0,No,LV hypertrophy,175,No,0.7,Flat,0.0,Normal,0
+349,73,Female,Atypical angina,133.0,210.0,No,Normal,174,Yes,0.3,Flat,1.0,Normal,0
+1439,54,Male,Atypical angina,137.0,193.0,Yes,LV hypertrophy,160,No,1.3,Downsloping,0.0,Normal,1
+1645,65,Male,Atypical angina,131.0,239.0,No,Normal,135,No,2.7,Flat,0.0,Reversible defect,1
+1559,49,Male,Atypical angina,119.0,259.0,No,Normal,174,No,1.1,Flat,2.0,Normal,0
+786,56,Male,3,131.0,276.0,No,ST-T abnormality,176,No,2.7,Flat,0.0,Normal,0
+97,48,Male,Asymptomatic,105.0,203.0,No,ST-T abnormality,168,Yes,1.1,Flat,0.0,Fixed defect,1
+917,56,Female,Asymptomatic,109.0,232.0,No,Normal,191,No,0.8,Downsloping,0.0,Normal,0
+199,57,Male,Asymptomatic,109.0,213.0,No,LV hypertrophy,143,No,0.4,Upsloping,,Reversible defect,1
+1261,48,Female,Asymptomatic,112.0,253.0,No,Normal,162,Yes,1.4,Upsloping,0.0,Reversible defect,0
+243,58,Female,Atypical angina,128.0,0.0,No,LV hypertrophy,176,No,0.3,Flat,1.0,Reversible defect,0
+951,72,Female,2,115.0,200.0,Yes,Normal,140,No,0.2,Downsloping,0.0,Reversible defect,0
+1262,54,Female,Asymptomatic,128.0,182.0,Yes,ST-T abnormality,149,No,0.2,Downsloping,0.0,Reversible defect,1
+1183,51,Male,Asymptomatic,124.0,213.0,No,LV hypertrophy,141,No,1.4,Flat,1.0,Reversible defect,1
+1125,57,Male,Typical angina,126.0,187.0,No,Normal,162,Yes,1.8,Downsloping,0.0,Normal,0
+302,53,Male,Asymptomatic,127.0,0.0,No,Normal,171,No,0.3,Flat,2.0,Normal,1
+700,50,Female,3,102.0,261.0,No,Normal,152,No,0.8,Flat,0.0,Normal,0
+802,68,Male,3,133.0,239.0,Yes,ST-T abnormality,110,No,0.9,Downsloping,0.0,Reversible defect,1
+1035,63,Female,Typical angina,116.0,216.0,No,LV hypertrophy,150,Yes,1.7,Upsloping,0.0,Normal,0
+1636,50,Male,4,115.0,168.0,No,Normal,138,No,0.8,Downsloping,1.0,Normal,1
+468,54,Male,Typical angina,149.0,158.0,No,ST-T abnormality,154,No,0.1,Flat,0.0,Reversible defect,0
+931,60,Female,Asymptomatic,132.0,225.0,No,Normal,160,No,1.0,Flat,2.0,Reversible defect,1
+521,65,Female,3,121.0,244.0,No,ST-T abnormality,163,Yes,1.2,Flat,2.0,Normal,1
+556,51,Female,Non-anginal pain,118.0,213.0,Yes,ST-T abnormality,173,No,0.5,Upsloping,1.0,Reversible defect,0
+1656,53,Male,3,107.0,275.0,No,Normal,150,Yes,0.6,Flat,2.0,Normal,1
+281,66,Male,Asymptomatic,127.0,201.0,No,Normal,148,Yes,2.2,Upsloping,0.0,Reversible defect,1
+718,76,Male,Asymptomatic,107.0,303.0,No,ST-T abnormality,154,Yes,4.7,Upsloping,2.0,Normal,1
+272,50,Male,Atypical angina,121.0,220.0,No,Normal,146,No,0.2,Upsloping,2.0,Reversible defect,1
+1534,45,Male,Atypical angina,109.0,287.0,No,Normal,142,No,0.2,Flat,0.0,Normal,1
+1709,47,Female,Atypical angina,127.0,0.0,No,Normal,192,No,0.7,Downsloping,0.0,Fixed defect,0
+244,72,Male,Asymptomatic,106.0,0.0,No,LV hypertrophy,167,Yes,0.4,Upsloping,2.0,Fixed defect,1
+618,54,Male,4,140.0,230.0,Yes,Normal,117,No,0.4,Upsloping,0.0,Normal,1
+1692,51,Male,Asymptomatic,118.0,198.0,Yes,ST-T abnormality,145,Yes,1.4,Upsloping,0.0,Fixed defect,1
+139,37,Male,Asymptomatic,131.0,209.0,Yes,Normal,152,No,0.6,Upsloping,0.0,Normal,1
+1779,45,Female,Atypical angina,140.0,195.0,No,ST-T abnormality,169,No,0.4,Upsloping,0.0,Normal,0
+402,51,Male,Atypical angina,113.0,216.0,No,Normal,154,Yes,2.3,Upsloping,0.0,Reversible defect,1
+184,71,Male,Typical angina,125.0,180.0,No,ST-T abnormality,133,No,1.1,Downsloping,1.0,Normal,1
+203,62,Female,Atypical angina,108.0,178.0,No,Normal,184,Yes,1.2,Flat,1.0,Normal,1
+408,63,Male,Non-anginal pain,135.0,243.0,No,Normal,130,No,0.3,Upsloping,0.0,Reversible defect,1
+428,51,Female,4,114.0,197.0,No,LV hypertrophy,166,Yes,0.8,Upsloping,0.0,Reversible defect,1
+514,50,Female,4,121.0,218.0,No,ST-T abnormality,154,No,0.3,Flat,1.0,Reversible defect,1
+737,51,Male,Typical angina,120.0,113.0,No,ST-T abnormality,165,No,0.5,Upsloping,1.0,Normal,0
+828,50,Male,Asymptomatic,117.0,134.0,Yes,ST-T abnormality,128,No,1.3,Flat,0.0,Normal,1
+1043,43,Female,Asymptomatic,137.0,143.0,No,LV hypertrophy,165,No,0.5,Flat,1.0,,0
+332,53,Female,Asymptomatic,141.0,0.0,No,ST-T abnormality,183,No,0.7,Flat,0.0,Normal,1
+318,64,Male,Typical angina,127.0,166.0,No,Normal,162,No,4.0,Upsloping,0.0,Reversible defect,1
+1464,53,Female,Asymptomatic,129.0,256.0,No,Normal,163,No,1.9,Upsloping,0.0,,0
+326,46,Male,3,100.0,252.0,No,LV hypertrophy,179,No,0.9,Upsloping,0.0,Fixed defect,0
+942,61,Female,2,147.0,207.0,No,ST-T abnormality,155,No,0.1,Upsloping,3.0,Reversible defect,0
+1102,71,Female,3,116.0,158.0,No,ST-T abnormality,164,No,0.4,Upsloping,0.0,Fixed defect,0
+1507,53,Male,3,145.0,212.0,No,ST-T abnormality,141,No,0.5,Upsloping,1.0,Normal,0
+1059,57,Male,Asymptomatic,120.0,178.0,Yes,ST-T abnormality,136,No,0.7,Upsloping,0.0,Reversible defect,1
+833,56,Female,Atypical angina,131.0,179.0,No,Normal,140,No,1.7,Upsloping,0.0,Normal,0
+1557,57,Male,Non-anginal pain,116.0,260.0,No,LV hypertrophy,161,No,1.9,Flat,1.0,,0
+44,45,Male,Asymptomatic,107.0,222.0,No,LV hypertrophy,150,No,1.3,Flat,2.0,Normal,1
+403,52,Male,Typical angina,118.0,156.0,No,ST-T abnormality,139,No,0.2,Flat,2.0,Reversible defect,1
+1143,80,Male,Asymptomatic,148.0,239.0,No,Normal,120,No,0.7,Upsloping,1.0,Reversible defect,1
+1558,66,Male,Asymptomatic,110.0,225.0,Yes,Normal,154,No,0.6,Flat,0.0,Normal,1
+1158,60,Male,4,145.0,238.0,No,ST-T abnormality,120,No,0.4,Flat,3.0,,1
+889,50,Female,Non-anginal pain,113.0,162.0,Yes,Normal,134,Yes,1.0,Upsloping,1.0,Fixed defect,1
+1800,73,Male,Asymptomatic,129.0,277.0,Yes,LV hypertrophy,158,Yes,5.8,Upsloping,1.0,Reversible defect,1
+685,47,Male,Non-anginal pain,130.0,152.0,No,LV hypertrophy,166,Yes,0.6,Upsloping,0.0,Normal,0
+908,63,Male,2,112.0,0.0,Yes,Normal,167,No,1.6,Flat,0.0,Normal,1
+790,57,Female,Asymptomatic,120.0,237.0,Yes,ST-T abnormality,158,No,0.1,Flat,0.0,Normal,0
+834,60,Male,Non-anginal pain,121.0,210.0,No,ST-T abnormality,156,No,1.5,Flat,3.0,Normal,0
+1719,49,Female,Asymptomatic,119.0,221.0,No,ST-T abnormality,158,No,0.5,Upsloping,3.0,Normal,1
+1655,35,Male,Asymptomatic,98.0,212.0,No,ST-T abnormality,178,Yes,11.6,Upsloping,1.0,Normal,1
+1392,50,Female,Non-anginal pain,127.0,232.0,No,ST-T abnormality,180,No,1.0,Upsloping,0.0,Reversible defect,0
+1581,55,Male,Non-anginal pain,113.0,240.0,No,ST-T abnormality,137,Yes,5.1,Flat,0.0,Normal,1
+83,57,Male,Non-anginal pain,120.0,240.0,No,ST-T abnormality,142,No,3.3,Upsloping,3.0,Normal,1
+1148,44,Male,Asymptomatic,100.0,272.0,No,Normal,139,No,1.7,Upsloping,0.0,Reversible defect,1
+725,51,Female,Asymptomatic,147.0,117.0,Yes,ST-T abnormality,177,No,1.3,Upsloping,1.0,Normal,0
+1396,54,Male,Asymptomatic,125.0,169.0,No,ST-T abnormality,144,No,0.5,Upsloping,0.0,Normal,1
+336,55,Male,Asymptomatic,108.0,213.0,No,Normal,148,No,1.0,Flat,0.0,Normal,0
+1302,62,Female,Non-anginal pain,108.0,233.0,No,ST-T abnormality,143,No,0.3,Flat,0.0,Normal,0
+1295,55,Male,3,121.0,239.0,No,Normal,167,Yes,5.2,Upsloping,2.0,Reversible defect,1
+1544,72,Male,4,127.0,198.0,No,ST-T abnormality,145,Yes,1.5,Upsloping,0.0,Normal,1
+1678,47,Male,Asymptomatic,115.0,163.0,No,Normal,196,No,0.6,Flat,1.0,Normal,1
+31,48,Male,Asymptomatic,131.0,175.0,No,Normal,179,Yes,1.9,Flat,2.0,Reversible defect,1
+1245,72,Male,3,149.0,271.0,Yes,Normal,171,No,0.7,Upsloping,3.0,Normal,1
+145,71,Female,2,110.0,174.0,No,ST-T abnormality,140,No,1.4,Upsloping,,Reversible defect,1
+949,53,Male,4,115.0,197.0,No,Normal,153,No,0.2,Upsloping,0.0,Normal,0
+518,48,Male,Non-anginal pain,122.0,136.0,No,LV hypertrophy,156,Yes,2.0,Flat,0.0,Reversible defect,0
+1435,59,Male,Non-anginal pain,109.0,235.0,No,ST-T abnormality,160,No,1.3,Flat,1.0,Normal,0
+958,47,Male,Atypical angina,85.0,123.0,No,Normal,173,Yes,2.8,Upsloping,2.0,Normal,1
+1707,56,Female,Asymptomatic,103.0,221.0,No,LV hypertrophy,160,No,0.6,Upsloping,0.0,Normal,0
+1029,69,Male,2,99.0,258.0,No,ST-T abnormality,174,No,0.0,Upsloping,0.0,Fixed defect,1
+945,54,Male,Asymptomatic,127.0,238.0,No,ST-T abnormality,154,No,0.5,Flat,0.0,Normal,1
+1189,58,Female,Non-anginal pain,115.0,238.0,No,Normal,162,Yes,1.5,Flat,0.0,Normal,1
+1070,56,Male,3,128.0,350.0,No,ST-T abnormality,150,No,2.0,Flat,0.0,Reversible defect,1
+1694,56,Female,4,87.0,290.0,No,Normal,152,Yes,0.3,Upsloping,2.0,Reversible defect,1
+1729,39,Female,Non-anginal pain,119.0,232.0,No,LV hypertrophy,192,No,0.7,Upsloping,0.0,Normal,0
+919,63,Female,Atypical angina,138.0,214.0,No,Normal,167,No,3.2,Downsloping,0.0,Normal,0
+88,62,Male,Non-anginal pain,123.0,157.0,No,LV hypertrophy,139,No,0.2,Flat,0.0,Normal,0
+1071,59,Male,Atypical angina,112.0,318.0,No,Normal,143,No,0.0,Upsloping,0.0,Normal,1
+279,54,Male,4,114.0,258.0,No,Normal,187,Yes,1.9,Flat,2.0,Normal,1
+690,62,Male,Asymptomatic,135.0,218.0,No,Normal,185,Yes,0.9,Upsloping,1.0,Normal,1
+478,61,Female,Non-anginal pain,130.0,192.0,Yes,Normal,129,Yes,0.3,Upsloping,0.0,Reversible defect,0
+1181,40,Male,Atypical angina,109.0,130.0,No,Normal,149,Yes,3.1,Flat,2.0,Normal,1
+295,62,Male,Non-anginal pain,134.0,310.0,No,ST-T abnormality,127,No,0.7,Upsloping,0.0,Reversible defect,0
+728,65,Male,4,114.0,295.0,Yes,LV hypertrophy,120,No,0.7,Flat,0.0,Normal,1
+304,33,Male,Asymptomatic,105.0,184.0,No,ST-T abnormality,187,No,0.2,Flat,0.0,Normal,0
+750,51,Male,1,112.0,138.0,No,Normal,168,Yes,2.3,Upsloping,0.0,Reversible defect,0
+469,68,Male,Asymptomatic,133.0,245.0,No,Normal,146,No,0.2,Upsloping,0.0,Fixed defect,1
+847,40,Male,Asymptomatic,0.0,274.0,No,Normal,158,No,0.7,Downsloping,0.0,Normal,1
+1706,55,Male,Asymptomatic,129.0,225.0,Yes,ST-T abnormality,134,Yes,5.0,Upsloping,0.0,Fixed defect,1
+581,46,Male,Atypical angina,118.0,175.0,No,ST-T abnormality,147,Yes,1.7,Flat,1.0,Reversible defect,0
+164,56,Male,4,145.0,218.0,No,Normal,147,Yes,1.3,Flat,1.0,,1
+1514,50,Male,Asymptomatic,113.0,195.0,No,Normal,137,No,3.4,Flat,1.0,Reversible defect,1
+915,34,Female,Asymptomatic,86.0,135.0,No,ST-T abnormality,150,Yes,4.2,Upsloping,2.0,Normal,1
+261,48,Female,Asymptomatic,112.0,243.0,No,ST-T abnormality,172,No,1.3,Flat,2.0,Normal,1
+894,59,Male,Typical angina,131.0,233.0,No,LV hypertrophy,148,No,0.2,Upsloping,2.0,Reversible defect,1
+411,43,Male,Asymptomatic,91.0,268.0,No,ST-T abnormality,170,Yes,1.7,Flat,1.0,Normal,0
+1728,59,Male,1,119.0,271.0,Yes,ST-T abnormality,155,No,1.0,Upsloping,0.0,Reversible defect,0
+957,59,Male,4,131.0,213.0,No,Normal,138,No,1.9,Upsloping,0.0,Normal,1
+1528,62,Female,Atypical angina,123.0,206.0,No,ST-T abnormality,131,Yes,0.4,Upsloping,3.0,Reversible defect,1
+1060,54,Male,4,101.0,166.0,Yes,Normal,138,Yes,2.9,Flat,0.0,Normal,1
+443,58,Male,Atypical angina,149.0,233.0,No,Normal,170,Yes,3.0,Upsloping,,Normal,1
+1111,48,Female,Typical angina,104.0,142.0,No,Normal,172,Yes,1.8,Downsloping,2.0,Fixed defect,0
+1219,44,Male,Non-anginal pain,95.0,222.0,Yes,ST-T abnormality,190,Yes,0.2,Upsloping,0.0,Reversible defect,0
+1247,57,Male,Typical angina,133.0,188.0,No,ST-T abnormality,131,No,2.2,Upsloping,1.0,Normal,1
+1086,52,Male,Typical angina,138.0,196.0,No,Normal,157,No,0.1,Flat,0.0,Reversible defect,1
+87,38,Male,2,129.0,263.0,Yes,ST-T abnormality,151,Yes,0.8,Flat,0.0,Reversible defect,1
+90,80,Female,Atypical angina,131.0,239.0,No,LV hypertrophy,154,No,0.9,Flat,0.0,Normal,0
+1226,57,Male,Typical angina,123.0,215.0,No,Normal,145,No,0.5,Upsloping,0.0,Normal,0
+489,48,Male,Typical angina,99.0,206.0,No,LV hypertrophy,169,No,0.5,Upsloping,2.0,Reversible defect,1
+463,60,Female,Typical angina,128.0,283.0,No,Normal,164,No,0.4,Upsloping,0.0,Normal,0
+362,51,Male,Non-anginal pain,114.0,212.0,No,Normal,146,Yes,0.1,Flat,0.0,Reversible defect,1
+1427,65,Male,Asymptomatic,145.0,206.0,No,ST-T abnormality,133,No,0.1,Flat,0.0,Normal,1
+711,57,Male,Non-anginal pain,146.0,235.0,No,ST-T abnormality,193,Yes,1.0,Downsloping,0.0,Reversible defect,0
+1285,40,Male,4,134.0,165.0,No,Normal,196,No,0.4,Upsloping,0.0,Reversible defect,0
+1075,62,Male,4,113.0,173.0,No,ST-T abnormality,164,Yes,0.8,Upsloping,0.0,Normal,1
+91,74,Male,Non-anginal pain,105.0,202.0,No,ST-T abnormality,119,No,0.8,Upsloping,0.0,Fixed defect,1
+821,41,Female,3,110.0,201.0,No,ST-T abnormality,183,No,2.0,Downsloping,2.0,Reversible defect,0
+1010,53,Female,4,110.0,207.0,No,ST-T abnormality,168,No,0.3,Upsloping,2.0,Normal,1
+596,57,Male,2,165.0,168.0,No,Normal,145,No,2.2,Upsloping,1.0,Normal,1
+8,57,Male,Atypical angina,82.0,225.0,No,Normal,179,Yes,1.3,Upsloping,3.0,Fixed defect,1
+582,68,Female,Asymptomatic,148.0,234.0,No,ST-T abnormality,177,Yes,4.1,Downsloping,0.0,Reversible defect,1
+1212,57,Male,Non-anginal pain,105.0,232.0,No,Normal,146,No,2.4,Upsloping,0.0,Fixed defect,1
+17,47,Male,Atypical angina,130.0,162.0,No,Normal,174,No,2.0,Upsloping,0.0,Reversible defect,0
+573,55,Male,Asymptomatic,131.0,263.0,No,LV hypertrophy,200,Yes,1.9,Upsloping,1.0,Normal,1
+105,41,Female,Non-anginal pain,118.0,246.0,Yes,Normal,143,No,0.4,Flat,0.0,Reversible defect,0
+1118,56,Male,Asymptomatic,129.0,125.0,No,Normal,168,No,0.1,Upsloping,,Reversible defect,1
+865,44,Male,Asymptomatic,131.0,212.0,No,LV hypertrophy,187,No,0.0,Upsloping,2.0,Reversible defect,1
+1067,76,Male,Non-anginal pain,121.0,232.0,Yes,ST-T abnormality,105,No,0.2,Flat,0.0,Normal,0
+867,61,Male,Atypical angina,80.0,145.0,No,LV hypertrophy,120,No,0.2,Flat,1.0,Normal,1
+1263,67,Male,Asymptomatic,143.0,262.0,No,Normal,162,No,2.3,Flat,1.0,Reversible defect,1
+187,41,Female,Asymptomatic,107.0,255.0,No,Normal,178,Yes,3.2,Flat,1.0,Normal,1
+119,56,Male,Atypical angina,105.0,283.0,No,Normal,173,Yes,0.1,Flat,0.0,Reversible defect,0
+80,65,Male,Asymptomatic,141.0,244.0,No,ST-T abnormality,130,No,1.2,Flat,0.0,Reversible defect,1
+1068,60,Male,Asymptomatic,110.0,292.0,No,Normal,161,Yes,4.0,Downsloping,0.0,Reversible defect,1
+805,53,Female,3,121.0,199.0,No,Normal,163,No,2.1,Flat,0.0,Reversible defect,1
+857,51,Female,Atypical angina,120.0,194.0,No,Normal,199,No,0.4,Flat,1.0,Normal,0
+643,65,Female,4,118.0,179.0,No,Normal,142,Yes,2.0,Flat,0.0,Fixed defect,1
+32,56,Male,Asymptomatic,117.0,0.0,No,LV hypertrophy,172,No,0.2,Upsloping,1.0,Reversible defect,0
+1099,48,Male,4,104.0,270.0,No,Normal,181,No,2.4,Flat,0.0,Reversible defect,1
+1278,47,Male,Non-anginal pain,121.0,171.0,No,ST-T abnormality,178,No,3.1,Downsloping,1.0,Reversible defect,1
+440,47,Male,3,144.0,203.0,No,ST-T abnormality,161,Yes,0.7,Upsloping,1.0,Reversible defect,0
+1047,35,Male,Asymptomatic,104.0,304.0,No,ST-T abnormality,169,No,0.1,Flat,0.0,Normal,0
+363,43,Female,Asymptomatic,105.0,186.0,No,ST-T abnormality,175,No,0.4,Upsloping,0.0,Reversible defect,0
+844,54,Female,3,122.0,284.0,No,LV hypertrophy,151,No,0.7,Flat,0.0,Normal,0
+1406,51,Female,Non-anginal pain,135.0,195.0,No,Normal,184,Yes,7.0,Flat,1.0,Reversible defect,1
+18,51,Male,Non-anginal pain,130.0,246.0,No,Normal,162,Yes,3.2,Upsloping,1.0,Normal,1
+21,66,Male,Non-anginal pain,112.0,263.0,No,Normal,141,No,0.7,Flat,2.0,Fixed defect,0
+1638,57,Male,3,109.0,291.0,Yes,Normal,178,No,0.8,Flat,0.0,Normal,0
+334,57,Female,Asymptomatic,126.0,228.0,No,LV hypertrophy,136,Yes,2.3,Upsloping,0.0,Normal,1
+382,45,Male,4,122.0,0.0,No,Normal,143,Yes,2.2,Downsloping,0.0,Normal,1
+1301,65,Male,Atypical angina,99.0,241.0,No,ST-T abnormality,147,No,0.2,Upsloping,0.0,Normal,1
+515,60,Male,Non-anginal pain,97.0,171.0,No,LV hypertrophy,154,No,0.4,Upsloping,0.0,Fixed defect,0
+1239,51,Male,3,93.0,234.0,No,Normal,167,No,0.4,Upsloping,1.0,Normal,0
+929,67,Female,Asymptomatic,155.0,248.0,No,Normal,139,Yes,1.0,Flat,0.0,,1
+554,53,Female,Asymptomatic,123.0,118.0,No,Normal,177,Yes,0.5,Upsloping,0.0,Fixed defect,0
+1425,59,Male,4,129.0,205.0,Yes,Normal,144,No,1.6,Flat,1.0,Normal,1
+1319,52,Male,Asymptomatic,117.0,264.0,No,ST-T abnormality,145,No,0.7,Downsloping,0.0,Reversible defect,1
+359,51,Male,Non-anginal pain,99.0,201.0,Yes,Normal,168,No,0.1,Flat,2.0,Normal,1
+1431,62,Male,Non-anginal pain,134.0,279.0,No,ST-T abnormality,156,Yes,1.8,Flat,2.0,Normal,1
+9,39,Male,3,124.0,207.0,No,LV hypertrophy,162,No,0.2,Flat,0.0,Reversible defect,0
+325,56,Female,3,103.0,263.0,No,Normal,126,No,1.9,Upsloping,0.0,,0
+1175,44,Male,4,90.0,224.0,No,Normal,131,No,0.3,Flat,0.0,Normal,0
+928,50,Male,Typical angina,100.0,220.0,No,Normal,170,No,1.3,Flat,0.0,Normal,1
+1457,51,Female,Typical angina,132.0,186.0,No,Normal,169,Yes,0.8,Flat,1.0,Normal,0
+437,43,Male,4,112.0,176.0,No,Normal,165,No,0.3,Flat,3.0,Normal,0
+1186,69,Female,4,113.0,181.0,Yes,Normal,131,No,0.3,Downsloping,1.0,Reversible defect,1
+165,56,Male,Asymptomatic,113.0,234.0,No,LV hypertrophy,151,Yes,2.1,Upsloping,1.0,Normal,1
+389,78,Male,Non-anginal pain,121.0,277.0,No,LV hypertrophy,165,Yes,1.9,Upsloping,0.0,Normal,1
+667,76,Female,Non-anginal pain,139.0,262.0,No,Normal,104,No,0.1,Flat,0.0,Normal,0
+1254,65,Male,Asymptomatic,108.0,274.0,No,Normal,156,No,0.1,Upsloping,0.0,Normal,1
+1293,51,Female,Asymptomatic,132.0,217.0,No,ST-T abnormality,129,No,3.3,Flat,1.0,Reversible defect,1
+948,61,Male,Typical angina,100.0,0.0,No,Normal,149,Yes,2.5,Flat,0.0,Reversible defect,1
+1046,47,Female,Asymptomatic,107.0,157.0,No,Normal,115,No,1.8,Flat,1.0,Reversible defect,1
+654,55,Male,Atypical angina,118.0,135.0,No,Normal,145,No,1.6,Upsloping,0.0,Reversible defect,0
+811,50,Male,Asymptomatic,149.0,110.0,No,Normal,142,No,1.2,Flat,0.0,Fixed defect,0
+803,54,Male,Non-anginal pain,110.0,238.0,No,Normal,142,No,3.5,Flat,,Fixed defect,1
+970,59,Male,Atypical angina,103.0,215.0,Yes,ST-T abnormality,168,Yes,2.0,Upsloping,0.0,Normal,1
+1504,39,Male,4,108.0,175.0,No,Normal,154,Yes,0.1,Flat,0.0,Reversible defect,1
+136,51,Male,Typical angina,125.0,184.0,No,Normal,175,No,1.0,Flat,0.0,Normal,1
+59,45,Male,Non-anginal pain,120.0,267.0,Yes,Normal,154,No,2.2,Flat,0.0,Fixed defect,1
+568,58,Male,Non-anginal pain,124.0,291.0,No,Normal,171,Yes,1.2,Downsloping,1.0,Normal,1
+1786,53,Female,4,113.0,156.0,No,Normal,143,Yes,2.0,Upsloping,1.0,Normal,1
+1155,56,Female,Asymptomatic,113.0,245.0,No,ST-T abnormality,139,No,0.8,Upsloping,0.0,Normal,1
+1165,45,Male,3,120.0,0.0,No,Normal,188,Yes,1.5,Flat,2.0,Reversible defect,1
+1221,56,Male,Non-anginal pain,110.0,265.0,No,Normal,153,No,0.3,Upsloping,2.0,Normal,1
+1407,54,Male,Non-anginal pain,109.0,192.0,Yes,Normal,166,No,0.8,Flat,0.0,Normal,0
+740,44,Female,Asymptomatic,119.0,250.0,No,ST-T abnormality,173,No,1.0,Flat,0.0,Normal,0
+153,48,Male,Non-anginal pain,120.0,237.0,No,Normal,148,No,0.3,Upsloping,0.0,Reversible defect,0
+284,48,Male,Atypical angina,109.0,238.0,No,ST-T abnormality,165,No,0.5,Upsloping,0.0,Reversible defect,0
+524,60,Female,Asymptomatic,109.0,170.0,Yes,ST-T abnormality,127,Yes,0.3,Flat,0.0,Normal,0
+1745,49,Male,Asymptomatic,99.0,268.0,No,Normal,177,No,1.6,Upsloping,0.0,Normal,1
+117,68,Male,4,121.0,0.0,No,LV hypertrophy,166,Yes,3.8,Flat,0.0,Normal,0
+312,56,Male,Asymptomatic,131.0,238.0,No,ST-T abnormality,154,Yes,0.5,Flat,1.0,Normal,1
+505,72,Male,Non-anginal pain,164.0,158.0,Yes,Normal,116,Yes,3.0,Upsloping,3.0,Reversible defect,1
+364,42,Male,Asymptomatic,124.0,197.0,No,ST-T abnormality,161,No,0.2,Flat,1.0,Normal,0
+3,67,Female,Asymptomatic,120.0,208.0,No,ST-T abnormality,109,No,2.5,Flat,0.0,Normal,1
+182,56,Male,Asymptomatic,123.0,261.0,Yes,ST-T abnormality,173,Yes,14.6,Upsloping,0.0,Reversible defect,1
+1034,61,Male,Asymptomatic,129.0,171.0,No,Normal,183,No,0.3,Downsloping,2.0,Normal,0
+722,58,Male,Asymptomatic,130.0,252.0,No,Normal,159,No,0.9,Flat,0.0,Normal,0
+329,44,Male,Asymptomatic,111.0,230.0,No,Normal,184,Yes,0.1,Upsloping,0.0,Normal,0
+41,58,Female,Asymptomatic,117.0,110.0,Yes,Normal,179,No,1.5,Downsloping,2.0,Normal,0
+67,55,Male,Asymptomatic,124.0,113.0,No,Normal,162,Yes,1.9,Upsloping,0.0,Normal,1
+1797,67,Male,Asymptomatic,118.0,158.0,No,LV hypertrophy,160,Yes,0.9,Flat,0.0,Normal,1
+509,41,Male,Asymptomatic,111.0,203.0,No,Normal,180,No,1.4,Upsloping,1.0,Normal,0
+1365,50,Male,Non-anginal pain,104.0,210.0,No,Normal,186,Yes,0.5,Flat,0.0,Normal,0
+666,80,Female,3,106.0,269.0,No,ST-T abnormality,137,Yes,1.2,Flat,0.0,Normal,1
+289,42,Male,Asymptomatic,133.0,270.0,No,Normal,192,No,0.6,Flat,0.0,Normal,0
+1765,60,Male,Asymptomatic,138.0,319.0,No,ST-T abnormality,186,No,0.3,Flat,1.0,Reversible defect,1
+1690,54,Male,Atypical angina,113.0,238.0,No,ST-T abnormality,174,Yes,0.6,Flat,1.0,Reversible defect,0
+436,53,Male,Asymptomatic,92.0,244.0,No,ST-T abnormality,153,No,0.7,Downsloping,1.0,Normal,1
+1725,52,Female,Typical angina,125.0,175.0,Yes,ST-T abnormality,144,Yes,0.6,Flat,1.0,Normal,0
+1696,74,Female,Non-anginal pain,156.0,225.0,No,Normal,126,No,0.7,Upsloping,0.0,Normal,1
+20,80,Female,3,120.0,304.0,No,Normal,134,Yes,0.8,Flat,2.0,Normal,1
+1103,58,Male,Atypical angina,136.0,224.0,No,ST-T abnormality,157,Yes,0.4,Flat,2.0,Normal,1
+358,48,Female,Non-anginal pain,115.0,0.0,No,Normal,140,Yes,2.9,Upsloping,0.0,Normal,0
+1411,53,Female,Non-anginal pain,127.0,148.0,No,ST-T abnormality,126,No,0.4,Flat,0.0,Reversible defect,0
+716,51,Male,Atypical angina,113.0,194.0,Yes,Normal,162,No,0.5,Flat,0.0,Normal,0
+276,61,Female,Asymptomatic,126.0,230.0,No,Normal,202,Yes,2.6,Flat,0.0,Normal,1
+1617,63,Female,4,111.0,0.0,No,Normal,127,No,0.6,Flat,0.0,Reversible defect,1
+1281,48,Male,Asymptomatic,120.0,204.0,No,Normal,162,No,0.6,Upsloping,0.0,Normal,0
+657,57,Male,2,146.0,190.0,No,ST-T abnormality,156,Yes,1.2,Flat,2.0,Normal,1
+563,32,Female,Atypical angina,129.0,223.0,No,ST-T abnormality,196,Yes,0.3,Flat,3.0,Normal,0
+835,51,Male,Atypical angina,117.0,263.0,No,ST-T abnormality,164,Yes,0.5,Upsloping,2.0,,1
+1339,58,Male,Asymptomatic,109.0,170.0,No,LV hypertrophy,173,No,1.3,Downsloping,3.0,Normal,1
+1168,52,Male,Asymptomatic,137.0,137.0,No,Normal,149,No,1.6,Flat,0.0,Normal,1
+1372,65,Male,Asymptomatic,120.0,182.0,No,Normal,143,Yes,2.1,Upsloping,0.0,Normal,1
+73,61,Male,2,110.0,253.0,No,ST-T abnormality,120,No,0.8,Flat,0.0,Reversible defect,1
+1001,67,Female,Non-anginal pain,139.0,309.0,Yes,Normal,167,No,2.1,Upsloping,3.0,Reversible defect,1
+526,63,Female,Atypical angina,110.0,216.0,No,Normal,179,Yes,1.1,Flat,3.0,Reversible defect,0
+1192,56,Female,Asymptomatic,149.0,201.0,No,ST-T abnormality,118,No,2.3,Flat,3.0,Reversible defect,1
+982,44,Male,Non-anginal pain,127.0,177.0,No,Normal,133,Yes,1.6,Flat,0.0,Normal,0
+1156,59,Male,Asymptomatic,120.0,199.0,No,Normal,168,Yes,1.9,Flat,0.0,Normal,1
+921,33,Male,Asymptomatic,117.0,110.0,No,ST-T abnormality,188,No,0.4,Upsloping,0.0,Reversible defect,0
+816,70,Male,Asymptomatic,130.0,184.0,No,ST-T abnormality,135,No,0.9,Flat,2.0,Reversible defect,1
+1132,29,Female,Non-anginal pain,99.0,224.0,Yes,ST-T abnormality,196,No,0.1,Upsloping,0.0,Normal,0
+528,55,Female,Asymptomatic,108.0,244.0,No,Normal,164,No,0.3,Flat,0.0,Reversible defect,0
+1621,61,Male,Asymptomatic,98.0,265.0,No,Normal,177,No,1.4,Downsloping,0.0,Normal,1
+952,75,Female,3,102.0,193.0,No,LV hypertrophy,123,Yes,0.9,Downsloping,0.0,Normal,1
+1140,45,Male,Asymptomatic,120.0,196.0,No,ST-T abnormality,173,No,1.5,Upsloping,1.0,Reversible defect,1
+1154,32,Male,3,93.0,231.0,No,ST-T abnormality,165,Yes,2.7,Flat,1.0,Normal,0
+789,64,Female,4,107.0,165.0,No,Normal,146,Yes,2.3,Flat,0.0,Reversible defect,1
+1420,67,Male,Asymptomatic,108.0,249.0,No,LV hypertrophy,143,Yes,2.8,Upsloping,,Normal,1
+1126,40,Male,4,130.0,143.0,No,LV hypertrophy,152,Yes,4.2,Flat,0.0,Normal,1
+1540,47,Female,Asymptomatic,123.0,148.0,Yes,Normal,175,No,0.0,Downsloping,0.0,Reversible defect,0
+1680,60,Female,Atypical angina,111.0,267.0,No,ST-T abnormality,172,No,3.6,Flat,0.0,Reversible defect,0
+1754,54,Female,Asymptomatic,139.0,264.0,No,Normal,153,Yes,0.1,Downsloping,3.0,Reversible defect,1
+1658,45,Male,Non-anginal pain,130.0,0.0,No,ST-T abnormality,161,Yes,0.8,Downsloping,1.0,Reversible defect,1
+1792,53,Female,Non-anginal pain,116.0,195.0,No,Normal,133,No,2.7,Upsloping,0.0,Reversible defect,0
+155,38,Male,Non-anginal pain,110.0,135.0,No,ST-T abnormality,177,No,0.4,Flat,2.0,Reversible defect,0
+384,56,Male,1,114.0,232.0,Yes,LV hypertrophy,168,No,0.1,Upsloping,0.0,Normal,0
+1408,59,Male,Non-anginal pain,120.0,197.0,No,Normal,153,No,0.8,Upsloping,2.0,Normal,0
+721,58,Male,Atypical angina,120.0,208.0,No,Normal,162,No,0.3,Upsloping,1.0,,0
+680,56,Male,Non-anginal pain,146.0,154.0,No,ST-T abnormality,171,No,3.7,Downsloping,0.0,Normal,1
+809,58,Female,Non-anginal pain,89.0,222.0,No,ST-T abnormality,144,No,0.2,Upsloping,0.0,Normal,0
+265,51,Female,Non-anginal pain,132.0,219.0,No,ST-T abnormality,109,No,0.5,Upsloping,2.0,Normal,0
+180,58,Male,Non-anginal pain,97.0,230.0,No,ST-T abnormality,161,Yes,1.1,Upsloping,0.0,Reversible defect,1
+1354,61,Male,Atypical angina,128.0,252.0,No,ST-T abnormality,167,Yes,0.5,Downsloping,0.0,Normal,1
+353,54,Male,Atypical angina,116.0,261.0,No,ST-T abnormality,143,No,1.0,Flat,0.0,Normal,0
+1113,58,Male,Atypical angina,111.0,279.0,No,Normal,126,No,0.4,Upsloping,,Reversible defect,0
+625,52,Male,Typical angina,131.0,140.0,No,LV hypertrophy,166,Yes,0.8,Flat,2.0,Reversible defect,0
+1250,61,Male,3,112.0,217.0,No,LV hypertrophy,163,No,1.2,Upsloping,1.0,Reversible defect,1
+1039,51,Male,Atypical angina,119.0,153.0,No,Normal,149,No,1.0,Upsloping,0.0,Normal,0
+1141,49,Female,Asymptomatic,115.0,189.0,No,LV hypertrophy,171,Yes,6.5,Upsloping,0.0,Reversible defect,1
+338,64,Female,Non-anginal pain,123.0,246.0,No,Normal,151,No,0.5,Flat,3.0,Normal,1
+1211,49,Male,Asymptomatic,132.0,199.0,No,Normal,147,No,0.2,Flat,0.0,Reversible defect,1
+525,59,Male,2,132.0,225.0,No,LV hypertrophy,176,No,1.3,Flat,0.0,Normal,0
+572,73,Female,Non-anginal pain,125.0,264.0,No,Normal,146,No,0.4,Upsloping,3.0,Normal,1
+1129,65,Male,3,110.0,201.0,No,LV hypertrophy,152,No,0.3,Downsloping,2.0,Normal,1
+1137,62,Female,Asymptomatic,138.0,238.0,No,ST-T abnormality,140,No,0.7,Upsloping,0.0,Normal,1
+173,52,Male,Non-anginal pain,121.0,218.0,Yes,Normal,135,Yes,0.8,Flat,0.0,Normal,1
+1443,54,Male,Non-anginal pain,139.0,135.0,No,LV hypertrophy,162,No,0.5,Downsloping,1.0,Reversible defect,0
+679,69,Male,Asymptomatic,153.0,245.0,No,Normal,148,No,0.7,Flat,0.0,Normal,0
+676,54,Male,3,129.0,265.0,Yes,ST-T abnormality,154,No,0.2,Upsloping,0.0,Reversible defect,1
+238,51,Male,4,121.0,190.0,Yes,Normal,141,Yes,5.4,Flat,2.0,Normal,1
+523,42,Male,Asymptomatic,110.0,212.0,No,Normal,161,No,1.1,Upsloping,1.0,Normal,0
+732,66,Male,Asymptomatic,126.0,249.0,No,Normal,120,Yes,3.7,Upsloping,1.0,Reversible defect,1
+1177,48,Female,Asymptomatic,111.0,156.0,No,ST-T abnormality,183,Yes,0.4,Upsloping,1.0,Reversible defect,0
+427,43,Female,Asymptomatic,112.0,242.0,No,ST-T abnormality,152,Yes,0.9,Upsloping,,Normal,1
+406,47,Male,4,114.0,117.0,No,Normal,160,No,4.0,Upsloping,2.0,Normal,1
+1526,44,Female,Atypical angina,102.0,164.0,No,Normal,160,Yes,0.5,Upsloping,0.0,Normal,0
+1662,67,Male,Typical angina,114.0,187.0,Yes,LV hypertrophy,134,No,0.6,Upsloping,2.0,Reversible defect,1
+602,49,Female,Non-anginal pain,93.0,142.0,No,ST-T abnormality,171,Yes,2.1,Downsloping,2.0,Normal,0
+1144,40,Male,Asymptomatic,97.0,186.0,No,Normal,164,No,0.4,Flat,1.0,Normal,1
+109,50,Female,Typical angina,136.0,0.0,No,LV hypertrophy,157,No,0.8,Upsloping,0.0,Normal,0
+126,59,Female,Non-anginal pain,111.0,182.0,Yes,Normal,149,Yes,2.5,Downsloping,0.0,Normal,1
+853,68,Male,Atypical angina,156.0,286.0,No,ST-T abnormality,138,No,2.0,Flat,1.0,Reversible defect,1
+1299,56,Male,Asymptomatic,107.0,240.0,No,ST-T abnormality,162,No,0.8,Downsloping,3.0,Reversible defect,0
+1606,60,Male,Asymptomatic,145.0,212.0,No,ST-T abnormality,141,No,0.4,Upsloping,1.0,Reversible defect,0
+1321,43,Female,Asymptomatic,114.0,206.0,No,Normal,157,No,3.9,Upsloping,0.0,Reversible defect,0
+79,64,Female,Asymptomatic,119.0,180.0,No,LV hypertrophy,118,No,1.6,Upsloping,2.0,Normal,1
+346,64,Male,Asymptomatic,103.0,336.0,No,Normal,173,No,1.2,Upsloping,0.0,Fixed defect,1
+1650,67,Female,Atypical angina,115.0,168.0,No,ST-T abnormality,176,Yes,0.9,Downsloping,,Normal,1
+246,63,Female,Asymptomatic,100.0,244.0,No,Normal,172,No,0.4,Downsloping,0.0,Normal,0
+883,72,Female,Atypical angina,102.0,135.0,No,Normal,170,Yes,1.8,Flat,2.0,Normal,0
+1273,76,Male,Atypical angina,167.0,282.0,No,Normal,154,No,1.2,Downsloping,0.0,Normal,1
+1633,61,Male,Non-anginal pain,138.0,243.0,Yes,ST-T abnormality,144,No,1.3,Flat,0.0,Fixed defect,1
+1079,63,Female,Non-anginal pain,126.0,193.0,No,Normal,166,Yes,2.5,Flat,0.0,Normal,1
+1451,65,Male,3,97.0,203.0,No,Normal,137,No,1.5,Flat,3.0,Normal,1
+979,63,Male,Asymptomatic,120.0,207.0,No,ST-T abnormality,132,No,0.7,Downsloping,1.0,Reversible defect,1
+612,42,Female,Asymptomatic,99.0,238.0,No,LV hypertrophy,160,No,0.3,Upsloping,0.0,Reversible defect,0
+1257,53,Female,4,127.0,222.0,No,ST-T abnormality,168,No,0.8,Flat,0.0,,1
+201,59,Male,Asymptomatic,117.0,208.0,No,ST-T abnormality,164,No,0.8,Flat,0.0,Normal,0
+574,55,Male,Atypical angina,137.0,214.0,No,Normal,188,No,0.1,Flat,0.0,Normal,1
+533,53,Female,4,120.0,283.0,No,Normal,152,No,0.1,Flat,0.0,Fixed defect,0
+655,43,Female,Asymptomatic,127.0,195.0,No,LV hypertrophy,155,No,0.1,Upsloping,0.0,Fixed defect,0
+46,42,Female,3,107.0,175.0,No,LV hypertrophy,153,No,0.4,Downsloping,0.0,Normal,1
+290,55,Male,Atypical angina,105.0,148.0,No,LV hypertrophy,188,No,1.4,Upsloping,1.0,Normal,1
+480,58,Male,Typical angina,96.0,205.0,No,LV hypertrophy,148,Yes,0.1,Upsloping,1.0,Reversible defect,0
+324,52,Female,Non-anginal pain,130.0,201.0,No,Normal,157,No,1.2,Downsloping,0.0,Fixed defect,0
+66,46,Male,Atypical angina,133.0,238.0,No,LV hypertrophy,164,No,1.0,Flat,0.0,Reversible defect,0
+511,48,Male,2,124.0,0.0,No,ST-T abnormality,194,No,0.0,Flat,0.0,Normal,0
+212,43,Male,Atypical angina,133.0,266.0,No,Normal,161,Yes,5.0,Flat,0.0,Reversible defect,1
+493,47,Female,Non-anginal pain,122.0,194.0,No,Normal,163,No,0.2,Flat,0.0,Reversible defect,0
+43,62,Female,Non-anginal pain,137.0,223.0,No,ST-T abnormality,132,No,0.1,Upsloping,0.0,Normal,1
+162,52,Female,Typical angina,139.0,169.0,No,Normal,146,No,0.3,Downsloping,2.0,Reversible defect,0
+1173,45,Male,Asymptomatic,131.0,154.0,Yes,Normal,166,No,1.4,Flat,0.0,Reversible defect,0
+999,53,Male,3,99.0,110.0,Yes,ST-T abnormality,140,No,1.2,Flat,0.0,Fixed defect,1
+1750,65,Male,Asymptomatic,111.0,233.0,No,Normal,141,Yes,4.1,Upsloping,3.0,Normal,1
+698,48,Male,Typical angina,94.0,246.0,No,Normal,150,No,0.4,Upsloping,0.0,Normal,1
+1227,56,Female,Asymptomatic,120.0,236.0,No,ST-T abnormality,156,Yes,0.2,Upsloping,0.0,Reversible defect,0
+1642,31,Female,Atypical angina,114.0,187.0,No,Normal,157,No,2.7,Flat,2.0,Normal,1
+890,60,Male,Asymptomatic,123.0,179.0,No,Normal,164,Yes,0.5,Flat,1.0,Normal,1
+549,51,Female,Asymptomatic,112.0,239.0,No,ST-T abnormality,159,Yes,1.5,Flat,1.0,Normal,0
+1470,40,Female,Atypical angina,130.0,336.0,Yes,Normal,192,No,0.5,Upsloping,0.0,Fixed defect,0
+1482,58,Male,Asymptomatic,113.0,255.0,No,Normal,179,No,0.4,Downsloping,0.0,Normal,0
+414,68,Male,Asymptomatic,0.0,251.0,No,ST-T abnormality,144,No,0.7,Flat,0.0,Fixed defect,0
+280,50,Male,Asymptomatic,110.0,181.0,No,Normal,171,No,0.3,Upsloping,0.0,Normal,0
+647,53,Male,4,114.0,180.0,No,Normal,147,No,0.0,Downsloping,3.0,Reversible defect,1
+242,41,Female,3,114.0,198.0,Yes,Normal,179,No,1.3,Upsloping,0.0,Normal,0
+964,47,Male,Non-anginal pain,123.0,228.0,No,ST-T abnormality,156,No,0.7,Flat,0.0,Normal,0
+317,42,Male,4,115.0,246.0,No,ST-T abnormality,160,Yes,3.0,Downsloping,0.0,Reversible defect,0
+1110,80,Male,Asymptomatic,144.0,216.0,Yes,LV hypertrophy,118,No,1.1,Upsloping,0.0,Reversible defect,1
+723,45,Male,Non-anginal pain,133.0,200.0,No,ST-T abnormality,162,No,0.1,Downsloping,0.0,Reversible defect,0
+1003,63,Male,Asymptomatic,130.0,134.0,No,ST-T abnormality,146,No,1.2,Upsloping,1.0,Normal,1
+1591,55,Male,Asymptomatic,107.0,266.0,No,Normal,166,No,2.0,Flat,0.0,Reversible defect,1
+887,66,Male,Atypical angina,94.0,192.0,No,ST-T abnormality,130,Yes,0.4,Upsloping,1.0,Fixed defect,1
+1783,59,Male,Non-anginal pain,125.0,263.0,No,Normal,126,No,0.1,Downsloping,0.0,Normal,1
+604,54,Female,Asymptomatic,112.0,182.0,No,ST-T abnormality,170,No,0.2,Flat,3.0,Reversible defect,1
+53,36,Male,Atypical angina,107.0,223.0,No,Normal,164,No,0.1,Flat,1.0,Normal,0
+229,62,Male,Asymptomatic,142.0,191.0,No,ST-T abnormality,170,Yes,2.4,Upsloping,0.0,Normal,1
+501,51,Male,Atypical angina,106.0,169.0,No,LV hypertrophy,157,No,1.8,Flat,1.0,Reversible defect,1
+1353,53,Female,Asymptomatic,99.0,145.0,No,Normal,137,No,0.1,Flat,1.0,Normal,1
+1483,45,Male,Non-anginal pain,108.0,188.0,No,Normal,165,No,0.2,Flat,0.0,Normal,0
+1646,53,Female,3,145.0,236.0,No,ST-T abnormality,135,No,3.2,Flat,0.0,Reversible defect,0
+465,48,Male,Typical angina,130.0,221.0,No,Normal,130,No,0.3,Upsloping,3.0,Reversible defect,1
+1510,54,Male,Atypical angina,147.0,164.0,No,Normal,139,No,0.1,Upsloping,2.0,Normal,1
+1207,51,Female,Asymptomatic,141.0,186.0,No,LV hypertrophy,181,No,0.4,Flat,3.0,Reversible defect,1
+1002,60,Female,Non-anginal pain,100.0,180.0,No,ST-T abnormality,144,No,0.4,Upsloping,2.0,Reversible defect,0
+858,57,Female,4,131.0,112.0,No,Normal,159,No,0.6,Flat,1.0,Normal,1
+1031,54,Male,Asymptomatic,120.0,200.0,Yes,ST-T abnormality,166,Yes,1.2,Flat,1.0,Reversible defect,1
+1286,56,Female,Non-anginal pain,141.0,273.0,No,LV hypertrophy,142,Yes,1.2,Upsloping,0.0,Normal,0
+1152,52,Female,Atypical angina,143.0,231.0,Yes,Normal,161,No,1.7,Flat,2.0,Normal,1
+590,59,Male,Asymptomatic,127.0,200.0,No,ST-T abnormality,153,No,1.1,Upsloping,0.0,Normal,0
+1053,64,Female,Non-anginal pain,139.0,202.0,No,Normal,163,No,0.0,Upsloping,1.0,Reversible defect,0
+637,55,Female,Atypical angina,103.0,244.0,No,LV hypertrophy,171,Yes,4.4,Flat,2.0,Normal,1
+1429,62,Female,Asymptomatic,116.0,158.0,No,ST-T abnormality,129,No,0.0,Flat,1.0,Normal,1
+378,69,Male,Non-anginal pain,138.0,179.0,Yes,Normal,143,Yes,4.9,Upsloping,0.0,Reversible defect,1
+1640,52,Male,Asymptomatic,115.0,202.0,No,Normal,168,No,0.6,Upsloping,1.0,Normal,1
+1017,47,Male,Asymptomatic,126.0,184.0,No,Normal,164,Yes,3.2,Upsloping,0.0,Normal,1
+1074,50,Female,Asymptomatic,121.0,198.0,No,ST-T abnormality,154,No,0.4,Upsloping,0.0,Normal,0
+374,64,Female,Asymptomatic,139.0,228.0,No,ST-T abnormality,147,Yes,1.2,Upsloping,2.0,Reversible defect,1
+1131,54,Female,Asymptomatic,149.0,232.0,No,Normal,175,No,0.1,Upsloping,0.0,Normal,1
+1274,61,Male,Asymptomatic,113.0,210.0,No,Normal,140,Yes,3.2,Flat,1.0,Normal,1
+1456,33,Male,Non-anginal pain,152.0,159.0,No,Normal,184,Yes,3.9,Upsloping,1.0,Normal,1
+565,42,Male,Non-anginal pain,160.0,204.0,No,LV hypertrophy,182,No,0.8,Flat,0.0,Normal,1
+553,53,Male,Asymptomatic,126.0,199.0,No,Normal,148,No,3.0,Flat,0.0,Reversible defect,1
+694,50,Male,Non-anginal pain,93.0,191.0,No,ST-T abnormality,170,Yes,0.2,Flat,0.0,Reversible defect,0
+977,45,Male,Asymptomatic,130.0,110.0,No,LV hypertrophy,162,No,1.1,Flat,0.0,Reversible defect,1
+776,59,Male,4,108.0,0.0,No,Normal,157,Yes,0.2,Downsloping,0.0,Reversible defect,0
+1717,58,Female,4,107.0,163.0,Yes,Normal,141,No,1.5,Upsloping,3.0,Reversible defect,1
+369,54,Male,Atypical angina,118.0,247.0,No,Normal,155,Yes,0.3,Flat,1.0,Reversible defect,1
+946,51,Male,Asymptomatic,144.0,172.0,No,LV hypertrophy,134,No,0.2,Flat,0.0,Normal,1
+1467,67,Male,Asymptomatic,153.0,198.0,No,ST-T abnormality,154,Yes,1.9,Flat,0.0,Normal,1
+1434,56,Male,Asymptomatic,116.0,197.0,No,ST-T abnormality,162,No,0.8,Upsloping,0.0,Reversible defect,1
+1291,59,Female,Non-anginal pain,117.0,224.0,No,Normal,128,No,0.7,Downsloping,0.0,Normal,0
+1397,65,Male,Non-anginal pain,139.0,247.0,No,ST-T abnormality,141,No,1.2,Downsloping,,Normal,0
+912,66,Female,4,133.0,181.0,No,Normal,121,No,0.5,Flat,1.0,Reversible defect,1
+888,58,Female,Asymptomatic,109.0,185.0,No,Normal,154,No,0.6,Upsloping,0.0,Normal,0
+1433,60,Male,Atypical angina,82.0,267.0,No,Normal,148,Yes,0.1,Upsloping,3.0,Normal,1
+1120,65,Male,Asymptomatic,132.0,257.0,Yes,ST-T abnormality,152,No,0.3,Flat,0.0,Normal,1
+1322,45,Male,Non-anginal pain,105.0,167.0,No,ST-T abnormality,168,No,0.1,Flat,0.0,Reversible defect,0
+1518,51,Male,Non-anginal pain,127.0,283.0,No,ST-T abnormality,159,No,3.3,Flat,1.0,Normal,1
+1252,55,Male,Non-anginal pain,122.0,203.0,No,Normal,168,No,0.8,Upsloping,,Normal,0
+1683,37,Male,Asymptomatic,93.0,0.0,No,Normal,155,Yes,0.5,Upsloping,0.0,Reversible defect,1
+688,52,Male,Non-anginal pain,117.0,155.0,No,Normal,162,No,2.2,Upsloping,0.0,Normal,0
+1209,50,Male,Atypical angina,119.0,207.0,Yes,ST-T abnormality,154,Yes,0.1,Flat,1.0,Normal,1
+1699,64,Female,Non-anginal pain,104.0,223.0,No,LV hypertrophy,152,Yes,0.7,Downsloping,0.0,Normal,1
+1267,71,Male,Asymptomatic,143.0,228.0,No,ST-T abnormality,144,No,0.6,Upsloping,0.0,Reversible defect,1
+564,48,Male,Asymptomatic,104.0,256.0,No,Normal,168,Yes,0.9,Flat,0.0,Reversible defect,1
+621,64,Male,Non-anginal pain,119.0,181.0,No,ST-T abnormality,148,Yes,1.3,Upsloping,0.0,Reversible defect,1
+1622,55,Male,Asymptomatic,125.0,178.0,No,Normal,182,No,0.3,Flat,0.0,Normal,0
+148,54,Male,4,160.0,124.0,No,LV hypertrophy,169,No,0.2,Flat,1.0,Normal,0
+1167,46,Male,Non-anginal pain,116.0,276.0,No,LV hypertrophy,164,Yes,4.5,Flat,2.0,Normal,1
+1446,58,Female,4,106.0,184.0,No,ST-T abnormality,150,No,1.0,Flat,0.0,Normal,1
+1579,46,Female,Typical angina,134.0,110.0,No,LV hypertrophy,159,No,1.0,Flat,,Reversible defect,0
+837,45,Male,4,113.0,155.0,No,Normal,158,Yes,1.1,Upsloping,0.0,Reversible defect,1
+1276,60,Male,Non-anginal pain,134.0,162.0,No,Normal,152,Yes,1.2,Upsloping,3.0,Reversible defect,1
+1791,49,Male,Asymptomatic,123.0,221.0,No,Normal,156,Yes,2.5,Upsloping,0.0,Normal,1
+827,53,Male,Asymptomatic,110.0,217.0,No,Normal,144,Yes,2.1,Upsloping,0.0,Normal,1
+519,54,Male,1,106.0,244.0,No,LV hypertrophy,143,No,2.0,Upsloping,0.0,Normal,0
+1323,58,Male,Asymptomatic,124.0,229.0,No,ST-T abnormality,151,No,0.4,Flat,1.0,Normal,1
+859,68,Female,Asymptomatic,121.0,225.0,Yes,Normal,146,No,0.9,Upsloping,0.0,Reversible defect,0
+1575,53,Female,Asymptomatic,98.0,274.0,No,ST-T abnormality,179,No,0.2,Upsloping,2.0,Normal,1
+264,42,Male,Asymptomatic,131.0,231.0,No,ST-T abnormality,161,No,0.9,Upsloping,1.0,Reversible defect,1
+1106,31,Male,Non-anginal pain,92.0,264.0,No,LV hypertrophy,172,No,0.2,Downsloping,0.0,Reversible defect,0
+1327,61,Female,3,127.0,271.0,No,LV hypertrophy,173,No,3.7,Downsloping,0.0,Reversible defect,0
+1330,59,Male,Asymptomatic,102.0,172.0,No,Normal,132,Yes,3.2,Flat,0.0,Reversible defect,1
+1069,65,Male,Asymptomatic,114.0,279.0,No,ST-T abnormality,164,No,1.3,Flat,0.0,Normal,1
+701,56,Male,Non-anginal pain,66.0,211.0,No,Normal,163,No,0.3,Flat,1.0,Reversible defect,0
+653,59,Male,Atypical angina,109.0,171.0,No,Normal,152,No,0.9,Upsloping,0.0,Normal,0
+1748,61,Male,Non-anginal pain,149.0,195.0,No,ST-T abnormality,162,Yes,0.4,Downsloping,0.0,Normal,0
+144,66,Male,4,102.0,175.0,Yes,ST-T abnormality,121,No,0.6,Downsloping,0.0,Fixed defect,0
+1224,63,Male,Asymptomatic,152.0,192.0,No,ST-T abnormality,143,No,0.1,Flat,0.0,Fixed defect,0
+1570,69,Male,Atypical angina,129.0,201.0,No,Normal,135,Yes,2.1,Flat,1.0,Reversible defect,1
+695,43,Male,Asymptomatic,110.0,192.0,No,Normal,173,No,2.6,Flat,0.0,Normal,1
+532,66,Female,Non-anginal pain,115.0,194.0,No,Normal,125,Yes,0.2,Flat,3.0,Reversible defect,1
+310,52,Male,Asymptomatic,113.0,310.0,No,Normal,144,Yes,1.7,Flat,1.0,Normal,0
+1249,54,Male,Asymptomatic,96.0,190.0,No,LV hypertrophy,167,Yes,1.6,Upsloping,3.0,Reversible defect,1
+985,45,Male,Asymptomatic,136.0,187.0,No,Normal,158,Yes,5.1,Upsloping,0.0,,1
+1693,50,Male,Non-anginal pain,117.0,246.0,No,Normal,164,No,0.3,Flat,0.0,Normal,0
+219,62,Male,3,127.0,183.0,No,Normal,174,No,0.4,Upsloping,,Normal,0
+659,29,Male,Asymptomatic,113.0,215.0,No,Normal,184,No,0.9,Flat,2.0,Reversible defect,0
+1316,62,Male,Asymptomatic,134.0,194.0,No,ST-T abnormality,130,Yes,2.5,Upsloping,0.0,Reversible defect,1
+1536,68,Male,Non-anginal pain,111.0,195.0,No,ST-T abnormality,129,Yes,0.2,Upsloping,0.0,Normal,1
+1713,60,Male,Asymptomatic,102.0,182.0,No,Normal,137,No,0.1,Flat,2.0,Reversible defect,1
+16,67,Male,Non-anginal pain,113.0,177.0,No,Normal,144,Yes,2.5,Upsloping,0.0,Normal,1
+609,43,Female,Asymptomatic,108.0,170.0,No,LV hypertrophy,158,No,0.0,Flat,0.0,Reversible defect,0

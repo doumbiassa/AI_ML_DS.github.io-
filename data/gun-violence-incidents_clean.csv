@@ -1,0 +1,2160 @@
+incident_id,date,city,county,incident_type,killed,injured,victim_age_group,suspect_arrested,school_related,source
+GV702556,2019-01-09,North Shore,Bay County,Drive-by,1,3,Adult 18-34,Unknown,No,Police report
+GV702026,2019-01-10,Old Port,Bay County,Assault,1,3,Adult 35-64,Unknown,No,Police report
+GV700119,2019-01-13,Riverton,Ash County,Drive-by,1,3,Adult 35-64,No,Yes,Police report
+GV702589,2019-01-19,Summit,Elm County,Robbery,1,0,Child 0-11,Yes,No,Police report
+GV701837,2019-01-19,Old Port,Bay County,Drive-by,1,1,Adult 18-34,No,No,Police report
+GV700973,2019-01-21,Riverton,Ash County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV701436,2019-01-21,Harbor City,Bay County,Assault,0,1,Teen 12-17,No,No,Police report
+GV700806,2019-01-22,Cedar Park,Elm County,Domestic dispute,1,3,Adult 35-64,No,No,Police report
+GV701047,2019-01-22,Lakeview,Pine County,Drive-by,0,3,Adult 18-34,Yes,No,News report
+GV700138,2019-01-26,Riverton,Ash County,Domestic dispute,2,0,Adult 35-64,No,No,Police report
+GV703050,2019-01-26,Harbor City,Bay County,Domestic dispute,1,1,Adult 18-34,Unknown,No,Police report
+GV702793,2019-01-27,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV700462,2019-01-27,Old Port,Bay County,Robbery,2,1,Adult 35-64,No,No,Hospital record
+GV702889,2019-01-29,Riverton,Ash County,Assault,0,1,Adult 18-34,Unknown,No,News report
+GV700919,2019-01-29,Lakeview,Pine County,Robbery,0,1,Adult 18-34,Unknown,No,Hospital record
+GV700470,2019-01-29,Riverton,Ash County,Accidental discharge,1,1,Adult 35-64,No,No,News report
+GV701146,2019-01-30,Riverton,Ash County,Domestic dispute,1,1,Adult 35-64,Unknown,No,Police report
+GV702705,2019-01-31,Harbor City,Bay County,Unknown,1,3,Adult 35-64,No,No,Police report
+GV700689,2019-02-03,Riverton,Ash County,Assault,0,1,Adult 35-64,Yes,No,News report
+GV702632,2019-02-03,Summit,Elm County,Assault,2,0,Adult 35-64,Unknown,No,Police report
+GV702606,2019-02-03,Old Port,Bay County,Drive-by,0,3,Adult 18-34,No,No,News report
+GV702919,2019-02-07,Maple Valley,Ash County,Unknown,0,1,Adult 18-34,Unknown,No,Hospital record
+GV700472,2019-02-07,Old Port,Bay County,Robbery,1,0,Teen 12-17,No,No,Hospital record
+GV701879,2019-02-14,Cedar Park,Elm County,Assault,0,1,Adult 35-64,Yes,No,Hospital record
+GV703021,2019-02-15,Maple Valley,Ash County,Domestic dispute,0,1,Adult 18-34,Yes,No,Hospital record
+GV701967,2019-02-18,Cedar Park,Elm County,Domestic dispute,1,1,Child 0-11,No,No,Police report
+GV701392,2019-02-20,Maple Valley,Ash County,Robbery,1,3,Adult 35-64,Yes,No,Police report
+GV701866,2019-02-23,Riverton,Ash County,Domestic dispute,1,1,Adult 18-34,Yes,No,Police report
+GV700265,2019-02-27,Harbor City,Bay County,Robbery,0,3,Adult 18-34,Yes,No,News report
+GV702099,2019-02-27,Riverton,Ash County,Self-defense,1,1,Teen 12-17,Yes,No,News report
+GV702123,2019-02-27,Harbor City,Bay County,Assault,0,1,Adult 35-64,No,No,Police report
+GV702134,2019-03-01,Summit,Elm County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV701297,2019-03-03,Riverton,Ash County,Robbery,0,3,Adult 35-64,No,No,Police report
+GV701313,2019-03-04,Harbor City,Bay County,Robbery,2,3,Adult 35-64,No,No,Police report
+GV701719,2019-03-04,Harbor City,Bay County,Robbery,1,1,Adult 35-64,No,No,News report
+GV700944,2019-03-04,Harbor City,Bay County,Drive-by,0,3,Teen 12-17,Unknown,No,News report
+GV703053,2019-03-09,Riverton,Ash County,Assault,0,2,Adult 35-64,No,No,News report
+GV700242,2019-03-10,Harbor City,Bay County,Assault,2,3,Adult 35-64,Yes,No,Police report
+GV702947,2019-03-10,Harbor City,Bay County,Assault,0,3,Child 0-11,No,No,Police report
+GV701432,2019-03-12,Harbor City,Bay County,Assault,1,1,Adult 35-64,Yes,No,Hospital record
+GV702567,2019-03-13,Harbor City,Bay County,Domestic dispute,0,3,Adult 18-34,No,No,Police report
+GV700526,2019-03-14,Riverton,Ash County,Assault,2,2,Adult 18-34,Unknown,No,Police report
+GV701991,2019-03-15,Lakeview,Pine County,Drive-by,0,1,Adult 18-34,Yes,No,Police report
+GV701384,2019-03-16,Riverton,Ash County,Unknown,0,2,Adult 18-34,No,No,Police report
+GV700902,2019-03-17,Riverton,Ash County,Self-defense,0,1,Adult 18-34,Unknown,No,News report
+GV702358,2019-03-21,Riverton,Ash County,Domestic dispute,1,3,Adult 18-34,No,No,Police report
+GV701999,2019-03-21,Maple Valley,Ash County,Unknown,0,2,Teen 12-17,Yes,No,News report
+GV700427,2019-03-22,Harbor City,Bay County,Domestic dispute,0,1,Adult 35-64,No,No,Hospital record
+GV702493,2019-03-25,Maple Valley,Ash County,Domestic dispute,1,2,Adult 18-34,Unknown,No,Police report
+GV701592,2019-03-26,Cedar Park,Elm County,Accidental discharge,1,1,Adult 35-64,No,No,Police report
+GV700874,2019-03-28,Old Port,Bay County,Self-defense,0,1,Adult 35-64,Yes,No,Police report
+GV701063,2019-03-29,Harbor City,Bay County,Drive-by,0,2,Senior 65+,Unknown,No,Hospital record
+GV702674,2019-03-31,Maple Valley,Ash County,Unknown,0,1,Adult 18-34,No,No,News report
+GV701864,2019-03-31,Lakeview,Pine County,Accidental discharge,1,1,Adult 35-64,No,No,News report
+GV700357,2019-04-01,Summit,Elm County,Accidental discharge,0,3,Adult 18-34,Yes,No,Police report
+GV701409,2019-04-01,North Shore,Bay County,Assault,0,2,Adult 18-34,Yes,No,Hospital record
+GV701187,2019-04-03,Summit,Elm County,Domestic dispute,2,1,Adult 18-34,No,No,Police report
+GV701821,2019-04-08,North Shore,Bay County,Robbery,0,1,Adult 35-64,Unknown,No,News report
+GV701567,2019-04-09,Riverton,Ash County,Assault,1,3,Adult 18-34,Unknown,No,Hospital record
+GV700867,2019-04-10,North Shore,Bay County,Domestic dispute,1,2,Teen 12-17,Unknown,No,News report
+GV702054,2019-04-11,Old Port,Bay County,Domestic dispute,1,3,Adult 18-34,Unknown,No,Police report
+GV702341,2019-04-12,North Shore,Bay County,Assault,0,3,Adult 35-64,Yes,No,News report
+GV703006,2019-04-13,Summit,Elm County,Assault,2,2,Adult 18-34,No,No,News report
+GV702984,2019-04-14,Summit,Elm County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV701862,2019-04-15,Harbor City,Bay County,Accidental discharge,0,1,Adult 18-34,Yes,No,News report
+GV702745,2019-04-15,Harbor City,Bay County,Assault,0,1,Adult 35-64,No,No,Police report
+GV702590,2019-04-18,Harbor City,Bay County,Domestic dispute,1,1,Adult 35-64,No,No,Police report
+GV700222,2019-04-19,Lakeview,Pine County,Self-defense,0,2,Adult 18-34,Yes,No,Hospital record
+GV702713,2019-04-20,Cedar Park,Elm County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701923,2019-04-22,Riverton,Ash County,Assault,1,1,Adult 18-34,No,No,News report
+GV702025,2019-04-24,Lakeview,Pine County,Drive-by,0,3,Adult 18-34,Unknown,No,Police report
+GV701556,2019-04-26,Harbor City,Bay County,Domestic dispute,0,2,Senior 65+,Yes,No,Police report
+GV700287,2019-04-28,Old Port,Bay County,Drive-by,2,2,Teen 12-17,No,No,Police report
+GV701290,2019-04-28,Maple Valley,Ash County,Unknown,2,3,Adult 35-64,No,No,Hospital record
+GV700910,2019-04-29,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV701437,2019-04-30,Harbor City,Bay County,Domestic dispute,1,1,Adult 18-34,Yes,No,Police report
+GV701243,2019-05-02,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701479,2019-05-03,Riverton,Ash County,Robbery,0,1,Adult 18-34,Yes,No,Hospital record
+GV701108,2019-05-03,Summit,Elm County,Drive-by,0,3,Senior 65+,Unknown,No,News report
+GV701219,2019-05-07,Old Port,Bay County,Drive-by,0,1,Adult 18-34,No,No,News report
+GV702308,2019-05-08,Lakeview,Pine County,Robbery,0,1,Adult 35-64,No,No,Police report
+GV701449,2019-05-08,Riverton,Ash County,Self-defense,0,1,Adult 18-34,No,No,News report
+GV702550,2019-05-09,Old Port,Bay County,Unknown,2,1,Adult 18-34,Unknown,No,Police report
+GV702079,2019-05-11,Cedar Park,Elm County,Assault,1,2,Adult 35-64,No,No,Hospital record
+GV700023,2019-05-12,Cedar Park,Elm County,Robbery,1,1,Adult 18-34,Yes,No,News report
+GV701326,2019-05-14,Lakeview,Pine County,Accidental discharge,1,1,Adult 18-34,No,No,Police report
+GV701649,2019-05-16,Cedar Park,Elm County,Accidental discharge,0,1,Teen 12-17,No,No,Police report
+GV700449,2019-05-16,North Shore,Bay County,Unknown,0,2,Adult 18-34,Unknown,No,News report
+GV701750,2019-05-17,Old Port,Bay County,Assault,1,0,Adult 35-64,No,No,News report
+GV700896,2019-05-18,Harbor City,Bay County,Robbery,0,1,Adult 18-34,Unknown,No,Police report
+GV700525,2019-05-18,Old Port,Bay County,Assault,1,3,Adult 35-64,Unknown,No,News report
+GV701760,2019-05-18,Riverton,Ash County,Assault,1,1,Adult 18-34,No,No,News report
+GV701499,2019-05-19,Riverton,Ash County,Assault,2,1,Adult 35-64,Yes,No,News report
+GV700999,2019-05-19,Cedar Park,Elm County,Assault,1,1,Adult 18-34,No,No,Police report
+GV701693,2019-05-19,North Shore,Bay County,Domestic dispute,2,3,Adult 35-64,Unknown,No,News report
+GV702720,2019-05-20,North Shore,Bay County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV702775,2019-05-20,North Shore,Bay County,Assault,0,3,Adult 18-34,Unknown,No,Police report
+GV700618,2019-05-21,Cedar Park,Elm County,Unknown,1,3,Adult 35-64,Yes,No,News report
+GV700117,2019-05-21,Riverton,Ash County,Drive-by,1,1,Adult 18-34,Yes,No,News report
+GV703120,2019-05-21,Riverton,Ash County,Assault,1,1,Teen 12-17,No,No,News report
+GV701064,2019-05-22,Riverton,Ash County,Unknown,0,2,Adult 18-34,Unknown,No,News report
+GV700860,2019-05-22,Lakeview,Pine County,Robbery,0,1,Adult 18-34,No,No,News report
+GV702405,2019-05-23,North Shore,Bay County,Assault,1,1,Adult 18-34,Unknown,No,Police report
+GV700664,2019-05-24,Harbor City,Bay County,Assault,0,1,Teen 12-17,No,No,Police report
+GV700492,2019-05-26,Harbor City,Bay County,Assault,0,3,Adult 18-34,Unknown,No,Police report
+GV700373,2019-05-26,Cedar Park,Elm County,Unknown,1,1,Senior 65+,Yes,No,Police report
+GV702505,2019-05-26,Riverton,Ash County,Unknown,1,1,Adult 18-34,No,No,Police report
+GV701442,2019-05-28,Harbor City,Bay County,Drive-by,2,1,Adult 18-34,Unknown,No,Police report
+GV703079,2019-05-29,Old Port,Bay County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV702316,2019-05-30,Old Port,Bay County,Robbery,1,3,Adult 18-34,Yes,No,Police report
+GV702513,2019-05-31,Harbor City,Bay County,Domestic dispute,1,3,Adult 18-34,No,No,Hospital record
+GV701458,2019-05-31,Lakeview,Pine County,Accidental discharge,2,2,Adult 18-34,No,No,Police report
+GV702593,2019-06-02,Summit,Elm County,Domestic dispute,1,0,Adult 18-34,Yes,No,News report
+GV701014,2019-06-02,Harbor City,Bay County,Accidental discharge,1,0,Adult 18-34,No,No,News report
+GV702749,2019-06-03,Riverton,Ash County,Robbery,1,1,Senior 65+,Yes,No,News report
+GV702059,2019-06-03,Harbor City,Bay County,Domestic dispute,0,1,Adult 18-34,Yes,No,Police report
+GV702520,2019-06-04,Lakeview,Pine County,Unknown,1,2,Adult 18-34,No,No,News report
+GV703054,2019-06-05,Maple Valley,Ash County,Assault,0,2,Adult 35-64,No,No,News report
+GV702194,2019-06-06,Maple Valley,Ash County,Robbery,0,1,Adult 35-64,Yes,No,Police report
+GV701227,2019-06-06,Riverton,Ash County,Assault,1,1,Adult 35-64,No,No,Police report
+GV703168,2019-06-06,Old Port,Bay County,Robbery,1,1,Adult 18-34,No,No,Police report
+GV701808,2019-06-07,Harbor City,Bay County,Unknown,0,3,Adult 18-34,Unknown,No,Police report
+GV702884,2019-06-08,Summit,Elm County,Assault,0,1,Adult 35-64,No,No,Police report
+GV702802,2019-06-09,Lakeview,Pine County,Unknown,1,0,Adult 18-34,Yes,No,Police report
+GV701353,2019-06-10,Harbor City,Bay County,Domestic dispute,2,0,Adult 18-34,Unknown,No,Police report
+GV701355,2019-06-12,Old Port,Bay County,Domestic dispute,1,3,Adult 18-34,No,No,Police report
+GV700072,2019-06-12,North Shore,Bay County,Assault,0,3,Adult 18-34,Unknown,No,Police report
+GV701766,2019-06-12,Riverton,Ash County,Assault,0,1,Adult 35-64,Yes,No,News report
+GV700034,2019-06-12,Cedar Park,Elm County,Unknown,1,2,Teen 12-17,No,No,Hospital record
+GV700994,2019-06-13,Riverton,Ash County,Drive-by,0,3,Adult 18-34,No,No,Police report
+GV700142,2019-06-15,Lakeview,Pine County,Assault,1,0,Adult 18-34,Yes,No,Police report
+GV703113,2019-06-15,Lakeview,Pine County,Self-defense,0,2,Adult 35-64,No,No,News report
+GV701106,2019-06-16,Lakeview,Pine County,Accidental discharge,1,3,Adult 18-34,Yes,No,Police report
+GV700927,2019-06-17,Riverton,Ash County,Assault,1,2,Adult 18-34,No,No,News report
+GV702033,2019-06-17,Harbor City,Bay County,Assault,1,0,Teen 12-17,Yes,No,Police report
+GV701901,2019-06-17,Maple Valley,Ash County,Robbery,0,1,Senior 65+,Yes,No,Police report
+GV702522,2019-06-17,Harbor City,Bay County,Unknown,0,1,Adult 35-64,No,No,Police report
+GV700091,2019-06-18,Maple Valley,Ash County,Self-defense,0,2,Adult 18-34,Yes,No,Police report
+GV700688,2019-06-19,North Shore,Bay County,Unknown,2,3,Adult 18-34,No,No,News report
+GV702623,2019-06-20,North Shore,Bay County,Unknown,2,1,Adult 18-34,No,No,Police report
+GV702565,2019-06-21,North Shore,Bay County,Unknown,1,1,Adult 35-64,Unknown,No,News report
+GV701909,2019-06-24,Riverton,Ash County,Robbery,0,1,Teen 12-17,Yes,No,Police report
+GV700498,2019-06-24,Maple Valley,Ash County,Unknown,2,0,Adult 35-64,No,No,Hospital record
+GV700701,2019-06-25,Cedar Park,Elm County,Unknown,0,1,Adult 35-64,No,No,Police report
+GV700186,2019-06-25,Harbor City,Bay County,Domestic dispute,0,3,Adult 35-64,No,No,News report
+GV703138,2019-06-26,Cedar Park,Elm County,Accidental discharge,0,3,Adult 35-64,Unknown,No,News report
+GV701935,2019-06-26,Lakeview,Pine County,Domestic dispute,1,0,Adult 18-34,Yes,No,Police report
+GV701623,2019-06-27,Cedar Park,Elm County,Domestic dispute,0,2,Adult 18-34,No,No,Police report
+GV700970,2019-06-27,Maple Valley,Ash County,Assault,0,3,Teen 12-17,No,No,Police report
+GV701939,2019-06-27,Old Port,Bay County,Robbery,0,2,Adult 35-64,Yes,No,Police report
+GV700250,2019-06-28,Harbor City,Bay County,Unknown,0,1,Adult 35-64,No,No,Police report
+GV702343,2019-06-29,North Shore,Bay County,Accidental discharge,1,1,Senior 65+,Unknown,No,Hospital record
+GV701780,2019-06-30,Riverton,Ash County,Drive-by,0,1,Adult 35-64,Unknown,No,Police report
+GV701378,2019-06-30,Harbor City,Bay County,Assault,2,1,Adult 35-64,Yes,No,News report
+GV701216,2019-07-01,Old Port,Bay County,Assault,0,1,Teen 12-17,No,No,Police report
+GV702580,2019-07-01,Maple Valley,Ash County,Robbery,0,1,Adult 35-64,Yes,No,Police report
+GV700378,2019-07-01,Maple Valley,Ash County,Unknown,0,3,Adult 18-34,No,No,Police report
+GV700331,2019-07-01,Harbor City,Bay County,Robbery,2,3,Adult 18-34,Yes,No,Police report
+GV701464,2019-07-02,Cedar Park,Elm County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV702331,2019-07-03,Maple Valley,Ash County,Assault,0,1,Adult 35-64,No,No,Police report
+GV701260,2019-07-03,Harbor City,Bay County,Assault,0,3,Adult 18-34,Unknown,No,News report
+GV701513,2019-07-05,Harbor City,Bay County,Drive-by,2,1,Teen 12-17,No,No,Hospital record
+GV702514,2019-07-06,Harbor City,Bay County,Robbery,1,1,Teen 12-17,Unknown,No,Police report
+GV701598,2019-07-06,Riverton,Ash County,Unknown,0,1,Adult 35-64,Unknown,No,News report
+GV703029,2019-07-06,Cedar Park,Elm County,Unknown,2,0,Adult 35-64,No,No,News report
+GV701655,2019-07-08,Cedar Park,Elm County,Assault,1,3,Adult 18-34,No,No,News report
+GV700597,2019-07-09,Summit,Elm County,Assault,0,1,Adult 35-64,No,No,Police report
+GV701811,2019-07-09,Riverton,Ash County,Drive-by,0,1,Adult 35-64,No,No,Police report
+GV702162,2019-07-09,Cedar Park,Elm County,Assault,1,1,Senior 65+,Yes,No,Police report
+GV701124,2019-07-10,Lakeview,Pine County,Self-defense,1,3,Adult 18-34,No,No,Hospital record
+GV701646,2019-07-10,Riverton,Ash County,Unknown,1,0,Adult 18-34,No,No,Police report
+GV700722,2019-07-11,Summit,Elm County,Assault,1,2,Adult 18-34,Yes,No,Police report
+GV700011,2019-07-11,Lakeview,Pine County,Assault,1,3,Adult 35-64,Yes,No,Police report
+GV701953,2019-07-12,Old Port,Bay County,Unknown,0,1,Adult 18-34,No,No,News report
+GV701238,2019-07-14,Riverton,Ash County,Assault,0,1,Teen 12-17,No,No,Police report
+GV700413,2019-07-17,Harbor City,Bay County,Assault,1,1,Adult 35-64,Yes,Yes,Police report
+GV700510,2019-07-19,Harbor City,Bay County,Domestic dispute,1,1,Child 0-11,Unknown,No,Police report
+GV701095,2019-07-19,Harbor City,Bay County,Drive-by,0,1,Teen 12-17,Yes,No,Hospital record
+GV702070,2019-07-19,Harbor City,Bay County,Unknown,0,3,Adult 18-34,Yes,No,Police report
+GV701363,2019-07-20,Summit,Elm County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV700720,2019-07-20,Riverton,Ash County,Drive-by,1,3,Adult 18-34,Unknown,No,Hospital record
+GV702757,2019-07-21,Cedar Park,Elm County,Assault,2,3,Adult 18-34,No,No,Police report
+GV700243,2019-07-21,Maple Valley,Ash County,Assault,0,1,Teen 12-17,No,No,Police report
+GV700389,2019-07-22,Harbor City,Bay County,Domestic dispute,1,0,Adult 18-34,Unknown,No,News report
+GV700437,2019-07-23,Lakeview,Pine County,Self-defense,2,0,Adult 35-64,Yes,No,Police report
+GV702094,2019-07-25,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV700542,2019-07-27,North Shore,Bay County,Accidental discharge,0,1,Adult 18-34,Unknown,No,Hospital record
+GV701232,2019-07-27,North Shore,Bay County,Assault,1,1,Adult 35-64,Yes,No,Police report
+GV700892,2019-07-28,Harbor City,Bay County,Robbery,1,1,Adult 18-34,No,No,Hospital record
+GV702699,2019-07-28,Old Port,Bay County,Assault,1,1,Senior 65+,Yes,No,News report
+GV702367,2019-07-28,Riverton,Ash County,Self-defense,0,3,Adult 18-34,Yes,No,Police report
+GV702652,2019-07-29,Old Port,Bay County,Assault,1,0,Adult 35-64,No,No,Police report
+GV702854,2019-07-30,Riverton,Ash County,Assault,1,0,Adult 18-34,Yes,No,News report
+GV701141,2019-07-31,Riverton,Ash County,Unknown,1,3,Adult 18-34,Yes,No,News report
+GV700291,2019-08-04,Harbor City,Bay County,Robbery,1,1,Adult 35-64,Unknown,No,Police report
+GV702389,2019-08-05,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV701806,2019-08-05,Riverton,Ash County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV700575,2019-08-06,Summit,Elm County,Domestic dispute,1,1,Adult 18-34,No,No,Police report
+GV700886,2019-08-06,Cedar Park,Elm County,Unknown,1,0,Child 0-11,Yes,No,Police report
+GV702537,2019-08-08,North Shore,Bay County,Domestic dispute,0,1,Adult 18-34,No,No,News report
+GV703095,2019-08-08,North Shore,Bay County,Drive-by,1,3,Adult 18-34,No,No,News report
+GV700087,2019-08-10,Riverton,Ash County,Accidental discharge,0,1,Adult 35-64,Unknown,No,News report
+GV701368,2019-08-10,Cedar Park,Elm County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV701716,2019-08-11,Maple Valley,Ash County,Unknown,1,2,Teen 12-17,Yes,No,Police report
+GV700429,2019-08-12,Harbor City,Bay County,Robbery,0,1,Teen 12-17,Yes,No,News report
+GV702575,2019-08-13,Old Port,Bay County,Assault,0,3,Senior 65+,No,No,News report
+GV702148,2019-08-13,Cedar Park,Elm County,Assault,0,2,Adult 18-34,No,No,Police report
+GV701734,2019-08-13,Old Port,Bay County,Accidental discharge,1,2,Adult 18-34,Unknown,No,News report
+GV702823,2019-08-14,Riverton,Ash County,Self-defense,1,0,Adult 18-34,No,No,Police report
+GV702719,2019-08-15,Old Port,Bay County,Assault,1,1,Adult 35-64,Yes,No,Police report
+GV700803,2019-08-18,Riverton,Ash County,Assault,1,2,Adult 18-34,No,No,Police report
+GV702297,2019-08-18,Old Port,Bay County,Unknown,2,3,Adult 35-64,Unknown,No,Police report
+GV701330,2019-08-18,Harbor City,Bay County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV700741,2019-08-18,Old Port,Bay County,Robbery,1,0,Adult 18-34,No,No,Police report
+GV700544,2019-08-19,North Shore,Bay County,Assault,0,1,Adult 35-64,No,No,Police report
+GV700253,2019-08-20,Riverton,Ash County,Robbery,1,2,Adult 35-64,Unknown,No,Police report
+GV701268,2019-08-21,Cedar Park,Elm County,Assault,2,0,Adult 35-64,No,No,News report
+GV701245,2019-08-21,Maple Valley,Ash County,Domestic dispute,1,3,Adult 18-34,Yes,No,Hospital record
+GV703014,2019-08-23,Summit,Elm County,Domestic dispute,1,0,Teen 12-17,No,No,News report
+GV702087,2019-08-23,Maple Valley,Ash County,Domestic dispute,2,1,Adult 18-34,No,No,News report
+GV702451,2019-08-23,Harbor City,Bay County,Domestic dispute,1,2,Adult 35-64,Yes,No,Hospital record
+GV700985,2019-08-23,Harbor City,Bay County,Domestic dispute,2,3,Adult 35-64,Unknown,No,News report
+GV702887,2019-08-24,Riverton,Ash County,Robbery,1,1,Adult 18-34,No,No,Police report
+GV701447,2019-08-26,Riverton,Ash County,Domestic dispute,1,1,Adult 35-64,Yes,No,Police report
+GV701372,2019-08-26,Riverton,Ash County,Accidental discharge,1,2,Senior 65+,No,No,Police report
+GV703175,2019-08-27,Maple Valley,Ash County,Assault,1,1,Adult 18-34,Unknown,No,News report
+GV702979,2019-08-27,Old Port,Bay County,Assault,1,2,Adult 18-34,No,No,News report
+GV700916,2019-08-28,Riverton,Ash County,Accidental discharge,0,1,Adult 35-64,No,No,Police report
+GV701030,2019-09-01,Riverton,Ash County,Assault,1,2,Senior 65+,Yes,No,Police report
+GV703034,2019-09-02,Old Port,Bay County,Drive-by,1,1,Adult 18-34,Yes,No,News report
+GV702037,2019-09-03,Harbor City,Bay County,Accidental discharge,1,1,Adult 18-34,Yes,No,News report
+GV702082,2019-09-03,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,Hospital record
+GV702890,2019-09-03,Riverton,Ash County,Assault,0,3,Teen 12-17,Unknown,No,News report
+GV700649,2019-09-05,Harbor City,Bay County,Drive-by,2,1,Adult 35-64,No,No,News report
+GV701658,2019-09-05,North Shore,Bay County,Unknown,1,1,Adult 35-64,Yes,No,Hospital record
+GV702154,2019-09-06,Riverton,Ash County,Unknown,0,1,Teen 12-17,Yes,No,Police report
+GV702015,2019-09-06,Old Port,Bay County,Self-defense,0,1,Adult 35-64,Yes,No,Police report
+GV701740,2019-09-07,North Shore,Bay County,Self-defense,0,2,Adult 35-64,No,No,Police report
+GV702524,2019-09-08,Old Port,Bay County,Drive-by,0,3,Adult 35-64,Unknown,No,Police report
+GV702730,2019-09-09,Harbor City,Bay County,Unknown,0,1,Adult 35-64,Yes,No,Hospital record
+GV701194,2019-09-09,Summit,Elm County,Unknown,1,3,Adult 18-34,No,No,Police report
+GV701733,2019-09-10,Harbor City,Bay County,Self-defense,0,3,Adult 18-34,No,No,Police report
+GV703060,2019-09-10,Maple Valley,Ash County,Robbery,0,3,Senior 65+,Unknown,No,Police report
+GV702779,2019-09-10,North Shore,Bay County,Unknown,0,1,Teen 12-17,No,No,Police report
+GV700626,2019-09-12,Riverton,Ash County,Assault,2,1,Teen 12-17,Yes,Yes,Hospital record
+GV701509,2019-09-14,Riverton,Ash County,Robbery,1,2,Adult 35-64,Yes,No,Police report
+GV700379,2019-09-15,Harbor City,Bay County,Assault,1,1,Adult 35-64,No,No,Police report
+GV700557,2019-09-15,Riverton,Ash County,Drive-by,1,1,Adult 35-64,No,No,News report
+GV700893,2019-09-16,Riverton,Ash County,Unknown,0,1,Adult 35-64,No,No,Police report
+GV702608,2019-09-16,Harbor City,Bay County,Drive-by,0,3,Adult 18-34,Yes,No,Police report
+GV700338,2019-09-17,Riverton,Ash County,Assault,0,3,Adult 35-64,No,No,Police report
+GV700238,2019-09-18,Riverton,Ash County,Assault,2,3,Adult 35-64,Unknown,No,Police report
+GV701061,2019-09-18,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,Hospital record
+GV701566,2019-09-18,Old Port,Bay County,Robbery,2,1,Adult 18-34,Yes,No,News report
+GV703042,2019-09-19,Riverton,Ash County,Assault,0,2,Adult 18-34,Yes,No,Police report
+GV700040,2019-09-22,Lakeview,Pine County,Accidental discharge,1,1,Adult 18-34,No,No,News report
+GV702017,2019-09-22,Summit,Elm County,Drive-by,0,1,Adult 18-34,Unknown,No,Police report
+GV700685,2019-09-23,North Shore,Bay County,Assault,0,1,Adult 35-64,No,No,Police report
+GV700723,2019-09-25,Maple Valley,Ash County,Unknown,2,1,Adult 18-34,No,No,Police report
+GV702016,2019-09-29,Old Port,Bay County,Domestic dispute,1,1,Adult 35-64,No,No,Police report
+GV702318,2019-10-01,Old Port,Bay County,Accidental discharge,0,1,Adult 18-34,No,No,Police report
+GV701463,2019-10-01,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,No,No,Police report
+GV700244,2019-10-02,Riverton,Ash County,Robbery,1,0,Adult 18-34,Yes,No,Police report
+GV703041,2019-10-05,Riverton,Ash County,Unknown,1,1,Adult 18-34,Yes,No,News report
+GV700930,2019-10-06,Harbor City,Bay County,Domestic dispute,0,3,Adult 35-64,No,No,Police report
+GV700042,2019-10-07,Harbor City,Bay County,Assault,1,1,Adult 18-34,No,No,Police report
+GV700485,2019-10-07,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,Hospital record
+GV701849,2019-10-08,Riverton,Ash County,Unknown,2,1,Adult 18-34,Yes,No,Police report
+GV702776,2019-10-10,Riverton,Ash County,Domestic dispute,1,1,Child 0-11,Unknown,No,Police report
+GV701327,2019-10-10,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV702281,2019-10-10,Maple Valley,Ash County,Robbery,0,2,Adult 18-34,No,No,Police report
+GV701680,2019-10-11,North Shore,Bay County,Drive-by,0,1,Adult 18-34,Yes,No,News report
+GV701473,2019-10-12,Harbor City,Bay County,Assault,1,0,Adult 18-34,No,No,News report
+GV700634,2019-10-15,Cedar Park,Elm County,Drive-by,0,1,Adult 35-64,Unknown,No,Hospital record
+GV703040,2019-10-19,Old Port,Bay County,Robbery,0,1,Adult 18-34,Unknown,No,Police report
+GV702786,2019-10-20,Harbor City,Bay County,Assault,1,3,Teen 12-17,Yes,No,Police report
+GV701799,2019-10-21,Riverton,Ash County,Domestic dispute,1,1,Adult 18-34,Yes,No,Hospital record
+GV702499,2019-10-21,North Shore,Bay County,Accidental discharge,0,2,Adult 35-64,No,No,Police report
+GV700254,2019-10-21,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,News report
+GV701317,2019-10-22,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV701396,2019-10-22,Old Port,Bay County,Unknown,1,3,Adult 35-64,No,No,News report
+GV701210,2019-10-24,Harbor City,Bay County,Robbery,0,2,Adult 18-34,No,No,Police report
+GV701875,2019-10-24,Harbor City,Bay County,Unknown,0,1,Teen 12-17,Unknown,No,Police report
+GV702832,2019-10-27,Old Port,Bay County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV700644,2019-10-30,Old Port,Bay County,Domestic dispute,2,2,Adult 18-34,Unknown,No,Police report
+GV702234,2019-11-01,Harbor City,Bay County,Robbery,2,1,Adult 18-34,Yes,No,Police report
+GV701699,2019-11-01,Harbor City,Bay County,Domestic dispute,1,3,Adult 35-64,Unknown,No,News report
+GV700989,2019-11-01,Old Port,Bay County,Assault,1,1,Adult 35-64,Yes,No,Police report
+GV702879,2019-11-02,Riverton,Ash County,Unknown,0,3,Adult 18-34,No,No,News report
+GV700070,2019-11-03,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,Yes,No,News report
+GV702586,2019-11-04,Maple Valley,Ash County,Unknown,0,2,Adult 18-34,No,Yes,News report
+GV702047,2019-11-06,Cedar Park,Elm County,Drive-by,2,2,Senior 65+,No,No,Police report
+GV703039,2019-11-10,Maple Valley,Ash County,Accidental discharge,0,1,Adult 18-34,Yes,No,Police report
+GV701078,2019-11-16,Harbor City,Bay County,Domestic dispute,1,3,Teen 12-17,No,No,News report
+GV702577,2019-11-17,Riverton,Ash County,Assault,0,1,Adult 35-64,Unknown,No,Hospital record
+GV702336,2019-11-17,North Shore,Bay County,Assault,0,1,Adult 18-34,No,No,News report
+GV700387,2019-11-18,Lakeview,Pine County,Drive-by,0,1,Adult 35-64,No,No,News report
+GV700228,2019-11-19,North Shore,Bay County,Domestic dispute,0,1,Adult 18-34,Yes,No,News report
+GV702167,2019-11-21,Riverton,Ash County,Domestic dispute,0,3,Adult 35-64,No,No,News report
+GV700698,2019-11-23,Riverton,Ash County,Domestic dispute,0,2,Adult 18-34,No,No,Hospital record
+GV703009,2019-11-24,Cedar Park,Elm County,Assault,1,2,Adult 35-64,No,No,Police report
+GV703092,2019-11-24,Summit,Elm County,Accidental discharge,1,1,Adult 35-64,Yes,No,Police report
+GV700513,2019-11-26,Old Port,Bay County,Assault,1,3,Adult 18-34,No,No,Police report
+GV700971,2019-12-01,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV701112,2019-12-03,Harbor City,Bay County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV701052,2019-12-05,Old Port,Bay County,Robbery,0,1,Adult 35-64,Unknown,No,Police report
+GV700789,2019-12-09,Harbor City,Bay County,Accidental discharge,1,2,Adult 18-34,No,No,News report
+GV702507,2019-12-10,Riverton,Ash County,Unknown,1,1,Adult 35-64,No,No,Police report
+GV702045,2019-12-12,Old Port,Bay County,Robbery,2,0,Adult 18-34,No,No,News report
+GV702665,2019-12-14,Riverton,Ash County,Domestic dispute,1,3,Adult 18-34,Yes,No,News report
+GV701851,2019-12-16,Old Port,Bay County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV702650,2019-12-19,Harbor City,Bay County,Domestic dispute,0,3,Adult 35-64,No,No,Police report
+GV702168,2019-12-19,North Shore,Bay County,Self-defense,1,1,Adult 18-34,No,No,Hospital record
+GV702972,2019-12-22,Harbor City,Bay County,Robbery,0,3,Adult 35-64,Yes,No,News report
+GV702967,2019-12-27,North Shore,Bay County,Assault,0,2,Adult 18-34,Yes,No,Police report
+GV703132,2019-12-29,Harbor City,Bay County,Assault,2,2,Adult 18-34,No,No,Hospital record
+GV700406,2019-12-31,Summit,Elm County,Assault,1,2,Adult 18-34,Yes,No,Police report
+GV701927,2020-01-02,Harbor City,Bay County,Accidental discharge,0,3,Adult 35-64,Unknown,No,Police report
+GV703056,2020-01-05,Riverton,Ash County,Unknown,1,1,Teen 12-17,No,No,Hospital record
+GV703065,2020-01-05,Cedar Park,Elm County,Unknown,2,3,Adult 35-64,Yes,No,Police report
+GV701397,2020-01-12,Cedar Park,Elm County,Domestic dispute,2,0,Senior 65+,Yes,No,Hospital record
+GV701643,2020-01-14,Riverton,Ash County,Drive-by,1,0,Adult 35-64,Unknown,No,Police report
+GV701863,2020-01-16,Lakeview,Pine County,Domestic dispute,0,2,Adult 18-34,No,Yes,News report
+GV701386,2020-01-17,Riverton,Ash County,Assault,0,1,Adult 18-34,Unknown,No,News report
+GV701683,2020-01-17,Harbor City,Bay County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV700605,2020-01-19,Old Port,Bay County,Assault,1,3,Adult 35-64,No,No,News report
+GV701921,2020-01-22,Lakeview,Pine County,Assault,0,1,Adult 35-64,Yes,No,News report
+GV701994,2020-01-29,Harbor City,Bay County,Assault,0,2,Adult 35-64,No,No,News report
+GV701661,2020-01-31,Harbor City,Bay County,Assault,0,1,Teen 12-17,No,No,Police report
+GV700151,2020-02-01,Riverton,Ash County,Robbery,1,2,Adult 35-64,Unknown,No,Police report
+GV702169,2020-02-01,Old Port,Bay County,Unknown,0,1,Adult 18-34,Yes,No,News report
+GV700895,2020-02-03,Maple Valley,Ash County,Assault,1,2,Adult 18-34,Yes,Yes,Hospital record
+GV700085,2020-02-05,Harbor City,Bay County,Accidental discharge,0,2,Teen 12-17,Yes,No,Police report
+GV702227,2020-02-06,Lakeview,Pine County,Unknown,0,1,Teen 12-17,Unknown,No,Police report
+GV702534,2020-02-07,Lakeview,Pine County,Unknown,2,3,Child 0-11,No,No,Police report
+GV702596,2020-02-08,Riverton,Ash County,Self-defense,0,1,Adult 18-34,No,No,Police report
+GV702547,2020-02-10,Cedar Park,Elm County,Drive-by,2,1,Adult 35-64,Yes,No,News report
+GV701375,2020-02-10,Lakeview,Pine County,Accidental discharge,1,1,Adult 35-64,No,No,Police report
+GV703038,2020-02-13,Summit,Elm County,Domestic dispute,0,2,Adult 18-34,Yes,No,News report
+GV701040,2020-02-14,Riverton,Ash County,Domestic dispute,2,1,Adult 18-34,Yes,No,News report
+GV701587,2020-02-14,Cedar Park,Elm County,Assault,2,3,Senior 65+,Yes,No,Police report
+GV701079,2020-02-17,Old Port,Bay County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV700589,2020-02-17,Maple Valley,Ash County,Domestic dispute,1,1,Adult 18-34,Yes,No,Police report
+GV703126,2020-02-17,Old Port,Bay County,Unknown,1,1,Adult 18-34,No,No,Police report
+GV702245,2020-02-18,Old Port,Bay County,Drive-by,0,1,Adult 18-34,Yes,No,Police report
+GV703074,2020-02-20,Harbor City,Bay County,Domestic dispute,2,1,Adult 18-34,No,No,Police report
+GV703121,2020-02-21,Old Port,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701158,2020-02-22,Cedar Park,Elm County,Domestic dispute,1,0,Teen 12-17,No,No,Police report
+GV700170,2020-02-24,Riverton,Ash County,Assault,2,0,Adult 18-34,Yes,No,News report
+GV701377,2020-02-26,Old Port,Bay County,Unknown,0,3,Adult 18-34,No,No,News report
+GV700606,2020-02-26,Harbor City,Bay County,Drive-by,1,3,Adult 18-34,Yes,No,Hospital record
+GV700922,2020-02-27,Riverton,Ash County,Drive-by,0,1,Adult 18-34,Unknown,No,News report
+GV701981,2020-02-28,Harbor City,Bay County,Drive-by,2,0,Adult 18-34,No,No,Police report
+GV702647,2020-03-02,Riverton,Ash County,Accidental discharge,0,3,Adult 35-64,No,No,News report
+GV702829,2020-03-07,Old Port,Bay County,Domestic dispute,1,1,Adult 35-64,Yes,No,Police report
+GV702858,2020-03-08,Riverton,Ash County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV701270,2020-03-08,Maple Valley,Ash County,Assault,2,3,Senior 65+,No,No,Police report
+GV700136,2020-03-09,Harbor City,Bay County,Assault,1,1,Adult 35-64,Unknown,No,News report
+GV702185,2020-03-10,Cedar Park,Elm County,Assault,0,1,Adult 18-34,No,No,News report
+GV700118,2020-03-15,Harbor City,Bay County,Accidental discharge,0,3,Adult 18-34,Unknown,No,News report
+GV703147,2020-03-15,Riverton,Ash County,Self-defense,1,1,Child 0-11,No,No,Police report
+GV701416,2020-03-16,Harbor City,Bay County,Domestic dispute,1,2,Teen 12-17,Unknown,No,News report
+GV701027,2020-03-18,Maple Valley,Ash County,Domestic dispute,0,1,Teen 12-17,No,No,Police report
+GV703085,2020-03-18,Old Port,Bay County,Unknown,1,2,Adult 35-64,Unknown,No,Police report
+GV701768,2020-03-18,Riverton,Ash County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV700956,2020-03-20,Old Port,Bay County,Drive-by,0,1,Teen 12-17,Unknown,No,Hospital record
+GV701647,2020-03-21,Harbor City,Bay County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV700753,2020-03-22,Harbor City,Bay County,Drive-by,0,1,Adult 35-64,No,No,News report
+GV702211,2020-03-23,Harbor City,Bay County,Unknown,0,1,Adult 35-64,Yes,No,News report
+GV700731,2020-03-25,North Shore,Bay County,Unknown,0,2,Adult 35-64,No,No,News report
+GV700395,2020-03-25,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,Yes,No,Police report
+GV702310,2020-03-25,Summit,Elm County,Robbery,1,0,Adult 35-64,Yes,No,Police report
+GV701414,2020-03-26,Riverton,Ash County,Assault,0,2,Adult 18-34,No,No,Police report
+GV702244,2020-03-28,Riverton,Ash County,Unknown,1,2,Adult 35-64,Yes,No,Police report
+GV701579,2020-03-29,Cedar Park,Elm County,Domestic dispute,0,1,Adult 18-34,Yes,No,Police report
+GV702833,2020-03-30,Maple Valley,Ash County,Drive-by,0,2,Adult 18-34,No,No,Police report
+GV700899,2020-03-30,Harbor City,Bay County,Unknown,1,1,Adult 35-64,Unknown,No,Police report
+GV700140,2020-03-30,Lakeview,Pine County,Assault,2,3,Adult 18-34,No,No,Hospital record
+GV701834,2020-04-01,Riverton,Ash County,Unknown,1,1,Adult 35-64,Yes,No,Police report
+GV701229,2020-04-02,Riverton,Ash County,Unknown,1,1,Adult 18-34,No,No,Police report
+GV702455,2020-04-03,Harbor City,Bay County,Unknown,0,1,Teen 12-17,Yes,No,News report
+GV701703,2020-04-04,Harbor City,Bay County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV701448,2020-04-07,Maple Valley,Ash County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV702463,2020-04-10,Maple Valley,Ash County,Accidental discharge,1,1,Teen 12-17,No,No,Police report
+GV700374,2020-04-12,North Shore,Bay County,Drive-by,0,1,Adult 18-34,Yes,No,Police report
+GV701300,2020-04-14,North Shore,Bay County,Unknown,0,3,Adult 35-64,No,No,News report
+GV702780,2020-04-16,Maple Valley,Ash County,Assault,0,1,Teen 12-17,Yes,No,News report
+GV702003,2020-04-17,Riverton,Ash County,Unknown,1,1,Adult 35-64,No,No,Hospital record
+GV701900,2020-04-20,Maple Valley,Ash County,Domestic dispute,1,1,Adult 35-64,No,No,News report
+GV701728,2020-04-20,Maple Valley,Ash County,Assault,0,1,Teen 12-17,Yes,No,Hospital record
+GV700935,2020-04-21,Harbor City,Bay County,Domestic dispute,0,1,Adult 35-64,Yes,No,Police report
+GV701560,2020-04-21,North Shore,Bay County,Robbery,1,1,Adult 35-64,Yes,No,Hospital record
+GV701118,2020-04-24,Riverton,Ash County,Self-defense,0,1,Adult 18-34,No,No,Police report
+GV701476,2020-04-25,Riverton,Ash County,Drive-by,0,1,Adult 18-34,Yes,No,News report
+GV702274,2020-04-27,North Shore,Bay County,Accidental discharge,0,1,Adult 18-34,No,No,News report
+GV703033,2020-04-28,Cedar Park,Elm County,Domestic dispute,0,1,Teen 12-17,No,No,Police report
+GV702731,2020-05-02,Riverton,Ash County,Drive-by,0,2,Adult 18-34,No,No,News report
+GV701125,2020-05-02,Harbor City,Bay County,Assault,0,2,Adult 18-34,Yes,No,Police report
+GV700704,2020-05-03,Harbor City,Bay County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV702441,2020-05-03,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV700578,2020-05-03,Riverton,Ash County,Accidental discharge,2,2,Adult 18-34,No,No,News report
+GV700096,2020-05-07,Old Port,Bay County,Domestic dispute,1,1,Adult 35-64,No,No,News report
+GV702676,2020-05-08,Cedar Park,Elm County,Unknown,0,1,Adult 18-34,Unknown,No,Police report
+GV700453,2020-05-08,Old Port,Bay County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV702926,2020-05-09,Lakeview,Pine County,Domestic dispute,0,1,Adult 35-64,Unknown,No,News report
+GV702727,2020-05-11,North Shore,Bay County,Accidental discharge,2,1,Adult 35-64,No,No,Police report
+GV700696,2020-05-12,North Shore,Bay County,Assault,0,1,Adult 35-64,No,No,News report
+GV702669,2020-05-14,Harbor City,Bay County,Assault,0,1,Teen 12-17,No,Yes,Police report
+GV702470,2020-05-15,Maple Valley,Ash County,Assault,0,2,Adult 35-64,No,No,News report
+GV702956,2020-05-16,Lakeview,Pine County,Drive-by,2,3,Adult 18-34,Unknown,Yes,Police report
+GV703107,2020-05-17,Harbor City,Bay County,Assault,1,2,Adult 18-34,Yes,No,News report
+GV702330,2020-05-19,Riverton,Ash County,Drive-by,1,2,Adult 35-64,Yes,No,News report
+GV701306,2020-05-20,Riverton,Ash County,Robbery,0,3,Adult 35-64,Yes,No,Police report
+GV701666,2020-05-21,Cedar Park,Elm County,Assault,0,2,Adult 35-64,Yes,No,Police report
+GV702284,2020-05-21,Riverton,Ash County,Assault,1,1,Teen 12-17,No,No,News report
+GV700765,2020-05-22,Summit,Elm County,Drive-by,0,1,Teen 12-17,Unknown,No,News report
+GV703128,2020-05-22,Maple Valley,Ash County,Assault,2,1,Adult 18-34,No,No,News report
+GV700189,2020-05-22,Lakeview,Pine County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701779,2020-05-23,Riverton,Ash County,Self-defense,1,1,Adult 35-64,No,No,Police report
+GV701881,2020-05-24,Old Port,Bay County,Accidental discharge,2,2,Adult 18-34,No,No,News report
+GV700177,2020-05-25,Harbor City,Bay County,Domestic dispute,1,0,Adult 35-64,Yes,No,Hospital record
+GV700572,2020-05-25,Lakeview,Pine County,Drive-by,1,1,Adult 18-34,Unknown,No,Police report
+GV700376,2020-05-26,Old Port,Bay County,Robbery,0,1,Adult 18-34,Yes,No,Police report
+GV700182,2020-05-27,Maple Valley,Ash County,Robbery,0,2,Adult 18-34,Yes,No,Police report
+GV701149,2020-05-27,Old Port,Bay County,Assault,0,1,Teen 12-17,No,No,Police report
+GV701516,2020-05-29,Cedar Park,Elm County,Assault,1,1,Adult 35-64,Yes,Yes,News report
+GV703064,2020-05-29,Old Port,Bay County,Accidental discharge,2,3,Adult 35-64,No,No,Police report
+GV700112,2020-05-30,Riverton,Ash County,Robbery,1,2,Senior 65+,Yes,No,Police report
+GV700248,2020-05-30,Old Port,Bay County,Assault,0,1,Child 0-11,Unknown,No,Police report
+GV702239,2020-05-31,Maple Valley,Ash County,Assault,0,3,Teen 12-17,No,No,Hospital record
+GV703115,2020-05-31,Maple Valley,Ash County,Assault,2,2,Adult 18-34,No,No,Hospital record
+GV701100,2020-06-02,Riverton,Ash County,Assault,0,2,Adult 35-64,Yes,No,News report
+GV702544,2020-06-03,Maple Valley,Ash County,Unknown,1,2,Adult 35-64,Unknown,No,Police report
+GV701519,2020-06-03,Cedar Park,Elm County,Drive-by,2,0,Adult 18-34,No,No,Police report
+GV700503,2020-06-04,Riverton,Ash County,Domestic dispute,1,1,Adult 35-64,Yes,No,Police report
+GV702164,2020-06-04,Riverton,Ash County,Robbery,0,1,Teen 12-17,No,No,Police report
+GV702994,2020-06-05,Old Port,Bay County,Unknown,0,1,Adult 18-34,Unknown,No,Police report
+GV702122,2020-06-05,Riverton,Ash County,Self-defense,0,3,Adult 18-34,Yes,No,News report
+GV700019,2020-06-06,Riverton,Ash County,Robbery,1,1,Adult 35-64,Unknown,No,Hospital record
+GV700468,2020-06-07,Maple Valley,Ash County,Domestic dispute,2,1,Teen 12-17,No,No,News report
+GV701421,2020-06-07,Riverton,Ash County,Accidental discharge,0,3,Adult 18-34,Unknown,No,News report
+GV702588,2020-06-09,Riverton,Ash County,Accidental discharge,2,2,Adult 35-64,Yes,No,News report
+GV701009,2020-06-12,Harbor City,Bay County,Unknown,2,2,Adult 18-34,No,No,Hospital record
+GV702149,2020-06-12,Cedar Park,Elm County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV702864,2020-06-12,Maple Valley,Ash County,Assault,1,2,Adult 18-34,No,No,Police report
+GV701256,2020-06-13,Cedar Park,Elm County,Unknown,1,1,Adult 18-34,No,No,News report
+GV700168,2020-06-13,Old Port,Bay County,Assault,1,0,Teen 12-17,No,No,Police report
+GV700635,2020-06-14,Riverton,Ash County,Assault,2,1,Adult 35-64,No,No,Police report
+GV700161,2020-06-14,Harbor City,Bay County,Robbery,0,1,Adult 18-34,Yes,No,Police report
+GV701786,2020-06-16,Summit,Elm County,Assault,0,1,Adult 35-64,No,No,Police report
+GV700137,2020-06-16,Harbor City,Bay County,Assault,1,2,Adult 35-64,No,No,Police report
+GV700447,2020-06-17,Old Port,Bay County,Domestic dispute,2,3,Adult 18-34,No,No,Police report
+GV700858,2020-06-17,Harbor City,Bay County,Robbery,0,1,Adult 35-64,Unknown,No,News report
+GV702639,2020-06-17,Riverton,Ash County,Assault,1,0,Adult 18-34,Unknown,No,Hospital record
+GV702421,2020-06-18,Harbor City,Bay County,Unknown,2,0,Teen 12-17,No,Yes,News report
+GV700911,2020-06-19,Summit,Elm County,Assault,0,1,Teen 12-17,Yes,No,Police report
+GV700239,2020-06-19,Riverton,Ash County,Unknown,0,1,Adult 35-64,Unknown,No,Police report
+GV701553,2020-06-21,Lakeview,Pine County,Robbery,2,0,Adult 35-64,No,No,Police report
+GV702032,2020-06-21,Maple Valley,Ash County,Assault,2,3,Adult 18-34,Yes,No,Police report
+GV700724,2020-06-21,Harbor City,Bay County,Domestic dispute,0,3,Adult 18-34,No,No,News report
+GV702476,2020-06-22,Cedar Park,Elm County,Robbery,2,1,Adult 18-34,Yes,No,Police report
+GV700471,2020-06-22,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,Hospital record
+GV702261,2020-06-23,Harbor City,Bay County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV701087,2020-06-24,Riverton,Ash County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV702837,2020-06-25,Harbor City,Bay County,Domestic dispute,1,2,Adult 18-34,Yes,No,News report
+GV700362,2020-06-26,Summit,Elm County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV702622,2020-06-26,Harbor City,Bay County,Assault,1,1,Adult 18-34,No,No,Police report
+GV700232,2020-06-26,Riverton,Ash County,Assault,1,2,Teen 12-17,Yes,No,News report
+GV701201,2020-06-27,North Shore,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV702968,2020-06-29,Riverton,Ash County,Robbery,0,2,Adult 35-64,No,No,News report
+GV703161,2020-06-30,Lakeview,Pine County,Robbery,0,1,Adult 18-34,Unknown,No,Police report
+GV702976,2020-07-01,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,News report
+GV701239,2020-07-01,Riverton,Ash County,Domestic dispute,0,2,Adult 35-64,Yes,No,Police report
+GV702363,2020-07-02,Old Port,Bay County,Drive-by,0,3,Adult 18-34,Yes,No,Police report
+GV701228,2020-07-02,Cedar Park,Elm County,Assault,0,1,Adult 35-64,Yes,No,Hospital record
+GV700775,2020-07-03,Riverton,Ash County,Assault,1,1,Adult 18-34,Unknown,No,Police report
+GV700810,2020-07-04,Old Port,Bay County,Robbery,0,1,Adult 18-34,Yes,No,Police report
+GV701097,2020-07-04,Lakeview,Pine County,Robbery,0,1,Adult 18-34,Unknown,No,Police report
+GV700816,2020-07-05,Maple Valley,Ash County,Assault,2,2,Adult 18-34,No,No,Police report
+GV700218,2020-07-07,Maple Valley,Ash County,Assault,2,0,Adult 18-34,No,No,Hospital record
+GV701578,2020-07-08,Maple Valley,Ash County,Unknown,0,1,Adult 35-64,No,No,Police report
+GV701177,2020-07-09,Old Port,Bay County,Unknown,1,3,Adult 35-64,Yes,No,News report
+GV701013,2020-07-10,Harbor City,Bay County,Domestic dispute,1,1,Senior 65+,Unknown,No,Police report
+GV702427,2020-07-10,Riverton,Ash County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV700711,2020-07-10,Harbor City,Bay County,Assault,0,2,Teen 12-17,Yes,No,Police report
+GV702592,2020-07-10,Summit,Elm County,Accidental discharge,1,1,Adult 18-34,Yes,No,Police report
+GV700706,2020-07-11,Cedar Park,Elm County,Drive-by,0,1,Adult 18-34,No,No,News report
+GV701282,2020-07-12,Maple Valley,Ash County,Unknown,2,1,Adult 35-64,Unknown,No,Police report
+GV702384,2020-07-12,Riverton,Ash County,Self-defense,1,1,Adult 35-64,Unknown,No,News report
+GV702206,2020-07-12,North Shore,Bay County,Assault,2,1,Adult 18-34,No,No,News report
+GV700446,2020-07-12,Riverton,Ash County,Robbery,0,1,Adult 18-34,Yes,No,News report
+GV702282,2020-07-14,Harbor City,Bay County,Unknown,2,1,Senior 65+,Unknown,No,Police report
+GV700549,2020-07-14,North Shore,Bay County,Assault,1,3,Adult 18-34,No,No,Police report
+GV700748,2020-07-14,Old Port,Bay County,Self-defense,0,1,Adult 18-34,Unknown,No,Police report
+GV700584,2020-07-15,Harbor City,Bay County,Assault,0,1,Senior 65+,No,No,Police report
+GV703156,2020-07-15,Old Port,Bay County,Domestic dispute,1,3,Adult 18-34,Unknown,No,News report
+GV701539,2020-07-16,Riverton,Ash County,Self-defense,0,1,Adult 18-34,No,No,News report
+GV700308,2020-07-16,North Shore,Bay County,Domestic dispute,0,1,Adult 18-34,Unknown,No,Hospital record
+GV700497,2020-07-16,Lakeview,Pine County,Assault,2,1,Adult 35-64,No,No,Police report
+GV702417,2020-07-16,Maple Valley,Ash County,Unknown,1,2,Adult 18-34,Yes,No,Police report
+GV702748,2020-07-18,Summit,Elm County,Unknown,2,1,Adult 18-34,Yes,No,Police report
+GV703108,2020-07-19,Riverton,Ash County,Assault,1,1,Adult 18-34,Unknown,No,News report
+GV700074,2020-07-19,Old Port,Bay County,Domestic dispute,2,1,Adult 35-64,No,No,Police report
+GV700370,2020-07-20,Old Port,Bay County,Drive-by,0,1,Senior 65+,No,No,News report
+GV701161,2020-07-22,Harbor City,Bay County,Domestic dispute,1,0,Teen 12-17,No,No,Police report
+GV701660,2020-07-24,Old Port,Bay County,Drive-by,2,1,Adult 18-34,Yes,No,Police report
+GV700361,2020-07-24,Harbor City,Bay County,Self-defense,1,0,Adult 18-34,Yes,No,Police report
+GV700725,2020-07-25,Summit,Elm County,Accidental discharge,1,1,Adult 18-34,Yes,No,News report
+GV700991,2020-07-25,Harbor City,Bay County,Assault,1,3,Adult 18-34,No,No,Police report
+GV701018,2020-07-25,Riverton,Ash County,Domestic dispute,1,1,Adult 35-64,Unknown,No,News report
+GV700653,2020-07-26,Lakeview,Pine County,Unknown,1,1,Adult 35-64,Yes,No,Hospital record
+GV700581,2020-07-27,Harbor City,Bay County,Drive-by,2,1,Adult 18-34,Unknown,No,News report
+GV700872,2020-07-27,Riverton,Ash County,Assault,0,1,Adult 35-64,Unknown,No,News report
+GV700420,2020-07-27,Harbor City,Bay County,Assault,0,3,Adult 35-64,Yes,No,Police report
+GV700233,2020-07-27,Harbor City,Bay County,Accidental discharge,1,3,Senior 65+,Unknown,No,Police report
+GV703030,2020-07-31,North Shore,Bay County,Assault,2,1,Teen 12-17,No,No,Hospital record
+GV701707,2020-08-01,Maple Valley,Ash County,Assault,2,1,Adult 18-34,Yes,No,News report
+GV702929,2020-08-01,Harbor City,Bay County,Domestic dispute,0,3,Adult 35-64,Yes,No,Police report
+GV701793,2020-08-01,North Shore,Bay County,Self-defense,2,1,Adult 35-64,Unknown,No,Police report
+GV701024,2020-08-01,Maple Valley,Ash County,Robbery,0,1,Adult 18-34,No,No,News report
+GV701963,2020-08-02,Cedar Park,Elm County,Domestic dispute,1,2,Teen 12-17,Yes,No,Hospital record
+GV702611,2020-08-03,Harbor City,Bay County,Robbery,1,3,Adult 18-34,Yes,No,Police report
+GV702484,2020-08-03,Harbor City,Bay County,Domestic dispute,1,3,Adult 18-34,Unknown,No,News report
+GV700609,2020-08-03,Harbor City,Bay County,Self-defense,1,0,Adult 35-64,No,No,Hospital record
+GV702020,2020-08-04,Summit,Elm County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV701576,2020-08-04,Cedar Park,Elm County,Assault,0,3,Adult 18-34,Yes,No,News report
+GV702740,2020-08-05,Old Port,Bay County,Self-defense,0,1,Adult 35-64,Yes,No,News report
+GV700596,2020-08-06,Riverton,Ash County,Unknown,0,1,Adult 35-64,Yes,No,News report
+GV702951,2020-08-06,Lakeview,Pine County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV701819,2020-08-07,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,Police report
+GV702945,2020-08-09,Cedar Park,Elm County,Drive-by,0,1,Adult 35-64,No,No,Police report
+GV703144,2020-08-09,Summit,Elm County,Domestic dispute,1,3,Adult 18-34,No,No,News report
+GV702086,2020-08-10,Harbor City,Bay County,Unknown,2,2,Adult 18-34,Yes,No,News report
+GV702029,2020-08-11,Harbor City,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701439,2020-08-12,Summit,Elm County,Domestic dispute,0,1,Adult 18-34,Yes,No,News report
+GV702579,2020-08-13,Harbor City,Bay County,Domestic dispute,0,1,Adult 18-34,Yes,No,Police report
+GV701738,2020-08-14,Maple Valley,Ash County,Assault,1,3,Adult 35-64,No,No,Police report
+GV700595,2020-08-14,Riverton,Ash County,Unknown,0,1,Adult 35-64,Yes,No,News report
+GV701937,2020-08-14,Old Port,Bay County,Assault,1,1,Senior 65+,No,No,News report
+GV701941,2020-08-17,Cedar Park,Elm County,Assault,0,2,Adult 18-34,No,No,Police report
+GV701152,2020-08-17,Harbor City,Bay County,Self-defense,0,1,Adult 18-34,Unknown,No,Police report
+GV702128,2020-08-19,Harbor City,Bay County,Drive-by,0,1,Adult 18-34,Yes,No,News report
+GV701517,2020-08-19,Summit,Elm County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV701795,2020-08-21,Maple Valley,Ash County,Self-defense,0,3,Adult 35-64,No,No,Police report
+GV701893,2020-08-22,Old Port,Bay County,Robbery,1,1,Adult 18-34,Yes,No,Police report
+GV702784,2020-08-26,Cedar Park,Elm County,Drive-by,2,3,Adult 35-64,No,No,Police report
+GV700598,2020-08-26,Cedar Park,Elm County,Self-defense,1,0,Child 0-11,Unknown,No,Police report
+GV700053,2020-08-27,Harbor City,Bay County,Assault,2,1,Adult 35-64,No,No,News report
+GV702724,2020-08-28,Summit,Elm County,Assault,1,2,Adult 18-34,No,No,Police report
+GV701015,2020-08-28,Old Port,Bay County,Assault,2,0,Adult 18-34,No,No,Police report
+GV703032,2020-08-28,Harbor City,Bay County,Unknown,2,1,Child 0-11,Yes,No,News report
+GV700624,2020-08-29,Riverton,Ash County,Domestic dispute,1,1,Adult 18-34,Yes,No,News report
+GV702299,2020-08-31,Riverton,Ash County,Assault,0,1,Adult 35-64,Unknown,No,Police report
+GV702791,2020-09-03,Harbor City,Bay County,Domestic dispute,1,3,Adult 35-64,Yes,No,News report
+GV702112,2020-09-03,Harbor City,Bay County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV702263,2020-09-03,North Shore,Bay County,Self-defense,0,1,Adult 18-34,Yes,No,Police report
+GV702766,2020-09-07,Harbor City,Bay County,Drive-by,1,3,Adult 18-34,Yes,No,Police report
+GV700330,2020-09-08,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,Police report
+GV700022,2020-09-11,Maple Valley,Ash County,Assault,0,3,Adult 18-34,No,No,News report
+GV701293,2020-09-13,Harbor City,Bay County,Robbery,0,3,Teen 12-17,Yes,No,Police report
+GV700771,2020-09-13,Cedar Park,Elm County,Assault,0,3,Adult 18-34,No,No,News report
+GV700978,2020-09-13,Riverton,Ash County,Unknown,0,1,Adult 35-64,Yes,No,News report
+GV701322,2020-09-14,Harbor City,Bay County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV702024,2020-09-14,Harbor City,Bay County,Unknown,0,3,Adult 35-64,No,No,News report
+GV700451,2020-09-14,Summit,Elm County,Unknown,0,3,Adult 35-64,Unknown,No,News report
+GV703013,2020-09-15,Riverton,Ash County,Unknown,0,1,Adult 35-64,No,No,Hospital record
+GV702323,2020-09-15,Maple Valley,Ash County,Assault,0,1,Teen 12-17,No,No,News report
+GV702127,2020-09-15,Riverton,Ash County,Robbery,0,3,Teen 12-17,Yes,No,Police report
+GV701807,2020-09-15,Riverton,Ash County,Assault,1,0,Adult 18-34,No,No,Police report
+GV700143,2020-09-15,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,Hospital record
+GV701583,2020-09-15,Old Port,Bay County,Unknown,0,1,Adult 18-34,Yes,No,News report
+GV701759,2020-09-16,Riverton,Ash County,Domestic dispute,1,0,Adult 18-34,Yes,No,Police report
+GV702560,2020-09-17,North Shore,Bay County,Accidental discharge,0,1,Adult 18-34,Yes,No,Police report
+GV701043,2020-09-17,Riverton,Ash County,Assault,1,1,Adult 35-64,No,No,News report
+GV700856,2020-09-19,North Shore,Bay County,Unknown,1,1,Child 0-11,Yes,No,Police report
+GV702356,2020-09-19,North Shore,Bay County,Assault,0,1,Adult 35-64,No,No,News report
+GV701204,2020-09-20,Riverton,Ash County,Assault,2,0,Adult 35-64,Unknown,No,Police report
+GV702107,2020-09-21,Riverton,Ash County,Domestic dispute,1,0,Adult 35-64,Yes,No,Police report
+GV702453,2020-09-23,Summit,Elm County,Drive-by,2,1,Adult 18-34,Yes,No,Police report
+GV701462,2020-09-23,Harbor City,Bay County,Accidental discharge,0,2,Adult 18-34,Unknown,No,Police report
+GV702812,2020-09-24,Harbor City,Bay County,Domestic dispute,1,0,Adult 18-34,Yes,No,Police report
+GV700166,2020-09-26,Harbor City,Bay County,Unknown,0,1,Child 0-11,Yes,Yes,Police report
+GV702629,2020-09-28,Riverton,Ash County,Self-defense,0,1,Adult 35-64,Yes,No,News report
+GV702381,2020-09-28,Lakeview,Pine County,Accidental discharge,0,1,Adult 18-34,Yes,No,Police report
+GV700562,2020-09-30,Riverton,Ash County,Robbery,1,2,Adult 18-34,No,No,Police report
+GV702446,2020-09-30,Cedar Park,Elm County,Assault,1,1,Adult 35-64,No,No,Police report
+GV702486,2020-10-02,Harbor City,Bay County,Unknown,0,1,Adult 35-64,Unknown,No,Police report
+GV701842,2020-10-03,Harbor City,Bay County,Unknown,0,3,Adult 35-64,No,No,Police report
+GV701859,2020-10-03,Cedar Park,Elm County,Robbery,0,1,Teen 12-17,Yes,No,Police report
+GV702092,2020-10-03,Harbor City,Bay County,Drive-by,2,2,Teen 12-17,Yes,No,Police report
+GV700945,2020-10-05,Riverton,Ash County,Assault,1,2,Adult 35-64,No,No,Police report
+GV702996,2020-10-08,Old Port,Bay County,Unknown,1,1,Adult 18-34,Unknown,No,Hospital record
+GV700129,2020-10-09,North Shore,Bay County,Robbery,0,2,Adult 35-64,Unknown,No,Police report
+GV700890,2020-10-09,Riverton,Ash County,Unknown,1,2,Teen 12-17,No,No,Hospital record
+GV701089,2020-10-11,Old Port,Bay County,Unknown,1,1,Adult 18-34,Unknown,No,Police report
+GV703165,2020-10-11,Harbor City,Bay County,Assault,1,1,Adult 35-64,Unknown,No,Police report
+GV701195,2020-10-12,Riverton,Ash County,Assault,1,1,Adult 18-34,No,No,Police report
+GV701454,2020-10-12,Cedar Park,Elm County,Unknown,2,0,Adult 35-64,Yes,No,Hospital record
+GV702028,2020-10-13,Harbor City,Bay County,Assault,1,1,Adult 35-64,No,No,Police report
+GV701727,2020-10-13,Old Port,Bay County,Self-defense,0,2,Adult 18-34,No,No,News report
+GV701277,2020-10-18,Riverton,Ash County,Assault,0,2,Teen 12-17,Yes,No,Police report
+GV701640,2020-10-18,Harbor City,Bay County,Unknown,1,0,Adult 35-64,No,No,News report
+GV700261,2020-10-21,Lakeview,Pine County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV702305,2020-10-25,Old Port,Bay County,Assault,0,2,Adult 35-64,Unknown,No,Hospital record
+GV701031,2020-10-26,Harbor City,Bay County,Domestic dispute,1,0,Adult 18-34,Unknown,No,News report
+GV701166,2020-10-28,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,Yes,No,News report
+GV700095,2020-10-29,Cedar Park,Elm County,Accidental discharge,0,1,Teen 12-17,No,Yes,Hospital record
+GV702877,2020-10-29,North Shore,Bay County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV702251,2020-10-29,Riverton,Ash County,Unknown,1,1,Adult 18-34,Yes,No,News report
+GV702755,2020-10-30,Summit,Elm County,Drive-by,1,0,Adult 35-64,Yes,No,News report
+GV700444,2020-11-02,Riverton,Ash County,Assault,0,3,Adult 18-34,Unknown,No,Hospital record
+GV700746,2020-11-04,Riverton,Ash County,Unknown,0,2,Adult 18-34,Yes,No,News report
+GV701872,2020-11-11,Riverton,Ash County,Domestic dispute,1,2,Adult 35-64,No,Yes,Police report
+GV703057,2020-11-12,Lakeview,Pine County,Domestic dispute,0,1,Adult 18-34,Unknown,No,Police report
+GV701600,2020-11-12,Harbor City,Bay County,Assault,1,0,Adult 18-34,No,No,Police report
+GV702494,2020-11-14,Riverton,Ash County,Drive-by,0,1,Adult 35-64,No,No,News report
+GV701810,2020-11-15,Summit,Elm County,Domestic dispute,1,1,Adult 35-64,No,No,News report
+GV703061,2020-11-21,Old Port,Bay County,Assault,2,0,Adult 18-34,No,No,News report
+GV702326,2020-11-21,Lakeview,Pine County,Assault,0,3,Adult 18-34,Unknown,No,Hospital record
+GV700075,2020-11-23,Cedar Park,Elm County,Unknown,1,3,Teen 12-17,No,Yes,News report
+GV702663,2020-11-29,Maple Valley,Ash County,Self-defense,2,3,Adult 18-34,No,No,Police report
+GV702681,2020-12-01,Old Port,Bay County,Assault,1,1,Adult 35-64,No,No,News report
+GV701792,2020-12-04,Cedar Park,Elm County,Robbery,1,1,Adult 35-64,No,No,Police report
+GV700751,2020-12-16,Maple Valley,Ash County,Assault,2,1,Adult 35-64,No,No,News report
+GV700030,2020-12-20,Maple Valley,Ash County,Assault,1,2,Adult 35-64,Yes,No,Police report
+GV702601,2020-12-22,Maple Valley,Ash County,Accidental discharge,0,2,Adult 35-64,Unknown,No,News report
+GV701037,2020-12-23,Riverton,Ash County,Unknown,0,2,Adult 18-34,Yes,No,Hospital record
+GV702114,2020-12-24,Cedar Park,Elm County,Assault,1,3,Adult 35-64,Yes,No,Police report
+GV700946,2020-12-25,Old Port,Bay County,Drive-by,1,3,Adult 35-64,Yes,No,News report
+GV701496,2020-12-30,Riverton,Ash County,Robbery,1,1,Adult 35-64,Yes,No,Hospital record
+GV701314,2021-01-07,Lakeview,Pine County,Self-defense,1,1,Adult 18-34,Unknown,No,Police report
+GV701184,2021-01-08,Riverton,Ash County,Assault,1,2,Adult 35-64,No,No,Police report
+GV700774,2021-01-13,Riverton,Ash County,Drive-by,1,3,Adult 18-34,Unknown,No,News report
+GV702458,2021-01-21,Riverton,Ash County,Accidental discharge,0,1,Adult 35-64,No,No,Police report
+GV701607,2021-01-24,Harbor City,Bay County,Robbery,0,3,Senior 65+,Unknown,No,Police report
+GV701261,2021-01-25,Harbor City,Bay County,Accidental discharge,2,0,Teen 12-17,Yes,No,News report
+GV700561,2021-01-31,North Shore,Bay County,Domestic dispute,2,1,Child 0-11,No,No,News report
+GV701059,2021-02-02,Old Port,Bay County,Accidental discharge,2,1,Adult 35-64,No,No,Police report
+GV702100,2021-02-06,Riverton,Ash County,Unknown,1,2,Adult 18-34,Unknown,No,Police report
+GV702050,2021-02-07,Harbor City,Bay County,Drive-by,0,1,Adult 18-34,Unknown,No,Police report
+GV700369,2021-02-12,North Shore,Bay County,Assault,0,1,Adult 35-64,Yes,No,News report
+GV700776,2021-02-15,Harbor City,Bay County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV700522,2021-02-19,Cedar Park,Elm County,Robbery,0,3,Adult 18-34,No,No,Police report
+GV702765,2021-02-25,Harbor City,Bay County,Self-defense,1,1,Adult 18-34,No,No,News report
+GV703093,2021-02-25,Maple Valley,Ash County,Assault,1,0,Adult 35-64,Yes,No,Police report
+GV700436,2021-03-01,Summit,Elm County,Assault,1,1,Adult 18-34,No,No,Police report
+GV701983,2021-03-04,Cedar Park,Elm County,Assault,1,1,Adult 18-34,No,No,News report
+GV700066,2021-03-05,Riverton,Ash County,Unknown,1,2,Adult 18-34,No,No,News report
+GV701289,2021-03-05,Harbor City,Bay County,Assault,1,0,Child 0-11,Yes,No,News report
+GV700527,2021-03-06,Summit,Elm County,Drive-by,2,3,Adult 18-34,No,No,Police report
+GV703080,2021-03-08,Harbor City,Bay County,Assault,0,3,Adult 18-34,No,No,News report
+GV701845,2021-03-08,Maple Valley,Ash County,Assault,2,0,Adult 35-64,Unknown,No,Police report
+GV702808,2021-03-09,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,Police report
+GV703149,2021-03-12,Harbor City,Bay County,Accidental discharge,0,1,Adult 18-34,No,No,Police report
+GV701506,2021-03-15,Harbor City,Bay County,Unknown,0,2,Adult 18-34,No,No,Police report
+GV701562,2021-03-15,Riverton,Ash County,Accidental discharge,0,1,Senior 65+,Yes,No,News report
+GV701571,2021-03-17,Riverton,Ash County,Accidental discharge,0,1,Senior 65+,No,No,Police report
+GV701823,2021-03-24,Riverton,Ash County,Unknown,1,1,Teen 12-17,No,No,Police report
+GV701504,2021-03-25,Old Port,Bay County,Self-defense,0,1,Adult 18-34,Yes,No,Police report
+GV702900,2021-03-26,Riverton,Ash County,Assault,0,1,Adult 18-34,Unknown,No,News report
+GV702269,2021-03-29,Harbor City,Bay County,Domestic dispute,0,1,Adult 18-34,Unknown,No,Hospital record
+GV702006,2021-03-29,Maple Valley,Ash County,Assault,1,1,Adult 18-34,No,No,Police report
+GV701334,2021-03-30,Summit,Elm County,Assault,1,1,Adult 18-34,No,Yes,Police report
+GV700088,2021-03-30,Riverton,Ash County,Self-defense,1,2,Adult 35-64,Unknown,No,News report
+GV701722,2021-03-30,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV703184,2021-03-31,Harbor City,Bay County,Unknown,0,1,Adult 18-34,No,No,News report
+GV702549,2021-04-01,Riverton,Ash County,Assault,1,1,Adult 18-34,No,No,News report
+GV701672,2021-04-01,Maple Valley,Ash County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV703003,2021-04-02,Riverton,Ash County,Assault,1,0,Adult 18-34,Yes,No,News report
+GV701466,2021-04-02,Harbor City,Bay County,Robbery,2,1,Adult 18-34,No,No,Police report
+GV701274,2021-04-03,Riverton,Ash County,Accidental discharge,0,2,Adult 18-34,No,No,News report
+GV701493,2021-04-03,Maple Valley,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV702688,2021-04-04,Riverton,Ash County,Unknown,2,3,Adult 18-34,Yes,No,News report
+GV700583,2021-04-09,Old Port,Bay County,Assault,1,1,Adult 18-34,Unknown,No,Police report
+GV701763,2021-04-10,Harbor City,Bay County,Unknown,0,1,Teen 12-17,Yes,No,News report
+GV701132,2021-04-11,Harbor City,Bay County,Unknown,0,1,Adult 18-34,Unknown,No,News report
+GV701404,2021-04-12,Old Port,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701712,2021-04-12,Maple Valley,Ash County,Assault,0,1,Adult 35-64,Unknown,No,News report
+GV701185,2021-04-12,Riverton,Ash County,Unknown,1,3,Senior 65+,Yes,No,Police report
+GV702113,2021-04-12,Old Port,Bay County,Domestic dispute,1,1,Adult 35-64,Yes,No,Hospital record
+GV701415,2021-04-16,Summit,Elm County,Unknown,1,2,Adult 18-34,No,No,Police report
+GV701827,2021-04-17,Summit,Elm County,Self-defense,0,1,Adult 18-34,Unknown,No,Hospital record
+GV700016,2021-04-17,North Shore,Bay County,Self-defense,1,1,Adult 18-34,Unknown,No,Police report
+GV701952,2021-04-17,Riverton,Ash County,Unknown,2,2,Adult 18-34,Yes,No,News report
+GV701537,2021-04-17,Riverton,Ash County,Unknown,0,1,Adult 18-34,Unknown,No,Police report
+GV700235,2021-04-18,Harbor City,Bay County,Domestic dispute,1,3,Child 0-11,Yes,No,Police report
+GV701091,2021-04-18,Summit,Elm County,Self-defense,0,3,Adult 18-34,No,No,Police report
+GV701126,2021-04-20,Maple Valley,Ash County,Drive-by,0,1,Adult 18-34,Yes,No,Police report
+GV700507,2021-04-20,Summit,Elm County,Self-defense,1,3,Adult 18-34,No,No,News report
+GV700587,2021-04-23,Lakeview,Pine County,Assault,0,3,Adult 35-64,Yes,No,News report
+GV703082,2021-04-23,Maple Valley,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV702962,2021-04-25,Harbor City,Bay County,Assault,1,1,Adult 35-64,Yes,No,News report
+GV702291,2021-04-27,Cedar Park,Elm County,Assault,0,1,Adult 35-64,No,No,Police report
+GV702382,2021-04-28,Riverton,Ash County,Domestic dispute,0,3,Adult 18-34,No,No,Police report
+GV702552,2021-05-02,Riverton,Ash County,Assault,0,2,Adult 18-34,Yes,No,News report
+GV702141,2021-05-02,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,Hospital record
+GV701263,2021-05-04,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,News report
+GV702434,2021-05-05,Summit,Elm County,Unknown,2,3,Adult 35-64,Yes,No,News report
+GV702365,2021-05-05,Harbor City,Bay County,Assault,2,1,Adult 18-34,Yes,No,News report
+GV702067,2021-05-06,Lakeview,Pine County,Assault,2,0,Adult 18-34,Yes,No,Police report
+GV701012,2021-05-07,Harbor City,Bay County,Domestic dispute,1,1,Adult 18-34,No,No,News report
+GV702237,2021-05-07,Riverton,Ash County,Assault,1,3,Adult 18-34,Yes,No,Police report
+GV702150,2021-05-07,Maple Valley,Ash County,Robbery,0,3,Adult 35-64,No,No,Police report
+GV700718,2021-05-08,Maple Valley,Ash County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV701071,2021-05-09,Riverton,Ash County,Accidental discharge,0,1,Adult 35-64,Yes,No,News report
+GV701217,2021-05-10,Harbor City,Bay County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV702542,2021-05-11,Harbor City,Bay County,Assault,0,1,Teen 12-17,No,No,Police report
+GV702641,2021-05-11,Riverton,Ash County,Drive-by,0,1,Adult 18-34,Unknown,No,Hospital record
+GV701815,2021-05-11,Summit,Elm County,Robbery,1,1,Adult 18-34,Unknown,No,Police report
+GV702598,2021-05-11,Riverton,Ash County,Assault,0,1,Teen 12-17,Unknown,No,News report
+GV702272,2021-05-12,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701861,2021-05-13,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,News report
+GV700134,2021-05-13,Maple Valley,Ash County,Assault,1,0,Senior 65+,Yes,No,News report
+GV700038,2021-05-17,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,Police report
+GV702295,2021-05-17,Maple Valley,Ash County,Domestic dispute,1,0,Adult 35-64,No,Yes,Police report
+GV703098,2021-05-18,Harbor City,Bay County,Drive-by,0,1,Adult 18-34,Yes,No,News report
+GV702285,2021-05-19,Cedar Park,Elm County,Domestic dispute,1,1,Adult 18-34,Yes,No,Police report
+GV700534,2021-05-20,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,News report
+GV701555,2021-05-21,Riverton,Ash County,Accidental discharge,0,1,Senior 65+,Yes,No,Police report
+GV701016,2021-05-22,Harbor City,Bay County,Accidental discharge,0,1,Adult 18-34,No,No,Police report
+GV702322,2021-05-23,North Shore,Bay County,Unknown,0,1,Adult 35-64,Yes,No,Police report
+GV701083,2021-05-23,Riverton,Ash County,Accidental discharge,0,3,Adult 18-34,No,No,Police report
+GV700801,2021-05-24,Maple Valley,Ash County,Domestic dispute,0,1,Teen 12-17,No,No,News report
+GV701886,2021-05-24,Cedar Park,Elm County,Drive-by,0,3,Adult 18-34,No,No,Hospital record
+GV701651,2021-05-25,Harbor City,Bay County,Assault,1,1,Child 0-11,No,No,News report
+GV702901,2021-05-25,Harbor City,Bay County,Assault,1,3,Adult 35-64,No,No,Hospital record
+GV702147,2021-05-25,Maple Valley,Ash County,Unknown,1,1,Senior 65+,Unknown,No,News report
+GV701908,2021-05-25,Harbor City,Bay County,Unknown,2,2,Adult 18-34,Yes,No,News report
+GV701624,2021-05-25,Harbor City,Bay County,Unknown,2,1,Adult 35-64,Yes,No,Hospital record
+GV702482,2021-05-25,Riverton,Ash County,Robbery,0,3,Adult 35-64,No,No,Police report
+GV701755,2021-05-26,Old Port,Bay County,Self-defense,1,1,Adult 35-64,No,No,Police report
+GV700282,2021-05-28,Riverton,Ash County,Assault,0,1,Adult 35-64,Unknown,No,Police report
+GV702118,2021-05-28,Harbor City,Bay County,Robbery,0,1,Adult 35-64,No,No,Police report
+GV700783,2021-05-29,Harbor City,Bay County,Domestic dispute,2,3,Adult 18-34,No,No,News report
+GV702374,2021-05-29,Cedar Park,Elm County,Robbery,0,3,Adult 18-34,No,No,Police report
+GV700132,2021-05-29,North Shore,Bay County,Assault,1,3,Adult 35-64,No,No,News report
+GV702851,2021-05-29,Harbor City,Bay County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV703141,2021-05-30,Old Port,Bay County,Assault,0,1,Adult 35-64,No,No,News report
+GV702908,2021-05-30,Riverton,Ash County,Assault,1,3,Adult 18-34,No,No,News report
+GV700764,2021-05-30,Summit,Elm County,Unknown,0,1,Teen 12-17,Yes,No,News report
+GV700982,2021-05-30,Riverton,Ash County,Drive-by,0,1,Adult 18-34,Unknown,No,Police report
+GV702379,2021-06-01,Riverton,Ash County,Assault,1,3,Adult 35-64,Yes,No,Police report
+GV700311,2021-06-01,Riverton,Ash County,Accidental discharge,1,3,Adult 35-64,Yes,No,News report
+GV702370,2021-06-02,Riverton,Ash County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV702174,2021-06-02,Riverton,Ash County,Assault,1,3,Teen 12-17,No,No,Hospital record
+GV701237,2021-06-02,North Shore,Bay County,Assault,0,1,Adult 35-64,No,No,News report
+GV701801,2021-06-03,Riverton,Ash County,Assault,1,1,Senior 65+,No,No,Police report
+GV702238,2021-06-06,Riverton,Ash County,Assault,2,3,Adult 18-34,Yes,No,Police report
+GV703193,2021-06-06,Harbor City,Bay County,Domestic dispute,0,1,Adult 35-64,Unknown,No,Hospital record
+GV702700,2021-06-08,Harbor City,Bay County,Assault,1,0,Teen 12-17,Unknown,No,News report
+GV701843,2021-06-09,Riverton,Ash County,Assault,0,1,Teen 12-17,Yes,No,Police report
+GV700271,2021-06-09,Harbor City,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701048,2021-06-10,North Shore,Bay County,Unknown,0,2,Adult 18-34,Unknown,No,Police report
+GV701638,2021-06-10,Maple Valley,Ash County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV701328,2021-06-10,Old Port,Bay County,Drive-by,0,1,Adult 18-34,Yes,No,News report
+GV701976,2021-06-11,Maple Valley,Ash County,Unknown,1,2,Adult 18-34,No,No,Police report
+GV703022,2021-06-11,Harbor City,Bay County,Accidental discharge,2,2,Adult 18-34,No,No,News report
+GV701541,2021-06-11,Lakeview,Pine County,Robbery,2,1,Adult 18-34,Yes,No,Police report
+GV700084,2021-06-13,Lakeview,Pine County,Assault,1,0,Adult 35-64,Yes,No,Police report
+GV701748,2021-06-13,Old Port,Bay County,Assault,0,2,Adult 35-64,Unknown,No,Police report
+GV702115,2021-06-14,Riverton,Ash County,Self-defense,0,1,Adult 18-34,No,No,News report
+GV701156,2021-06-15,Harbor City,Bay County,Assault,2,2,Adult 18-34,Yes,No,Police report
+GV703011,2021-06-16,Summit,Elm County,Assault,0,1,Adult 35-64,No,No,Police report
+GV700054,2021-06-20,Old Port,Bay County,Accidental discharge,2,0,Adult 35-64,Unknown,No,News report
+GV701359,2021-06-22,Harbor City,Bay County,Drive-by,1,1,Adult 18-34,Yes,No,News report
+GV702491,2021-06-23,Riverton,Ash County,Self-defense,1,2,Adult 18-34,Unknown,No,News report
+GV702654,2021-06-25,Old Port,Bay County,Assault,1,2,Adult 35-64,No,No,Police report
+GV700673,2021-06-25,Lakeview,Pine County,Domestic dispute,0,2,Adult 35-64,No,No,Police report
+GV700480,2021-06-25,North Shore,Bay County,Drive-by,1,1,Adult 18-34,Yes,No,Police report
+GV702071,2021-06-26,Riverton,Ash County,Robbery,2,3,Adult 18-34,Yes,No,News report
+GV701570,2021-06-26,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV703090,2021-06-27,Harbor City,Bay County,Drive-by,0,1,Adult 35-64,Yes,No,News report
+GV701588,2021-06-27,North Shore,Bay County,Domestic dispute,0,1,Adult 35-64,Unknown,No,News report
+GV702294,2021-06-30,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,Hospital record
+GV702888,2021-07-01,North Shore,Bay County,Unknown,1,0,Adult 35-64,Unknown,No,Hospital record
+GV700455,2021-07-01,North Shore,Bay County,Robbery,0,1,Adult 35-64,No,No,Police report
+GV700950,2021-07-01,Maple Valley,Ash County,Assault,0,1,Adult 35-64,Unknown,No,News report
+GV702604,2021-07-01,Riverton,Ash County,Robbery,0,1,Adult 18-34,Yes,No,Police report
+GV701924,2021-07-02,Cedar Park,Elm County,Assault,1,1,Adult 18-34,No,No,Police report
+GV702051,2021-07-02,Harbor City,Bay County,Unknown,1,0,Senior 65+,Yes,No,Police report
+GV700460,2021-07-03,Old Port,Bay County,Assault,1,1,Adult 18-34,No,No,Police report
+GV703188,2021-07-04,Riverton,Ash County,Robbery,2,3,Adult 18-34,Yes,No,Police report
+GV702510,2021-07-05,Riverton,Ash County,Assault,1,3,Adult 35-64,Yes,No,Police report
+GV700791,2021-07-06,Maple Valley,Ash County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV703196,2021-07-07,Harbor City,Bay County,Assault,1,2,Adult 35-64,Yes,No,News report
+GV703186,2021-07-08,Harbor City,Bay County,Domestic dispute,0,1,Senior 65+,Unknown,No,Police report
+GV702937,2021-07-08,Riverton,Ash County,Domestic dispute,0,1,Teen 12-17,Yes,No,Police report
+GV700478,2021-07-08,Old Port,Bay County,Unknown,1,0,Adult 35-64,Unknown,No,News report
+GV701039,2021-07-09,Riverton,Ash County,Self-defense,0,1,Adult 35-64,Yes,No,Hospital record
+GV701280,2021-07-10,North Shore,Bay County,Assault,1,1,Adult 35-64,No,No,Hospital record
+GV701236,2021-07-12,Riverton,Ash County,Domestic dispute,2,1,Adult 18-34,Yes,No,Hospital record
+GV702602,2021-07-13,Lakeview,Pine County,Domestic dispute,2,2,Adult 35-64,Unknown,No,Hospital record
+GV701165,2021-07-13,Harbor City,Bay County,Accidental discharge,1,2,Adult 35-64,Unknown,No,Police report
+GV701028,2021-07-13,Harbor City,Bay County,Drive-by,1,1,Teen 12-17,No,No,News report
+GV701889,2021-07-16,Riverton,Ash County,Drive-by,1,1,Child 0-11,Yes,No,News report
+GV700695,2021-07-16,Summit,Elm County,Assault,1,2,Adult 35-64,No,No,Police report
+GV701659,2021-07-16,Harbor City,Bay County,Robbery,0,2,Adult 35-64,Yes,No,News report
+GV700032,2021-07-17,Riverton,Ash County,Assault,1,1,Adult 35-64,No,No,News report
+GV702376,2021-07-18,Harbor City,Bay County,Drive-by,1,1,Teen 12-17,Unknown,No,Police report
+GV700081,2021-07-18,Riverton,Ash County,Accidental discharge,0,1,Adult 18-34,Unknown,No,News report
+GV702679,2021-07-18,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,Hospital record
+GV700705,2021-07-18,Harbor City,Bay County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV702186,2021-07-19,North Shore,Bay County,Assault,2,1,Senior 65+,Unknown,No,Police report
+GV702584,2021-07-19,Summit,Elm County,Accidental discharge,0,1,Adult 35-64,No,No,News report
+GV700555,2021-07-20,Summit,Elm County,Assault,0,3,Adult 18-34,Unknown,No,Police report
+GV700532,2021-07-21,Harbor City,Bay County,Unknown,1,1,Teen 12-17,Yes,No,News report
+GV700125,2021-07-22,Riverton,Ash County,Drive-by,0,1,Adult 35-64,Yes,No,News report
+GV702394,2021-07-22,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,Hospital record
+GV700662,2021-07-22,Old Port,Bay County,Unknown,1,1,Teen 12-17,No,No,Police report
+GV700421,2021-07-24,Riverton,Ash County,Robbery,0,1,Adult 35-64,Yes,No,Police report
+GV700018,2021-07-24,Cedar Park,Elm County,Assault,2,0,Adult 35-64,Yes,No,News report
+GV700009,2021-07-25,North Shore,Bay County,Assault,0,2,Adult 18-34,Yes,No,Police report
+GV701336,2021-07-26,Maple Valley,Ash County,Self-defense,1,2,Teen 12-17,No,No,Police report
+GV700017,2021-07-26,Harbor City,Bay County,Assault,2,1,Adult 35-64,Unknown,No,News report
+GV702971,2021-07-26,Old Port,Bay County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV702540,2021-07-26,Summit,Elm County,Assault,0,1,Adult 18-34,No,No,News report
+GV702973,2021-07-27,Summit,Elm County,Robbery,2,1,Adult 18-34,No,No,Police report
+GV700884,2021-07-28,Harbor City,Bay County,Assault,2,3,Teen 12-17,No,No,News report
+GV701917,2021-07-30,Harbor City,Bay County,Robbery,2,0,Adult 18-34,No,No,Police report
+GV701026,2021-07-31,Lakeview,Pine County,Assault,0,1,Adult 35-64,Yes,No,Hospital record
+GV700411,2021-07-31,Old Port,Bay County,Domestic dispute,0,1,Adult 35-64,Yes,No,Police report
+GV701487,2021-08-01,Harbor City,Bay County,Unknown,0,1,Adult 35-64,Yes,No,News report
+GV700933,2021-08-02,Riverton,Ash County,Unknown,0,3,Adult 18-34,Yes,No,News report
+GV702460,2021-08-04,Harbor City,Bay County,Assault,2,0,Adult 18-34,No,No,Police report
+GV700627,2021-08-04,Lakeview,Pine County,Domestic dispute,0,3,Child 0-11,No,No,News report
+GV703043,2021-08-05,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,Hospital record
+GV700949,2021-08-06,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701508,2021-08-07,North Shore,Bay County,Assault,0,1,Child 0-11,Yes,No,Police report
+GV700716,2021-08-08,Maple Valley,Ash County,Domestic dispute,0,3,Adult 18-34,Yes,No,Police report
+GV703063,2021-08-10,Riverton,Ash County,Assault,1,2,Adult 35-64,No,No,Police report
+GV702704,2021-08-10,Maple Valley,Ash County,Domestic dispute,0,1,Teen 12-17,No,No,Police report
+GV702692,2021-08-12,Cedar Park,Elm County,Self-defense,0,1,Adult 18-34,Yes,No,News report
+GV702546,2021-08-13,Maple Valley,Ash County,Robbery,1,2,Adult 18-34,No,No,Hospital record
+GV700086,2021-08-15,North Shore,Bay County,Unknown,0,2,Adult 18-34,Yes,No,Hospital record
+GV701888,2021-08-15,Maple Valley,Ash County,Assault,1,2,Senior 65+,Yes,No,News report
+GV702472,2021-08-15,Maple Valley,Ash County,Assault,1,1,Teen 12-17,Unknown,No,News report
+GV700399,2021-08-15,Old Port,Bay County,Unknown,1,2,Adult 35-64,No,No,Police report
+GV702626,2021-08-16,Harbor City,Bay County,Unknown,0,3,Teen 12-17,Yes,No,Hospital record
+GV702690,2021-08-16,Maple Valley,Ash County,Assault,2,1,Teen 12-17,No,No,News report
+GV702862,2021-08-17,Maple Valley,Ash County,Robbery,1,2,Adult 18-34,Unknown,No,News report
+GV702909,2021-08-18,Old Port,Bay County,Unknown,0,1,Senior 65+,Unknown,No,Police report
+GV700799,2021-08-19,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV700666,2021-08-19,Harbor City,Bay County,Unknown,1,2,Senior 65+,No,No,Police report
+GV702198,2021-08-20,Summit,Elm County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV701585,2021-08-20,Harbor City,Bay County,Unknown,1,1,Teen 12-17,No,No,News report
+GV702594,2021-08-22,Summit,Elm County,Robbery,0,1,Adult 35-64,No,No,Police report
+GV702108,2021-08-22,Harbor City,Bay County,Drive-by,0,1,Adult 18-34,Yes,No,Hospital record
+GV702787,2021-08-23,Old Port,Bay County,Assault,0,3,Adult 18-34,Yes,No,News report
+GV700729,2021-08-23,Harbor City,Bay County,Domestic dispute,1,3,Senior 65+,No,No,Hospital record
+GV701885,2021-08-24,Harbor City,Bay County,Domestic dispute,0,2,Adult 18-34,Unknown,No,Police report
+GV700131,2021-08-24,Harbor City,Bay County,Drive-by,0,1,Teen 12-17,No,No,Hospital record
+GV700838,2021-08-26,Summit,Elm County,Robbery,1,0,Adult 18-34,Unknown,No,News report
+GV701547,2021-08-28,Harbor City,Bay County,Domestic dispute,1,3,Teen 12-17,No,No,Hospital record
+GV702993,2021-08-28,Summit,Elm County,Assault,1,2,Adult 18-34,Yes,No,Police report
+GV700377,2021-08-28,Harbor City,Bay County,Assault,2,1,Adult 18-34,No,No,News report
+GV702707,2021-08-28,Maple Valley,Ash County,Assault,2,1,Adult 35-64,No,No,Police report
+GV701751,2021-08-31,Harbor City,Bay County,Robbery,1,0,Adult 18-34,Yes,No,News report
+GV701604,2021-08-31,Maple Valley,Ash County,Unknown,1,2,Adult 18-34,Unknown,No,News report
+GV702753,2021-09-01,Cedar Park,Elm County,Accidental discharge,2,1,Teen 12-17,Unknown,No,News report
+GV702942,2021-09-01,Cedar Park,Elm County,Assault,1,2,Adult 35-64,No,No,Police report
+GV701065,2021-09-01,Riverton,Ash County,Unknown,1,2,Adult 35-64,Unknown,No,Hospital record
+GV702140,2021-09-02,North Shore,Bay County,Domestic dispute,1,1,Adult 35-64,No,No,Police report
+GV700926,2021-09-04,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV700831,2021-09-06,Riverton,Ash County,Self-defense,2,1,Adult 18-34,No,No,Hospital record
+GV702301,2021-09-07,Maple Valley,Ash County,Domestic dispute,1,2,Adult 18-34,No,No,Police report
+GV702742,2021-09-07,Riverton,Ash County,Accidental discharge,2,1,Teen 12-17,Unknown,No,News report
+GV700576,2021-09-09,Maple Valley,Ash County,Assault,0,3,Adult 18-34,Yes,No,Police report
+GV702049,2021-09-10,North Shore,Bay County,Robbery,0,1,Teen 12-17,Yes,No,Police report
+GV702478,2021-09-10,Maple Valley,Ash County,Unknown,1,0,Adult 18-34,No,No,Hospital record
+GV701577,2021-09-10,Old Port,Bay County,Assault,2,3,Adult 35-64,Yes,No,News report
+GV700836,2021-09-10,Riverton,Ash County,Assault,1,1,Adult 18-34,Unknown,No,Hospital record
+GV702395,2021-09-11,Cedar Park,Elm County,Drive-by,0,1,Teen 12-17,No,No,News report
+GV700392,2021-09-13,Maple Valley,Ash County,Drive-by,0,2,Adult 18-34,Yes,No,Police report
+GV702289,2021-09-14,Harbor City,Bay County,Robbery,0,3,Adult 18-34,No,No,Hospital record
+GV700212,2021-09-14,Riverton,Ash County,Domestic dispute,0,3,Adult 18-34,No,No,Police report
+GV701873,2021-09-14,Riverton,Ash County,Assault,2,3,Adult 18-34,Yes,No,Hospital record
+GV700674,2021-09-15,Summit,Elm County,Assault,0,2,Adult 35-64,Unknown,No,Police report
+GV700417,2021-09-15,North Shore,Bay County,Drive-by,0,1,Adult 35-64,Yes,No,Police report
+GV701401,2021-09-16,Cedar Park,Elm County,Domestic dispute,0,1,Adult 35-64,No,No,Police report
+GV701214,2021-09-16,Old Port,Bay County,Domestic dispute,0,2,Teen 12-17,Unknown,No,News report
+GV702121,2021-09-16,Summit,Elm County,Drive-by,1,3,Adult 35-64,Yes,No,Police report
+GV702496,2021-09-18,Riverton,Ash County,Unknown,2,1,Adult 18-34,Unknown,No,News report
+GV702124,2021-09-19,Harbor City,Bay County,Domestic dispute,0,3,Adult 35-64,Yes,No,News report
+GV702257,2021-09-21,Harbor City,Bay County,Assault,1,3,Child 0-11,Unknown,No,News report
+GV700275,2021-09-21,North Shore,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV702980,2021-09-24,Harbor City,Bay County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV700708,2021-09-25,Maple Valley,Ash County,Accidental discharge,2,1,Adult 35-64,Unknown,No,Police report
+GV702954,2021-09-25,Summit,Elm County,Domestic dispute,2,1,Teen 12-17,Yes,No,News report
+GV700340,2021-09-26,Summit,Elm County,Self-defense,2,1,Adult 35-64,No,No,Police report
+GV702052,2021-09-29,Riverton,Ash County,Drive-by,0,1,Adult 18-34,No,No,News report
+GV701572,2021-09-29,Riverton,Ash County,Unknown,2,2,Adult 18-34,Yes,No,Police report
+GV701667,2021-09-29,Harbor City,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV702687,2021-10-01,Harbor City,Bay County,Domestic dispute,2,1,Adult 35-64,No,No,News report
+GV700383,2021-10-02,Riverton,Ash County,Drive-by,1,2,Adult 35-64,No,No,News report
+GV700558,2021-10-03,Old Port,Bay County,Self-defense,0,3,Adult 18-34,Yes,No,News report
+GV700977,2021-10-03,Harbor City,Bay County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV702940,2021-10-04,North Shore,Bay County,Assault,1,2,Adult 18-34,Yes,No,Police report
+GV702811,2021-10-05,Harbor City,Bay County,Accidental discharge,1,2,Child 0-11,No,No,Police report
+GV703012,2021-10-06,Harbor City,Bay County,Assault,1,0,Adult 35-64,No,No,Police report
+GV703122,2021-10-06,Cedar Park,Elm County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV701470,2021-10-09,Riverton,Ash County,Assault,0,1,Adult 18-34,Yes,No,Hospital record
+GV701610,2021-10-09,Old Port,Bay County,Robbery,2,3,Adult 18-34,No,No,Police report
+GV700211,2021-10-09,Riverton,Ash County,Robbery,1,1,Adult 18-34,Unknown,No,News report
+GV702845,2021-10-10,Riverton,Ash County,Assault,2,0,Adult 35-64,No,No,News report
+GV701301,2021-10-10,Old Port,Bay County,Domestic dispute,1,3,Adult 18-34,No,No,News report
+GV702170,2021-10-11,Riverton,Ash County,Unknown,1,1,Adult 18-34,Yes,No,Hospital record
+GV702863,2021-10-12,Riverton,Ash County,Assault,0,1,Teen 12-17,Unknown,No,Police report
+GV701891,2021-10-13,Old Port,Bay County,Assault,1,0,Adult 35-64,No,No,Police report
+GV701621,2021-10-14,Riverton,Ash County,Assault,2,1,Adult 18-34,Unknown,No,Police report
+GV701431,2021-10-15,Cedar Park,Elm County,Drive-by,2,0,Adult 18-34,No,No,Police report
+GV701331,2021-10-15,Harbor City,Bay County,Domestic dispute,2,0,Adult 35-64,Yes,No,News report
+GV702897,2021-10-16,Harbor City,Bay County,Assault,0,1,Teen 12-17,No,No,News report
+GV702642,2021-10-16,Riverton,Ash County,Drive-by,2,3,Adult 35-64,Yes,No,News report
+GV702835,2021-10-17,Harbor City,Bay County,Self-defense,0,1,Teen 12-17,Yes,No,Police report
+GV702759,2021-10-19,Riverton,Ash County,Assault,0,3,Adult 18-34,Yes,No,News report
+GV702752,2021-10-24,Cedar Park,Elm County,Assault,0,1,Child 0-11,Yes,No,News report
+GV702768,2021-10-24,Summit,Elm County,Domestic dispute,0,2,Adult 35-64,Unknown,No,News report
+GV700512,2021-10-25,Riverton,Ash County,Accidental discharge,1,3,Senior 65+,Yes,No,Police report
+GV702916,2021-10-26,North Shore,Bay County,Drive-by,0,2,Adult 18-34,Yes,No,Police report
+GV701890,2021-10-30,Old Port,Bay County,Accidental discharge,0,1,Adult 35-64,Unknown,No,Hospital record
+GV702483,2021-11-06,Harbor City,Bay County,Drive-by,1,1,Adult 35-64,Unknown,No,Police report
+GV701747,2021-11-14,Riverton,Ash County,Unknown,1,0,Adult 18-34,No,No,News report
+GV702201,2021-11-16,Maple Valley,Ash County,Accidental discharge,0,1,Adult 18-34,Yes,No,Police report
+GV701312,2021-11-17,Riverton,Ash County,Domestic dispute,0,3,Adult 18-34,No,No,Police report
+GV702662,2021-11-17,Old Port,Bay County,Unknown,1,1,Adult 18-34,No,No,News report
+GV700473,2021-11-18,Maple Valley,Ash County,Drive-by,0,1,Child 0-11,No,No,Police report
+GV700171,2021-11-18,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,News report
+GV700205,2021-11-19,Old Port,Bay County,Assault,0,1,Adult 18-34,Yes,No,Hospital record
+GV702595,2021-11-22,Maple Valley,Ash County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV702240,2021-11-23,Maple Valley,Ash County,Unknown,1,1,Adult 18-34,No,No,News report
+GV700425,2021-11-23,Old Port,Bay County,Drive-by,1,0,Adult 35-64,No,No,Police report
+GV703016,2021-11-24,Old Port,Bay County,Assault,1,3,Adult 18-34,Unknown,No,Police report
+GV702410,2021-11-25,Maple Valley,Ash County,Robbery,2,0,Adult 35-64,No,No,News report
+GV702617,2021-11-28,Summit,Elm County,Assault,0,2,Adult 18-34,No,No,News report
+GV701533,2021-12-01,Cedar Park,Elm County,Unknown,0,1,Adult 35-64,Yes,No,News report
+GV701484,2021-12-01,Riverton,Ash County,Assault,2,1,Adult 18-34,No,No,Police report
+GV701181,2021-12-04,Riverton,Ash County,Assault,1,0,Adult 18-34,Yes,No,Police report
+GV701486,2021-12-05,Riverton,Ash County,Assault,0,1,Senior 65+,No,No,News report
+GV702861,2021-12-11,Riverton,Ash County,Assault,0,1,Adult 18-34,Unknown,No,News report
+GV701151,2021-12-12,Riverton,Ash County,Drive-by,2,0,Teen 12-17,No,No,Police report
+GV700888,2021-12-13,Harbor City,Bay County,Assault,1,1,Teen 12-17,No,No,News report
+GV700577,2021-12-13,Harbor City,Bay County,Unknown,0,1,Adult 35-64,No,No,Police report
+GV702551,2021-12-17,Riverton,Ash County,Unknown,0,1,Senior 65+,No,No,Police report
+GV700586,2021-12-17,Harbor City,Bay County,Assault,1,1,Adult 35-64,No,Yes,News report
+GV703004,2021-12-17,Summit,Elm County,Assault,2,1,Adult 18-34,No,No,Hospital record
+GV701753,2021-12-19,Cedar Park,Elm County,Drive-by,1,1,Adult 18-34,No,No,News report
+GV702572,2021-12-20,Riverton,Ash County,Accidental discharge,0,1,Adult 35-64,Unknown,No,News report
+GV702828,2021-12-21,Riverton,Ash County,Unknown,2,3,Adult 18-34,Unknown,No,Police report
+GV702368,2021-12-27,Old Port,Bay County,Self-defense,2,0,Adult 18-34,Unknown,No,News report
+GV701521,2021-12-30,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV701393,2021-12-30,Riverton,Ash County,Drive-by,0,1,Adult 35-64,Yes,No,News report
+GV702912,2022-01-10,Riverton,Ash County,Assault,2,2,Adult 35-64,No,No,Police report
+GV701616,2022-01-10,Harbor City,Bay County,Robbery,1,1,Adult 18-34,No,No,Police report
+GV702969,2022-01-11,Cedar Park,Elm County,Assault,1,0,Adult 35-64,No,No,Police report
+GV701319,2022-01-13,Old Port,Bay County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV701511,2022-01-17,Riverton,Ash County,Unknown,2,1,Adult 18-34,No,No,Hospital record
+GV700556,2022-01-20,Summit,Elm County,Drive-by,0,1,Adult 18-34,No,No,News report
+GV701220,2022-01-21,Lakeview,Pine County,Unknown,1,3,Adult 18-34,Unknown,No,Police report
+GV700249,2022-01-21,Old Port,Bay County,Robbery,0,1,Teen 12-17,No,No,Police report
+GV700564,2022-01-23,Summit,Elm County,Assault,0,2,Adult 35-64,No,No,News report
+GV700877,2022-01-24,North Shore,Bay County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV701898,2022-01-24,Lakeview,Pine County,Domestic dispute,2,0,Adult 35-64,No,No,News report
+GV702933,2022-01-27,Maple Valley,Ash County,Robbery,1,3,Adult 35-64,No,No,Police report
+GV700111,2022-01-27,Old Port,Bay County,Assault,1,2,Adult 35-64,Yes,No,News report
+GV701934,2022-01-31,Summit,Elm County,Assault,0,2,Adult 18-34,Unknown,No,Police report
+GV701847,2022-02-02,Maple Valley,Ash County,Self-defense,1,2,Adult 18-34,No,No,News report
+GV702432,2022-02-03,North Shore,Bay County,Assault,1,3,Teen 12-17,Yes,No,Police report
+GV700327,2022-02-04,Riverton,Ash County,Self-defense,0,1,Adult 35-64,No,No,Police report
+GV701251,2022-02-08,Harbor City,Bay County,Domestic dispute,0,1,Senior 65+,Yes,No,Police report
+GV701160,2022-02-10,Riverton,Ash County,Accidental discharge,0,1,Adult 18-34,Yes,No,News report
+GV702847,2022-02-12,Riverton,Ash County,Unknown,1,1,Adult 18-34,Yes,No,News report
+GV702723,2022-02-13,North Shore,Bay County,Assault,0,1,Adult 35-64,No,No,News report
+GV701706,2022-02-19,Cedar Park,Elm County,Robbery,1,1,Teen 12-17,No,No,Police report
+GV701086,2022-02-19,Riverton,Ash County,Assault,1,2,Adult 18-34,No,No,Police report
+GV702526,2022-02-20,Riverton,Ash County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV702691,2022-02-21,North Shore,Bay County,Drive-by,0,1,Teen 12-17,Yes,No,Police report
+GV700779,2022-02-22,Old Port,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701422,2022-02-24,Summit,Elm County,Robbery,1,1,Adult 35-64,No,No,Police report
+GV701056,2022-02-25,Cedar Park,Elm County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV700422,2022-02-27,Riverton,Ash County,Domestic dispute,1,2,Adult 18-34,Yes,No,News report
+GV701279,2022-03-01,Summit,Elm County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV703117,2022-03-03,Lakeview,Pine County,Unknown,0,1,Adult 35-64,Unknown,No,Police report
+GV700760,2022-03-04,Harbor City,Bay County,Assault,2,0,Adult 35-64,Unknown,No,Police report
+GV702202,2022-03-04,Harbor City,Bay County,Drive-by,2,2,Adult 18-34,No,No,Police report
+GV702062,2022-03-04,Old Port,Bay County,Assault,1,1,Adult 35-64,No,No,Police report
+GV701575,2022-03-10,Harbor City,Bay County,Self-defense,1,1,Adult 18-34,No,No,News report
+GV702098,2022-03-11,Maple Valley,Ash County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV700984,2022-03-12,Harbor City,Bay County,Assault,1,2,Adult 35-64,No,No,News report
+GV700393,2022-03-13,Maple Valley,Ash County,Unknown,0,1,Adult 35-64,Yes,No,Police report
+GV702621,2022-03-14,Lakeview,Pine County,Self-defense,0,3,Adult 18-34,Yes,No,Police report
+GV701550,2022-03-17,Harbor City,Bay County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV701120,2022-03-17,Harbor City,Bay County,Assault,2,1,Adult 35-64,No,No,Police report
+GV701958,2022-03-18,Riverton,Ash County,Assault,1,2,Adult 18-34,Yes,No,News report
+GV701798,2022-03-18,Harbor City,Bay County,Robbery,2,0,Adult 18-34,No,No,Police report
+GV700913,2022-03-20,Riverton,Ash County,Unknown,0,3,Teen 12-17,No,No,Police report
+GV700730,2022-03-20,Harbor City,Bay County,Accidental discharge,1,0,Adult 18-34,No,No,News report
+GV700299,2022-03-22,Summit,Elm County,Self-defense,0,2,Adult 35-64,No,No,Hospital record
+GV700707,2022-03-22,Old Port,Bay County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV703170,2022-03-24,Harbor City,Bay County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV700398,2022-03-25,Harbor City,Bay County,Robbery,0,3,Adult 18-34,Yes,No,Police report
+GV702896,2022-03-25,North Shore,Bay County,Unknown,0,1,Adult 35-64,Yes,No,Police report
+GV701831,2022-03-26,Harbor City,Bay County,Assault,2,0,Adult 35-64,Yes,No,News report
+GV701871,2022-03-28,Riverton,Ash County,Assault,1,1,Adult 35-64,No,No,Police report
+GV702303,2022-03-28,Riverton,Ash County,Accidental discharge,0,1,Teen 12-17,Yes,No,Police report
+GV702400,2022-03-29,Maple Valley,Ash County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV700962,2022-03-31,Cedar Park,Elm County,Assault,0,3,Senior 65+,Unknown,No,News report
+GV702347,2022-04-02,Harbor City,Bay County,Assault,0,3,Adult 35-64,No,No,Police report
+GV701769,2022-04-02,Harbor City,Bay County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV702334,2022-04-04,Harbor City,Bay County,Accidental discharge,2,1,Adult 18-34,No,No,Police report
+GV703127,2022-04-04,Summit,Elm County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV702009,2022-04-06,Lakeview,Pine County,Assault,1,1,Adult 35-64,No,No,Police report
+GV700495,2022-04-06,Harbor City,Bay County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV700942,2022-04-07,Lakeview,Pine County,Drive-by,2,0,Teen 12-17,Yes,No,Police report
+GV702569,2022-04-09,Harbor City,Bay County,Domestic dispute,2,0,Senior 65+,Unknown,No,Police report
+GV701003,2022-04-11,Summit,Elm County,Unknown,0,1,Teen 12-17,Unknown,No,News report
+GV700551,2022-04-12,Maple Valley,Ash County,Assault,2,0,Adult 35-64,No,No,Police report
+GV700761,2022-04-13,Riverton,Ash County,Unknown,2,1,Adult 18-34,Yes,No,News report
+GV700442,2022-04-13,Maple Valley,Ash County,Unknown,2,1,Adult 35-64,No,No,Hospital record
+GV700633,2022-04-14,Riverton,Ash County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV701584,2022-04-14,Harbor City,Bay County,Robbery,1,2,Adult 18-34,No,No,Police report
+GV701529,2022-04-14,Old Port,Bay County,Robbery,0,2,Adult 35-64,Unknown,No,Police report
+GV701350,2022-04-14,Old Port,Bay County,Unknown,2,2,Adult 35-64,No,No,Police report
+GV701234,2022-04-16,Harbor City,Bay County,Assault,1,0,Adult 18-34,No,No,News report
+GV700805,2022-04-16,Riverton,Ash County,Accidental discharge,0,1,Adult 18-34,Yes,No,News report
+GV701978,2022-04-17,Harbor City,Bay County,Assault,0,1,Adult 35-64,Unknown,No,Police report
+GV702842,2022-04-21,Old Port,Bay County,Robbery,2,0,Adult 18-34,No,No,Police report
+GV701928,2022-04-21,Riverton,Ash County,Unknown,1,1,Adult 18-34,No,No,News report
+GV702209,2022-04-24,North Shore,Bay County,Self-defense,1,1,Adult 18-34,Yes,No,Police report
+GV701383,2022-04-24,Harbor City,Bay County,Assault,1,2,Senior 65+,No,No,Police report
+GV702814,2022-04-27,Riverton,Ash County,Unknown,0,3,Teen 12-17,Yes,No,News report
+GV703075,2022-04-28,Cedar Park,Elm County,Unknown,0,1,Adult 18-34,Yes,No,News report
+GV700371,2022-04-28,Cedar Park,Elm County,Domestic dispute,0,1,Adult 35-64,Yes,No,Hospital record
+GV702798,2022-04-28,Harbor City,Bay County,Robbery,2,2,Adult 18-34,Unknown,No,Police report
+GV702066,2022-05-02,Riverton,Ash County,Accidental discharge,0,3,Senior 65+,Yes,No,Police report
+GV700348,2022-05-02,Riverton,Ash County,Unknown,0,2,Adult 18-34,No,No,Police report
+GV702591,2022-05-03,Lakeview,Pine County,Unknown,2,1,Adult 35-64,Yes,No,Hospital record
+GV702539,2022-05-04,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,News report
+GV701684,2022-05-04,Old Port,Bay County,Self-defense,0,1,Adult 18-34,No,No,News report
+GV700519,2022-05-05,Riverton,Ash County,Drive-by,0,1,Child 0-11,No,No,Police report
+GV702361,2022-05-06,Riverton,Ash County,Self-defense,2,0,Adult 18-34,No,No,News report
+GV700176,2022-05-07,Harbor City,Bay County,Robbery,1,3,Adult 18-34,Unknown,No,Police report
+GV703139,2022-05-08,Harbor City,Bay County,Self-defense,1,0,Adult 18-34,Unknown,No,News report
+GV700873,2022-05-08,Old Port,Bay County,Assault,2,2,Adult 18-34,No,No,News report
+GV702077,2022-05-09,Harbor City,Bay County,Robbery,1,3,Adult 18-34,No,No,Hospital record
+GV701783,2022-05-11,Riverton,Ash County,Assault,1,1,Child 0-11,Unknown,No,Police report
+GV700700,2022-05-11,Harbor City,Bay County,Drive-by,0,1,Adult 18-34,No,No,News report
+GV701774,2022-05-13,Riverton,Ash County,Domestic dispute,2,3,Teen 12-17,No,No,Hospital record
+GV700355,2022-05-13,Old Port,Bay County,Assault,0,1,Child 0-11,No,No,Police report
+GV700646,2022-05-14,Maple Valley,Ash County,Unknown,1,3,Adult 35-64,No,No,News report
+GV701602,2022-05-16,Riverton,Ash County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV700469,2022-05-16,Riverton,Ash County,Accidental discharge,2,2,Adult 18-34,Yes,No,News report
+GV700629,2022-05-17,North Shore,Bay County,Accidental discharge,2,1,Adult 35-64,Yes,No,Police report
+GV701835,2022-05-18,Harbor City,Bay County,Robbery,1,2,Adult 18-34,Unknown,No,Hospital record
+GV701773,2022-05-18,Cedar Park,Elm County,Domestic dispute,0,1,Adult 35-64,No,No,Police report
+GV701778,2022-05-19,Old Port,Bay County,Self-defense,1,0,Adult 35-64,No,No,Police report
+GV701338,2022-05-20,Maple Valley,Ash County,Accidental discharge,0,2,Adult 35-64,Unknown,No,Police report
+GV700996,2022-05-21,Maple Valley,Ash County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV702634,2022-05-21,Harbor City,Bay County,Assault,2,0,Adult 18-34,Yes,No,News report
+GV700283,2022-05-21,Riverton,Ash County,Domestic dispute,2,3,Teen 12-17,Unknown,No,News report
+GV700567,2022-05-22,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,News report
+GV702838,2022-05-22,Maple Valley,Ash County,Domestic dispute,1,0,Adult 35-64,Unknown,No,Police report
+GV702809,2022-05-25,Harbor City,Bay County,Domestic dispute,1,2,Adult 35-64,No,No,News report
+GV701770,2022-05-25,Cedar Park,Elm County,Unknown,0,1,Senior 65+,No,No,Police report
+GV700270,2022-05-25,Summit,Elm County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV703176,2022-05-26,Riverton,Ash County,Assault,0,2,Adult 18-34,Yes,No,Police report
+GV701962,2022-05-26,Old Port,Bay County,Assault,0,3,Adult 35-64,Yes,No,News report
+GV701173,2022-05-28,Riverton,Ash County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV701757,2022-05-28,Riverton,Ash County,Drive-by,2,1,Adult 35-64,Unknown,No,Hospital record
+GV702898,2022-05-29,Lakeview,Pine County,Drive-by,1,1,Adult 18-34,Unknown,No,News report
+GV702988,2022-05-30,Riverton,Ash County,Self-defense,2,1,Adult 35-64,Yes,No,Hospital record
+GV701259,2022-05-31,Old Port,Bay County,Assault,0,2,Adult 18-34,Unknown,No,News report
+GV702966,2022-06-01,Riverton,Ash County,Assault,1,2,Adult 18-34,No,No,Police report
+GV700834,2022-06-01,Riverton,Ash County,Assault,1,1,Adult 35-64,Yes,No,News report
+GV702633,2022-06-02,Harbor City,Bay County,Assault,1,3,Adult 35-64,No,No,News report
+GV700164,2022-06-05,Maple Valley,Ash County,Assault,2,1,Adult 18-34,No,No,Police report
+GV701272,2022-06-06,Old Port,Bay County,Unknown,0,2,Adult 35-64,Unknown,No,Police report
+GV701357,2022-06-06,Maple Valley,Ash County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV700959,2022-06-07,Lakeview,Pine County,Self-defense,1,0,Adult 35-64,Unknown,No,Police report
+GV701639,2022-06-08,Harbor City,Bay County,Accidental discharge,1,1,Adult 18-34,Yes,No,Police report
+GV700013,2022-06-08,Summit,Elm County,Domestic dispute,1,1,Teen 12-17,No,No,Police report
+GV702548,2022-06-09,Harbor City,Bay County,Drive-by,1,2,Senior 65+,No,No,News report
+GV700115,2022-06-09,Riverton,Ash County,Assault,2,1,Teen 12-17,Unknown,No,Police report
+GV702673,2022-06-09,Riverton,Ash County,Assault,1,2,Adult 18-34,Unknown,No,Police report
+GV702502,2022-06-12,Harbor City,Bay County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV700885,2022-06-13,Lakeview,Pine County,Self-defense,0,1,Senior 65+,Yes,No,Police report
+GV700710,2022-06-14,Harbor City,Bay County,Robbery,1,1,Teen 12-17,Unknown,No,News report
+GV703001,2022-06-15,Riverton,Ash County,Self-defense,1,0,Adult 18-34,Yes,No,News report
+GV700963,2022-06-17,Riverton,Ash County,Assault,1,2,Teen 12-17,Yes,No,Police report
+GV702495,2022-06-17,Old Port,Bay County,Accidental discharge,0,3,Adult 35-64,Yes,No,News report
+GV702346,2022-06-18,Riverton,Ash County,Unknown,1,1,Teen 12-17,Unknown,No,News report
+GV701814,2022-06-18,Lakeview,Pine County,Assault,0,3,Adult 18-34,Yes,No,News report
+GV700312,2022-06-18,Old Port,Bay County,Drive-by,0,1,Adult 18-34,Unknown,No,Police report
+GV701797,2022-06-18,Summit,Elm County,Assault,0,1,Adult 18-34,Unknown,Yes,Police report
+GV702952,2022-06-19,Harbor City,Bay County,Domestic dispute,0,3,Adult 18-34,Yes,No,News report
+GV701791,2022-06-19,Riverton,Ash County,Assault,1,1,Adult 18-34,No,No,Police report
+GV702471,2022-06-22,Harbor City,Bay County,Accidental discharge,1,3,Adult 35-64,No,No,Police report
+GV702895,2022-06-22,Riverton,Ash County,Unknown,0,1,Adult 35-64,Unknown,No,Police report
+GV702080,2022-06-24,Lakeview,Pine County,Robbery,2,0,Adult 35-64,Unknown,No,Hospital record
+GV701955,2022-06-25,Harbor City,Bay County,Unknown,0,3,Adult 35-64,Yes,No,Police report
+GV701980,2022-06-25,Harbor City,Bay County,Domestic dispute,1,0,Adult 18-34,No,No,Police report
+GV701105,2022-06-27,Maple Valley,Ash County,Drive-by,2,3,Adult 18-34,Yes,No,News report
+GV702670,2022-06-29,Harbor City,Bay County,Assault,2,1,Adult 35-64,Unknown,No,Hospital record
+GV701035,2022-06-29,Riverton,Ash County,Self-defense,0,1,Adult 18-34,Yes,No,News report
+GV701483,2022-06-29,Harbor City,Bay County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV700594,2022-07-01,Harbor City,Bay County,Assault,1,3,Adult 18-34,No,No,Police report
+GV701776,2022-07-03,Harbor City,Bay County,Robbery,1,1,Adult 18-34,No,No,News report
+GV700986,2022-07-03,North Shore,Bay County,Self-defense,0,3,Teen 12-17,No,No,Police report
+GV702818,2022-07-03,Cedar Park,Elm County,Domestic dispute,0,1,Teen 12-17,Unknown,No,Police report
+GV701622,2022-07-04,Riverton,Ash County,Self-defense,0,1,Senior 65+,No,No,News report
+GV703070,2022-07-04,Riverton,Ash County,Assault,1,1,Adult 35-64,Unknown,No,Police report
+GV700768,2022-07-05,Old Port,Bay County,Self-defense,0,1,Adult 18-34,No,No,Police report
+GV701938,2022-07-05,Harbor City,Bay County,Assault,0,2,Adult 18-34,No,No,News report
+GV700385,2022-07-08,Old Port,Bay County,Domestic dispute,0,2,Adult 18-34,No,No,Hospital record
+GV701986,2022-07-09,Maple Valley,Ash County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV702516,2022-07-09,Maple Valley,Ash County,Robbery,0,1,Adult 18-34,Yes,No,News report
+GV702841,2022-07-09,Old Port,Bay County,Unknown,0,1,Adult 18-34,No,No,Hospital record
+GV700505,2022-07-09,Old Port,Bay County,Unknown,0,1,Senior 65+,No,No,Police report
+GV701164,2022-07-09,Maple Valley,Ash County,Assault,0,1,Adult 35-64,Unknown,No,News report
+GV700280,2022-07-10,Summit,Elm County,Self-defense,1,1,Adult 18-34,Yes,No,News report
+GV701586,2022-07-11,Harbor City,Bay County,Domestic dispute,0,1,Adult 35-64,No,No,Police report
+GV701467,2022-07-12,Cedar Park,Elm County,Drive-by,0,1,Adult 35-64,Yes,No,News report
+GV701642,2022-07-13,Riverton,Ash County,Robbery,1,2,Adult 18-34,No,No,Police report
+GV701264,2022-07-13,Riverton,Ash County,Accidental discharge,0,1,Teen 12-17,No,No,Police report
+GV700862,2022-07-14,Summit,Elm County,Domestic dispute,0,3,Senior 65+,No,No,Police report
+GV700683,2022-07-15,Riverton,Ash County,Assault,1,3,Adult 18-34,No,No,Police report
+GV700065,2022-07-16,Maple Valley,Ash County,Self-defense,0,1,Adult 35-64,Unknown,No,Police report
+GV702426,2022-07-16,Riverton,Ash County,Robbery,0,1,Adult 18-34,Unknown,No,Police report
+GV701530,2022-07-17,North Shore,Bay County,Accidental discharge,2,3,Adult 35-64,Yes,No,Police report
+GV701926,2022-07-18,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,News report
+GV700660,2022-07-18,Harbor City,Bay County,Domestic dispute,1,1,Teen 12-17,No,No,News report
+GV700209,2022-07-18,Riverton,Ash County,Drive-by,0,1,Adult 18-34,Unknown,No,News report
+GV702666,2022-07-22,Harbor City,Bay County,Domestic dispute,1,2,Adult 18-34,No,No,Police report
+GV702397,2022-07-22,Maple Valley,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV703025,2022-07-23,Maple Valley,Ash County,Drive-by,1,0,Adult 35-64,No,No,Hospital record
+GV702706,2022-07-24,Riverton,Ash County,Domestic dispute,1,1,Adult 18-34,No,No,Police report
+GV702529,2022-07-24,Riverton,Ash County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV700767,2022-07-25,Old Port,Bay County,Domestic dispute,2,0,Adult 18-34,No,No,Police report
+GV700757,2022-07-25,Cedar Park,Elm County,Assault,0,2,Adult 35-64,No,No,News report
+GV702819,2022-07-26,Riverton,Ash County,Robbery,1,1,Adult 18-34,Unknown,No,Hospital record
+GV701060,2022-07-27,Lakeview,Pine County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV700754,2022-07-28,Harbor City,Bay County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV702637,2022-07-29,Harbor City,Bay County,Assault,0,2,Adult 35-64,No,No,Police report
+GV700049,2022-07-31,Riverton,Ash County,Assault,2,3,Adult 35-64,No,No,Police report
+GV700192,2022-07-31,Lakeview,Pine County,Unknown,1,0,Adult 35-64,Yes,No,News report
+GV700796,2022-07-31,Cedar Park,Elm County,Accidental discharge,1,2,Adult 18-34,Yes,No,Police report
+GV701673,2022-08-02,Riverton,Ash County,Domestic dispute,0,2,Teen 12-17,No,No,Hospital record
+GV701235,2022-08-02,Riverton,Ash County,Robbery,0,3,Adult 35-64,No,No,News report
+GV703197,2022-08-02,Old Port,Bay County,Assault,1,0,Senior 65+,No,No,News report
+GV700524,2022-08-02,Harbor City,Bay County,Accidental discharge,0,3,Adult 18-34,Unknown,No,Police report
+GV700972,2022-08-03,Old Port,Bay County,Domestic dispute,2,3,Adult 18-34,No,No,Police report
+GV702060,2022-08-05,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,Hospital record
+GV701073,2022-08-06,Harbor City,Bay County,Drive-by,0,3,Adult 18-34,Yes,No,Police report
+GV700213,2022-08-09,Summit,Elm County,Domestic dispute,2,2,Adult 18-34,No,No,Hospital record
+GV702834,2022-08-09,Lakeview,Pine County,Unknown,0,3,Adult 18-34,No,No,Police report
+GV700573,2022-08-11,Riverton,Ash County,Self-defense,0,1,Adult 35-64,No,No,Police report
+GV700440,2022-08-12,Cedar Park,Elm County,Domestic dispute,1,3,Teen 12-17,Unknown,No,Police report
+GV702806,2022-08-12,Riverton,Ash County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV701390,2022-08-13,Old Port,Bay County,Unknown,1,0,Adult 18-34,Unknown,No,Hospital record
+GV700002,2022-08-13,Riverton,Ash County,Unknown,2,0,Adult 18-34,Yes,No,News report
+GV700864,2022-08-14,Harbor City,Bay County,Drive-by,1,0,Adult 18-34,Yes,No,Police report
+GV700501,2022-08-15,Riverton,Ash County,Assault,0,1,Senior 65+,Yes,No,News report
+GV701148,2022-08-16,Harbor City,Bay County,Unknown,0,3,Adult 35-64,No,No,News report
+GV702259,2022-08-16,Cedar Park,Elm County,Domestic dispute,1,1,Adult 18-34,No,No,Police report
+GV701206,2022-08-16,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV702677,2022-08-17,Harbor City,Bay County,Unknown,0,1,Adult 35-64,No,No,News report
+GV703005,2022-08-17,Riverton,Ash County,Assault,2,1,Adult 35-64,No,No,Police report
+GV702329,2022-08-20,Riverton,Ash County,Self-defense,0,1,Adult 18-34,Yes,No,News report
+GV702119,2022-08-21,Riverton,Ash County,Assault,1,2,Adult 18-34,Yes,No,Police report
+GV700266,2022-08-22,Harbor City,Bay County,Robbery,1,1,Adult 18-34,Yes,No,Police report
+GV700454,2022-08-24,Cedar Park,Elm County,Robbery,2,1,Adult 35-64,No,No,Police report
+GV700713,2022-08-24,Cedar Park,Elm County,Domestic dispute,0,2,Adult 18-34,No,No,Police report
+GV702743,2022-08-25,Harbor City,Bay County,Domestic dispute,2,3,Adult 18-34,No,No,Police report
+GV700793,2022-08-25,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,Unknown,No,News report
+GV700352,2022-08-27,Summit,Elm County,Robbery,2,0,Adult 18-34,Unknown,No,News report
+GV700090,2022-08-27,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,Unknown,No,Police report
+GV701977,2022-08-28,Harbor City,Bay County,Assault,2,1,Adult 18-34,No,No,News report
+GV700044,2022-08-28,Riverton,Ash County,Drive-by,0,3,Adult 18-34,No,No,Police report
+GV700552,2022-08-29,Maple Valley,Ash County,Drive-by,2,1,Adult 18-34,No,No,Police report
+GV700445,2022-08-31,Riverton,Ash County,Drive-by,1,0,Adult 18-34,Yes,No,Police report
+GV702010,2022-08-31,North Shore,Bay County,Drive-by,0,2,Adult 35-64,Unknown,No,News report
+GV700481,2022-08-31,Riverton,Ash County,Unknown,1,1,Adult 18-34,Yes,No,Police report
+GV700823,2022-09-01,Harbor City,Bay County,Drive-by,2,2,Adult 35-64,No,No,News report
+GV700965,2022-09-03,Cedar Park,Elm County,Domestic dispute,1,1,Teen 12-17,No,No,Police report
+GV702619,2022-09-03,Riverton,Ash County,Assault,0,1,Teen 12-17,No,No,News report
+GV701800,2022-09-05,Harbor City,Bay County,Unknown,0,1,Adult 35-64,No,No,News report
+GV702180,2022-09-05,Old Port,Bay County,Domestic dispute,1,2,Adult 35-64,Unknown,No,Police report
+GV701701,2022-09-05,Riverton,Ash County,Domestic dispute,1,1,Adult 35-64,Unknown,No,News report
+GV700672,2022-09-05,Old Port,Bay County,Unknown,0,1,Adult 18-34,No,No,Hospital record
+GV700069,2022-09-07,Harbor City,Bay County,Robbery,1,2,Adult 18-34,Unknown,No,Police report
+GV702689,2022-09-08,Harbor City,Bay County,Unknown,0,1,Adult 18-34,No,No,News report
+GV702810,2022-09-11,Riverton,Ash County,Assault,1,0,Adult 18-34,No,No,Hospital record
+GV702860,2022-09-12,Harbor City,Bay County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV702479,2022-09-13,Harbor City,Bay County,Assault,1,0,Adult 35-64,Yes,No,Hospital record
+GV702918,2022-09-15,Maple Valley,Ash County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV701309,2022-09-16,Summit,Elm County,Accidental discharge,1,1,Teen 12-17,No,No,Police report
+GV701170,2022-09-17,Harbor City,Bay County,Unknown,1,1,Adult 35-64,No,No,Police report
+GV701074,2022-09-18,Riverton,Ash County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV702934,2022-09-18,Harbor City,Bay County,Assault,0,1,Senior 65+,Yes,No,Police report
+GV702210,2022-09-19,Harbor City,Bay County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV702587,2022-09-20,Harbor City,Bay County,Unknown,0,3,Adult 35-64,Unknown,No,Police report
+GV701329,2022-09-22,Riverton,Ash County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV700124,2022-09-23,Riverton,Ash County,Unknown,0,1,Adult 35-64,No,No,Police report
+GV701714,2022-09-25,Cedar Park,Elm County,Assault,2,1,Adult 35-64,Unknown,No,Hospital record
+GV702939,2022-09-26,Riverton,Ash County,Accidental discharge,0,1,Teen 12-17,Yes,No,Police report
+GV700024,2022-09-27,Harbor City,Bay County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV701382,2022-09-27,Riverton,Ash County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV702332,2022-09-27,Summit,Elm County,Drive-by,0,1,Senior 65+,Yes,No,Police report
+GV703027,2022-09-28,Cedar Park,Elm County,Domestic dispute,0,3,Teen 12-17,Yes,No,Police report
+GV700954,2022-09-28,Riverton,Ash County,Assault,1,2,Adult 18-34,No,No,Police report
+GV700917,2022-09-29,Old Port,Bay County,Unknown,0,1,Adult 18-34,No,No,News report
+GV702899,2022-09-29,Riverton,Ash County,Assault,1,0,Adult 35-64,Yes,No,Police report
+GV700663,2022-10-01,Riverton,Ash County,Robbery,0,3,Adult 18-34,No,No,News report
+GV701370,2022-10-01,Old Port,Bay County,Unknown,1,1,Adult 35-64,Unknown,No,Police report
+GV702607,2022-10-03,Riverton,Ash County,Robbery,1,0,Adult 35-64,Yes,No,Hospital record
+GV701787,2022-10-04,Riverton,Ash County,Assault,1,1,Adult 18-34,No,No,News report
+GV703096,2022-10-05,North Shore,Bay County,Robbery,1,2,Adult 18-34,No,No,Hospital record
+GV702004,2022-10-06,Old Port,Bay County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV701430,2022-10-06,Old Port,Bay County,Domestic dispute,1,2,Adult 18-34,Unknown,No,Police report
+GV701968,2022-10-09,Riverton,Ash County,Assault,0,1,Senior 65+,Yes,No,Police report
+GV701679,2022-10-09,Maple Valley,Ash County,Self-defense,1,1,Adult 35-64,Unknown,No,News report
+GV700267,2022-10-09,Maple Valley,Ash County,Assault,2,1,Senior 65+,Yes,No,Police report
+GV701883,2022-10-12,Cedar Park,Elm County,Self-defense,0,2,Teen 12-17,Yes,No,Police report
+GV700766,2022-10-13,Old Port,Bay County,Assault,2,2,Adult 18-34,Yes,No,Police report
+GV701223,2022-10-14,Riverton,Ash County,Robbery,1,2,Adult 35-64,Yes,No,Police report
+GV700582,2022-10-15,Riverton,Ash County,Robbery,0,1,Adult 35-64,Unknown,No,Police report
+GV701188,2022-10-18,Old Port,Bay County,Robbery,1,1,Adult 18-34,Yes,No,Police report
+GV702043,2022-10-20,Riverton,Ash County,Domestic dispute,1,3,Adult 35-64,No,No,News report
+GV701591,2022-10-21,Riverton,Ash County,Assault,1,1,Adult 35-64,No,No,News report
+GV701113,2022-10-22,Riverton,Ash County,Assault,0,2,Child 0-11,Unknown,No,News report
+GV700735,2022-10-23,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV701844,2022-10-24,Summit,Elm County,Unknown,1,1,Adult 35-64,Yes,No,News report
+GV701303,2022-10-26,Summit,Elm County,Assault,0,3,Adult 35-64,No,No,News report
+GV700529,2022-10-26,Old Port,Bay County,Domestic dispute,2,2,Adult 35-64,No,No,News report
+GV702867,2022-10-27,Cedar Park,Elm County,Unknown,0,1,Adult 18-34,No,No,News report
+GV703048,2022-10-28,Harbor City,Bay County,Robbery,1,1,Adult 18-34,Unknown,No,Police report
+GV700225,2022-11-01,Harbor City,Bay County,Drive-by,0,3,Adult 35-64,Unknown,No,Police report
+GV702497,2022-11-02,Old Port,Bay County,Assault,1,3,Adult 18-34,No,No,Police report
+GV702012,2022-11-03,Harbor City,Bay County,Drive-by,0,1,Adult 35-64,No,No,Police report
+GV701287,2022-11-04,Harbor City,Bay County,Drive-by,0,2,Adult 18-34,Yes,No,Police report
+GV702725,2022-11-05,Cedar Park,Elm County,Unknown,2,3,Adult 18-34,Unknown,No,Police report
+GV701966,2022-11-09,Summit,Elm County,Assault,1,3,Senior 65+,Unknown,No,News report
+GV700190,2022-11-09,Cedar Park,Elm County,Assault,1,1,Adult 35-64,Yes,No,News report
+GV702777,2022-11-15,Harbor City,Bay County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV701395,2022-11-15,Harbor City,Bay County,Assault,1,1,Adult 35-64,Yes,No,News report
+GV702034,2022-11-18,Maple Valley,Ash County,Domestic dispute,2,0,Adult 18-34,No,No,Police report
+GV702298,2022-11-19,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,News report
+GV702246,2022-11-20,Riverton,Ash County,Drive-by,0,1,Adult 18-34,No,No,News report
+GV701403,2022-11-21,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV701418,2022-11-26,Harbor City,Bay County,Robbery,2,1,Adult 35-64,Yes,No,News report
+GV703067,2022-11-27,North Shore,Bay County,Unknown,2,3,Adult 35-64,Unknown,No,Police report
+GV700079,2022-11-28,Harbor City,Bay County,Unknown,2,3,Adult 18-34,No,No,News report
+GV700321,2022-11-29,Harbor City,Bay County,Accidental discharge,0,1,Adult 18-34,Yes,No,Police report
+GV701742,2022-11-29,Old Port,Bay County,Domestic dispute,2,1,Adult 35-64,Yes,No,Police report
+GV700960,2022-11-30,Old Port,Bay County,Unknown,0,1,Adult 18-34,Unknown,No,Police report
+GV702582,2022-12-01,Riverton,Ash County,Drive-by,1,0,Adult 35-64,Yes,No,News report
+GV700737,2022-12-05,Harbor City,Bay County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV702214,2022-12-07,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,News report
+GV701767,2022-12-17,Riverton,Ash County,Assault,1,1,Adult 35-64,Yes,No,News report
+GV702921,2022-12-18,Cedar Park,Elm County,Assault,2,2,Senior 65+,Yes,No,News report
+GV702130,2022-12-25,Riverton,Ash County,Drive-by,1,3,Adult 18-34,Yes,No,Hospital record
+GV702503,2022-12-25,North Shore,Bay County,Assault,0,3,Adult 35-64,Yes,No,News report
+GV702352,2022-12-25,Riverton,Ash County,Assault,1,0,Adult 18-34,No,No,Police report
+GV702309,2022-12-25,North Shore,Bay County,Self-defense,1,1,Adult 35-64,Yes,No,Police report
+GV702279,2022-12-26,Riverton,Ash County,Domestic dispute,2,3,Senior 65+,Yes,No,Police report
+GV702196,2022-12-28,Harbor City,Bay County,Self-defense,0,1,Senior 65+,No,No,Police report
+GV702022,2022-12-31,Harbor City,Bay County,Drive-by,0,1,Adult 35-64,No,No,Police report
+GV702266,2023-01-02,Harbor City,Bay County,Assault,1,3,Adult 18-34,Yes,No,Police report
+GV700157,2023-01-08,Maple Valley,Ash County,Domestic dispute,0,1,Adult 35-64,Unknown,No,News report
+GV701868,2023-01-10,Harbor City,Bay County,Assault,1,0,Adult 35-64,Unknown,No,News report
+GV701590,2023-01-15,Riverton,Ash County,Domestic dispute,0,1,Teen 12-17,No,No,Police report
+GV700769,2023-01-16,Riverton,Ash County,Self-defense,2,1,Adult 18-34,No,No,Police report
+GV702538,2023-01-20,Riverton,Ash County,Assault,0,2,Adult 35-64,No,No,Police report
+GV701140,2023-01-21,Old Port,Bay County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV702021,2023-01-21,Riverton,Ash County,Assault,1,0,Adult 18-34,Yes,No,Police report
+GV703068,2023-01-23,Maple Valley,Ash County,Unknown,0,2,Adult 18-34,No,No,News report
+GV702401,2023-01-24,Maple Valley,Ash County,Robbery,0,3,Adult 35-64,Yes,No,Police report
+GV700657,2023-01-25,Summit,Elm County,Domestic dispute,1,0,Adult 18-34,No,No,Hospital record
+GV700012,2023-01-25,Summit,Elm County,Assault,0,3,Adult 18-34,Yes,Yes,Police report
+GV701007,2023-01-26,Riverton,Ash County,Robbery,1,1,Adult 18-34,Yes,No,Police report
+GV700988,2023-01-29,Harbor City,Bay County,Domestic dispute,0,2,Adult 35-64,No,No,News report
+GV700216,2023-01-29,North Shore,Bay County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV702957,2023-01-30,Maple Valley,Ash County,Robbery,1,1,Adult 18-34,No,No,Police report
+GV701325,2023-01-30,Harbor City,Bay County,Unknown,0,1,Adult 18-34,Unknown,No,Police report
+GV702485,2023-01-30,Summit,Elm County,Unknown,0,3,Adult 18-34,No,No,Police report
+GV702886,2023-01-30,Old Port,Bay County,Accidental discharge,2,1,Adult 18-34,No,No,News report
+GV701523,2023-02-01,Old Port,Bay County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV702293,2023-02-05,Riverton,Ash County,Unknown,0,1,Teen 12-17,Yes,No,News report
+GV701730,2023-02-06,Riverton,Ash County,Domestic dispute,0,3,Adult 18-34,No,No,Hospital record
+GV700036,2023-02-09,Cedar Park,Elm County,Drive-by,1,0,Adult 35-64,No,No,News report
+GV700367,2023-02-10,Harbor City,Bay County,Domestic dispute,0,1,Adult 18-34,Yes,No,Police report
+GV702182,2023-02-13,Cedar Park,Elm County,Assault,2,1,Adult 18-34,Yes,No,News report
+GV702039,2023-02-13,Old Port,Bay County,Accidental discharge,2,3,Adult 18-34,No,No,Police report
+GV700585,2023-02-18,Riverton,Ash County,Drive-by,0,1,Senior 65+,No,No,News report
+GV701594,2023-02-19,Harbor City,Bay County,Assault,0,1,Senior 65+,No,No,News report
+GV701147,2023-02-19,North Shore,Bay County,Drive-by,1,0,Adult 35-64,No,No,Police report
+GV700815,2023-02-20,Riverton,Ash County,Robbery,2,1,Adult 35-64,Yes,No,News report
+GV702014,2023-02-23,Riverton,Ash County,Domestic dispute,1,0,Adult 18-34,Unknown,No,Police report
+GV700083,2023-02-25,North Shore,Bay County,Unknown,1,2,Adult 18-34,Unknown,No,News report
+GV701518,2023-02-26,Old Port,Bay County,Assault,1,3,Adult 35-64,Yes,No,News report
+GV702734,2023-02-27,Riverton,Ash County,Assault,1,3,Adult 35-64,Yes,No,News report
+GV700418,2023-02-27,Harbor City,Bay County,Domestic dispute,1,2,Child 0-11,Yes,No,Police report
+GV702111,2023-03-05,North Shore,Bay County,Accidental discharge,2,3,Adult 18-34,No,No,Police report
+GV700966,2023-03-07,Riverton,Ash County,Robbery,0,3,Adult 35-64,No,No,News report
+GV700294,2023-03-08,Riverton,Ash County,Domestic dispute,0,1,Child 0-11,Unknown,No,Police report
+GV702357,2023-03-09,Summit,Elm County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV702473,2023-03-09,Riverton,Ash County,Unknown,1,1,Adult 35-64,Yes,No,News report
+GV701044,2023-03-10,Old Port,Bay County,Domestic dispute,1,1,Adult 18-34,Yes,No,Hospital record
+GV700113,2023-03-13,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,Yes,No,Police report
+GV701102,2023-03-16,Riverton,Ash County,Assault,2,1,Adult 35-64,Yes,No,Police report
+GV700064,2023-03-16,Harbor City,Bay County,Domestic dispute,0,2,Adult 18-34,No,No,News report
+GV702995,2023-03-19,Cedar Park,Elm County,Self-defense,0,1,Adult 35-64,No,No,Police report
+GV700610,2023-03-23,Riverton,Ash County,Assault,2,2,Adult 35-64,Yes,No,Hospital record
+GV703019,2023-03-24,Riverton,Ash County,Robbery,1,2,Adult 35-64,No,No,News report
+GV702136,2023-03-25,Maple Valley,Ash County,Domestic dispute,0,1,Adult 18-34,Yes,No,Police report
+GV701505,2023-03-27,Riverton,Ash County,Unknown,0,1,Adult 18-34,Unknown,No,News report
+GV702880,2023-03-28,Riverton,Ash County,Assault,0,3,Teen 12-17,No,No,News report
+GV701605,2023-03-29,Summit,Elm County,Unknown,0,3,Adult 18-34,Unknown,No,News report
+GV702224,2023-03-30,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,Unknown,No,Police report
+GV700546,2023-03-30,Harbor City,Bay County,Drive-by,1,1,Adult 18-34,Yes,No,Police report
+GV701438,2023-03-30,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,Hospital record
+GV701794,2023-03-31,Old Port,Bay County,Accidental discharge,0,1,Teen 12-17,No,No,Police report
+GV703100,2023-04-01,Cedar Park,Elm County,Domestic dispute,1,1,Adult 18-34,No,No,News report
+GV701257,2023-04-04,North Shore,Bay County,Assault,2,3,Senior 65+,No,No,Police report
+GV703180,2023-04-05,Harbor City,Bay County,Accidental discharge,1,0,Adult 35-64,Unknown,No,News report
+GV702782,2023-04-06,Summit,Elm County,Self-defense,2,1,Adult 18-34,No,No,News report
+GV702155,2023-04-06,Old Port,Bay County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV701609,2023-04-08,Cedar Park,Elm County,Assault,0,2,Teen 12-17,No,No,Hospital record
+GV700645,2023-04-09,Cedar Park,Elm County,Robbery,2,3,Adult 18-34,No,No,Police report
+GV701281,2023-04-12,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV700545,2023-04-14,Cedar Park,Elm County,Unknown,1,3,Adult 35-64,Yes,No,Police report
+GV701318,2023-04-14,Riverton,Ash County,Domestic dispute,1,1,Adult 35-64,Yes,No,News report
+GV702881,2023-04-15,Harbor City,Bay County,Assault,1,2,Adult 18-34,No,No,Police report
+GV702875,2023-04-17,Harbor City,Bay County,Assault,0,3,Adult 35-64,No,No,Police report
+GV702181,2023-04-21,Cedar Park,Elm County,Drive-by,0,2,Child 0-11,Yes,No,News report
+GV702165,2023-04-23,Maple Valley,Ash County,Assault,0,1,Teen 12-17,Unknown,No,Police report
+GV702512,2023-04-24,Cedar Park,Elm County,Robbery,0,1,Adult 18-34,Yes,No,Hospital record
+GV702307,2023-04-24,Harbor City,Bay County,Domestic dispute,1,3,Adult 18-34,Unknown,No,News report
+GV701597,2023-04-24,Maple Valley,Ash County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV700277,2023-04-26,Riverton,Ash County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV701816,2023-04-26,Riverton,Ash County,Unknown,1,3,Adult 18-34,No,No,Hospital record
+GV701142,2023-04-26,Riverton,Ash County,Drive-by,0,1,Adult 18-34,Yes,No,News report
+GV700162,2023-04-26,Harbor City,Bay County,Accidental discharge,2,1,Adult 18-34,No,No,Police report
+GV701988,2023-04-28,Riverton,Ash County,Robbery,2,1,Adult 35-64,Yes,No,News report
+GV701469,2023-05-04,Maple Valley,Ash County,Robbery,2,2,Adult 35-64,No,No,News report
+GV702353,2023-05-05,Riverton,Ash County,Assault,2,1,Adult 18-34,No,No,Police report
+GV703171,2023-05-07,Harbor City,Bay County,Unknown,2,0,Adult 35-64,No,No,Police report
+GV703007,2023-05-08,Old Port,Bay County,Assault,0,1,Adult 18-34,No,No,News report
+GV701022,2023-05-09,Cedar Park,Elm County,Accidental discharge,1,0,Adult 18-34,Yes,No,News report
+GV702287,2023-05-10,North Shore,Bay County,Unknown,1,1,Child 0-11,Yes,No,Hospital record
+GV701818,2023-05-12,Maple Valley,Ash County,Domestic dispute,2,0,Teen 12-17,Yes,No,Police report
+GV700068,2023-05-13,Cedar Park,Elm County,Robbery,0,3,Adult 18-34,No,No,Police report
+GV702874,2023-05-15,Maple Valley,Ash County,Assault,0,1,Senior 65+,Unknown,No,Police report
+GV700993,2023-05-16,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV702345,2023-05-19,Riverton,Ash County,Drive-by,1,1,Teen 12-17,Unknown,No,Police report
+GV701351,2023-05-19,Lakeview,Pine County,Robbery,0,1,Adult 18-34,No,No,News report
+GV700603,2023-05-20,North Shore,Bay County,Robbery,2,3,Senior 65+,Yes,No,Police report
+GV701361,2023-05-23,Riverton,Ash County,Assault,2,1,Adult 35-64,No,No,Police report
+GV701702,2023-05-24,Old Port,Bay County,Drive-by,0,1,Adult 18-34,Yes,No,News report
+GV702694,2023-05-26,Harbor City,Bay County,Domestic dispute,2,2,Teen 12-17,Yes,No,News report
+GV700686,2023-05-28,Harbor City,Bay County,Assault,1,0,Adult 18-34,Unknown,No,Police report
+GV701971,2023-05-29,Harbor City,Bay County,Unknown,0,3,Adult 35-64,Yes,No,News report
+GV701829,2023-05-29,North Shore,Bay County,Robbery,1,1,Adult 35-64,Unknown,No,Police report
+GV703094,2023-05-30,Cedar Park,Elm County,Robbery,0,3,Adult 18-34,No,No,Police report
+GV701813,2023-05-30,Harbor City,Bay County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV703195,2023-05-31,North Shore,Bay County,Self-defense,0,1,Adult 35-64,No,No,News report
+GV700743,2023-06-01,Riverton,Ash County,Assault,2,0,Teen 12-17,No,No,Police report
+GV702095,2023-06-02,Harbor City,Bay County,Drive-by,1,0,Adult 18-34,Yes,No,News report
+GV700347,2023-06-04,Maple Valley,Ash County,Assault,0,1,Adult 35-64,No,No,Police report
+GV700571,2023-06-04,Harbor City,Bay County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV700563,2023-06-05,Old Port,Bay County,Assault,0,1,Adult 35-64,Unknown,No,News report
+GV702443,2023-06-05,Old Port,Bay County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV701906,2023-06-06,Harbor City,Bay County,Domestic dispute,0,1,Teen 12-17,Yes,No,Police report
+GV700326,2023-06-07,North Shore,Bay County,Robbery,2,1,Adult 18-34,No,No,Hospital record
+GV700608,2023-06-07,Harbor City,Bay County,Domestic dispute,0,1,Adult 35-64,No,No,Police report
+GV701824,2023-06-08,North Shore,Bay County,Assault,1,1,Adult 18-34,No,No,Police report
+GV701731,2023-06-09,Old Port,Bay County,Unknown,0,1,Adult 18-34,No,No,News report
+GV701867,2023-06-10,North Shore,Bay County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV701694,2023-06-10,Old Port,Bay County,Domestic dispute,0,3,Adult 18-34,Yes,No,Police report
+GV702319,2023-06-11,Maple Valley,Ash County,Self-defense,0,1,Senior 65+,No,No,Police report
+GV701617,2023-06-11,Summit,Elm County,Self-defense,0,2,Adult 35-64,Yes,No,Police report
+GV702610,2023-06-12,Harbor City,Bay County,Assault,1,1,Adult 18-34,Yes,Yes,Police report
+GV702072,2023-06-13,Cedar Park,Elm County,Assault,1,0,Adult 18-34,Unknown,No,Police report
+GV702027,2023-06-14,Old Port,Bay County,Self-defense,0,2,Adult 18-34,No,No,Police report
+GV700458,2023-06-15,Harbor City,Bay County,Unknown,1,1,Child 0-11,Yes,No,News report
+GV700600,2023-06-15,Harbor City,Bay County,Domestic dispute,1,2,Adult 35-64,Unknown,No,News report
+GV701565,2023-06-15,Cedar Park,Elm County,Domestic dispute,1,2,Adult 35-64,Yes,No,Hospital record
+GV700699,2023-06-15,North Shore,Bay County,Robbery,0,3,Adult 35-64,Unknown,Yes,News report
+GV702461,2023-06-15,Riverton,Ash County,Assault,0,1,Teen 12-17,Yes,No,News report
+GV700786,2023-06-16,Riverton,Ash County,Unknown,1,1,Teen 12-17,No,No,News report
+GV701520,2023-06-16,Lakeview,Pine County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV702985,2023-06-17,Lakeview,Pine County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV700750,2023-06-19,Old Port,Bay County,Accidental discharge,0,1,Adult 18-34,Yes,No,Hospital record
+GV702219,2023-06-20,Summit,Elm County,Unknown,2,1,Adult 18-34,Yes,No,Police report
+GV702173,2023-06-20,Riverton,Ash County,Unknown,1,0,Adult 18-34,No,No,News report
+GV700097,2023-06-21,Riverton,Ash County,Unknown,1,1,Adult 35-64,Yes,No,Police report
+GV702131,2023-06-21,Riverton,Ash County,Robbery,0,2,Child 0-11,Yes,No,Police report
+GV701174,2023-06-21,Riverton,Ash County,Assault,2,1,Adult 35-64,No,No,News report
+GV702407,2023-06-23,Riverton,Ash County,Robbery,2,1,Teen 12-17,Unknown,No,Police report
+GV700727,2023-06-24,North Shore,Bay County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV703135,2023-06-24,Riverton,Ash County,Accidental discharge,1,1,Adult 18-34,Yes,No,News report
+GV700486,2023-06-25,North Shore,Bay County,Assault,1,1,Adult 18-34,No,No,News report
+GV700368,2023-06-25,Harbor City,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV702501,2023-06-26,Old Port,Bay County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV702571,2023-06-26,Old Port,Bay County,Robbery,0,1,Adult 18-34,No,No,News report
+GV701749,2023-06-27,Harbor City,Bay County,Robbery,1,0,Adult 18-34,Unknown,Yes,Police report
+GV700130,2023-06-27,Old Port,Bay County,Unknown,2,2,Adult 18-34,Yes,No,Police report
+GV701744,2023-06-30,Summit,Elm County,Assault,1,3,Adult 18-34,No,No,News report
+GV702578,2023-07-01,Riverton,Ash County,Domestic dispute,2,1,Adult 18-34,Unknown,No,Police report
+GV700785,2023-07-01,Old Port,Bay County,Drive-by,0,1,Adult 35-64,No,No,News report
+GV701756,2023-07-01,Maple Valley,Ash County,Assault,0,1,Adult 35-64,Unknown,No,Police report
+GV701650,2023-07-04,Harbor City,Bay County,Domestic dispute,0,1,Adult 18-34,Unknown,No,Police report
+GV701103,2023-07-04,Cedar Park,Elm County,Drive-by,0,3,Adult 18-34,No,No,Police report
+GV700262,2023-07-05,Riverton,Ash County,Unknown,1,1,Adult 18-34,No,No,Hospital record
+GV702270,2023-07-05,Lakeview,Pine County,Robbery,2,1,Teen 12-17,Yes,No,Hospital record
+GV701593,2023-07-05,Lakeview,Pine County,Robbery,0,2,Adult 18-34,No,No,News report
+GV700414,2023-07-08,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,No,Yes,Police report
+GV700932,2023-07-08,Summit,Elm County,Domestic dispute,1,1,Adult 18-34,No,No,Police report
+GV701092,2023-07-08,Summit,Elm County,Drive-by,1,1,Adult 35-64,No,No,Police report
+GV701675,2023-07-09,Old Port,Bay County,Unknown,0,1,Adult 18-34,Unknown,No,Police report
+GV701179,2023-07-09,Riverton,Ash County,Accidental discharge,2,2,Adult 18-34,No,No,News report
+GV700536,2023-07-10,Riverton,Ash County,Assault,2,1,Child 0-11,No,No,Police report
+GV701634,2023-07-12,Old Port,Bay County,Assault,0,3,Adult 18-34,No,Yes,News report
+GV701973,2023-07-12,Summit,Elm County,Drive-by,2,3,Adult 35-64,Unknown,No,Police report
+GV700184,2023-07-12,Maple Valley,Ash County,Drive-by,1,3,Adult 35-64,Yes,No,Police report
+GV702058,2023-07-13,Riverton,Ash County,Unknown,0,3,Adult 18-34,No,No,Police report
+GV701019,2023-07-15,Maple Valley,Ash County,Assault,1,1,Adult 35-64,No,No,Police report
+GV700025,2023-07-15,Harbor City,Bay County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV701358,2023-07-16,Riverton,Ash County,Unknown,1,1,Adult 18-34,Yes,No,News report
+GV701690,2023-07-16,Maple Valley,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV702846,2023-07-17,Harbor City,Bay County,Self-defense,0,1,Adult 35-64,Unknown,No,Police report
+GV700273,2023-07-17,Cedar Park,Elm County,Assault,0,3,Adult 35-64,No,No,Police report
+GV702715,2023-07-19,North Shore,Bay County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV700335,2023-07-19,Summit,Elm County,Accidental discharge,0,1,Adult 18-34,No,No,Police report
+GV702747,2023-07-19,Riverton,Ash County,Self-defense,0,2,Adult 35-64,No,No,Police report
+GV701494,2023-07-22,Cedar Park,Elm County,Assault,2,3,Adult 18-34,No,No,Police report
+GV701910,2023-07-22,Cedar Park,Elm County,Domestic dispute,0,1,Senior 65+,Yes,No,News report
+GV702729,2023-07-23,Riverton,Ash County,Accidental discharge,1,1,Adult 18-34,Unknown,No,News report
+GV700615,2023-07-24,Harbor City,Bay County,Assault,0,1,Adult 35-64,No,Yes,News report
+GV700914,2023-07-25,Riverton,Ash County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV702927,2023-07-25,Riverton,Ash County,Unknown,2,3,Teen 12-17,Yes,No,Police report
+GV700553,2023-07-27,Harbor City,Bay County,Robbery,1,2,Adult 18-34,No,No,Police report
+GV701931,2023-07-28,Riverton,Ash County,Robbery,0,1,Adult 35-64,Yes,No,Police report
+GV702216,2023-07-28,Riverton,Ash County,Accidental discharge,1,1,Adult 18-34,No,No,Police report
+GV702876,2023-07-29,Cedar Park,Elm County,Accidental discharge,2,1,Adult 18-34,No,No,News report
+GV702313,2023-07-29,Summit,Elm County,Domestic dispute,0,1,Adult 18-34,Unknown,No,News report
+GV700939,2023-07-30,Lakeview,Pine County,Robbery,2,2,Teen 12-17,Unknown,No,Hospital record
+GV702249,2023-07-30,Riverton,Ash County,Accidental discharge,1,1,Child 0-11,Yes,No,Police report
+GV700128,2023-07-31,Old Port,Bay County,Assault,0,2,Adult 35-64,Yes,No,News report
+GV701360,2023-08-01,Maple Valley,Ash County,Assault,0,1,Adult 35-64,Unknown,No,Police report
+GV701121,2023-08-02,Old Port,Bay County,Domestic dispute,1,2,Adult 35-64,No,No,News report
+GV700506,2023-08-02,Riverton,Ash County,Unknown,1,3,Adult 35-64,Unknown,No,News report
+GV702746,2023-08-03,Maple Valley,Ash County,Domestic dispute,0,1,Adult 35-64,Yes,No,News report
+GV701098,2023-08-03,Old Port,Bay County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV700692,2023-08-03,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,News report
+GV701440,2023-08-03,Maple Valley,Ash County,Domestic dispute,1,2,Adult 18-34,Yes,No,News report
+GV700951,2023-08-04,Old Port,Bay County,Unknown,0,1,Adult 35-64,Yes,No,Police report
+GV701231,2023-08-04,Riverton,Ash County,Self-defense,2,3,Adult 35-64,No,No,News report
+GV700337,2023-08-04,Harbor City,Bay County,Domestic dispute,1,2,Adult 35-64,Unknown,No,News report
+GV700409,2023-08-06,Maple Valley,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV700975,2023-08-08,Lakeview,Pine County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV701965,2023-08-08,Riverton,Ash County,Drive-by,2,1,Teen 12-17,Yes,No,Police report
+GV703026,2023-08-12,Harbor City,Bay County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV701104,2023-08-13,Harbor City,Bay County,Assault,0,1,Adult 35-64,No,No,Police report
+GV702372,2023-08-13,Harbor City,Bay County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV701848,2023-08-15,Summit,Elm County,Drive-by,0,1,Adult 35-64,No,No,Police report
+GV700715,2023-08-15,Cedar Park,Elm County,Accidental discharge,2,2,Adult 35-64,No,No,News report
+GV701364,2023-08-15,Riverton,Ash County,Unknown,0,1,Adult 18-34,Unknown,No,News report
+GV701788,2023-08-16,Riverton,Ash County,Assault,1,1,Adult 35-64,No,No,Police report
+GV701143,2023-08-16,Maple Valley,Ash County,Drive-by,1,1,Adult 18-34,Unknown,No,Police report
+GV702188,2023-08-17,Harbor City,Bay County,Assault,1,1,Child 0-11,No,No,Police report
+GV702859,2023-08-20,Old Port,Bay County,Robbery,2,1,Adult 18-34,No,No,News report
+GV700861,2023-08-22,Old Port,Bay County,Drive-by,2,1,Teen 12-17,No,No,News report
+GV702599,2023-08-22,Maple Valley,Ash County,Assault,1,2,Adult 18-34,Yes,No,Police report
+GV701435,2023-08-22,Harbor City,Bay County,Self-defense,0,1,Child 0-11,No,No,Police report
+GV702492,2023-08-23,Old Port,Bay County,Assault,1,2,Adult 35-64,No,No,Police report
+GV701919,2023-08-23,Riverton,Ash County,Drive-by,0,1,Adult 18-34,Unknown,No,News report
+GV702574,2023-08-23,North Shore,Bay County,Unknown,0,1,Adult 35-64,No,No,Police report
+GV700755,2023-08-24,Maple Valley,Ash County,Robbery,0,2,Adult 18-34,No,No,Police report
+GV702789,2023-08-24,Riverton,Ash County,Robbery,0,1,Adult 35-64,Yes,No,News report
+GV701918,2023-08-25,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV700230,2023-08-25,Summit,Elm County,Domestic dispute,1,1,Adult 35-64,No,No,Police report
+GV700033,2023-08-26,Riverton,Ash County,Accidental discharge,0,1,Adult 35-64,Yes,No,News report
+GV701625,2023-08-27,Cedar Park,Elm County,Unknown,1,1,Adult 18-34,No,No,Police report
+GV700046,2023-08-28,Harbor City,Bay County,Self-defense,0,1,Adult 35-64,Yes,No,Police report
+GV701595,2023-08-29,North Shore,Bay County,Assault,1,1,Adult 18-34,No,No,News report
+GV703185,2023-08-29,Summit,Elm County,Unknown,0,3,Adult 18-34,No,No,Police report
+GV701302,2023-08-30,Maple Valley,Ash County,Accidental discharge,0,1,Adult 18-34,No,No,News report
+GV701292,2023-08-30,Maple Valley,Ash County,Accidental discharge,0,1,Adult 18-34,No,No,News report
+GV700286,2023-08-30,North Shore,Bay County,Assault,2,0,Adult 18-34,Unknown,No,Police report
+GV702419,2023-08-31,North Shore,Bay County,Domestic dispute,0,1,Adult 35-64,Yes,No,Police report
+GV701512,2023-09-02,Harbor City,Bay County,Domestic dispute,2,3,Adult 18-34,No,No,Police report
+GV702276,2023-09-02,Riverton,Ash County,Robbery,0,1,Adult 35-64,No,No,News report
+GV703046,2023-09-03,Summit,Elm County,Domestic dispute,0,3,Adult 18-34,Unknown,No,News report
+GV702924,2023-09-04,Cedar Park,Elm County,Assault,1,1,Adult 35-64,Unknown,No,Police report
+GV702036,2023-09-04,Old Port,Bay County,Unknown,1,2,Adult 35-64,No,No,Police report
+GV702657,2023-09-05,Riverton,Ash County,Domestic dispute,1,1,Adult 18-34,Yes,No,Hospital record
+GV702232,2023-09-07,Lakeview,Pine County,Domestic dispute,1,2,Adult 35-64,Yes,No,Police report
+GV701993,2023-09-08,Cedar Park,Elm County,Drive-by,0,3,Adult 18-34,Yes,No,Police report
+GV700430,2023-09-08,Riverton,Ash County,Assault,1,0,Adult 35-64,Yes,No,Police report
+GV701267,2023-09-08,North Shore,Bay County,Drive-by,2,0,Adult 35-64,No,No,Hospital record
+GV702760,2023-09-10,Riverton,Ash County,Assault,1,0,Teen 12-17,Yes,No,Police report
+GV701852,2023-09-11,Old Port,Bay County,Assault,1,2,Teen 12-17,No,No,Police report
+GV700302,2023-09-11,Summit,Elm County,Assault,2,3,Adult 35-64,No,No,News report
+GV700279,2023-09-13,Riverton,Ash County,Unknown,0,1,Senior 65+,No,No,Police report
+GV701631,2023-09-14,Harbor City,Bay County,Domestic dispute,2,3,Adult 35-64,Yes,No,Police report
+GV701637,2023-09-14,Old Port,Bay County,Accidental discharge,0,1,Adult 18-34,Yes,No,Police report
+GV701445,2023-09-15,Lakeview,Pine County,Robbery,0,3,Adult 18-34,No,No,News report
+GV700197,2023-09-17,Harbor City,Bay County,Robbery,1,1,Adult 35-64,No,No,Police report
+GV702225,2023-09-19,Maple Valley,Ash County,Domestic dispute,1,3,Adult 35-64,No,No,Police report
+GV701630,2023-09-19,Harbor City,Bay County,Domestic dispute,1,3,Adult 35-64,No,No,News report
+GV700133,2023-09-20,Cedar Park,Elm County,Domestic dispute,1,1,Adult 35-64,Yes,No,News report
+GV701558,2023-09-20,Riverton,Ash County,Assault,1,2,Adult 35-64,Unknown,No,Police report
+GV701709,2023-09-20,Harbor City,Bay County,Self-defense,0,1,Adult 18-34,Yes,No,News report
+GV701402,2023-09-21,Harbor City,Bay County,Robbery,1,1,Adult 18-34,Unknown,No,Police report
+GV702096,2023-09-21,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,Hospital record
+GV701611,2023-09-21,Riverton,Ash County,Unknown,2,1,Adult 18-34,No,No,Police report
+GV702803,2023-09-22,Summit,Elm County,Assault,0,1,Adult 18-34,No,No,News report
+GV701840,2023-09-23,Cedar Park,Elm County,Self-defense,0,1,Adult 18-34,No,No,Police report
+GV701380,2023-09-23,Riverton,Ash County,Robbery,0,1,Adult 18-34,Yes,No,Police report
+GV702778,2023-09-24,Harbor City,Bay County,Domestic dispute,0,1,Adult 18-34,No,No,Hospital record
+GV701248,2023-09-29,Harbor City,Bay County,Self-defense,0,1,Senior 65+,No,No,Police report
+GV702046,2023-09-30,Old Port,Bay County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV702563,2023-09-30,Riverton,Ash County,Assault,1,3,Adult 18-34,No,No,News report
+GV701133,2023-10-03,Old Port,Bay County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV701544,2023-10-03,Riverton,Ash County,Accidental discharge,0,1,Adult 18-34,No,No,Police report
+GV700464,2023-10-05,Old Port,Bay County,Assault,1,1,Adult 35-64,No,No,Police report
+GV702892,2023-10-05,Lakeview,Pine County,Assault,0,1,Adult 35-64,Unknown,No,Hospital record
+GV701746,2023-10-07,Old Port,Bay County,Assault,2,2,Adult 35-64,No,No,Police report
+GV700824,2023-10-10,Riverton,Ash County,Accidental discharge,0,1,Adult 35-64,No,No,Police report
+GV702997,2023-10-10,Maple Valley,Ash County,Unknown,0,2,Teen 12-17,Yes,No,Police report
+GV701398,2023-10-11,Old Port,Bay County,Assault,0,2,Adult 18-34,No,No,Police report
+GV701656,2023-10-12,Maple Valley,Ash County,Assault,0,1,Teen 12-17,Unknown,No,Police report
+GV701771,2023-10-14,Harbor City,Bay County,Unknown,1,0,Adult 18-34,No,No,Police report
+GV702215,2023-10-14,Harbor City,Bay County,Assault,2,1,Teen 12-17,No,No,Police report
+GV701343,2023-10-16,Summit,Elm County,Assault,0,2,Teen 12-17,No,No,News report
+GV703199,2023-10-18,Summit,Elm County,Robbery,0,2,Teen 12-17,Yes,No,Police report
+GV701262,2023-10-23,Maple Valley,Ash County,Unknown,2,3,Adult 18-34,Unknown,No,Police report
+GV703157,2023-10-24,North Shore,Bay County,Accidental discharge,0,1,Adult 18-34,Unknown,No,News report
+GV700150,2023-10-25,Old Port,Bay County,Unknown,1,2,Adult 18-34,Unknown,No,Police report
+GV702081,2023-10-26,Harbor City,Bay County,Drive-by,1,0,Adult 18-34,No,No,Hospital record
+GV700726,2023-10-26,Riverton,Ash County,Assault,0,2,Adult 18-34,No,No,Police report
+GV703091,2023-10-27,Maple Valley,Ash County,Assault,0,2,Teen 12-17,Yes,No,News report
+GV701664,2023-10-28,Maple Valley,Ash County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV703111,2023-10-30,Riverton,Ash County,Assault,1,1,Adult 18-34,No,No,Police report
+GV702558,2023-11-01,Summit,Elm County,Self-defense,1,2,Adult 18-34,No,No,Police report
+GV701741,2023-11-02,Summit,Elm County,Domestic dispute,1,1,Adult 18-34,Yes,No,News report
+GV702989,2023-11-04,Old Port,Bay County,Domestic dispute,0,3,Adult 18-34,No,Yes,Police report
+GV701896,2023-11-05,Riverton,Ash County,Robbery,0,1,Adult 18-34,Unknown,No,Police report
+GV700289,2023-11-06,Riverton,Ash County,Assault,1,2,Adult 35-64,No,No,News report
+GV702135,2023-11-09,Old Port,Bay County,Domestic dispute,0,1,Teen 12-17,Yes,No,News report
+GV701347,2023-11-10,Cedar Park,Elm County,Self-defense,1,2,Adult 35-64,No,No,News report
+GV701199,2023-11-11,Maple Valley,Ash County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV700640,2023-11-13,Riverton,Ash County,Drive-by,1,1,Adult 35-64,Unknown,No,News report
+GV700039,2023-11-17,Riverton,Ash County,Assault,2,2,Adult 35-64,No,No,Police report
+GV701554,2023-11-18,Cedar Park,Elm County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV700788,2023-11-21,Maple Valley,Ash County,Assault,1,1,Adult 35-64,Unknown,No,News report
+GV701094,2023-11-28,Riverton,Ash County,Assault,1,2,Adult 35-64,No,No,Police report
+GV702767,2023-11-30,Cedar Park,Elm County,Assault,1,1,Adult 18-34,No,No,News report
+GV702805,2023-11-30,Old Port,Bay County,Drive-by,0,1,Child 0-11,Unknown,No,News report
+GV700968,2023-12-01,Maple Valley,Ash County,Unknown,2,1,Adult 18-34,No,No,News report
+GV702614,2023-12-02,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,Yes,No,Police report
+GV701321,2023-12-09,Maple Valley,Ash County,Domestic dispute,0,1,Adult 18-34,Unknown,No,Hospital record
+GV702399,2023-12-09,Cedar Park,Elm County,Assault,0,1,Adult 18-34,No,No,Police report
+GV703198,2023-12-10,Riverton,Ash County,Domestic dispute,0,3,Teen 12-17,No,No,Police report
+GV703062,2023-12-12,Riverton,Ash County,Robbery,1,2,Adult 35-64,Unknown,No,Police report
+GV700802,2023-12-13,Lakeview,Pine County,Unknown,0,2,Adult 18-34,No,No,News report
+GV701764,2023-12-19,North Shore,Bay County,Unknown,0,1,Teen 12-17,No,No,Police report
+GV700307,2023-12-21,Old Port,Bay County,Domestic dispute,0,1,Adult 35-64,Yes,No,Police report
+GV701696,2023-12-22,Riverton,Ash County,Assault,0,3,Adult 35-64,No,No,News report
+GV700857,2023-12-23,Harbor City,Bay County,Assault,1,1,Adult 18-34,Unknown,No,News report
+GV701870,2023-12-24,Harbor City,Bay County,Robbery,0,3,Adult 35-64,No,No,News report
+GV701209,2023-12-27,Maple Valley,Ash County,Accidental discharge,0,1,Teen 12-17,No,No,News report
+GV702222,2023-12-31,Riverton,Ash County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV700778,2024-01-03,Harbor City,Bay County,Accidental discharge,1,1,Adult 18-34,No,No,Police report
+GV700647,2024-01-06,Old Port,Bay County,Self-defense,0,1,Adult 18-34,Unknown,No,News report
+GV700391,2024-01-06,Riverton,Ash County,Robbery,0,3,Adult 18-34,No,No,Police report
+GV701657,2024-01-07,Cedar Park,Elm County,Assault,1,1,Adult 18-34,Unknown,No,Hospital record
+GV700353,2024-01-07,Maple Valley,Ash County,Self-defense,0,1,Adult 18-34,No,No,Police report
+GV702465,2024-01-08,Cedar Park,Elm County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV700076,2024-01-10,Maple Valley,Ash County,Domestic dispute,0,1,Adult 18-34,Yes,No,News report
+GV701000,2024-01-12,Harbor City,Bay County,Self-defense,0,2,Adult 18-34,Yes,No,News report
+GV703105,2024-01-12,Riverton,Ash County,Unknown,2,1,Adult 18-34,No,No,Police report
+GV701110,2024-01-13,Cedar Park,Elm County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701253,2024-01-14,Harbor City,Bay County,Accidental discharge,0,3,Adult 18-34,No,No,Police report
+GV702444,2024-01-14,Riverton,Ash County,Assault,0,3,Teen 12-17,Yes,No,News report
+GV702340,2024-01-14,Old Port,Bay County,Accidental discharge,0,2,Adult 18-34,Yes,No,News report
+GV701457,2024-01-16,Riverton,Ash County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV701715,2024-01-17,Harbor City,Bay County,Unknown,1,1,Adult 18-34,No,No,Police report
+GV701474,2024-01-18,Harbor City,Bay County,Domestic dispute,2,1,Adult 18-34,Yes,No,News report
+GV702456,2024-01-20,Harbor City,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV702078,2024-01-27,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,No,No,News report
+GV701574,2024-01-29,Cedar Park,Elm County,Accidental discharge,1,1,Adult 18-34,Unknown,No,Hospital record
+GV702773,2024-01-29,Old Port,Bay County,Domestic dispute,0,1,Senior 65+,No,No,Police report
+GV701972,2024-01-31,Lakeview,Pine County,Accidental discharge,0,1,Adult 18-34,Unknown,No,Police report
+GV700499,2024-02-01,Summit,Elm County,Unknown,0,2,Adult 18-34,No,No,Police report
+GV701419,2024-02-06,Lakeview,Pine County,Assault,0,2,Adult 35-64,No,No,Police report
+GV701082,2024-02-08,Summit,Elm County,Unknown,2,1,Adult 18-34,Unknown,No,News report
+GV701761,2024-02-10,Cedar Park,Elm County,Self-defense,0,2,Adult 35-64,Yes,No,Police report
+GV700224,2024-02-10,Maple Valley,Ash County,Domestic dispute,2,1,Adult 18-34,Yes,No,Police report
+GV702613,2024-02-12,Riverton,Ash County,Robbery,1,2,Adult 18-34,Yes,No,Police report
+GV700193,2024-02-13,North Shore,Bay County,Unknown,0,1,Adult 18-34,Unknown,No,Police report
+GV701711,2024-02-14,Harbor City,Bay County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV703137,2024-02-19,Harbor City,Bay County,Domestic dispute,1,0,Adult 18-34,Unknown,No,News report
+GV701970,2024-02-19,Harbor City,Bay County,Unknown,0,1,Adult 18-34,Yes,No,Hospital record
+GV700958,2024-02-21,Old Port,Bay County,Unknown,0,3,Adult 35-64,No,No,Police report
+GV701632,2024-02-23,Lakeview,Pine County,Assault,1,3,Senior 65+,Yes,No,News report
+GV702117,2024-02-25,Riverton,Ash County,Assault,2,1,Adult 18-34,Yes,Yes,News report
+GV702922,2024-02-29,Harbor City,Bay County,Robbery,1,0,Adult 35-64,Unknown,No,News report
+GV702404,2024-03-01,Harbor City,Bay County,Domestic dispute,1,0,Adult 18-34,Unknown,No,Police report
+GV701946,2024-03-01,Harbor City,Bay County,Drive-by,0,1,Adult 18-34,Yes,No,Hospital record
+GV702200,2024-03-02,Maple Valley,Ash County,Assault,0,3,Adult 18-34,No,No,Police report
+GV700269,2024-03-12,Lakeview,Pine County,Drive-by,2,2,Adult 18-34,No,No,Police report
+GV702204,2024-03-12,Harbor City,Bay County,Domestic dispute,1,1,Adult 35-64,Unknown,No,Hospital record
+GV701858,2024-03-15,Harbor City,Bay County,Domestic dispute,0,1,Child 0-11,Unknown,No,News report
+GV701284,2024-03-19,Cedar Park,Elm County,Domestic dispute,0,1,Adult 18-34,No,No,Police report
+GV703129,2024-03-23,Harbor City,Bay County,Assault,0,1,Teen 12-17,No,No,News report
+GV701947,2024-03-23,Riverton,Ash County,Drive-by,0,1,Teen 12-17,No,No,Police report
+GV701038,2024-03-25,Harbor City,Bay County,Assault,2,2,Teen 12-17,No,No,Police report
+GV700318,2024-03-26,Summit,Elm County,Drive-by,1,1,Senior 65+,No,No,Hospital record
+GV701874,2024-03-29,Riverton,Ash County,Accidental discharge,0,2,Adult 35-64,Yes,No,Police report
+GV700324,2024-03-30,Cedar Park,Elm County,Unknown,2,2,Adult 18-34,No,No,Police report
+GV700201,2024-03-30,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,News report
+GV701305,2024-03-31,Summit,Elm County,Unknown,0,1,Adult 18-34,Unknown,No,News report
+GV702373,2024-04-01,Maple Valley,Ash County,Unknown,1,3,Adult 35-64,Unknown,No,News report
+GV701090,2024-04-01,Old Port,Bay County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV700533,2024-04-02,Old Port,Bay County,Unknown,0,1,Child 0-11,No,No,News report
+GV700601,2024-04-03,North Shore,Bay County,Drive-by,1,3,Adult 18-34,No,No,News report
+GV702559,2024-04-04,Maple Valley,Ash County,Self-defense,1,2,Senior 65+,No,No,News report
+GV700881,2024-04-04,Old Port,Bay County,Assault,0,1,Teen 12-17,Yes,No,News report
+GV700375,2024-04-07,Summit,Elm County,Robbery,2,2,Adult 18-34,Yes,No,Police report
+GV700719,2024-04-07,Summit,Elm County,Drive-by,0,1,Adult 18-34,Unknown,No,Police report
+GV701316,2024-04-07,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,No,No,News report
+GV702061,2024-04-08,Old Port,Bay County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV702166,2024-04-11,Old Port,Bay County,Robbery,1,0,Adult 18-34,No,No,Police report
+GV702315,2024-04-14,Harbor City,Bay County,Unknown,0,1,Adult 35-64,No,No,News report
+GV702366,2024-04-14,North Shore,Bay County,Unknown,0,1,Adult 35-64,No,No,Hospital record
+GV700052,2024-04-15,Riverton,Ash County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV701145,2024-04-16,Maple Valley,Ash County,Robbery,0,3,Senior 65+,No,No,Police report
+GV700937,2024-04-18,Harbor City,Bay County,Accidental discharge,0,1,Adult 18-34,Unknown,No,News report
+GV702139,2024-04-18,Harbor City,Bay County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV702007,2024-04-18,Cedar Park,Elm County,Accidental discharge,0,1,Adult 35-64,Yes,No,Police report
+GV701531,2024-04-20,Riverton,Ash County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV702151,2024-04-20,Maple Valley,Ash County,Assault,1,0,Adult 18-34,Yes,No,News report
+GV700339,2024-04-21,Riverton,Ash County,Domestic dispute,1,2,Adult 18-34,No,No,Police report
+GV701805,2024-04-22,Harbor City,Bay County,Domestic dispute,2,1,Adult 18-34,Yes,No,Police report
+GV703133,2024-04-23,Summit,Elm County,Assault,0,2,Adult 18-34,No,No,Police report
+GV702865,2024-04-28,Old Port,Bay County,Assault,0,1,Adult 35-64,No,No,News report
+GV701233,2024-04-29,Summit,Elm County,Unknown,2,0,Adult 35-64,No,No,Police report
+GV702335,2024-04-29,Maple Valley,Ash County,Robbery,1,3,Adult 18-34,No,No,News report
+GV702172,2024-04-30,Old Port,Bay County,Unknown,0,2,Adult 35-64,Yes,No,Police report
+GV703150,2024-05-06,Harbor City,Bay County,Domestic dispute,1,3,Adult 35-64,Unknown,No,Police report
+GV700487,2024-05-06,Summit,Elm County,Unknown,1,1,Adult 18-34,Yes,No,News report
+GV700159,2024-05-09,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,News report
+GV700732,2024-05-10,Riverton,Ash County,Assault,0,3,Teen 12-17,No,No,News report
+GV702085,2024-05-10,Riverton,Ash County,Drive-by,1,1,Adult 35-64,No,No,Police report
+GV701212,2024-05-10,Harbor City,Bay County,Domestic dispute,1,1,Adult 35-64,No,No,News report
+GV701996,2024-05-11,Maple Valley,Ash County,Self-defense,1,1,Teen 12-17,Yes,No,Police report
+GV702906,2024-05-12,Riverton,Ash County,Domestic dispute,1,1,Adult 18-34,Unknown,No,Police report
+GV702645,2024-05-13,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,No,No,Hospital record
+GV700494,2024-05-13,Old Port,Bay County,Drive-by,0,2,Adult 35-64,No,No,Police report
+GV701641,2024-05-14,Lakeview,Pine County,Assault,0,3,Teen 12-17,No,No,News report
+GV702243,2024-05-15,Riverton,Ash County,Unknown,0,3,Adult 18-34,No,No,Police report
+GV700891,2024-05-16,Riverton,Ash County,Self-defense,2,1,Adult 18-34,Unknown,No,News report
+GV701737,2024-05-16,Cedar Park,Elm County,Assault,1,2,Adult 18-34,Unknown,No,Police report
+GV703160,2024-05-17,Harbor City,Bay County,Drive-by,0,1,Senior 65+,Yes,No,Hospital record
+GV700844,2024-05-20,Riverton,Ash County,Assault,2,1,Senior 65+,No,No,News report
+GV702189,2024-05-20,Riverton,Ash County,Robbery,0,2,Adult 35-64,Yes,No,News report
+GV702466,2024-05-23,Riverton,Ash County,Domestic dispute,2,1,Adult 35-64,No,No,Police report
+GV701114,2024-05-23,Old Port,Bay County,Domestic dispute,0,3,Adult 18-34,Unknown,No,Police report
+GV702364,2024-05-23,North Shore,Bay County,Unknown,1,3,Adult 35-64,Unknown,No,Hospital record
+GV701524,2024-05-24,North Shore,Bay County,Unknown,0,1,Teen 12-17,Yes,No,Police report
+GV701213,2024-05-25,Harbor City,Bay County,Domestic dispute,1,1,Adult 35-64,Yes,No,Police report
+GV700482,2024-05-25,North Shore,Bay County,Robbery,0,2,Adult 35-64,Yes,No,News report
+GV702649,2024-05-25,Maple Valley,Ash County,Robbery,0,1,Adult 35-64,Unknown,No,Police report
+GV702498,2024-05-26,Riverton,Ash County,Drive-by,1,1,Adult 18-34,Yes,No,Police report
+GV700879,2024-05-27,Harbor City,Bay County,Robbery,1,1,Adult 18-34,No,No,Police report
+GV702911,2024-05-28,Riverton,Ash County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV700106,2024-05-28,Harbor City,Bay County,Unknown,0,1,Adult 18-34,Yes,No,News report
+GV702075,2024-05-29,Harbor City,Bay County,Domestic dispute,1,2,Adult 35-64,Yes,No,Police report
+GV701754,2024-05-30,Lakeview,Pine County,Assault,2,3,Adult 18-34,Yes,No,Police report
+GV701242,2024-05-30,Old Port,Bay County,Robbery,0,3,Adult 18-34,No,No,News report
+GV702325,2024-05-31,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,Unknown,No,Police report
+GV700738,2024-06-01,Harbor City,Bay County,Unknown,0,3,Adult 18-34,Yes,No,News report
+GV700828,2024-06-01,Summit,Elm County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV701051,2024-06-01,Cedar Park,Elm County,Self-defense,0,1,Senior 65+,No,No,News report
+GV700604,2024-06-01,Old Port,Bay County,Domestic dispute,0,1,Adult 18-34,Yes,No,Police report
+GV700742,2024-06-03,North Shore,Bay County,Assault,0,1,Adult 18-34,No,No,News report
+GV700602,2024-06-04,Maple Valley,Ash County,Domestic dispute,2,0,Adult 35-64,Unknown,No,News report
+GV702930,2024-06-06,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,Police report
+GV700547,2024-06-07,Riverton,Ash County,Assault,0,1,Adult 18-34,Unknown,No,News report
+GV700931,2024-06-07,Harbor City,Bay County,Assault,0,1,Senior 65+,No,No,Police report
+GV701294,2024-06-07,Riverton,Ash County,Assault,0,3,Adult 35-64,No,No,Police report
+GV703084,2024-06-10,Summit,Elm County,Assault,0,2,Adult 18-34,No,No,Police report
+GV702756,2024-06-11,Maple Valley,Ash County,Unknown,0,3,Adult 18-34,Unknown,No,Police report
+GV700272,2024-06-11,Riverton,Ash County,Robbery,2,0,Adult 18-34,No,No,News report
+GV701945,2024-06-13,Old Port,Bay County,Assault,1,1,Adult 18-34,Unknown,No,News report
+GV703059,2024-06-13,Summit,Elm County,Assault,0,3,Teen 12-17,Yes,No,News report
+GV702218,2024-06-15,Riverton,Ash County,Robbery,1,1,Adult 18-34,No,No,News report
+GV702349,2024-06-16,Old Port,Bay County,Domestic dispute,0,1,Adult 35-64,Unknown,No,Police report
+GV700491,2024-06-16,Riverton,Ash County,Assault,1,0,Adult 18-34,No,No,Police report
+GV701041,2024-06-16,Old Port,Bay County,Robbery,2,1,Adult 18-34,Unknown,No,Hospital record
+GV702183,2024-06-16,Old Port,Bay County,Drive-by,2,1,Adult 35-64,Unknown,No,News report
+GV700621,2024-06-18,Riverton,Ash County,Unknown,2,1,Adult 18-34,Unknown,No,News report
+GV702228,2024-06-20,North Shore,Bay County,Drive-by,2,1,Adult 18-34,Unknown,No,News report
+GV701247,2024-06-20,Old Port,Bay County,Unknown,1,2,Adult 18-34,Yes,No,Police report
+GV701569,2024-06-21,Riverton,Ash County,Domestic dispute,1,2,Adult 35-64,Yes,No,News report
+GV701608,2024-06-22,Riverton,Ash County,Unknown,2,1,Adult 18-34,Unknown,No,Police report
+GV702671,2024-06-23,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,Yes,No,Police report
+GV701933,2024-06-23,Old Port,Bay County,Accidental discharge,0,1,Adult 35-64,Yes,No,News report
+GV702320,2024-06-24,Old Port,Bay County,Unknown,0,1,Adult 35-64,No,No,Police report
+GV700148,2024-06-25,Maple Valley,Ash County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV700974,2024-06-25,Maple Valley,Ash County,Assault,2,1,Adult 18-34,No,No,News report
+GV702255,2024-06-26,Riverton,Ash County,Unknown,1,3,Adult 35-64,Yes,No,Police report
+GV702653,2024-06-27,Harbor City,Bay County,Assault,1,2,Adult 18-34,Yes,No,Police report
+GV702236,2024-06-28,Maple Valley,Ash County,Accidental discharge,2,1,Adult 18-34,Yes,No,Hospital record
+GV700107,2024-06-28,Riverton,Ash County,Accidental discharge,1,1,Child 0-11,No,No,News report
+GV701899,2024-06-29,Riverton,Ash County,Unknown,0,1,Adult 35-64,Yes,No,Police report
+GV701167,2024-06-30,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV700423,2024-06-30,Riverton,Ash County,Accidental discharge,0,1,Adult 35-64,No,No,News report
+GV701250,2024-07-01,Old Port,Bay County,Assault,0,3,Adult 18-34,Yes,No,Police report
+GV700149,2024-07-02,Harbor City,Bay County,Domestic dispute,1,3,Adult 18-34,Yes,No,News report
+GV701500,2024-07-02,Old Port,Bay County,Drive-by,0,1,Adult 18-34,No,No,News report
+GV701736,2024-07-03,Summit,Elm County,Drive-by,0,2,Senior 65+,No,No,Police report
+GV702827,2024-07-04,Old Port,Bay County,Robbery,1,1,Teen 12-17,Yes,No,Hospital record
+GV700599,2024-07-04,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,No,No,Police report
+GV700924,2024-07-04,Summit,Elm County,Self-defense,0,1,Adult 18-34,No,No,Police report
+GV702262,2024-07-06,Harbor City,Bay County,Accidental discharge,0,1,Child 0-11,Yes,No,News report
+GV701424,2024-07-07,Harbor City,Bay County,Drive-by,1,1,Adult 35-64,Yes,No,News report
+GV701984,2024-07-07,Harbor City,Bay County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV703166,2024-07-08,Harbor City,Bay County,Assault,0,1,Adult 35-64,No,No,News report
+GV700550,2024-07-09,Harbor City,Bay County,Accidental discharge,0,1,Adult 18-34,Unknown,No,News report
+GV702643,2024-07-09,Harbor City,Bay County,Self-defense,0,3,Adult 18-34,Unknown,No,Police report
+GV702048,2024-07-09,North Shore,Bay County,Assault,1,3,Adult 35-64,No,No,Police report
+GV700591,2024-07-09,Riverton,Ash County,Accidental discharge,1,1,Adult 18-34,Unknown,No,Police report
+GV702474,2024-07-10,Old Port,Bay County,Drive-by,0,1,Adult 18-34,No,No,News report
+GV700196,2024-07-10,Riverton,Ash County,Drive-by,0,3,Adult 35-64,Unknown,No,Police report
+GV700900,2024-07-14,Riverton,Ash County,Drive-by,0,1,Adult 35-64,No,No,News report
+GV700207,2024-07-15,North Shore,Bay County,Drive-by,0,3,Adult 35-64,No,No,News report
+GV703191,2024-07-16,Maple Valley,Ash County,Drive-by,1,3,Adult 35-64,Yes,No,Police report
+GV702191,2024-07-18,Old Port,Bay County,Assault,1,3,Adult 35-64,No,No,Police report
+GV702317,2024-07-18,Riverton,Ash County,Assault,2,2,Adult 35-64,No,No,Police report
+GV702678,2024-07-19,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,No,No,News report
+GV700384,2024-07-19,North Shore,Bay County,Assault,0,3,Senior 65+,Unknown,No,Police report
+GV702247,2024-07-19,Cedar Park,Elm County,Domestic dispute,1,1,Adult 18-34,No,No,Police report
+GV701663,2024-07-19,Riverton,Ash County,Domestic dispute,1,1,Adult 18-34,Unknown,No,Police report
+GV700592,2024-07-20,Harbor City,Bay County,Assault,2,2,Teen 12-17,Unknown,No,Police report
+GV702386,2024-07-20,Riverton,Ash County,Unknown,1,1,Adult 35-64,No,No,Police report
+GV702646,2024-07-21,Riverton,Ash County,Domestic dispute,1,1,Adult 18-34,No,No,Hospital record
+GV702126,2024-07-21,Harbor City,Bay County,Unknown,1,3,Adult 35-64,Unknown,No,Hospital record
+GV702371,2024-07-23,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV702785,2024-07-23,Harbor City,Bay County,Domestic dispute,0,1,Adult 18-34,Yes,No,News report
+GV701388,2024-07-24,Riverton,Ash County,Drive-by,2,3,Adult 18-34,Yes,No,Police report
+GV702208,2024-07-24,Harbor City,Bay County,Robbery,2,3,Adult 35-64,No,No,News report
+GV700632,2024-07-24,Summit,Elm County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701668,2024-07-25,Maple Valley,Ash County,Accidental discharge,2,3,Adult 35-64,Yes,No,Police report
+GV701186,2024-07-26,Riverton,Ash County,Self-defense,1,1,Adult 18-34,No,No,News report
+GV702695,2024-07-29,Cedar Park,Elm County,Robbery,1,0,Adult 18-34,Unknown,No,News report
+GV701903,2024-07-30,Old Port,Bay County,Accidental discharge,2,3,Adult 18-34,Yes,No,Police report
+GV700813,2024-07-30,Summit,Elm County,Domestic dispute,1,0,Adult 18-34,No,No,News report
+GV703083,2024-07-30,Maple Valley,Ash County,Unknown,0,3,Teen 12-17,No,No,News report
+GV701088,2024-07-30,North Shore,Bay County,Robbery,1,1,Adult 35-64,No,No,Police report
+GV702701,2024-08-01,Summit,Elm County,Drive-by,0,2,Teen 12-17,Unknown,No,Police report
+GV703119,2024-08-01,North Shore,Bay County,Assault,2,0,Adult 18-34,Yes,No,News report
+GV700356,2024-08-03,Riverton,Ash County,Drive-by,1,0,Adult 18-34,Unknown,No,Police report
+GV700110,2024-08-03,Cedar Park,Elm County,Unknown,0,1,Adult 18-34,Yes,No,Hospital record
+GV702783,2024-08-03,Riverton,Ash County,Robbery,1,2,Adult 35-64,Unknown,No,News report
+GV702815,2024-08-04,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV701128,2024-08-05,Riverton,Ash County,Unknown,0,2,Adult 35-64,Yes,No,News report
+GV701340,2024-08-07,Maple Valley,Ash County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV700897,2024-08-09,North Shore,Bay County,Assault,0,2,Teen 12-17,No,No,Police report
+GV703130,2024-08-10,Lakeview,Pine County,Assault,0,1,Senior 65+,Yes,No,Police report
+GV702489,2024-08-11,Maple Valley,Ash County,Robbery,1,1,Adult 18-34,Yes,No,Hospital record
+GV701828,2024-08-11,Riverton,Ash County,Drive-by,1,0,Adult 35-64,Yes,No,Hospital record
+GV701006,2024-08-12,Riverton,Ash County,Self-defense,1,1,Adult 18-34,No,No,Police report
+GV702553,2024-08-13,Summit,Elm County,Self-defense,1,3,Adult 18-34,No,No,News report
+GV700245,2024-08-14,Riverton,Ash County,Domestic dispute,0,2,Senior 65+,No,No,News report
+GV700099,2024-08-15,Harbor City,Bay County,Assault,2,1,Adult 18-34,No,No,Police report
+GV701211,2024-08-16,Riverton,Ash County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV700210,2024-08-16,Harbor City,Bay County,Unknown,1,0,Teen 12-17,No,No,Police report
+GV702603,2024-08-17,Riverton,Ash County,Accidental discharge,0,1,Adult 35-64,No,No,Police report
+GV702264,2024-08-18,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV702883,2024-08-20,Cedar Park,Elm County,Domestic dispute,0,1,Adult 18-34,No,No,Hospital record
+GV701603,2024-08-20,North Shore,Bay County,Unknown,1,0,Adult 35-64,Yes,No,News report
+GV700127,2024-08-23,Riverton,Ash County,Robbery,0,1,Adult 35-64,No,No,Police report
+GV701681,2024-08-24,Riverton,Ash County,Unknown,1,2,Adult 18-34,Unknown,No,Police report
+GV702163,2024-08-28,Riverton,Ash County,Robbery,2,0,Adult 18-34,No,No,Police report
+GV700851,2024-08-30,Summit,Elm County,Domestic dispute,2,1,Teen 12-17,No,No,News report
+GV700268,2024-08-30,Old Port,Bay County,Drive-by,0,1,Adult 35-64,No,No,News report
+GV701964,2024-08-31,Old Port,Bay County,Drive-by,0,1,Adult 35-64,Unknown,No,Police report
+GV700636,2024-09-02,Summit,Elm County,Robbery,2,0,Adult 18-34,Yes,No,Police report
+GV701644,2024-09-02,Old Port,Bay County,Accidental discharge,0,2,Adult 35-64,Unknown,No,Police report
+GV701895,2024-09-05,Riverton,Ash County,Assault,0,1,Teen 12-17,No,No,News report
+GV702487,2024-09-07,Cedar Park,Elm County,Unknown,0,2,Adult 35-64,Unknown,No,Police report
+GV702013,2024-09-08,Riverton,Ash County,Assault,2,1,Adult 18-34,No,No,Police report
+GV702964,2024-09-09,Riverton,Ash County,Drive-by,2,0,Child 0-11,No,No,Police report
+GV702342,2024-09-09,Harbor City,Bay County,Assault,2,2,Senior 65+,Yes,No,Police report
+GV700135,2024-09-11,Cedar Park,Elm County,Drive-by,1,0,Adult 18-34,No,No,Police report
+GV702416,2024-09-12,Summit,Elm County,Assault,0,1,Adult 18-34,No,No,News report
+GV702616,2024-09-12,Old Port,Bay County,Domestic dispute,0,3,Child 0-11,No,No,News report
+GV700187,2024-09-12,Old Port,Bay County,Domestic dispute,1,2,Adult 18-34,Yes,No,Police report
+GV700628,2024-09-13,Riverton,Ash County,Domestic dispute,2,1,Adult 18-34,No,No,News report
+GV701258,2024-09-14,Harbor City,Bay County,Assault,1,0,Adult 35-64,Yes,No,News report
+GV702535,2024-09-14,Maple Valley,Ash County,Unknown,1,0,Adult 18-34,No,No,Hospital record
+GV702409,2024-09-15,Riverton,Ash County,Assault,0,3,Teen 12-17,Yes,No,Police report
+GV701168,2024-09-16,Harbor City,Bay County,Robbery,1,2,Adult 18-34,Yes,No,News report
+GV701619,2024-09-18,Cedar Park,Elm County,Assault,0,1,Senior 65+,No,No,Police report
+GV700739,2024-09-19,Riverton,Ash County,Drive-by,1,0,Adult 18-34,No,No,Police report
+GV701198,2024-09-21,Summit,Elm County,Domestic dispute,1,1,Adult 35-64,No,No,News report
+GV703035,2024-09-22,Maple Valley,Ash County,Self-defense,2,0,Adult 18-34,No,No,Police report
+GV700394,2024-09-22,Harbor City,Bay County,Unknown,0,1,Adult 18-34,No,No,News report
+GV701739,2024-09-24,Maple Valley,Ash County,Robbery,1,1,Adult 35-64,No,No,Police report
+GV702830,2024-09-25,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,Yes,No,News report
+GV700061,2024-09-26,Summit,Elm County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV702187,2024-09-27,Riverton,Ash County,Assault,1,3,Adult 35-64,Unknown,No,Police report
+GV700229,2024-09-27,Harbor City,Bay County,Assault,1,0,Adult 18-34,Yes,No,News report
+GV700987,2024-09-29,Cedar Park,Elm County,Self-defense,0,3,Adult 18-34,No,No,Police report
+GV702850,2024-09-29,Summit,Elm County,Unknown,1,1,Adult 35-64,Yes,No,Police report
+GV701884,2024-10-01,Maple Valley,Ash County,Domestic dispute,1,2,Adult 18-34,No,No,Police report
+GV701833,2024-10-02,Maple Valley,Ash County,Assault,0,1,Adult 35-64,Yes,No,News report
+GV703087,2024-10-02,Riverton,Ash County,Robbery,1,2,Adult 18-34,Yes,No,Police report
+GV702106,2024-10-03,Riverton,Ash County,Unknown,0,1,Adult 35-64,Unknown,No,Police report
+GV701915,2024-10-04,Cedar Park,Elm County,Assault,0,2,Teen 12-17,Unknown,No,Hospital record
+GV703028,2024-10-05,Riverton,Ash County,Unknown,0,1,Adult 35-64,Yes,No,Police report
+GV701172,2024-10-05,Harbor City,Bay County,Unknown,1,1,Adult 18-34,Yes,No,News report
+GV701936,2024-10-06,Summit,Elm County,Self-defense,0,1,Adult 18-34,Yes,No,Police report
+GV700180,2024-10-07,Maple Valley,Ash County,Self-defense,0,1,Adult 18-34,Yes,No,Police report
+GV702161,2024-10-08,Riverton,Ash County,Domestic dispute,2,2,Adult 18-34,No,No,Police report
+GV701323,2024-10-10,North Shore,Bay County,Drive-by,1,1,Adult 18-34,No,No,Police report
+GV700077,2024-10-13,Old Port,Bay County,Assault,1,2,Adult 18-34,No,No,Police report
+GV702878,2024-10-13,Maple Valley,Ash County,Unknown,1,2,Adult 18-34,No,No,Police report
+GV700648,2024-10-15,Cedar Park,Elm County,Robbery,1,3,Senior 65+,No,No,News report
+GV700474,2024-10-16,Cedar Park,Elm County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV700041,2024-10-18,Riverton,Ash County,Domestic dispute,1,1,Teen 12-17,Yes,No,Police report
+GV701425,2024-10-19,Riverton,Ash County,Assault,1,1,Adult 18-34,Unknown,No,Police report
+GV700979,2024-10-20,Summit,Elm County,Unknown,1,1,Adult 18-34,Yes,No,Police report
+GV700827,2024-10-21,Maple Valley,Ash County,Domestic dispute,1,0,Teen 12-17,Yes,No,News report
+GV702523,2024-10-23,Harbor City,Bay County,Assault,2,1,Adult 35-64,Unknown,No,News report
+GV700537,2024-10-25,Riverton,Ash County,Assault,1,0,Adult 18-34,Unknown,No,Police report
+GV700434,2024-10-25,Maple Valley,Ash County,Self-defense,2,0,Senior 65+,Yes,No,Police report
+GV702355,2024-10-28,Riverton,Ash County,Assault,0,3,Adult 35-64,Yes,No,Police report
+GV701183,2024-10-30,Lakeview,Pine County,Domestic dispute,1,1,Adult 18-34,No,No,Police report
+GV701131,2024-11-02,Summit,Elm County,Unknown,2,1,Adult 35-64,Unknown,No,Police report
+GV700865,2024-11-02,Cedar Park,Elm County,Drive-by,1,0,Adult 18-34,No,No,News report
+GV701745,2024-11-03,Cedar Park,Elm County,Domestic dispute,0,2,Adult 35-64,Unknown,No,News report
+GV700360,2024-11-06,Riverton,Ash County,Assault,1,1,Adult 18-34,Unknown,No,News report
+GV702133,2024-11-06,Harbor City,Bay County,Drive-by,0,1,Adult 35-64,Yes,No,Police report
+GV700782,2024-11-08,Old Port,Bay County,Robbery,1,2,Adult 18-34,Unknown,No,News report
+GV701700,2024-11-09,Old Port,Bay County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV701532,2024-11-10,Harbor City,Bay County,Assault,0,1,Adult 35-64,Unknown,No,News report
+GV700152,2024-11-13,Harbor City,Bay County,Robbery,2,1,Adult 35-64,No,No,Police report
+GV702398,2024-11-14,Summit,Elm County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV701335,2024-11-14,Old Port,Bay County,Domestic dispute,0,1,Adult 35-64,Unknown,No,Hospital record
+GV702380,2024-11-14,Riverton,Ash County,Assault,0,3,Adult 18-34,Yes,No,Police report
+GV702153,2024-11-16,Maple Valley,Ash County,Self-defense,0,2,Adult 18-34,Yes,No,Police report
+GV700256,2024-11-17,Old Port,Bay County,Assault,0,1,Adult 18-34,No,No,News report
+GV701255,2024-11-17,North Shore,Bay County,Robbery,1,1,Adult 18-34,No,No,News report
+GV702344,2024-11-18,Cedar Park,Elm County,Drive-by,0,1,Adult 35-64,No,No,News report
+GV700188,2024-11-18,Riverton,Ash County,Self-defense,0,1,Adult 18-34,Yes,No,News report
+GV702120,2024-11-18,Old Port,Bay County,Assault,0,1,Adult 18-34,Yes,No,Police report
+GV702813,2024-11-18,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,Police report
+GV701053,2024-11-19,Summit,Elm County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV701626,2024-11-20,Summit,Elm County,Assault,1,1,Adult 18-34,No,No,News report
+GV701189,2024-11-20,Harbor City,Bay County,Unknown,0,1,Adult 35-64,Yes,No,Police report
+GV702083,2024-11-21,Old Port,Bay County,Domestic dispute,1,1,Teen 12-17,No,No,News report
+GV700082,2024-11-22,Harbor City,Bay County,Drive-by,0,1,Adult 35-64,No,No,News report
+GV700997,2024-11-24,Riverton,Ash County,Assault,0,1,Adult 35-64,Yes,No,News report
+GV700876,2024-11-24,Riverton,Ash County,Assault,0,2,Adult 18-34,No,No,Police report
+GV701163,2024-11-25,North Shore,Bay County,Unknown,2,2,Adult 35-64,Yes,No,Police report
+GV703045,2024-11-25,Harbor City,Bay County,Accidental discharge,1,3,Adult 35-64,No,No,Police report
+GV701444,2024-11-28,Cedar Park,Elm County,Assault,1,0,Adult 35-64,No,No,Police report
+GV700535,2024-11-29,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV702711,2024-12-02,Riverton,Ash County,Domestic dispute,0,1,Senior 65+,Unknown,No,Police report
+GV700479,2024-12-04,Riverton,Ash County,Assault,1,0,Adult 18-34,No,No,Police report
+GV701068,2024-12-06,Lakeview,Pine County,Assault,2,1,Senior 65+,Unknown,No,News report
+GV701954,2024-12-07,Riverton,Ash County,Assault,1,3,Adult 18-34,Unknown,No,Police report
+GV700905,2024-12-07,Cedar Park,Elm County,Drive-by,2,1,Adult 18-34,No,No,Police report
+GV700467,2024-12-08,Harbor City,Bay County,Unknown,1,1,Adult 35-64,No,No,News report
+GV702825,2024-12-09,Summit,Elm County,Unknown,0,2,Adult 18-34,Yes,No,Police report
+GV701561,2024-12-09,Riverton,Ash County,Assault,2,1,Adult 35-64,No,No,Police report
+GV700841,2024-12-11,Summit,Elm County,Robbery,1,1,Adult 35-64,Unknown,No,Police report
+GV701099,2024-12-12,Riverton,Ash County,Assault,0,1,Teen 12-17,Yes,No,Police report
+GV701942,2024-12-14,Old Port,Bay County,Unknown,0,1,Adult 35-64,Yes,No,Police report
+GV702561,2024-12-15,North Shore,Bay County,Drive-by,1,1,Adult 35-64,No,No,News report
+GV701979,2024-12-15,Maple Valley,Ash County,Assault,1,0,Senior 65+,No,No,Police report
+GV702635,2024-12-15,Maple Valley,Ash County,Unknown,0,3,Adult 35-64,Yes,No,Police report
+GV700397,2024-12-16,North Shore,Bay County,Assault,0,1,Adult 35-64,Yes,No,Hospital record
+GV701580,2024-12-18,Harbor City,Bay County,Unknown,1,0,Adult 18-34,Yes,No,News report
+GV700915,2024-12-19,Old Port,Bay County,Self-defense,2,1,Senior 65+,Yes,No,News report
+GV701339,2024-12-20,Riverton,Ash County,Drive-by,1,2,Adult 35-64,No,No,Police report
+GV702960,2024-12-21,Harbor City,Bay County,Assault,0,2,Adult 35-64,Yes,No,Police report
+GV702792,2024-12-27,Harbor City,Bay County,Assault,0,3,Child 0-11,No,No,Police report
+GV702152,2024-12-27,Old Port,Bay County,Assault,1,1,Senior 65+,Yes,No,Hospital record
+GV700386,2024-12-29,Old Port,Bay County,Assault,0,2,Senior 65+,No,No,News report
+GV700043,2024-12-31,Riverton,Ash County,Assault,2,1,Adult 18-34,Unknown,No,Police report
+GV700826,2025-01-01,Riverton,Ash County,Domestic dispute,0,2,Child 0-11,No,No,Police report
+GV702581,2025-01-03,Old Port,Bay County,Robbery,1,3,Adult 18-34,No,No,Police report
+GV702354,2025-01-05,Cedar Park,Elm County,Assault,2,0,Teen 12-17,No,No,Police report
+GV702873,2025-01-08,Old Port,Bay County,Accidental discharge,0,3,Adult 35-64,Unknown,No,Hospital record
+GV703020,2025-01-09,Riverton,Ash County,Unknown,0,3,Adult 35-64,Yes,No,Police report
+GV701854,2025-01-11,Harbor City,Bay County,Unknown,0,1,Adult 35-64,Yes,Yes,News report
+GV700296,2025-01-11,Harbor City,Bay County,Assault,2,1,Adult 35-64,Yes,No,News report
+GV701726,2025-01-12,Cedar Park,Elm County,Robbery,0,2,Adult 18-34,No,No,Police report
+GV702454,2025-01-14,Riverton,Ash County,Accidental discharge,0,2,Adult 18-34,No,No,News report
+GV702288,2025-01-16,Maple Valley,Ash County,Drive-by,0,1,Teen 12-17,Unknown,No,News report
+GV701291,2025-01-17,Maple Valley,Ash County,Robbery,2,3,Adult 35-64,Yes,No,News report
+GV702205,2025-01-18,Riverton,Ash County,Unknown,1,0,Adult 35-64,No,No,Police report
+GV701982,2025-01-21,Riverton,Ash County,Accidental discharge,2,1,Adult 18-34,No,No,Police report
+GV700521,2025-01-28,Harbor City,Bay County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV701492,2025-02-01,Riverton,Ash County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV702030,2025-02-02,Cedar Park,Elm County,Drive-by,0,1,Adult 18-34,No,No,News report
+GV701548,2025-02-03,Harbor City,Bay County,Accidental discharge,2,0,Teen 12-17,Yes,No,News report
+GV702327,2025-02-05,Old Port,Bay County,Unknown,1,2,Adult 35-64,No,No,News report
+GV700929,2025-02-05,Maple Valley,Ash County,Assault,1,2,Teen 12-17,Yes,No,News report
+GV700410,2025-02-08,North Shore,Bay County,Robbery,1,1,Adult 18-34,No,No,News report
+GV702436,2025-02-09,North Shore,Bay County,Drive-by,1,1,Adult 35-64,No,No,Hospital record
+GV702256,2025-02-11,Riverton,Ash County,Accidental discharge,1,3,Adult 35-64,Yes,No,Police report
+GV702963,2025-02-15,Cedar Park,Elm County,Unknown,0,1,Adult 35-64,Yes,No,Hospital record
+GV700790,2025-02-16,Summit,Elm County,Assault,0,1,Adult 35-64,No,No,News report
+GV702449,2025-02-19,Riverton,Ash County,Accidental discharge,1,1,Adult 18-34,Yes,No,News report
+GV700354,2025-02-22,Old Port,Bay County,Assault,0,1,Adult 18-34,Yes,No,Hospital record
+GV700015,2025-02-22,Maple Valley,Ash County,Unknown,1,0,Adult 18-34,Unknown,No,News report
+GV702177,2025-02-28,Summit,Elm County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV702932,2025-02-28,Old Port,Bay County,Drive-by,0,1,Adult 18-34,Unknown,No,Hospital record
+GV702970,2025-03-03,Riverton,Ash County,Self-defense,0,1,Adult 35-64,No,No,Police report
+GV701475,2025-03-04,Cedar Park,Elm County,Robbery,1,2,Adult 18-34,Yes,No,Police report
+GV701002,2025-03-05,Cedar Park,Elm County,Domestic dispute,2,2,Adult 18-34,Unknown,No,Police report
+GV702913,2025-03-06,Old Port,Bay County,Accidental discharge,1,1,Adult 18-34,Unknown,No,Police report
+GV700540,2025-03-07,Old Port,Bay County,Robbery,2,3,Adult 18-34,Yes,No,Police report
+GV700293,2025-03-12,Maple Valley,Ash County,Assault,0,2,Adult 35-64,No,No,News report
+GV703044,2025-03-12,Maple Valley,Ash County,Robbery,1,1,Adult 18-34,Unknown,No,Police report
+GV700098,2025-03-15,Harbor City,Bay County,Unknown,0,2,Adult 35-64,No,No,Police report
+GV702359,2025-03-20,Riverton,Ash County,Unknown,1,0,Adult 35-64,Yes,No,Police report
+GV700961,2025-03-20,Riverton,Ash County,Unknown,0,1,Adult 35-64,Unknown,No,News report
+GV702146,2025-03-20,Harbor City,Bay County,Robbery,0,3,Senior 65+,Unknown,No,News report
+GV702796,2025-03-21,Maple Valley,Ash County,Self-defense,2,3,Teen 12-17,No,No,News report
+GV700543,2025-03-21,Maple Valley,Ash County,Drive-by,1,3,Adult 18-34,No,No,Police report
+GV702955,2025-03-22,Harbor City,Bay County,Unknown,1,0,Adult 18-34,Unknown,No,News report
+GV702904,2025-03-23,Riverton,Ash County,Self-defense,0,1,Adult 35-64,Yes,No,Police report
+GV700964,2025-03-24,Riverton,Ash County,Robbery,2,1,Adult 18-34,Yes,No,Hospital record
+GV700817,2025-03-25,Riverton,Ash County,Assault,0,1,Adult 35-64,Unknown,No,Hospital record
+GV702431,2025-03-27,Riverton,Ash County,Assault,1,3,Adult 18-34,Yes,No,Police report
+GV700530,2025-03-29,Old Port,Bay County,Self-defense,1,1,Adult 18-34,No,No,Police report
+GV701080,2025-03-31,Riverton,Ash County,Accidental discharge,1,3,Adult 18-34,No,No,Police report
+GV701481,2025-04-01,Harbor City,Bay County,Assault,1,2,Adult 18-34,Yes,No,Police report
+GV701710,2025-04-01,Riverton,Ash County,Domestic dispute,2,1,Adult 35-64,Yes,No,Hospital record
+GV703081,2025-04-03,Maple Valley,Ash County,Assault,0,1,Adult 18-34,No,No,News report
+GV703010,2025-04-04,Harbor City,Bay County,Unknown,1,0,Adult 35-64,Yes,No,News report
+GV701276,2025-04-05,Old Port,Bay County,Unknown,1,1,Adult 35-64,No,No,Police report
+GV700744,2025-04-05,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV702402,2025-04-06,Cedar Park,Elm County,Unknown,0,2,Adult 18-34,No,No,News report
+GV702938,2025-04-06,Cedar Park,Elm County,Unknown,0,1,Adult 35-64,Yes,No,News report
+GV701687,2025-04-08,Riverton,Ash County,Drive-by,1,3,Adult 18-34,No,No,Hospital record
+GV701311,2025-04-09,Harbor City,Bay County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV701042,2025-04-10,Riverton,Ash County,Robbery,2,0,Teen 12-17,No,No,Police report
+GV702125,2025-04-10,Maple Valley,Ash County,Robbery,0,3,Adult 35-64,Yes,No,News report
+GV700772,2025-04-10,North Shore,Bay County,Unknown,1,1,Adult 35-64,No,Yes,Police report
+GV700869,2025-04-10,Riverton,Ash County,Accidental discharge,1,2,Adult 35-64,Yes,No,News report
+GV701054,2025-04-12,Riverton,Ash County,Unknown,1,0,Adult 18-34,No,No,Police report
+GV702481,2025-04-12,Harbor City,Bay County,Assault,0,1,Adult 35-64,No,No,Police report
+GV702093,2025-04-13,Riverton,Ash County,Self-defense,1,1,Teen 12-17,Yes,No,Police report
+GV701956,2025-04-13,Harbor City,Bay County,Drive-by,1,0,Adult 35-64,Unknown,No,News report
+GV700093,2025-04-16,Riverton,Ash County,Robbery,1,2,Adult 35-64,Unknown,No,News report
+GV701762,2025-04-16,Riverton,Ash County,Assault,0,1,Child 0-11,No,No,News report
+GV702278,2025-04-16,Riverton,Ash County,Unknown,1,1,Teen 12-17,No,No,Police report
+GV702528,2025-04-19,Riverton,Ash County,Drive-by,2,1,Adult 35-64,No,No,News report
+GV702452,2025-04-20,Riverton,Ash County,Assault,2,3,Adult 18-34,Unknown,No,Police report
+GV700047,2025-04-20,Riverton,Ash County,Assault,0,2,Adult 18-34,Unknown,No,News report
+GV700241,2025-04-20,North Shore,Bay County,Assault,1,2,Adult 18-34,No,No,News report
+GV703189,2025-04-20,North Shore,Bay County,Unknown,1,0,Adult 18-34,No,No,Police report
+GV701777,2025-04-21,Riverton,Ash County,Robbery,0,1,Teen 12-17,No,No,News report
+GV701633,2025-04-21,Cedar Park,Elm County,Drive-by,0,2,Adult 18-34,Unknown,No,Police report
+GV702137,2025-04-21,Maple Valley,Ash County,Self-defense,1,3,Adult 18-34,Unknown,No,Police report
+GV700181,2025-04-22,Old Port,Bay County,Assault,1,1,Senior 65+,No,No,Police report
+GV700650,2025-04-23,Old Port,Bay County,Domestic dispute,0,3,Adult 18-34,Yes,No,News report
+GV702530,2025-04-23,Riverton,Ash County,Robbery,0,1,Teen 12-17,No,No,News report
+GV700620,2025-04-25,Harbor City,Bay County,Assault,2,3,Adult 35-64,Unknown,No,Police report
+GV701907,2025-04-25,Old Port,Bay County,Drive-by,0,2,Adult 18-34,Yes,No,News report
+GV700195,2025-04-29,Old Port,Bay County,Accidental discharge,0,1,Adult 18-34,Yes,No,Hospital record
+GV700906,2025-04-29,Summit,Elm County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV700231,2025-04-30,North Shore,Bay County,Robbery,0,1,Adult 18-34,No,No,News report
+GV703000,2025-05-01,Old Port,Bay County,Self-defense,0,1,Teen 12-17,Yes,No,Police report
+GV700684,2025-05-02,Harbor City,Bay County,Assault,1,1,Adult 35-64,Yes,No,News report
+GV700466,2025-05-02,Maple Valley,Ash County,Accidental discharge,1,1,Adult 18-34,No,No,News report
+GV702351,2025-05-02,Summit,Elm County,Robbery,0,3,Adult 35-64,No,No,News report
+GV702925,2025-05-06,Old Port,Bay County,Unknown,1,1,Adult 35-64,Yes,No,News report
+GV703187,2025-05-08,Riverton,Ash County,Drive-by,2,1,Adult 18-34,No,No,Police report
+GV701669,2025-05-09,Harbor City,Bay County,Robbery,1,1,Adult 35-64,No,No,News report
+GV702831,2025-05-10,Maple Valley,Ash County,Assault,0,1,Teen 12-17,Yes,No,Police report
+GV700759,2025-05-11,Cedar Park,Elm County,Drive-by,0,1,Adult 18-34,Yes,No,News report
+GV702797,2025-05-11,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV700616,2025-05-12,North Shore,Bay County,Accidental discharge,0,1,Adult 18-34,No,No,Police report
+GV702816,2025-05-12,Riverton,Ash County,Assault,0,1,Adult 35-64,Unknown,No,Police report
+GV701477,2025-05-12,Harbor City,Bay County,Robbery,1,2,Adult 18-34,No,No,Police report
+GV700797,2025-05-16,Harbor City,Bay County,Unknown,0,1,Adult 18-34,No,No,News report
+GV702790,2025-05-16,Harbor City,Bay County,Robbery,1,1,Teen 12-17,Yes,No,Police report
+GV702023,2025-05-18,Riverton,Ash County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV700295,2025-05-21,Cedar Park,Elm County,Assault,1,1,Adult 18-34,No,No,Hospital record
+GV701352,2025-05-21,Summit,Elm County,Domestic dispute,1,0,Senior 65+,Yes,No,Police report
+GV701134,2025-05-21,Riverton,Ash County,Assault,1,3,Senior 65+,Unknown,No,News report
+GV700780,2025-05-22,Summit,Elm County,Self-defense,0,2,Adult 18-34,Unknown,No,Police report
+GV700912,2025-05-22,Summit,Elm County,Self-defense,0,1,Adult 35-64,No,No,Police report
+GV700094,2025-05-23,Riverton,Ash County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV702324,2025-05-23,Maple Valley,Ash County,Assault,1,0,Adult 35-64,Yes,No,News report
+GV700980,2025-05-24,Lakeview,Pine County,Assault,2,3,Adult 18-34,Unknown,No,Police report
+GV700511,2025-05-25,Lakeview,Pine County,Robbery,0,2,Adult 18-34,Yes,No,News report
+GV702839,2025-05-25,Harbor City,Bay County,Assault,0,1,Adult 18-34,No,No,Police report
+GV701298,2025-05-25,Old Port,Bay County,Accidental discharge,0,1,Adult 18-34,No,No,Police report
+GV700000,2025-05-26,Harbor City,Bay County,Unknown,0,1,Adult 18-34,Yes,No,Police report
+GV701620,2025-05-26,Riverton,Ash County,Assault,0,1,Adult 35-64,No,No,News report
+GV702627,2025-05-27,Maple Valley,Ash County,Assault,0,1,Adult 18-34,Unknown,No,Police report
+GV702644,2025-05-28,Summit,Elm County,Robbery,0,3,Adult 35-64,No,No,Police report
+GV703167,2025-05-28,Maple Valley,Ash County,Unknown,1,1,Adult 35-64,Unknown,No,News report
+GV703158,2025-05-28,Riverton,Ash County,Assault,0,3,Teen 12-17,No,No,Police report
+GV700154,2025-05-29,Old Port,Bay County,Robbery,1,0,Adult 35-64,No,No,News report
+GV702822,2025-05-30,Old Port,Bay County,Domestic dispute,1,0,Adult 18-34,Unknown,No,News report
+GV700396,2025-05-30,Summit,Elm County,Drive-by,1,1,Adult 18-34,Yes,No,Police report
+GV702543,2025-06-01,Riverton,Ash County,Domestic dispute,0,2,Adult 18-34,Unknown,No,News report
+GV701723,2025-06-02,Riverton,Ash County,Assault,2,1,Adult 18-34,Yes,No,Police report
+GV701196,2025-06-02,Riverton,Ash County,Drive-by,0,2,Teen 12-17,Unknown,No,Police report
+GV701017,2025-06-02,Harbor City,Bay County,Robbery,0,1,Teen 12-17,Yes,No,Police report
+GV701081,2025-06-02,Old Port,Bay County,Assault,2,1,Adult 35-64,No,No,Police report
+GV700306,2025-06-03,Riverton,Ash County,Assault,1,2,Adult 18-34,No,No,Police report
+GV700832,2025-06-03,Maple Valley,Ash County,Assault,2,3,Adult 18-34,Unknown,No,Police report
+GV701036,2025-06-03,Old Port,Bay County,Domestic dispute,2,1,Senior 65+,Unknown,No,News report
+GV702350,2025-06-04,Summit,Elm County,Unknown,1,1,Adult 18-34,Yes,No,News report
+GV702406,2025-06-04,Old Port,Bay County,Unknown,0,1,Adult 35-64,Unknown,No,Police report
+GV700351,2025-06-05,Old Port,Bay County,Unknown,1,1,Adult 18-34,No,No,Police report
+GV700845,2025-06-06,Riverton,Ash County,Assault,1,1,Senior 65+,Unknown,Yes,Police report
+GV702203,2025-06-07,Summit,Elm County,Drive-by,0,1,Adult 18-34,No,No,News report
+GV700952,2025-06-08,North Shore,Bay County,Unknown,1,1,Adult 18-34,No,No,News report
+GV701629,2025-06-09,Riverton,Ash County,Assault,2,1,Adult 18-34,No,No,Police report
+GV701718,2025-06-09,Lakeview,Pine County,Drive-by,1,1,Adult 18-34,Yes,No,Hospital record
+GV703190,2025-06-09,Harbor City,Bay County,Self-defense,0,1,Child 0-11,Yes,No,Police report
+GV700059,2025-06-11,Summit,Elm County,Domestic dispute,1,0,Adult 18-34,Yes,No,Police report
+GV702089,2025-06-11,Harbor City,Bay County,Unknown,0,3,Adult 18-34,No,No,Police report
+GV700819,2025-06-11,Harbor City,Bay County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV700697,2025-06-16,Harbor City,Bay County,Unknown,1,0,Adult 18-34,No,No,News report
+GV701782,2025-06-16,Harbor City,Bay County,Unknown,2,0,Adult 18-34,Yes,No,Police report
+GV703179,2025-06-16,Maple Valley,Ash County,Robbery,0,1,Adult 35-64,No,No,Police report
+GV700320,2025-06-17,Summit,Elm County,Unknown,1,1,Teen 12-17,Yes,No,News report
+GV702253,2025-06-17,Harbor City,Bay County,Self-defense,1,1,Adult 35-64,No,No,Police report
+GV701252,2025-06-17,Cedar Park,Elm County,Assault,0,2,Child 0-11,No,No,News report
+GV703151,2025-06-17,North Shore,Bay County,Assault,1,1,Adult 18-34,Yes,No,News report
+GV702658,2025-06-17,Riverton,Ash County,Drive-by,0,2,Adult 35-64,No,No,Police report
+GV702044,2025-06-18,Harbor City,Bay County,Assault,0,3,Adult 18-34,No,No,Police report
+GV700502,2025-06-18,Old Port,Bay County,Assault,0,1,Senior 65+,No,No,News report
+GV700921,2025-06-22,Riverton,Ash County,Assault,0,1,Adult 35-64,Yes,No,Police report
+GV700372,2025-06-23,Cedar Park,Elm County,Self-defense,0,1,Teen 12-17,Yes,No,News report
+GV702917,2025-06-24,North Shore,Bay County,Unknown,2,0,Adult 35-64,Yes,No,News report
+GV701205,2025-06-24,Lakeview,Pine County,Assault,2,1,Adult 18-34,Yes,No,Police report
+GV700001,2025-06-24,Maple Valley,Ash County,Robbery,0,1,Adult 18-34,No,No,Hospital record
+GV702848,2025-06-27,Old Port,Bay County,Drive-by,0,1,Adult 35-64,No,No,News report
+GV702902,2025-06-30,Cedar Park,Elm County,Domestic dispute,0,1,Adult 18-34,Unknown,No,Police report
+GV700671,2025-07-01,Harbor City,Bay County,Assault,2,1,Adult 18-34,No,No,Hospital record
+GV701117,2025-07-01,Riverton,Ash County,Unknown,1,1,Adult 35-64,No,No,News report
+GV702944,2025-07-02,Riverton,Ash County,Drive-by,0,3,Teen 12-17,No,No,Police report
+GV702532,2025-07-02,Lakeview,Pine County,Drive-by,0,1,Adult 18-34,No,No,Police report
+GV701176,2025-07-05,Cedar Park,Elm County,Assault,1,1,Adult 18-34,Unknown,No,News report
+GV703104,2025-07-06,Maple Valley,Ash County,Assault,0,2,Adult 35-64,No,No,Police report
+GV701021,2025-07-07,Cedar Park,Elm County,Robbery,2,0,Adult 35-64,No,No,Police report
+GV700441,2025-07-07,Riverton,Ash County,Assault,1,1,Teen 12-17,No,No,Police report
+GV703177,2025-07-09,Summit,Elm County,Accidental discharge,0,1,Adult 18-34,No,No,News report
+GV701732,2025-07-11,Old Port,Bay County,Robbery,0,1,Adult 18-34,Yes,No,Police report
+GV700883,2025-07-11,Maple Valley,Ash County,Unknown,0,3,Adult 18-34,No,No,Police report
+GV701542,2025-07-12,Riverton,Ash County,Domestic dispute,1,1,Adult 35-64,Unknown,No,Police report
+GV702821,2025-07-12,Old Port,Bay County,Unknown,1,1,Adult 35-64,Unknown,No,News report
+GV700619,2025-07-13,Riverton,Ash County,Accidental discharge,1,2,Teen 12-17,Yes,No,Police report
+GV701857,2025-07-17,Riverton,Ash County,Assault,0,2,Adult 35-64,No,No,Police report
+GV701929,2025-07-17,Harbor City,Bay County,Domestic dispute,0,3,Adult 35-64,No,No,Hospital record
+GV702286,2025-07-17,Harbor City,Bay County,Robbery,1,3,Adult 35-64,Unknown,No,Police report
+GV701001,2025-07-17,Maple Valley,Ash County,Unknown,0,1,Teen 12-17,Unknown,No,News report
+GV700488,2025-07-18,Maple Valley,Ash County,Robbery,1,1,Senior 65+,Unknown,No,Police report
+GV700332,2025-07-19,Riverton,Ash County,Robbery,2,0,Adult 18-34,Yes,No,Police report
+GV702655,2025-07-20,Harbor City,Bay County,Assault,0,1,Senior 65+,No,No,News report
+GV702038,2025-07-20,Riverton,Ash County,Self-defense,1,1,Teen 12-17,No,No,News report
+GV701154,2025-07-21,Maple Valley,Ash County,Assault,0,1,Adult 35-64,Yes,No,News report
+GV701069,2025-07-22,Harbor City,Bay County,Accidental discharge,1,3,Senior 65+,Yes,No,Police report
+GV702931,2025-07-22,Riverton,Ash County,Assault,2,0,Adult 35-64,No,No,Police report
+GV702440,2025-07-23,Lakeview,Pine County,Unknown,0,1,Adult 18-34,Unknown,No,Police report
+GV700820,2025-07-23,North Shore,Bay County,Unknown,1,0,Adult 18-34,No,No,Police report
+GV700303,2025-07-23,Summit,Elm County,Domestic dispute,2,0,Adult 18-34,No,No,Police report
+GV702314,2025-07-23,Maple Valley,Ash County,Self-defense,2,1,Adult 35-64,Unknown,No,Police report
+GV701490,2025-07-24,Cedar Park,Elm County,Drive-by,0,2,Adult 18-34,No,No,Hospital record
+GV700651,2025-07-24,Summit,Elm County,Self-defense,2,1,Adult 18-34,No,No,Police report
+GV701283,2025-07-25,Harbor City,Bay County,Domestic dispute,0,2,Adult 18-34,Yes,No,Police report
+GV702712,2025-07-28,Maple Valley,Ash County,Domestic dispute,0,1,Adult 35-64,Yes,No,Police report
+GV700316,2025-07-28,Cedar Park,Elm County,Drive-by,1,1,Adult 18-34,Yes,No,Police report
+GV701662,2025-07-28,Cedar Park,Elm County,Domestic dispute,0,1,Adult 35-64,No,No,Police report
+GV701653,2025-07-29,Riverton,Ash County,Unknown,0,1,Teen 12-17,Unknown,No,News report
+GV702710,2025-07-31,Maple Valley,Ash County,Assault,0,1,Adult 35-64,Unknown,No,News report
+GV703162,2025-07-31,Riverton,Ash County,Robbery,1,2,Adult 18-34,No,No,News report
+GV701162,2025-08-01,Summit,Elm County,Robbery,0,1,Adult 18-34,Yes,No,News report
+GV700630,2025-08-02,Harbor City,Bay County,Domestic dispute,0,1,Adult 18-34,Yes,No,Police report
+GV700390,2025-08-02,Summit,Elm County,Assault,0,1,Adult 35-64,Unknown,No,Police report
+GV701180,2025-08-05,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,Unknown,No,News report
+GV700687,2025-08-05,Harbor City,Bay County,Assault,0,1,Adult 35-64,No,No,Hospital record
+GV701249,2025-08-05,Riverton,Ash County,Domestic dispute,1,0,Adult 35-64,No,No,News report
+GV701254,2025-08-07,North Shore,Bay County,Assault,1,1,Adult 35-64,No,No,Police report
+GV700953,2025-08-10,Cedar Park,Elm County,Assault,0,1,Teen 12-17,Yes,No,News report
+GV700055,2025-08-11,Old Port,Bay County,Assault,1,0,Adult 18-34,Yes,No,Police report
+GV700702,2025-08-12,Riverton,Ash County,Unknown,1,1,Adult 35-64,No,No,News report
+GV700923,2025-08-12,Cedar Park,Elm County,Domestic dispute,1,1,Adult 35-64,No,No,News report
+GV701011,2025-08-13,Riverton,Ash County,Drive-by,0,3,Adult 18-34,No,No,Police report
+GV701689,2025-08-15,Maple Valley,Ash County,Drive-by,1,2,Adult 35-64,Yes,No,Hospital record
+GV702894,2025-08-16,Maple Valley,Ash County,Domestic dispute,0,1,Adult 18-34,No,No,News report
+GV700631,2025-08-17,Harbor City,Bay County,Assault,1,1,Child 0-11,Unknown,No,Police report
+GV700948,2025-08-17,Cedar Park,Elm County,Unknown,0,1,Adult 18-34,Unknown,No,News report
+GV701159,2025-08-18,Summit,Elm County,Assault,1,2,Adult 35-64,Yes,No,Hospital record
+GV701459,2025-08-19,Old Port,Bay County,Unknown,0,1,Adult 18-34,No,No,News report
+GV700894,2025-08-20,North Shore,Bay County,Self-defense,1,3,Adult 18-34,Yes,No,Hospital record
+GV702403,2025-08-21,Riverton,Ash County,Unknown,0,3,Adult 18-34,No,No,News report
+GV701613,2025-08-22,Harbor City,Bay County,Domestic dispute,1,1,Adult 18-34,Unknown,No,Police report
+GV702519,2025-08-24,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,Yes,No,Hospital record
+GV700217,2025-08-25,Riverton,Ash County,Unknown,0,1,Adult 35-64,No,No,Police report
+GV700745,2025-08-25,Riverton,Ash County,Accidental discharge,0,1,Senior 65+,No,No,Police report
+GV702042,2025-08-27,Old Port,Bay County,Robbery,0,1,Adult 35-64,Unknown,No,Hospital record
+GV701905,2025-08-27,Riverton,Ash County,Domestic dispute,2,1,Adult 35-64,No,No,Police report
+GV703124,2025-08-28,Cedar Park,Elm County,Unknown,1,1,Adult 35-64,No,No,News report
+GV702915,2025-08-28,Harbor City,Bay County,Assault,1,2,Adult 18-34,Unknown,No,News report
+GV700990,2025-08-29,Riverton,Ash County,Assault,1,1,Adult 18-34,No,No,Police report
+GV702360,2025-08-29,Riverton,Ash County,Assault,0,1,Adult 18-34,No,No,News report
+GV702073,2025-08-29,Old Port,Bay County,Robbery,2,0,Adult 18-34,Unknown,No,Police report
+GV702260,2025-08-30,Maple Valley,Ash County,Unknown,1,2,Adult 18-34,No,No,Police report
+GV700456,2025-08-30,Cedar Park,Elm County,Domestic dispute,2,1,Adult 18-34,Yes,No,Police report
+GV702423,2025-08-31,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,Yes,No,News report
+GV700770,2025-09-01,Harbor City,Bay County,Assault,1,3,Adult 35-64,Unknown,No,News report
+GV702311,2025-09-01,Riverton,Ash County,Domestic dispute,0,1,Adult 35-64,No,No,News report
+GV701226,2025-09-01,Riverton,Ash County,Unknown,1,1,Adult 18-34,No,No,News report
+GV701943,2025-09-02,Old Port,Bay County,Assault,1,3,Adult 18-34,No,No,Police report
+GV701450,2025-09-02,Cedar Park,Elm County,Unknown,0,1,Adult 18-34,No,No,Police report
+GV702459,2025-09-03,Riverton,Ash County,Robbery,0,1,Adult 18-34,No,No,Police report
+GV700116,2025-09-03,Harbor City,Bay County,Robbery,0,3,Adult 35-64,No,No,Police report
+GV700749,2025-09-04,Riverton,Ash County,Accidental discharge,0,1,Adult 35-64,Yes,No,Hospital record
+GV700612,2025-09-05,Riverton,Ash County,Robbery,1,2,Adult 35-64,No,No,News report
+GV703182,2025-09-11,Harbor City,Bay County,Assault,0,2,Adult 18-34,No,No,News report
+GV702277,2025-09-11,Lakeview,Pine County,Assault,2,0,Senior 65+,No,No,Police report
+GV701362,2025-09-11,Old Port,Bay County,Assault,0,1,Adult 18-34,Yes,No,News report
+GV701337,2025-09-12,Cedar Park,Elm County,Assault,0,1,Teen 12-17,No,No,Police report
+GV702008,2025-09-12,Riverton,Ash County,Self-defense,1,3,Adult 18-34,Unknown,No,News report
+GV702698,2025-09-13,Harbor City,Bay County,Drive-by,0,1,Adult 18-34,Unknown,No,News report
+GV701720,2025-09-13,Cedar Park,Elm County,Self-defense,0,3,Adult 18-34,No,No,News report
+GV700364,2025-09-15,Harbor City,Bay County,Unknown,1,2,Adult 35-64,Yes,No,Police report
+GV703163,2025-09-15,Riverton,Ash County,Unknown,1,0,Teen 12-17,No,No,Hospital record
+GV701809,2025-09-16,Riverton,Ash County,Assault,0,2,Adult 18-34,No,No,Hospital record
+GV701050,2025-09-17,Harbor City,Bay County,Assault,0,1,Adult 35-64,Unknown,No,Police report
+GV701456,2025-09-17,Old Port,Bay County,Unknown,1,0,Adult 35-64,Yes,No,Police report
+GV700174,2025-09-19,Maple Valley,Ash County,Domestic dispute,0,2,Teen 12-17,No,No,News report
+GV700611,2025-09-20,Harbor City,Bay County,Unknown,0,1,Senior 65+,No,No,News report
+GV702935,2025-09-22,Riverton,Ash County,Assault,1,1,Teen 12-17,Unknown,No,Hospital record
+GV701387,2025-09-23,Harbor City,Bay County,Robbery,1,1,Teen 12-17,Unknown,No,News report
+GV701825,2025-09-24,Old Port,Bay County,Robbery,2,1,Adult 18-34,Yes,No,Police report
+GV701676,2025-09-24,Harbor City,Bay County,Drive-by,1,2,Adult 18-34,Unknown,No,News report
+GV702413,2025-09-25,Riverton,Ash County,Assault,0,1,Adult 18-34,Unknown,No,News report
+GV703142,2025-09-26,Riverton,Ash County,Robbery,0,3,Adult 18-34,No,No,Police report
+GV702171,2025-09-27,Riverton,Ash County,Assault,1,1,Adult 18-34,Yes,No,Police report
+GV701332,2025-09-27,Riverton,Ash County,Domestic dispute,0,1,Adult 18-34,No,No,News report
+GV702230,2025-09-28,Harbor City,Bay County,Domestic dispute,1,3,Adult 18-34,No,No,Police report
+GV701515,2025-09-30,Summit,Elm County,Assault,0,1,Adult 18-34,No,No,News report
+GV700139,2025-09-30,Old Port,Bay County,Robbery,1,2,Adult 35-64,Unknown,No,News report

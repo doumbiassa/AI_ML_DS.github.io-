@@ -1,0 +1,667 @@
+player,team,position,season,age,height_cm,games,minutes_per_game,points_per_game,rebounds_per_game,assists_per_game,fg_pct,three_pct,ft_pct
+Noah Moreau,Riverton Rapids,Forward,2021,20,200.0,40,18.7,8.3,3.2,2.1,0.51,0.322,0.746
+Tariq Brooks,Summit Peaks,Guard,2021,23,190.0,26,24.4,13.9,3.2,5.1,0.454,0.319,0.761
+Sofia Okafor,Old Port Anchors,Center,2021,25,211.0,40,22.6,13.1,7.7,2.2,0.563,0.33,0.806
+Mei Novak,Lighthouse Beacons,Center,2021,26,216.0,32,30.7,14.3,9.4,1.9,0.558,,0.839
+Diego Chen,North Shore Waves,Center,2021,27,214.0,23,30.9,15.1,10.3,1.8,0.575,,0.777
+Jalen Ortiz,Riverton Rapids,Forward,2021,28,194.0,21,25.5,12.2,5.8,3.8,0.459,0.324,0.78
+Priya Kim,Harbor City Gulls,Center,2021,29,214.0,22,22.0,11.7,6.7,0.0,0.594,0.34,0.748
+Imani Adeyemi,Maple Valley Owls,Center,2021,30,205.0,28,19.5,8.5,7.1,0.0,0.554,,0.842
+Aisha Silva,Summit Peaks,Guard,2021,31,183.0,38,31.7,23.7,5.1,3.6,0.466,0.433,0.737
+Nia Sow,Old Port Anchors,Forward,2021,32,200.0,29,15.9,6.5,3.3,0.7,0.468,0.337,0.644
+Zara Kamara,Old Port Anchors,Guard,2021,33,195.0,36,19.5,9.3,2.3,4.3,0.379,0.394,0.719
+Chloe Ortiz,Lighthouse Beacons,Center,2021,34,210.0,28,22.5,10.7,7.9,0.6,0.55,0.347,0.76
+Ravi Reyes,North Shore Waves,Forward,2021,20,201.0,21,30.1,13.4,5.7,2.5,0.522,0.475,0.643
+Lucas Reyes,Riverton Rapids,Guard,2021,21,192.0,24,17.3,7.8,1.8,3.5,0.438,0.338,0.623
+Rosa Chen,Harbor City Gulls,Center,2021,22,212.0,23,23.8,11.0,6.2,1.6,0.506,,0.73
+Nia Kim,Maple Valley Owls,Forward,2021,23,202.0,35,19.5,8.7,3.9,1.8,0.465,0.298,0.788
+Tariq Ortiz,Summit Peaks,Forward,2021,24,198.0,28,16.9,5.8,3.9,1.7,0.43,0.263,0.758
+Ravi Diallo,Cedar Park Lynx,Guard,2021,25,185.0,25,18.1,6.7,1.7,3.4,0.415,0.402,0.895
+Maya Grant,Old Port Anchors,Guard,2021,26,187.0,28,31.9,16.4,3.6,6.1,0.41,0.353,0.751
+Priya Haddad,Lighthouse Beacons,Center,2021,27,213.0,26,16.7,5.7,5.6,1.1,0.499,0.34,0.712
+Fatou Ibrahim,North Shore Waves,Center,2021,28,205.0,30,15.3,5.7,6.0,1.6,0.512,0.278,0.746
+Jalen Owusu,Riverton Rapids,Forward,2021,29,209.0,28,13.9,6.4,2.2,1.6,0.422,0.316,0.767
+Priya Park,Harbor City Gulls,Forward,2021,30,204.0,39,11.7,2.8,4.2,0.1,0.467,0.37,0.7
+Zara Park,Cedar Park Lynx,Guard,2021,33,188.0,34,27.8,8.8,4.7,4.2,0.465,0.306,0.752
+Chloe Moreau,Old Port Anchors,Guard,2021,34,185.0,36,17.2,6.5,2.2,2.6,0.468,0.348,0.776
+Priya Haddad,Lighthouse Beacons,Guard,2021,20,185.0,23,15.7,4.2,4.8,3.4,0.476,0.256,0.725
+Rosa Haddad,North Shore Waves,Guard,2021,21,196.0,32,16.2,7.3,1.2,2.5,0.484,0.331,0.792
+Lucas Grant,Riverton Rapids,Guard,2021,22,181.0,26,29.5,16.5,2.5,5.1,0.454,0.365,0.728
+Fatou Brooks,Harbor City Gulls,Center,2021,23,214.0,35,20.3,9.3,7.1,1.5,0.556,,0.849
+Noah Moreau,Maple Valley Owls,Center,2021,24,210.0,27,11.4,4.2,2.9,0.6,0.515,,0.744
+Lena Ramos,Summit Peaks,Guard,2021,25,196.0,34,27.9,6.4,2.9,6.2,0.399,0.296,0.844
+Ravi Mensah,Cedar Park Lynx,Forward,2021,26,200.0,27,29.0,16.1,4.9,3.4,0.473,0.389,0.868
+Noah Brooks,Old Port Anchors,Center,2021,27,209.0,29,12.3,5.7,4.1,1.3,0.553,0.267,0.717
+Nia Silva,Summit Peaks,Guard,2021,28,182.0,25,30.8,14.0,2.4,7.0,0.494,0.338,0.766
+Ayo Brooks,Riverton Rapids,Forward,2021,30,197.0,37,31.8,18.2,5.9,3.5,0.484,0.267,0.812
+Diego Okafor,Harbor City Gulls,Guard,2021,31,183.0,24,15.9,9.4,3.5,1.9,0.447,0.347,0.665
+Maya Moreau,Maple Valley Owls,Guard,2021,32,182.0,24,26.2,11.4,1.8,3.7,0.366,0.31,0.746
+Ayo Okafor,Summit Peaks,Forward,2021,33,208.0,31,26.2,12.3,7.2,1.8,0.456,0.328,0.776
+Tariq Mensah,Cedar Park Lynx,Guard,2021,34,190.0,33,16.5,6.5,2.0,4.2,0.448,0.327,0.774
+Nia Haddad,Old Port Anchors,Guard,2021,20,190.0,32,22.9,11.1,2.8,4.7,0.425,0.346,0.843
+Noah Nguyen,North Shore Waves,Guard,2021,22,181.0,34,25.5,13.7,2.6,4.3,0.407,0.273,0.778
+Leo Ibrahim,Maple Valley Owls,Forward,2021,25,205.0,34,17.0,5.8,2.9,2.0,0.401,0.353,0.741
+Lena Silva,Summit Peaks,Guard,2021,26,185.0,23,24.8,9.9,2.4,4.9,0.448,0.339,0.869
+Maya Moreau,Lighthouse Beacons,Center,2021,27,209.0,25,27.5,15.0,9.1,1.3,0.587,,0.858
+Aisha Brooks,Old Port Anchors,Center,2021,28,206.0,27,24.9,9.9,5.7,1.9,0.574,0.422,0.727
+Amara Sow,North Shore Waves,Guard,2021,30,184.0,31,29.3,16.2,2.7,5.1,0.451,0.403,0.886
+Ravi Nguyen,Harbor City Gulls,Forward,2021,32,206.0,21,33.3,21.0,7.1,2.2,0.511,0.352,0.799
+Amara Kim,Summit Peaks,Forward,2021,34,204.0,33,11.2,4.4,3.2,0.6,0.456,0.347,0.654
+Malik Owusu,Cedar Park Lynx,Guard,2021,20,188.0,25,16.5,2.8,1.7,3.1,0.358,0.362,0.75
+Noah Haddad,Old Port Anchors,Guard,2021,21,186.0,32,14.5,6.4,1.6,2.4,0.455,0.372,0.812
+Diego Mensah,Lighthouse Beacons,Forward,2021,22,203.0,38,27.9,12.4,6.5,3.1,0.558,0.372,0.842
+Sofia Okafor,North Shore Waves,Forward,2021,23,207.0,33,21.4,7.1,5.1,1.3,0.503,0.315,0.805
+Kai Okafor,Harbor City Gulls,Forward,2021,25,200.0,20,24.7,10.9,5.2,2.0,0.452,0.374,0.821
+Fatou Patel,Maple Valley Owls,Forward,2021,26,202.0,38,21.3,10.6,4.3,1.4,0.419,0.432,0.679
+Idris Haddad,Summit Peaks,Center,2021,27,207.0,26,35.7,23.0,12.3,1.4,0.577,,0.763
+Elena Sow,Cedar Park Lynx,Guard,2021,28,189.0,39,25.0,10.2,2.1,4.4,0.421,0.367,0.753
+Aisha Moreau,Old Port Anchors,Guard,2021,29,190.0,20,38.0,30.2,5.6,7.1,0.52,0.458,0.715
+Priya Kamara,Lighthouse Beacons,Guard,2021,30,187.0,21,13.3,5.3,1.9,1.8,0.462,0.297,0.78
+Omar Tanaka,North Shore Waves,Forward,2021,31,199.0,39,19.1,6.0,4.2,1.7,0.456,0.389,0.759
+Imani Diallo,Maple Valley Owls,Forward,2021,34,205.0,30,28.3,13.9,5.7,4.3,0.512,0.329,0.803
+Ayo Adeyemi,Summit Peaks,Guard,2021,20,186.0,25,21.0,7.0,2.0,3.1,0.413,0.342,0.649
+Aisha Mensah,Old Port Anchors,Forward,2021,22,201.0,22,19.6,10.7,4.9,3.2,0.48,0.325,0.786
+Aisha Brooks,North Shore Waves,Forward,2021,24,197.0,38,24.7,9.1,3.7,0.0,0.498,0.408,0.763
+Malik Ortiz,Riverton Rapids,Center,2021,25,212.0,27,25.4,10.4,9.3,2.6,0.494,0.366,0.739
+Maya Patel,Harbor City Gulls,Forward,2021,26,202.0,21,23.8,15.6,5.9,1.9,0.456,0.31,0.637
+Tess Duarte,Maple Valley Owls,Guard,2021,27,185.0,37,18.7,7.6,1.5,3.7,0.489,0.308,0.763
+Noah Kamara,Harbor City Gulls,Forward,2021,30,201.0,38,36.4,20.1,6.0,3.2,0.49,0.335,0.771
+Ayo Adeyemi,Lighthouse Beacons,Guard,2021,31,185.0,40,9.3,4.1,1.4,1.9,0.359,0.372,0.721
+Noah Park,North Shore Waves,Forward,2021,32,202.0,24,33.1,12.8,8.5,2.2,0.492,0.393,0.84
+Diego Ibrahim,Riverton Rapids,Guard,2021,33,188.0,27,15.6,10.1,1.7,2.1,0.405,0.385,0.763
+Ayo Kim,Maple Valley Owls,Forward,2021,20,201.0,40,28.9,16.1,8.4,2.4,0.534,0.337,0.651
+Chloe Moreau,Summit Peaks,Guard,2021,21,192.0,34,14.5,5.2,0.3,3.6,0.438,0.31,0.835
+Fatou Toure,Old Port Anchors,Center,2021,23,205.0,39,19.0,8.3,5.2,0.6,0.505,,0.613
+Noah Tanaka,North Shore Waves,Guard,2021,24,184.0,23,13.9,9.3,2.5,3.6,0.434,0.298,0.844
+Malik Chen,North Shore Waves,Center,2021,25,207.0,23,32.9,20.7,10.9,2.6,0.551,,0.774
+Mei Novak,Riverton Rapids,Guard,2021,26,189.0,29,31.8,13.0,5.2,6.6,0.413,0.322,0.771
+Nia Park,Harbor City Gulls,Guard,2021,27,195.0,23,20.6,9.9,4.4,5.4,0.431,0.307,0.879
+Priya Mensah,Maple Valley Owls,Forward,2021,28,205.0,26,13.4,0.1,1.5,1.7,0.424,0.331,0.719
+Malik Ibrahim,Summit Peaks,Forward,2021,29,197.0,34,21.0,5.7,5.1,1.6,0.499,0.345,0.753
+Chloe Kamara,Cedar Park Lynx,Center,2021,30,209.0,39,28.0,16.4,8.9,0.8,0.652,0.486,0.867
+Nia Mensah,Old Port Anchors,Center,2021,31,213.0,35,25.6,15.6,8.2,0.9,0.552,,0.779
+Aisha Diallo,North Shore Waves,Guard,2021,33,190.0,32,18.5,8.3,1.7,3.6,0.501,0.422,0.736
+Malik Kim,Riverton Rapids,Center,2021,34,206.0,35,28.3,18.3,9.2,1.4,0.561,,0.734
+Chloe Adeyemi,Maple Valley Owls,Guard,2021,21,191.0,20,26.3,14.8,0.5,5.2,0.459,0.461,0.809
+Jalen Adeyemi,Summit Peaks,Forward,2021,22,203.0,33,26.0,11.4,6.4,2.6,0.483,0.395,0.899
+Malik Kim,Old Port Anchors,Guard,2021,24,186.0,34,26.8,15.0,2.2,3.4,0.479,0.353,0.775
+Andre Ramos,Lighthouse Beacons,Forward,2021,25,201.0,34,26.0,16.1,7.1,1.5,0.46,0.349,0.714
+Chloe Tanaka,North Shore Waves,Forward,2021,26,195.0,20,17.1,9.5,6.0,1.4,0.508,0.366,0.767
+Kofi Moreau,Riverton Rapids,Forward,2021,27,200.0,35,19.1,4.6,2.3,2.2,0.481,0.291,0.721
+Aisha Ramos,Maple Valley Owls,Forward,2021,29,199.0,23,23.9,9.6,4.8,1.7,0.47,0.351,0.77
+Elena Hale,Cedar Park Lynx,Center,2021,31,203.0,36,22.4,7.7,8.0,1.9,0.575,,0.724
+Ravi Okafor,Old Port Anchors,Forward,2021,32,211.0,33,17.5,7.2,3.2,1.1,0.571,0.355,0.704
+Idris Silva,Lighthouse Beacons,Forward,2021,33,201.0,31,17.8,9.0,5.5,1.6,0.46,0.396,0.614
+Nia Okafor,North Shore Waves,Guard,2021,34,186.0,40,30.4,17.0,4.5,5.1,0.417,0.385,0.693
+Elena Owusu,Riverton Rapids,Forward,2021,20,204.0,31,21.2,7.1,7.2,2.2,0.492,0.321,0.812
+Diego Tanaka,Harbor City Gulls,Forward,2021,21,202.0,35,18.0,6.3,5.2,2.6,0.435,0.315,0.788
+Nia Owusu,Maple Valley Owls,Forward,2021,22,202.0,22,16.7,6.7,3.3,3.2,0.479,0.348,0.678
+Lena Reyes,Summit Peaks,Center,2021,23,210.0,20,20.8,7.7,6.8,1.2,0.51,,0.628
+Diego Hale,Cedar Park Lynx,Center,2021,24,205.0,37,26.9,12.9,8.8,0.3,0.507,,0.718
+Malik Brooks,Lighthouse Beacons,Forward,2021,26,196.0,24,28.6,15.9,6.4,2.6,0.49,0.5,0.794
+Imani Hale,Harbor City Gulls,Forward,2021,29,206.0,30,20.1,11.9,3.9,0.5,0.464,0.424,0.715
+Ayo Tanaka,Maple Valley Owls,Center,2021,30,217.0,32,26.2,11.6,7.8,1.2,0.582,0.299,0.741
+Jonah Bennett,Summit Peaks,Center,2021,31,203.0,33,29.4,15.5,9.5,1.7,0.554,0.286,0.744
+Tess Brooks,Cedar Park Lynx,Forward,2021,32,199.0,25,6.0,0.0,0.7,0.8,0.477,0.345,0.812
+Lucas Tanaka,Old Port Anchors,Forward,2021,33,201.0,35,12.3,0.0,2.3,1.1,0.428,0.355,0.828
+Idris Diallo,Lighthouse Beacons,Guard,2021,34,191.0,22,27.2,12.0,1.6,5.3,0.456,0.398,0.806
+Jonah Patel,North Shore Waves,Guard,2021,20,182.0,23,12.7,2.9,2.5,2.1,0.412,0.302,0.799
+Kofi Sow,Riverton Rapids,Forward,2021,21,201.0,37,24.1,11.2,3.8,2.5,0.486,0.227,0.729
+Mei Haddad,Harbor City Gulls,Guard,2021,22,195.0,25,16.4,7.6,0.6,2.4,0.463,0.315,0.739
+Andre Ramos,Maple Valley Owls,Guard,2021,23,192.0,34,25.3,13.5,5.2,5.4,0.472,0.401,0.815
+Amara Bennett,Summit Peaks,Center,2021,24,210.0,23,24.5,14.1,8.7,1.3,0.58,0.418,0.643
+Idris Novak,Cedar Park Lynx,Center,2021,25,211.0,26,14.1,5.4,2.9,1.6,0.48,,0.795
+Maya Nguyen,Old Port Anchors,Center,2021,26,209.0,35,19.9,9.7,6.2,0.7,0.491,,0.758
+Elena Chen,Lighthouse Beacons,Guard,2021,27,183.0,20,31.3,17.1,3.9,6.1,0.493,0.35,0.723
+Rosa Hale,North Shore Waves,Guard,2021,28,198.0,39,16.0,5.1,1.6,3.1,0.452,0.267,0.738
+Andre Grant,Riverton Rapids,Guard,2021,29,185.0,35,16.2,6.5,1.4,2.5,0.4,0.347,0.805
+Noah Mensah,Harbor City Gulls,Forward,2021,30,207.0,28,6.0,0.6,1.1,0.0,0.449,0.293,0.73
+Idris Silva,Maple Valley Owls,Guard,2021,31,190.0,37,19.2,7.7,2.8,2.2,0.363,0.338,0.666
+Amara Ibrahim,Old Port Anchors,Center,2021,34,214.0,32,24.8,12.7,9.3,2.4,0.528,,0.746
+Ayo Adeyemi,Lighthouse Beacons,Guard,2021,20,185.0,40,13.9,7.5,3.6,1.9,0.445,0.291,0.652
+Tariq Nguyen,North Shore Waves,Guard,2021,21,191.0,22,36.9,22.7,3.0,6.1,0.383,0.357,0.875
+Idris Ortiz,Riverton Rapids,Guard,2021,22,197.0,26,22.4,10.0,1.8,4.3,0.483,0.267,0.774
+Tariq Ramos,Harbor City Gulls,Forward,2021,23,196.0,33,22.0,12.2,6.3,1.5,0.478,0.255,0.798
+Sofia Okafor,Summit Peaks,Center,2021,25,212.0,26,27.0,15.2,6.0,1.0,0.594,0.352,0.773
+Tess Hale,Old Port Anchors,Forward,2021,27,200.0,29,30.9,15.6,6.9,3.8,0.48,0.404,0.717
+Tess Toure,North Shore Waves,Guard,2021,29,187.0,21,32.0,18.1,4.4,5.5,0.466,0.324,0.748
+Noah Moreau,Riverton Rapids,Forward,2022,21,206.0,24,16.7,7.1,4.7,2.9,0.406,0.293,0.728
+Imani Brooks,Harbor City Gulls,Guard,2022,22,193.0,30,24.9,12.0,3.2,5.4,0.443,0.389,0.623
+Lucas Nguyen,Maple Valley Owls,Center,2022,23,210.0,35,23.5,10.3,7.0,0.7,0.561,,0.785
+Tariq Brooks,Summit Peaks,Guard,2022,24,188.0,31,21.3,8.8,1.4,3.3,0.392,0.324,0.753
+Sofia Chen,Harbor City Gulls,Guard,2022,25,188.0,32,19.1,9.7,2.9,2.4,0.429,0.366,0.692
+Sofia Okafor,Old Port Anchors,Center,2022,26,214.0,28,17.7,5.0,5.9,0.7,0.531,,0.874
+Mei Novak,Lighthouse Beacons,Center,2022,27,206.0,25,25.5,15.8,7.8,2.1,0.63,0.368,0.77
+Diego Chen,North Shore Waves,Center,2022,28,209.0,23,34.5,18.5,11.1,0.1,0.535,,0.773
+Jalen Ortiz,Riverton Rapids,Forward,2022,29,195.0,40,26.3,14.3,7.4,1.6,0.478,0.342,0.757
+Priya Kim,Harbor City Gulls,Center,2022,30,218.0,29,34.1,18.4,10.8,2.7,0.583,,0.728
+Aisha Silva,Summit Peaks,Guard,2022,32,187.0,39,38.0,23.4,4.4,7.1,0.456,0.419,0.832
+Nia Sow,Cedar Park Lynx,Forward,2022,33,191.0,26,18.4,7.6,3.1,2.2,0.491,0.352,0.691
+Zara Kamara,North Shore Waves,Guard,2022,34,186.0,20,18.6,5.5,0.7,2.9,0.399,0.317,0.753
+Chloe Ortiz,Lighthouse Beacons,Center,2022,35,209.0,21,21.4,7.3,5.8,0.5,0.573,,0.684
+Ravi Reyes,North Shore Waves,Forward,2022,21,196.0,30,30.8,16.7,6.8,2.0,0.459,0.306,0.761
+Lucas Reyes,Riverton Rapids,Guard,2022,22,190.0,36,18.9,8.8,0.4,3.4,0.44,0.344,0.79
+Rosa Chen,Harbor City Gulls,Center,2022,23,212.0,40,17.4,8.1,6.7,2.1,0.569,0.411,0.777
+Ravi Diallo,Cedar Park Lynx,Guard,2022,26,192.0,36,21.9,4.2,3.5,3.8,0.498,0.303,0.745
+Maya Grant,Old Port Anchors,Guard,2022,27,192.0,21,27.2,13.6,3.9,5.8,0.466,0.405,0.774
+Priya Haddad,Lighthouse Beacons,Center,2022,28,212.0,28,17.4,7.3,6.8,0.0,0.515,,0.72
+Fatou Ibrahim,North Shore Waves,Center,2022,29,215.0,22,25.7,11.4,7.6,0.8,0.556,,0.784
+Jalen Owusu,Riverton Rapids,Forward,2022,30,200.0,31,23.7,12.2,5.1,1.6,0.444,0.302,0.788
+Priya Park,Riverton Rapids,Forward,2022,31,199.0,36,19.7,10.2,3.9,2.2,0.443,0.311,0.731
+Fatou Ramos,Maple Valley Owls,Forward,2022,32,201.0,38,23.4,8.0,3.6,2.6,0.469,0.36,0.787
+Kai Ortiz,Summit Peaks,Guard,2022,33,188.0,37,30.7,16.4,3.8,6.0,0.457,0.351,0.759
+Zara Park,Cedar Park Lynx,Guard,2022,34,185.0,28,23.7,8.9,3.3,4.2,0.477,0.412,0.76
+Priya Haddad,Lighthouse Beacons,Guard,2022,21,181.0,28,12.6,6.1,2.2,0.9,0.431,0.305,0.71
+Rosa Haddad,North Shore Waves,Guard,2022,22,185.0,21,18.8,8.9,2.9,3.7,0.44,0.311,0.681
+Lucas Grant,Riverton Rapids,Guard,2022,23,193.0,40,26.9,15.5,3.5,3.1,0.439,0.422,0.679
+Fatou Brooks,Harbor City Gulls,Center,2022,24,207.0,20,29.2,16.2,9.2,2.4,0.502,0.405,0.721
+Noah Moreau,Maple Valley Owls,Center,2022,25,208.0,30,10.9,8.0,3.9,0.0,0.52,,0.808
+Lena Ramos,Summit Peaks,Guard,2022,26,191.0,33,14.4,5.6,2.3,2.1,0.393,0.293,0.756
+Ravi Mensah,Cedar Park Lynx,Forward,2022,27,201.0,22,34.8,18.8,7.3,3.8,0.522,0.357,0.813
+Noah Brooks,Old Port Anchors,Center,2022,28,212.0,24,10.1,2.9,4.2,0.6,0.561,,0.672
+Nia Silva,Lighthouse Beacons,Guard,2022,29,192.0,26,29.5,16.8,5.1,5.4,0.462,0.376,0.724
+Amara Brooks,North Shore Waves,Forward,2022,30,203.0,26,13.2,3.7,1.7,2.1,0.459,0.304,0.708
+Ayo Brooks,Riverton Rapids,Forward,2022,31,197.0,20,18.4,7.9,3.8,1.1,0.44,0.391,0.825
+Diego Okafor,Harbor City Gulls,Guard,2022,32,189.0,30,17.0,9.8,2.3,2.2,0.443,0.282,0.78
+Ayo Okafor,Summit Peaks,Forward,2022,34,200.0,28,23.4,12.2,5.4,0.9,0.487,0.434,0.674
+Nia Haddad,Old Port Anchors,Guard,2022,21,191.0,32,25.1,13.9,2.2,3.8,0.461,0.365,0.67
+Jalen Park,Lighthouse Beacons,Guard,2022,22,190.0,27,18.5,6.1,3.5,4.2,0.396,0.303,0.618
+Noah Nguyen,North Shore Waves,Guard,2022,23,183.0,20,13.3,6.9,0.3,3.6,0.393,0.372,0.779
+Kofi Park,Riverton Rapids,Center,2022,24,208.0,40,33.0,20.9,11.2,2.1,0.597,0.341,0.741
+Tariq Brooks,Harbor City Gulls,Guard,2022,25,188.0,21,16.0,8.4,2.1,3.6,0.4,0.375,0.677
+Leo Ibrahim,Maple Valley Owls,Forward,2022,26,201.0,24,19.2,10.1,4.0,2.0,0.426,0.345,0.757
+Maya Moreau,Cedar Park Lynx,Center,2022,28,214.0,29,31.3,16.6,9.1,2.3,0.578,,0.624
+Amara Sow,North Shore Waves,Guard,2022,31,186.0,25,27.9,16.0,2.8,4.7,0.468,0.344,0.745
+Nia Chen,Riverton Rapids,Center,2022,32,208.0,28,20.1,10.9,6.0,0.6,0.544,0.374,0.85
+Ravi Nguyen,Harbor City Gulls,Forward,2022,33,202.0,26,27.2,15.1,6.2,2.1,0.545,0.37,0.758
+Ravi Moreau,Maple Valley Owls,Center,2022,34,215.0,29,20.3,9.0,6.5,0.4,0.565,,0.875
+Amara Kim,Summit Peaks,Forward,2022,35,200.0,27,16.8,6.8,2.5,1.3,0.452,0.367,0.797
+Malik Owusu,Cedar Park Lynx,Guard,2022,21,192.0,23,18.5,6.4,2.5,5.0,0.402,0.362,0.644
+Diego Mensah,Lighthouse Beacons,Forward,2022,23,201.0,33,27.2,16.1,6.5,1.9,0.495,0.39,0.67
+Sofia Okafor,North Shore Waves,Forward,2022,24,196.0,29,26.2,10.0,7.0,2.7,0.485,0.32,0.803
+Aisha Owusu,Riverton Rapids,Center,2022,25,213.0,31,20.9,10.2,7.1,0.9,0.54,0.367,0.716
+Fatou Patel,Maple Valley Owls,Forward,2022,27,202.0,31,31.0,15.8,6.4,2.4,0.449,0.384,0.706
+Idris Haddad,Cedar Park Lynx,Center,2022,28,220.0,32,36.9,21.0,11.0,1.0,0.6,,0.805
+Aisha Moreau,Old Port Anchors,Guard,2022,30,185.0,32,37.5,25.3,2.7,8.0,0.507,0.43,0.838
+Priya Kamara,Lighthouse Beacons,Guard,2022,31,193.0,38,18.3,4.9,1.7,3.5,0.446,0.331,0.722
+Omar Tanaka,North Shore Waves,Forward,2022,32,202.0,40,18.3,5.9,3.9,0.0,0.463,0.343,0.772
+Diego Nguyen,Riverton Rapids,Forward,2022,33,203.0,35,22.9,12.4,4.1,1.9,0.488,0.4,0.824
+Nia Mensah,Harbor City Gulls,Guard,2022,34,189.0,25,15.2,7.0,2.0,2.3,0.405,0.332,0.759
+Imani Diallo,Riverton Rapids,Forward,2022,35,203.0,30,30.6,13.5,4.8,1.9,0.478,0.373,0.636
+Aisha Mensah,Old Port Anchors,Forward,2022,23,204.0,29,18.0,8.4,5.3,1.6,0.483,0.356,0.688
+Zara Mensah,Lighthouse Beacons,Forward,2022,24,200.0,27,27.6,12.7,5.6,1.9,0.453,0.333,0.729
+Aisha Brooks,North Shore Waves,Forward,2022,25,198.0,28,18.9,12.3,4.2,2.6,0.46,0.359,0.847
+Malik Ortiz,Riverton Rapids,Center,2022,26,211.0,31,27.4,10.2,7.9,0.7,0.547,,0.695
+Maya Patel,Harbor City Gulls,Forward,2022,27,195.0,21,33.8,17.1,7.6,3.2,0.491,0.373,0.82
+Tess Duarte,Maple Valley Owls,Guard,2022,28,178.0,25,23.4,9.1,1.6,5.6,0.476,0.357,0.713
+Amara Chen,Cedar Park Lynx,Center,2022,30,212.0,33,27.3,16.1,8.9,2.1,0.553,,0.817
+Noah Kamara,Old Port Anchors,Forward,2022,31,202.0,29,29.2,19.6,6.6,3.3,0.53,0.433,0.733
+Noah Park,North Shore Waves,Forward,2022,33,203.0,36,23.9,11.0,5.3,2.0,0.477,0.333,0.761
+Diego Ibrahim,Riverton Rapids,Guard,2022,34,186.0,23,14.0,6.6,2.5,1.7,0.361,0.314,0.79
+Omar Mensah,Harbor City Gulls,Center,2022,35,206.0,28,17.2,6.6,5.7,0.8,0.531,,0.838
+Ayo Kim,Maple Valley Owls,Forward,2022,21,197.0,33,26.8,17.7,4.5,2.0,0.482,0.324,0.781
+Jonah Kim,Cedar Park Lynx,Forward,2022,23,206.0,38,16.3,7.9,3.9,0.5,0.487,0.401,0.827
+Fatou Toure,Old Port Anchors,Center,2022,24,206.0,27,16.2,11.0,6.9,1.4,0.542,,0.863
+Noah Tanaka,Lighthouse Beacons,Guard,2022,25,192.0,26,15.8,9.5,2.6,3.0,0.379,0.372,0.689
+Malik Chen,North Shore Waves,Center,2022,26,208.0,36,30.2,16.9,10.7,0.0,0.568,,0.713
+Nia Park,Harbor City Gulls,Guard,2022,28,195.0,21,35.4,14.8,1.7,6.2,0.436,0.37,0.761
+Priya Mensah,Maple Valley Owls,Forward,2022,29,195.0,30,8.8,4.7,2.4,2.1,0.496,0.333,0.826
+Malik Ibrahim,Summit Peaks,Forward,2022,30,202.0,34,22.2,12.5,6.0,2.0,0.48,0.361,0.797
+Chloe Kamara,Cedar Park Lynx,Center,2022,31,213.0,30,20.9,12.1,7.9,2.1,0.534,0.351,0.705
+Nia Mensah,Old Port Anchors,Center,2022,32,210.0,30,34.0,19.3,11.0,2.3,0.51,0.34,0.808
+Jalen Duarte,Harbor City Gulls,Center,2022,33,207.0,40,25.1,14.5,8.8,1.1,0.52,,0.874
+Aisha Diallo,Riverton Rapids,Guard,2022,34,186.0,38,24.7,9.5,2.8,4.6,0.4,0.366,0.833
+Malik Kim,Riverton Rapids,Center,2022,35,209.0,26,25.1,17.2,7.1,2.0,0.563,,0.818
+Chloe Adeyemi,Maple Valley Owls,Guard,2022,22,186.0,25,32.9,20.5,2.9,5.7,0.431,0.407,0.611
+Jalen Adeyemi,Lighthouse Beacons,Forward,2022,23,208.0,29,25.3,12.2,5.0,2.6,0.477,0.367,0.624
+Noah Toure,Harbor City Gulls,Guard,2022,24,189.0,24,17.8,7.1,2.4,2.8,0.412,0.326,0.808
+Malik Kim,Old Port Anchors,Guard,2022,25,183.0,20,32.4,20.5,4.0,6.9,0.481,0.443,0.641
+Andre Ramos,Lighthouse Beacons,Forward,2022,26,196.0,23,29.9,15.6,7.8,2.8,0.444,0.356,0.839
+Chloe Tanaka,North Shore Waves,Forward,2022,27,205.0,21,22.1,8.7,4.1,0.6,0.493,0.335,0.831
+Kofi Moreau,Summit Peaks,Forward,2022,28,202.0,26,14.5,6.1,4.0,2.7,0.457,0.392,0.695
+Noah Grant,Harbor City Gulls,Guard,2022,29,191.0,33,20.1,6.7,2.7,3.8,0.413,0.306,0.826
+Aisha Ramos,Maple Valley Owls,Forward,2022,30,197.0,33,25.4,11.3,4.7,2.5,0.488,0.434,0.874
+Elena Brooks,North Shore Waves,Guard,2022,31,190.0,26,32.4,16.4,3.6,7.1,0.455,0.355,0.744
+Elena Hale,Cedar Park Lynx,Center,2022,32,212.0,28,15.8,8.0,6.5,0.5,0.547,,0.779
+Ravi Okafor,Old Port Anchors,Forward,2022,33,202.0,27,28.6,13.8,7.3,3.0,0.548,0.332,0.835
+Nia Okafor,North Shore Waves,Guard,2022,35,188.0,29,28.0,15.5,3.3,4.3,0.436,0.431,0.765
+Diego Tanaka,Harbor City Gulls,Forward,2022,22,202.0,27,22.7,9.9,4.2,1.5,0.425,0.303,0.814
+Nia Owusu,North Shore Waves,Forward,2022,23,201.0,36,20.6,8.4,3.1,1.5,0.442,0.252,0.777
+Lena Reyes,Summit Peaks,Center,2022,24,210.0,31,23.7,11.4,8.2,0.9,0.52,,0.685
+Aisha Chen,Old Port Anchors,Center,2022,26,207.0,28,31.8,13.2,12.0,0.6,0.566,,0.786
+Malik Brooks,Lighthouse Beacons,Forward,2022,27,200.0,37,36.0,22.1,8.5,2.1,0.492,0.36,0.661
+Leo Reyes,North Shore Waves,Center,2022,28,209.0,31,26.1,12.4,8.6,0.0,0.548,,0.784
+Andre Owusu,Riverton Rapids,Guard,2022,29,190.0,34,26.2,12.6,4.2,4.7,0.422,0.357,0.62
+Imani Hale,Harbor City Gulls,Forward,2022,30,204.0,22,22.7,7.0,6.2,0.9,0.45,0.347,0.875
+Ayo Tanaka,Maple Valley Owls,Center,2022,31,199.0,33,32.5,18.0,10.5,1.6,0.587,,0.624
+Jonah Bennett,Summit Peaks,Center,2022,32,210.0,22,26.3,14.4,8.4,3.0,0.534,0.379,0.731
+Tess Brooks,Cedar Park Lynx,Forward,2022,33,194.0,35,6.0,5.0,1.4,0.3,0.408,0.309,0.789
+Lucas Tanaka,Old Port Anchors,Forward,2022,34,196.0,25,6.0,3.5,3.5,0.0,0.403,0.318,0.776
+Idris Diallo,Lighthouse Beacons,Guard,2022,35,193.0,25,23.5,14.5,2.0,4.7,0.469,0.373,0.674
+Jonah Patel,Riverton Rapids,Guard,2022,21,182.0,23,9.3,0.0,1.0,3.0,0.429,0.346,0.744
+Kofi Sow,Riverton Rapids,Forward,2022,22,201.0,22,21.7,8.0,6.6,1.2,0.483,0.333,0.747
+Mei Haddad,Harbor City Gulls,Guard,2022,23,186.0,21,19.9,9.2,2.4,4.4,0.461,0.315,0.724
+Andre Ramos,Maple Valley Owls,Guard,2022,24,191.0,30,26.2,13.3,2.3,6.4,0.47,0.359,0.705
+Amara Bennett,Summit Peaks,Center,2022,25,220.0,30,28.0,15.3,9.1,1.2,0.531,,0.713
+Idris Novak,Old Port Anchors,Center,2022,26,199.0,28,7.6,4.2,0.8,0.0,0.521,,0.714
+Maya Nguyen,Old Port Anchors,Center,2022,27,210.0,39,21.4,8.0,6.7,2.6,0.571,0.37,0.698
+Elena Chen,Lighthouse Beacons,Guard,2022,28,183.0,25,23.7,13.3,2.7,3.9,0.484,0.379,0.793
+Andre Grant,Riverton Rapids,Guard,2022,30,192.0,35,24.8,10.8,4.3,4.4,0.475,0.33,0.788
+Idris Silva,Maple Valley Owls,Guard,2022,32,184.0,40,13.9,5.2,3.4,2.5,0.422,0.275,0.799
+Mei Mensah,Summit Peaks,Center,2022,33,209.0,37,6.0,0.0,0.3,1.3,0.486,,0.733
+Jalen Toure,Cedar Park Lynx,Guard,2022,34,185.0,26,20.7,9.1,2.2,5.1,0.471,0.377,0.687
+Ayo Adeyemi,Lighthouse Beacons,Guard,2022,21,184.0,37,13.8,8.4,1.5,1.4,0.398,0.364,0.69
+Tariq Nguyen,North Shore Waves,Guard,2022,22,188.0,26,30.2,15.8,3.0,5.1,0.452,0.402,0.727
+Idris Ortiz,Cedar Park Lynx,Guard,2022,23,191.0,32,11.9,6.3,0.9,3.6,0.453,0.329,0.66
+Mei Novak,Maple Valley Owls,Forward,2022,25,198.0,27,16.2,9.2,5.1,1.1,0.456,0.374,0.739
+Sofia Okafor,Cedar Park Lynx,Center,2022,26,211.0,39,31.1,18.4,9.0,1.8,0.548,,0.659
+Ravi Adeyemi,Cedar Park Lynx,Forward,2022,27,206.0,30,12.2,3.9,2.9,0.4,0.466,0.313,0.726
+Tess Hale,Old Port Anchors,Forward,2022,28,196.0,40,31.1,19.3,7.8,2.9,0.504,0.38,0.719
+Ravi Nguyen,Lighthouse Beacons,Center,2022,29,215.0,32,23.4,7.3,8.5,1.2,0.564,,0.842
+Tess Toure,North Shore Waves,Guard,2022,30,184.0,29,35.3,21.7,5.4,5.9,0.503,0.425,0.714
+Noah Moreau,Riverton Rapids,Forward,2023,22,201.0,28,18.4,6.0,3.3,0.4,0.464,0.323,0.785
+Imani Brooks,Harbor City Gulls,Guard,2023,23,184.0,29,33.9,16.9,3.4,4.7,0.471,0.424,0.779
+Lucas Nguyen,Maple Valley Owls,Center,2023,24,213.0,22,25.5,13.3,8.5,1.9,0.592,,0.81
+Tariq Brooks,Summit Peaks,Guard,2023,25,179.0,25,19.8,11.1,0.9,3.5,0.44,0.326,0.782
+Sofia Chen,Cedar Park Lynx,Guard,2023,26,182.0,27,21.7,7.6,2.7,3.4,0.416,0.382,0.911
+Sofia Okafor,Old Port Anchors,Center,2023,27,206.0,35,20.3,8.6,5.3,0.9,0.56,,0.799
+Mei Novak,Lighthouse Beacons,Center,2023,28,219.0,29,31.7,16.4,11.5,1.3,0.538,,0.687
+Diego Chen,North Shore Waves,Center,2023,29,216.0,38,27.7,14.1,8.2,0.0,0.574,0.331,0.804
+Jalen Ortiz,Riverton Rapids,Forward,2023,30,206.0,20,27.8,11.2,6.3,2.4,0.452,0.34,0.727
+Priya Kim,Summit Peaks,Center,2023,31,216.0,25,34.4,18.7,10.2,1.5,0.581,,0.751
+Imani Adeyemi,Maple Valley Owls,Center,2023,32,209.0,30,12.0,3.4,4.9,0.4,0.527,,0.658
+Aisha Silva,Summit Peaks,Guard,2023,33,187.0,22,28.6,17.0,4.6,5.9,0.486,0.404,0.838
+Nia Sow,Cedar Park Lynx,Forward,2023,34,198.0,24,13.7,4.0,3.1,0.9,0.462,0.325,0.783
+Zara Kamara,Old Port Anchors,Guard,2023,35,192.0,36,23.5,10.0,1.3,3.3,0.384,0.293,0.639
+Chloe Ortiz,Lighthouse Beacons,Center,2023,36,210.0,39,17.8,5.6,5.7,0.1,0.524,,0.73
+Ravi Reyes,North Shore Waves,Forward,2023,22,195.0,32,34.0,16.3,7.4,3.5,0.515,0.333,0.723
+Rosa Chen,Harbor City Gulls,Center,2023,24,212.0,30,25.3,13.0,8.4,2.1,0.523,,0.801
+Nia Kim,Maple Valley Owls,Forward,2023,25,199.0,36,12.2,6.1,2.6,1.8,0.43,0.309,0.675
+Tariq Ortiz,Summit Peaks,Forward,2023,26,206.0,31,17.7,6.0,4.7,1.2,0.469,0.334,0.774
+Ravi Diallo,Cedar Park Lynx,Guard,2023,27,194.0,37,20.5,7.7,1.8,3.5,0.414,0.354,0.833
+Maya Grant,Old Port Anchors,Guard,2023,28,190.0,39,24.5,11.4,2.9,4.2,0.451,0.372,0.657
+Priya Haddad,Lighthouse Beacons,Center,2023,29,214.0,26,11.2,0.0,3.6,2.2,0.504,,0.84
+Jalen Owusu,Riverton Rapids,Forward,2023,31,197.0,30,26.0,14.5,6.6,1.9,0.444,0.325,0.773
+Fatou Ramos,Maple Valley Owls,Forward,2023,33,206.0,35,25.0,13.1,6.1,2.4,0.436,0.338,0.772
+Kai Ortiz,Summit Peaks,Guard,2023,34,184.0,20,27.7,10.1,4.3,4.3,0.422,0.389,0.738
+Zara Park,Cedar Park Lynx,Guard,2023,35,188.0,23,27.9,11.4,1.9,6.0,0.421,0.414,0.774
+Chloe Moreau,Maple Valley Owls,Guard,2023,36,186.0,23,17.7,6.2,1.9,3.8,0.459,0.284,0.767
+Priya Haddad,Lighthouse Beacons,Guard,2023,22,185.0,20,16.9,8.3,0.6,4.3,0.451,0.337,0.772
+Rosa Haddad,Harbor City Gulls,Guard,2023,23,187.0,24,13.8,6.9,1.6,2.4,0.446,0.373,0.742
+Lucas Grant,Riverton Rapids,Guard,2023,24,185.0,32,23.6,12.8,2.6,4.0,0.477,0.351,0.743
+Fatou Brooks,Harbor City Gulls,Center,2023,25,210.0,32,24.4,13.3,7.4,1.0,0.54,0.37,0.899
+Noah Moreau,Maple Valley Owls,Center,2023,26,221.0,33,8.1,0.0,0.4,0.0,0.479,,0.784
+Lena Ramos,Summit Peaks,Guard,2023,27,190.0,24,26.9,12.4,2.8,5.8,0.418,0.398,0.757
+Noah Brooks,Old Port Anchors,Center,2023,29,212.0,22,12.2,6.8,2.9,0.6,0.562,,0.724
+Nia Silva,Lighthouse Beacons,Guard,2023,30,190.0,30,29.6,15.2,2.1,5.1,0.484,0.326,0.744
+Amara Brooks,North Shore Waves,Forward,2023,31,197.0,22,18.5,8.8,5.0,2.1,0.423,0.298,0.568
+Ayo Brooks,Riverton Rapids,Forward,2023,32,196.0,23,24.4,9.6,4.1,2.2,0.487,0.379,0.712
+Diego Okafor,Harbor City Gulls,Guard,2023,33,190.0,39,8.6,2.6,1.1,2.5,0.441,0.233,0.602
+Maya Moreau,Maple Valley Owls,Guard,2023,34,191.0,31,12.3,3.0,1.9,1.7,0.444,0.356,0.831
+Ayo Okafor,Summit Peaks,Forward,2023,35,205.0,35,27.3,12.0,7.1,1.9,0.482,0.398,0.711
+Nia Haddad,Old Port Anchors,Guard,2023,22,181.0,31,32.6,14.5,4.3,7.7,0.477,0.381,0.648
+Jalen Park,Lighthouse Beacons,Guard,2023,23,190.0,37,15.7,2.3,0.6,2.0,0.392,0.349,0.73
+Noah Nguyen,North Shore Waves,Guard,2023,24,183.0,31,17.4,5.7,3.4,2.8,0.44,0.377,0.651
+Kofi Park,Riverton Rapids,Center,2023,25,206.0,24,33.7,20.9,11.7,0.7,0.567,,0.753
+Tariq Brooks,Harbor City Gulls,Guard,2023,26,189.0,25,21.9,12.2,4.4,3.1,0.429,0.329,0.847
+Leo Ibrahim,Summit Peaks,Forward,2023,27,198.0,37,23.6,9.0,4.2,1.7,0.456,0.3,0.815
+Lena Silva,Summit Peaks,Guard,2023,28,188.0,37,22.7,8.3,2.4,3.5,0.408,0.353,0.697
+Maya Moreau,Cedar Park Lynx,Center,2023,29,211.0,36,30.2,14.4,9.6,1.9,0.504,,0.76
+Aisha Brooks,Old Port Anchors,Center,2023,30,208.0,30,26.5,16.0,7.3,0.0,0.589,,0.743
+Elena Ortiz,Lighthouse Beacons,Guard,2023,31,186.0,32,28.9,18.3,4.5,4.9,0.417,0.369,0.833
+Amara Sow,North Shore Waves,Guard,2023,32,185.0,22,32.5,17.8,5.8,5.8,0.501,0.298,0.718
+Nia Chen,Riverton Rapids,Center,2023,33,213.0,28,17.0,7.6,5.7,1.0,0.469,,0.686
+Ravi Nguyen,Harbor City Gulls,Forward,2023,34,205.0,40,32.8,19.7,4.4,2.6,0.486,0.358,0.779
+Amara Kim,Summit Peaks,Forward,2023,36,202.0,37,20.4,6.5,4.8,3.2,0.453,0.34,0.748
+Malik Owusu,Harbor City Gulls,Guard,2023,22,195.0,32,16.6,10.1,1.0,3.9,0.441,0.327,0.724
+Noah Haddad,Old Port Anchors,Guard,2023,23,189.0,35,22.6,12.8,2.4,4.2,0.457,0.378,0.879
+Diego Mensah,Lighthouse Beacons,Forward,2023,24,202.0,29,34.0,18.3,7.8,3.2,0.434,0.319,0.576
+Sofia Okafor,North Shore Waves,Forward,2023,25,195.0,39,29.6,13.3,6.6,1.3,0.508,0.349,0.736
+Kai Okafor,Harbor City Gulls,Forward,2023,27,206.0,36,25.0,10.6,6.0,1.4,0.432,0.379,0.756
+Fatou Patel,Maple Valley Owls,Forward,2023,28,200.0,23,23.2,10.9,6.0,2.5,0.489,0.403,0.822
+Idris Haddad,Summit Peaks,Center,2023,29,213.0,38,32.9,22.7,9.1,1.3,0.531,,0.763
+Elena Sow,Cedar Park Lynx,Guard,2023,30,187.0,38,14.0,8.8,1.6,2.2,0.449,0.335,0.791
+Priya Kamara,Lighthouse Beacons,Guard,2023,32,193.0,31,19.6,7.8,0.9,2.3,0.462,0.389,0.805
+Omar Tanaka,North Shore Waves,Forward,2023,33,203.0,31,20.1,7.5,3.7,2.8,0.503,0.311,0.735
+Diego Nguyen,Riverton Rapids,Forward,2023,34,202.0,31,30.8,13.3,7.5,2.9,0.493,0.424,0.828
+Nia Mensah,Harbor City Gulls,Guard,2023,35,187.0,28,25.9,11.0,4.7,4.3,0.467,0.414,0.759
+Imani Diallo,Maple Valley Owls,Forward,2023,36,199.0,30,29.6,15.2,7.1,2.2,0.482,0.424,0.782
+Ayo Adeyemi,Summit Peaks,Guard,2023,22,186.0,40,16.2,5.7,2.4,3.7,0.458,0.324,0.725
+Aisha Mensah,Old Port Anchors,Forward,2023,24,190.0,31,23.5,11.4,3.8,2.4,0.498,0.358,0.87
+Zara Mensah,Lighthouse Beacons,Forward,2023,25,202.0,25,17.9,5.0,3.6,1.4,0.487,0.333,0.666
+Malik Ortiz,Riverton Rapids,Center,2023,27,210.0,24,17.9,8.0,5.8,1.5,0.575,0.36,0.706
+Maya Patel,Harbor City Gulls,Forward,2023,28,196.0,20,25.0,11.5,5.9,0.9,0.442,0.422,0.812
+Tess Duarte,Maple Valley Owls,Guard,2023,29,186.0,37,18.0,7.7,2.5,2.6,0.487,0.337,0.772
+Fatou Owusu,Summit Peaks,Guard,2023,30,192.0,27,33.2,21.4,3.1,6.6,0.407,0.48,0.876
+Amara Chen,Cedar Park Lynx,Center,2023,31,204.0,22,30.3,14.3,10.6,1.2,0.576,,0.865
+Ayo Adeyemi,Lighthouse Beacons,Guard,2023,33,185.0,22,13.5,2.7,0.3,1.9,0.421,0.318,0.702
+Noah Park,North Shore Waves,Forward,2023,34,201.0,21,28.5,10.1,6.4,1.9,0.481,0.325,0.763
+Diego Ibrahim,Riverton Rapids,Guard,2023,35,183.0,29,16.4,6.1,2.2,1.8,0.424,0.306,0.839
+Omar Mensah,Harbor City Gulls,Center,2023,36,217.0,21,9.0,1.3,3.5,1.8,0.521,,0.686
+Ayo Kim,Maple Valley Owls,Forward,2023,22,203.0,34,24.3,12.8,3.2,2.4,0.467,0.389,0.72
+Chloe Moreau,Summit Peaks,Guard,2023,23,178.0,25,21.5,11.8,3.7,4.0,0.443,0.332,0.746
+Jonah Kim,North Shore Waves,Forward,2023,24,198.0,21,18.1,7.3,5.6,1.7,0.423,0.331,0.685
+Fatou Toure,Old Port Anchors,Center,2023,25,212.0,34,22.4,11.4,6.7,0.4,0.539,,0.798
+Noah Tanaka,Lighthouse Beacons,Guard,2023,26,190.0,35,17.9,5.8,0.2,2.2,0.444,0.366,0.887
+Malik Chen,North Shore Waves,Center,2023,27,217.0,31,31.9,20.5,10.6,2.6,0.581,,0.806
+Mei Novak,Riverton Rapids,Guard,2023,28,196.0,31,24.0,11.5,3.5,4.6,0.435,0.36,0.765
+Nia Park,Harbor City Gulls,Guard,2023,29,189.0,39,21.0,7.4,1.2,2.7,0.49,0.376,0.777
+Priya Mensah,Maple Valley Owls,Forward,2023,30,204.0,35,14.6,5.1,3.6,2.3,0.393,0.353,0.58
+Malik Ibrahim,Summit Peaks,Forward,2023,31,208.0,32,19.6,9.7,4.2,1.2,0.458,0.411,0.683
+Chloe Kamara,Cedar Park Lynx,Center,2023,32,210.0,31,25.2,14.2,8.3,0.9,0.571,,0.776
+Nia Mensah,Old Port Anchors,Center,2023,33,209.0,31,27.7,13.8,8.8,1.6,0.577,,0.758
+Jalen Duarte,Lighthouse Beacons,Center,2023,34,207.0,39,24.5,13.0,8.9,2.8,0.563,,0.861
+Aisha Diallo,North Shore Waves,Guard,2023,35,189.0,27,14.7,5.4,0.4,2.4,0.376,0.362,0.72
+Malik Kim,Riverton Rapids,Center,2023,36,209.0,31,37.2,19.6,11.7,1.2,0.557,,0.781
+Diego Nguyen,Harbor City Gulls,Guard,2023,22,193.0,28,26.7,11.8,2.3,3.5,0.427,0.324,0.824
+Chloe Adeyemi,Maple Valley Owls,Guard,2023,23,193.0,29,25.4,9.4,3.1,2.4,0.425,0.378,0.726
+Jalen Adeyemi,Summit Peaks,Forward,2023,24,203.0,40,26.9,10.6,5.6,2.3,0.461,0.282,0.706
+Noah Toure,Cedar Park Lynx,Guard,2023,25,183.0,28,11.8,1.9,1.3,1.0,0.47,0.332,0.835
+Malik Kim,Old Port Anchors,Guard,2023,26,187.0,36,28.8,18.0,3.0,5.2,0.479,0.388,0.756
+Andre Ramos,Lighthouse Beacons,Forward,2023,27,202.0,24,23.5,11.4,6.8,0.8,0.508,0.37,0.792
+Chloe Tanaka,North Shore Waves,Forward,2023,28,204.0,39,17.7,6.3,1.9,1.3,0.478,0.365,0.709
+Kofi Moreau,Riverton Rapids,Forward,2023,29,202.0,25,14.9,3.9,4.2,1.2,0.428,0.368,0.806
+Noah Grant,Harbor City Gulls,Guard,2023,30,183.0,40,18.9,7.6,0.5,2.6,0.4,0.406,0.785
+Aisha Ramos,Maple Valley Owls,Forward,2023,31,197.0,34,20.7,12.4,4.3,2.5,0.448,0.32,0.768
+Elena Brooks,Summit Peaks,Guard,2023,32,185.0,29,24.9,10.8,3.0,4.7,0.463,0.426,0.848
+Ravi Okafor,Old Port Anchors,Forward,2023,34,202.0,28,33.5,18.0,5.7,3.3,0.464,0.373,0.731
+Idris Silva,Lighthouse Beacons,Forward,2023,35,206.0,32,27.4,13.0,6.3,2.3,0.499,0.33,0.718
+Nia Okafor,North Shore Waves,Guard,2023,36,192.0,29,29.0,13.3,2.4,3.7,0.45,0.373,0.733
+Elena Owusu,Riverton Rapids,Forward,2023,22,200.0,30,17.0,6.7,3.8,0.4,0.485,0.395,0.818
+Diego Tanaka,Harbor City Gulls,Forward,2023,23,201.0,31,19.6,4.7,5.0,0.8,0.398,0.342,0.696
+Nia Owusu,Maple Valley Owls,Forward,2023,24,204.0,37,9.1,2.5,2.5,0.1,0.473,0.315,0.787
+Lena Reyes,Summit Peaks,Center,2023,25,217.0,20,18.2,4.6,5.9,0.0,0.511,0.397,0.833
+Diego Hale,Cedar Park Lynx,Center,2023,26,211.0,23,17.0,6.7,7.0,1.7,0.549,0.338,0.774
+Aisha Chen,Old Port Anchors,Center,2023,27,202.0,23,24.8,11.2,7.9,1.3,0.575,,0.711
+Malik Brooks,Lighthouse Beacons,Forward,2023,28,197.0,21,32.2,15.5,6.5,1.9,0.449,0.332,0.911
+Imani Hale,Maple Valley Owls,Forward,2023,31,197.0,20,14.9,7.8,3.3,0.4,0.409,0.308,0.873
+Ayo Tanaka,Maple Valley Owls,Center,2023,32,212.0,23,25.7,16.5,8.3,0.9,0.559,,0.772
+Jonah Bennett,Summit Peaks,Center,2023,33,203.0,35,22.0,13.0,7.7,0.7,0.566,,0.655
+Tess Brooks,Cedar Park Lynx,Forward,2023,34,194.0,28,8.5,5.0,2.5,0.5,0.439,0.285,0.732
+Lucas Tanaka,Old Port Anchors,Forward,2023,35,204.0,21,13.6,4.0,1.6,1.3,0.478,0.393,0.782
+Idris Diallo,Lighthouse Beacons,Guard,2023,36,193.0,26,21.1,7.1,3.4,4.0,0.403,0.36,0.753
+Jonah Patel,North Shore Waves,Guard,2023,22,187.0,28,23.1,9.1,1.6,3.7,0.428,0.426,0.701
+Kofi Sow,Riverton Rapids,Forward,2023,23,196.0,20,17.6,7.2,4.8,1.2,0.413,0.35,0.745
+Mei Haddad,Harbor City Gulls,Guard,2023,24,193.0,39,18.5,6.9,1.5,3.3,0.455,0.338,0.874
+Andre Ramos,Maple Valley Owls,Guard,2023,25,191.0,29,17.4,6.5,2.5,2.5,0.455,0.325,0.707
+Amara Bennett,Summit Peaks,Center,2023,26,213.0,27,25.1,13.1,5.7,2.0,0.532,,0.764
+Idris Novak,Cedar Park Lynx,Center,2023,27,213.0,31,6.0,0.0,1.8,1.3,0.51,0.268,0.827
+Maya Nguyen,Old Port Anchors,Center,2023,28,211.0,37,26.7,14.3,7.9,1.9,0.512,0.296,0.674
+Elena Chen,Lighthouse Beacons,Guard,2023,29,190.0,31,27.7,14.6,2.3,5.0,0.446,0.366,0.805
+Rosa Hale,Cedar Park Lynx,Guard,2023,30,183.0,40,20.2,8.5,2.3,3.7,0.414,0.387,0.732
+Andre Grant,Riverton Rapids,Guard,2023,31,192.0,20,15.6,9.2,1.8,2.9,0.456,0.392,0.753
+Idris Silva,Maple Valley Owls,Guard,2023,33,194.0,28,24.7,10.0,2.1,4.1,0.382,0.25,0.69
+Mei Mensah,Summit Peaks,Center,2023,34,213.0,26,17.2,5.4,5.0,0.0,0.552,,0.534
+Jalen Toure,Cedar Park Lynx,Guard,2023,35,187.0,26,21.5,7.0,0.2,4.1,0.389,0.341,0.754
+Amara Ibrahim,Old Port Anchors,Center,2023,36,213.0,28,25.8,13.0,8.8,1.8,0.589,0.391,0.813
+Ayo Adeyemi,Lighthouse Beacons,Guard,2023,22,186.0,36,16.9,11.0,2.8,3.3,0.36,0.279,0.712
+Idris Ortiz,Riverton Rapids,Guard,2023,24,189.0,33,18.7,6.0,0.7,1.2,0.421,0.38,0.806
+Tariq Ramos,Harbor City Gulls,Forward,2023,25,208.0,33,26.5,13.3,6.6,2.7,0.534,0.335,0.541
+Mei Novak,Maple Valley Owls,Forward,2023,26,206.0,34,28.6,14.5,6.6,1.6,0.519,0.362,0.759
+Sofia Okafor,Summit Peaks,Center,2023,27,213.0,22,28.6,13.8,9.5,2.4,0.527,,0.816
+Ravi Adeyemi,Lighthouse Beacons,Forward,2023,28,208.0,22,18.7,5.7,4.3,2.5,0.414,0.334,0.613
+Tess Hale,Harbor City Gulls,Forward,2023,29,198.0,39,29.1,16.8,6.4,1.5,0.505,0.412,0.756
+Ravi Nguyen,Lighthouse Beacons,Center,2023,30,206.0,40,25.5,11.4,6.6,1.0,0.556,,0.827
+Noah Moreau,Riverton Rapids,Forward,2024,23,199.0,24,18.4,8.2,3.4,2.9,0.442,0.32,0.763
+Imani Brooks,Harbor City Gulls,Guard,2024,24,181.0,37,30.1,17.1,3.2,5.2,0.436,0.35,0.742
+Lucas Nguyen,Maple Valley Owls,Center,2024,25,214.0,28,18.6,12.3,4.9,0.0,0.565,,0.834
+Tariq Brooks,Summit Peaks,Guard,2024,26,183.0,22,18.0,10.6,2.5,2.0,0.412,0.35,0.796
+Sofia Okafor,Summit Peaks,Center,2024,28,208.0,36,22.5,9.7,7.4,0.9,0.578,0.408,0.599
+Mei Novak,Lighthouse Beacons,Center,2024,29,209.0,34,25.2,13.4,8.1,2.8,0.579,,0.855
+Diego Chen,North Shore Waves,Center,2024,30,212.0,28,20.3,10.5,5.7,0.6,0.602,,0.737
+Jalen Ortiz,Riverton Rapids,Forward,2024,31,207.0,29,27.3,12.7,4.3,1.6,0.5,0.344,0.694
+Priya Kim,Harbor City Gulls,Center,2024,32,212.0,27,25.4,14.4,9.2,0.9,0.584,0.389,0.716
+Aisha Silva,Summit Peaks,Guard,2024,34,184.0,29,35.9,20.6,5.4,6.9,0.44,0.383,0.798
+Nia Sow,Cedar Park Lynx,Forward,2024,35,203.0,40,17.0,2.9,4.4,2.0,0.447,0.256,0.732
+Zara Kamara,Old Port Anchors,Guard,2024,36,189.0,21,21.1,10.4,1.7,3.0,0.436,0.398,0.803
+Chloe Ortiz,Lighthouse Beacons,Center,2024,37,215.0,35,19.0,9.4,5.2,0.0,0.508,0.311,0.74
+Ravi Reyes,North Shore Waves,Forward,2024,23,198.0,36,19.5,7.2,5.3,0.2,0.529,0.435,0.721
+Lucas Reyes,Lighthouse Beacons,Guard,2024,24,192.0,36,23.6,10.7,2.7,4.0,0.511,0.329,0.807
+Rosa Chen,Harbor City Gulls,Center,2024,25,210.0,37,20.8,11.4,5.9,0.7,0.562,,0.802
+Ravi Diallo,Old Port Anchors,Guard,2024,28,188.0,35,19.7,8.2,3.4,3.1,0.397,0.357,0.815
+Maya Grant,Old Port Anchors,Guard,2024,29,188.0,35,33.0,16.2,5.6,7.0,0.515,0.378,0.789
+Priya Haddad,Lighthouse Beacons,Center,2024,30,213.0,20,11.0,2.9,1.0,1.1,0.518,,0.777
+Fatou Ibrahim,North Shore Waves,Center,2024,31,216.0,28,18.4,7.2,4.9,0.5,0.613,0.375,0.742
+Jalen Owusu,Riverton Rapids,Forward,2024,32,198.0,39,24.1,7.9,5.5,1.8,0.515,0.301,0.855
+Priya Park,Harbor City Gulls,Forward,2024,33,204.0,38,17.4,9.7,3.6,0.0,0.449,0.284,0.821
+Fatou Ramos,Maple Valley Owls,Forward,2024,34,202.0,36,27.3,16.4,5.4,3.5,0.472,0.402,0.716
+Kai Ortiz,Riverton Rapids,Guard,2024,35,191.0,37,24.9,11.0,3.1,5.0,0.474,0.401,0.673
+Zara Park,Cedar Park Lynx,Guard,2024,36,184.0,36,29.0,13.2,3.3,5.9,0.465,0.356,0.803
+Chloe Moreau,Old Port Anchors,Guard,2024,37,193.0,40,21.9,7.3,2.7,5.6,0.398,0.317,0.787
+Priya Haddad,Lighthouse Beacons,Guard,2024,23,187.0,34,11.8,3.8,0.7,2.4,0.397,0.292,0.788
+Rosa Haddad,North Shore Waves,Guard,2024,24,188.0,21,14.2,6.7,0.0,1.5,0.414,0.406,0.792
+Lucas Grant,Riverton Rapids,Guard,2024,25,191.0,37,27.1,14.7,5.4,4.3,0.444,0.384,0.679
+Lena Ramos,Riverton Rapids,Guard,2024,28,190.0,34,10.7,0.0,0.3,1.6,0.46,0.418,0.789
+Ravi Mensah,Cedar Park Lynx,Forward,2024,29,202.0,25,32.9,18.7,8.2,3.6,0.454,0.406,0.678
+Noah Brooks,Old Port Anchors,Center,2024,30,209.0,20,23.5,8.0,7.2,2.4,0.485,,0.693
+Nia Silva,Lighthouse Beacons,Guard,2024,31,194.0,30,28.2,15.8,3.5,5.7,0.534,0.426,0.633
+Amara Brooks,North Shore Waves,Forward,2024,32,208.0,30,18.6,6.7,4.0,1.3,0.436,0.268,0.876
+Ayo Brooks,Riverton Rapids,Forward,2024,33,209.0,37,26.6,16.3,5.5,0.7,0.476,0.333,0.702
+Diego Okafor,Harbor City Gulls,Guard,2024,34,184.0,33,22.9,8.3,0.6,4.2,0.467,0.342,0.718
+Maya Moreau,Maple Valley Owls,Guard,2024,35,189.0,23,10.0,2.9,1.9,0.5,0.42,0.302,0.876
+Ayo Okafor,Summit Peaks,Forward,2024,36,202.0,28,26.7,11.4,6.2,2.7,0.488,0.416,0.929
+Tariq Mensah,Cedar Park Lynx,Guard,2024,37,181.0,30,20.2,11.3,3.8,4.5,0.45,0.337,0.825
+Nia Haddad,Old Port Anchors,Guard,2024,23,185.0,23,25.0,9.1,2.9,4.1,0.431,0.39,0.654
+Jalen Park,Lighthouse Beacons,Guard,2024,24,185.0,21,9.2,2.8,0.6,1.9,0.44,0.296,0.79
+Noah Nguyen,North Shore Waves,Guard,2024,25,188.0,34,16.3,3.9,1.9,4.5,0.433,0.395,0.734
+Kofi Park,Riverton Rapids,Center,2024,26,213.0,40,24.1,12.9,8.7,0.2,0.566,0.404,0.715
+Leo Ibrahim,Maple Valley Owls,Forward,2024,28,200.0,28,20.4,4.4,4.3,1.4,0.434,0.28,0.778
+Maya Moreau,Cedar Park Lynx,Center,2024,30,212.0,22,26.3,14.0,8.7,1.2,0.55,0.37,0.888
+Aisha Brooks,Old Port Anchors,Center,2024,31,208.0,23,23.2,8.0,8.2,0.9,0.526,0.406,0.813
+Elena Ortiz,Lighthouse Beacons,Guard,2024,32,183.0,34,23.3,13.7,2.6,4.3,0.45,0.314,0.815
+Amara Sow,North Shore Waves,Guard,2024,33,190.0,21,31.7,18.5,3.4,6.9,0.446,0.344,0.704
+Nia Chen,Riverton Rapids,Center,2024,34,212.0,31,17.4,12.2,5.3,1.9,0.532,,0.805
+Ravi Nguyen,Summit Peaks,Forward,2024,35,195.0,37,29.5,17.4,6.8,2.3,0.503,0.353,0.824
+Ravi Moreau,Maple Valley Owls,Center,2024,36,216.0,34,25.5,10.5,9.0,0.5,0.495,0.38,0.83
+Malik Owusu,Cedar Park Lynx,Guard,2024,23,196.0,22,21.6,8.2,2.0,3.8,0.406,0.322,0.705
+Noah Haddad,Old Port Anchors,Guard,2024,24,189.0,28,16.7,7.3,1.3,4.7,0.407,0.28,0.764
+Sofia Okafor,North Shore Waves,Forward,2024,26,199.0,27,23.8,11.0,4.2,3.2,0.466,0.37,0.744
+Aisha Owusu,Riverton Rapids,Center,2024,27,211.0,22,27.2,9.6,7.9,2.6,0.481,,0.774
+Kai Okafor,Harbor City Gulls,Forward,2024,28,201.0,38,20.0,8.7,3.6,2.5,0.39,0.29,0.865
+Fatou Patel,Old Port Anchors,Forward,2024,29,206.0,40,35.5,16.4,8.5,3.0,0.472,0.406,0.575
+Idris Haddad,Summit Peaks,Center,2024,30,211.0,21,33.2,21.7,10.0,1.7,0.593,0.463,0.766
+Elena Sow,Cedar Park Lynx,Guard,2024,31,189.0,40,20.1,8.1,2.7,4.9,0.456,0.372,0.834
+Aisha Moreau,Old Port Anchors,Guard,2024,32,182.0,29,38.0,25.2,3.8,6.4,0.523,0.36,0.757
+Priya Kamara,Lighthouse Beacons,Guard,2024,33,189.0,25,15.3,3.7,1.2,1.5,0.418,0.28,0.832
+Omar Tanaka,North Shore Waves,Forward,2024,34,205.0,25,19.4,5.7,3.6,2.1,0.449,0.329,0.747
+Diego Nguyen,Riverton Rapids,Forward,2024,35,197.0,22,27.3,14.9,5.8,2.6,0.462,0.372,0.728
+Nia Mensah,Harbor City Gulls,Guard,2024,36,194.0,34,26.0,12.4,3.1,6.4,0.427,0.335,0.704
+Imani Diallo,Maple Valley Owls,Forward,2024,37,198.0,31,28.9,17.2,7.1,1.9,0.47,0.318,0.715
+Ayo Adeyemi,Summit Peaks,Guard,2024,23,185.0,23,20.8,11.2,2.4,4.0,0.424,0.29,0.876
+Omar Mensah,Cedar Park Lynx,Guard,2024,24,188.0,34,15.3,7.0,2.4,2.4,0.414,0.299,0.594
+Aisha Mensah,Old Port Anchors,Forward,2024,25,199.0,36,17.3,6.7,4.6,1.1,0.491,0.29,0.76
+Aisha Brooks,North Shore Waves,Forward,2024,27,197.0,33,22.6,9.3,4.4,2.6,0.42,0.32,0.764
+Maya Patel,Harbor City Gulls,Forward,2024,29,195.0,25,27.9,16.3,5.0,2.7,0.488,0.317,0.887
+Tess Duarte,Maple Valley Owls,Guard,2024,30,187.0,34,16.9,8.1,1.6,1.6,0.412,0.336,0.719
+Fatou Owusu,Summit Peaks,Guard,2024,31,185.0,39,36.1,22.1,3.4,5.4,0.505,0.382,0.773
+Amara Chen,Cedar Park Lynx,Center,2024,32,217.0,35,25.9,14.5,7.3,1.7,0.58,,0.736
+Noah Kamara,Old Port Anchors,Forward,2024,33,203.0,38,32.5,20.5,7.1,2.1,0.48,0.409,0.778
+Ayo Adeyemi,Lighthouse Beacons,Guard,2024,34,190.0,30,18.0,2.9,1.9,2.7,0.427,0.315,0.795
+Noah Park,Maple Valley Owls,Forward,2024,35,192.0,28,24.7,16.1,7.2,2.7,0.467,0.393,0.675
+Diego Ibrahim,Riverton Rapids,Guard,2024,36,195.0,22,19.3,7.5,3.7,4.0,0.453,0.356,0.792
+Omar Mensah,Maple Valley Owls,Center,2024,37,210.0,39,8.5,5.9,2.7,0.0,0.544,0.286,0.845
+Ayo Kim,Maple Valley Owls,Forward,2024,23,201.0,39,23.5,13.6,5.8,0.8,0.487,0.299,0.821
+Chloe Moreau,Summit Peaks,Guard,2024,24,181.0,33,23.0,8.3,2.5,3.8,0.43,0.375,0.716
+Jonah Kim,Old Port Anchors,Forward,2024,25,202.0,40,15.9,8.3,4.3,1.5,0.448,0.388,0.74
+Fatou Toure,Old Port Anchors,Center,2024,26,211.0,22,19.7,6.8,6.2,1.4,0.539,,0.63
+Noah Tanaka,Lighthouse Beacons,Guard,2024,27,190.0,21,20.2,6.5,1.2,2.5,0.412,0.288,0.669
+Malik Chen,North Shore Waves,Center,2024,28,207.0,27,24.4,12.4,7.6,1.2,0.558,,0.721
+Mei Novak,Riverton Rapids,Guard,2024,29,191.0,35,26.8,11.6,5.6,4.7,0.445,0.348,0.684
+Nia Park,Harbor City Gulls,Guard,2024,30,188.0,22,21.7,10.3,3.1,3.2,0.418,0.339,0.838
+Priya Mensah,Maple Valley Owls,Forward,2024,31,200.0,25,15.0,4.9,5.3,0.8,0.427,0.305,0.82
+Malik Ibrahim,Summit Peaks,Forward,2024,32,205.0,30,16.3,6.0,2.8,1.3,0.494,0.374,0.718
+Chloe Kamara,Cedar Park Lynx,Center,2024,33,210.0,26,29.5,18.9,8.7,0.8,0.552,0.403,0.718
+Nia Mensah,Old Port Anchors,Center,2024,34,210.0,25,26.4,12.1,9.4,0.3,0.556,,0.745
+Jalen Duarte,Lighthouse Beacons,Center,2024,35,210.0,20,19.8,5.8,7.2,1.1,0.507,0.385,0.81
+Aisha Diallo,North Shore Waves,Guard,2024,36,195.0,24,16.9,7.2,2.8,1.9,0.469,0.306,0.791
+Diego Nguyen,Harbor City Gulls,Guard,2024,23,186.0,25,21.1,10.1,3.5,4.6,0.44,0.367,0.731
+Chloe Adeyemi,Maple Valley Owls,Guard,2024,24,187.0,31,31.1,17.2,4.3,5.2,0.422,0.359,0.785
+Jalen Adeyemi,Summit Peaks,Forward,2024,25,205.0,24,25.1,10.2,6.1,3.3,0.444,0.402,0.767
+Noah Toure,Cedar Park Lynx,Guard,2024,26,192.0,34,8.4,5.7,0.4,2.2,0.47,0.393,0.751
+Malik Kim,Old Port Anchors,Guard,2024,27,184.0,20,33.8,22.7,5.3,5.3,0.447,0.401,0.732
+Andre Ramos,Lighthouse Beacons,Forward,2024,28,197.0,36,20.3,12.0,3.9,1.7,0.516,0.419,0.695
+Chloe Tanaka,Riverton Rapids,Forward,2024,29,199.0,38,16.4,4.8,2.7,1.2,0.515,0.352,0.758
+Kofi Moreau,Riverton Rapids,Forward,2024,30,209.0,39,19.5,8.7,4.9,2.0,0.447,0.345,0.671
+Elena Brooks,Summit Peaks,Guard,2024,33,188.0,27,31.4,16.6,1.5,5.5,0.478,0.38,0.874
+Elena Hale,Cedar Park Lynx,Center,2024,34,214.0,23,20.4,5.7,7.2,0.7,0.571,0.329,0.79
+Ravi Okafor,Harbor City Gulls,Forward,2024,35,197.0,32,34.7,18.7,6.8,2.5,0.44,0.349,0.814
+Idris Silva,Riverton Rapids,Forward,2024,36,198.0,21,19.8,11.5,2.8,2.1,0.452,0.349,0.816
+Nia Okafor,North Shore Waves,Guard,2024,37,189.0,25,31.8,16.0,4.5,6.8,0.418,0.377,0.853
+Elena Owusu,Riverton Rapids,Forward,2024,23,200.0,24,27.4,11.9,4.8,3.2,0.393,0.355,0.668
+Nia Owusu,Maple Valley Owls,Forward,2024,25,211.0,37,23.2,7.1,4.0,0.2,0.457,0.367,0.776
+Lena Reyes,Summit Peaks,Center,2024,26,213.0,34,24.1,10.9,6.8,2.3,0.526,,0.818
+Diego Hale,Cedar Park Lynx,Center,2024,27,207.0,29,18.2,8.3,5.0,1.0,0.534,,0.786
+Aisha Chen,Old Port Anchors,Center,2024,28,214.0,33,21.7,12.3,6.8,0.6,0.576,0.326,0.75
+Malik Brooks,Lighthouse Beacons,Forward,2024,29,202.0,40,35.6,19.2,9.0,3.9,0.51,0.424,0.781
+Leo Reyes,Harbor City Gulls,Center,2024,30,215.0,34,29.8,11.7,10.0,1.9,0.556,,0.685
+Ayo Tanaka,Maple Valley Owls,Center,2024,33,208.0,31,25.2,15.0,7.1,2.1,0.565,,0.676
+Jonah Bennett,Summit Peaks,Center,2024,34,209.0,37,29.6,12.2,10.1,2.2,0.532,,0.613
+Tess Brooks,Cedar Park Lynx,Forward,2024,35,204.0,26,17.8,6.3,4.6,1.6,0.431,0.327,0.732
+Lucas Tanaka,Old Port Anchors,Forward,2024,36,205.0,20,12.1,1.2,4.2,2.5,0.453,0.335,0.65
+Idris Diallo,Lighthouse Beacons,Guard,2024,37,183.0,40,30.2,12.7,4.1,6.1,0.478,0.405,0.689
+Kofi Sow,Riverton Rapids,Forward,2024,24,201.0,22,22.6,8.1,5.6,3.9,0.476,0.346,0.777
+Mei Haddad,Harbor City Gulls,Guard,2024,25,194.0,39,15.5,2.0,2.6,1.8,0.417,0.278,0.742
+Andre Ramos,Maple Valley Owls,Guard,2024,26,190.0,30,20.1,10.9,1.8,2.8,0.42,0.39,0.666
+Amara Bennett,Summit Peaks,Center,2024,27,207.0,20,33.6,19.1,9.4,2.4,0.534,0.358,0.792
+Idris Novak,Cedar Park Lynx,Center,2024,28,211.0,29,10.1,3.8,4.3,0.0,0.541,,0.809
+Maya Nguyen,Old Port Anchors,Center,2024,29,212.0,33,19.2,6.5,7.6,1.9,0.509,,0.72
+Elena Chen,Lighthouse Beacons,Guard,2024,30,193.0,24,30.1,18.0,5.0,5.4,0.504,0.373,0.754
+Rosa Hale,North Shore Waves,Guard,2024,31,189.0,37,9.3,3.2,2.2,1.2,0.428,0.389,0.624
+Andre Grant,Riverton Rapids,Guard,2024,32,181.0,20,26.0,13.6,2.6,5.8,0.506,0.386,0.669
+Noah Mensah,Harbor City Gulls,Forward,2024,33,201.0,33,9.8,1.4,0.4,0.0,0.483,0.263,0.839
+Idris Silva,Maple Valley Owls,Guard,2024,34,185.0,22,17.5,6.8,2.1,0.9,0.419,0.301,0.68
+Mei Mensah,Summit Peaks,Center,2024,35,213.0,23,9.9,2.9,2.5,0.8,0.558,,0.766
+Jalen Toure,Summit Peaks,Guard,2024,36,188.0,32,17.0,7.6,1.4,2.9,0.418,0.33,0.715
+Amara Ibrahim,Old Port Anchors,Center,2024,37,211.0,33,27.4,11.0,10.9,0.9,0.528,,0.897
+Ayo Adeyemi,Lighthouse Beacons,Guard,2024,23,185.0,24,16.8,7.2,1.8,3.8,0.435,0.346,0.827
+Tariq Ramos,Harbor City Gulls,Forward,2024,26,207.0,36,19.5,8.1,3.7,1.6,0.442,0.223,0.875
+Mei Novak,Maple Valley Owls,Forward,2024,27,203.0,27,21.0,10.7,4.8,3.7,0.475,0.371,0.64
+Tess Hale,Old Port Anchors,Forward,2024,30,202.0,25,25.3,13.2,5.3,1.7,0.513,0.316,0.712
+Tess Toure,North Shore Waves,Guard,2024,32,182.0,29,30.7,19.9,5.3,5.9,0.467,0.402,0.889
+Imani Brooks,Riverton Rapids,Guard,2025,25,191.0,29,23.0,9.4,3.8,2.6,0.393,0.278,0.754
+Lucas Nguyen,Maple Valley Owls,Center,2025,26,220.0,32,21.0,8.8,6.7,1.9,0.518,0.309,0.701
+Tariq Brooks,Summit Peaks,Guard,2025,27,194.0,38,17.7,10.4,1.5,1.5,0.441,0.326,0.833
+Sofia Chen,Cedar Park Lynx,Guard,2025,28,187.0,28,15.0,5.7,2.9,3.7,0.449,0.305,0.784
+Sofia Okafor,Old Port Anchors,Center,2025,29,201.0,36,26.5,10.5,8.7,1.8,0.537,,0.753
+Mei Novak,Lighthouse Beacons,Center,2025,30,213.0,24,26.2,18.3,10.7,0.4,0.58,,0.766
+Diego Chen,North Shore Waves,Center,2025,31,209.0,22,21.1,9.3,6.2,1.7,0.507,,0.784
+Jalen Ortiz,Maple Valley Owls,Forward,2025,32,198.0,28,23.6,10.7,2.7,1.2,0.454,0.325,0.741
+Priya Kim,Harbor City Gulls,Center,2025,33,212.0,28,29.2,16.9,10.0,2.6,0.565,,0.706
+Nia Sow,Cedar Park Lynx,Forward,2025,36,205.0,39,16.6,6.4,5.3,0.7,0.475,0.381,0.95
+Zara Kamara,Lighthouse Beacons,Guard,2025,37,185.0,38,24.3,9.7,3.2,3.2,0.422,0.331,0.814
+Ravi Reyes,North Shore Waves,Forward,2025,24,199.0,31,28.6,18.9,5.5,1.8,0.53,0.406,0.733
+Lucas Reyes,Riverton Rapids,Guard,2025,25,193.0,34,20.3,6.4,3.7,3.7,0.413,0.391,0.848
+Rosa Chen,Harbor City Gulls,Center,2025,26,211.0,30,22.3,9.8,5.8,0.4,0.533,,0.797
+Nia Kim,Maple Valley Owls,Forward,2025,27,204.0,35,15.8,5.9,3.5,2.4,0.476,0.328,0.757
+Tariq Ortiz,Summit Peaks,Forward,2025,28,199.0,32,15.6,7.3,4.2,1.0,0.488,0.352,0.832
+Ravi Diallo,Cedar Park Lynx,Guard,2025,29,188.0,37,13.6,8.1,2.4,2.3,0.443,0.384,0.878
+Maya Grant,Old Port Anchors,Guard,2025,30,194.0,21,29.3,14.0,2.7,4.4,0.443,0.279,0.693
+Priya Haddad,Lighthouse Beacons,Center,2025,31,216.0,32,17.3,3.5,6.8,2.0,0.511,,0.754
+Jalen Owusu,Riverton Rapids,Forward,2025,33,203.0,37,22.8,11.5,5.7,1.3,0.468,0.304,0.816
+Priya Park,Harbor City Gulls,Forward,2025,34,194.0,34,16.5,4.2,4.2,1.4,0.462,0.303,0.789
+Fatou Ramos,Maple Valley Owls,Forward,2025,35,200.0,29,30.9,15.1,8.6,1.4,0.526,0.359,0.698
+Kai Ortiz,Summit Peaks,Guard,2025,36,188.0,38,29.4,11.8,1.4,5.2,0.45,0.349,0.95
+Chloe Moreau,Old Port Anchors,Guard,2025,38,199.0,25,9.3,1.4,0.6,0.2,0.462,0.322,0.834
+Rosa Haddad,North Shore Waves,Guard,2025,25,189.0,25,21.6,6.8,3.7,3.4,0.406,0.438,0.818
+Lucas Grant,Riverton Rapids,Guard,2025,26,190.0,37,19.4,7.5,2.9,3.6,0.441,0.371,0.685
+Fatou Brooks,Harbor City Gulls,Center,2025,27,211.0,34,27.2,13.4,7.9,2.1,0.538,,0.723
+Lena Ramos,Summit Peaks,Guard,2025,29,182.0,33,18.3,7.8,0.0,2.9,0.472,0.295,0.8
+Ravi Mensah,Cedar Park Lynx,Forward,2025,30,199.0,34,30.0,16.2,7.5,2.6,0.456,0.38,0.759
+Noah Brooks,Old Port Anchors,Center,2025,31,220.0,32,15.9,3.6,5.3,1.6,0.563,,0.751
+Nia Silva,Lighthouse Beacons,Guard,2025,32,183.0,27,20.0,9.0,1.9,3.6,0.484,0.384,0.661
+Amara Brooks,North Shore Waves,Forward,2025,33,198.0,29,15.4,2.3,3.3,1.3,0.451,0.364,0.683
+Ayo Brooks,Riverton Rapids,Forward,2025,34,204.0,25,26.9,15.6,4.9,2.2,0.504,0.297,0.707
+Maya Moreau,Maple Valley Owls,Guard,2025,36,190.0,28,20.4,11.2,2.2,3.4,0.381,0.338,0.867
+Ayo Okafor,Summit Peaks,Forward,2025,37,195.0,23,21.3,12.0,5.1,1.7,0.499,0.287,0.831
+Tariq Mensah,Cedar Park Lynx,Guard,2025,38,186.0,27,17.6,7.4,2.1,2.6,0.48,0.375,0.68
+Nia Haddad,Old Port Anchors,Guard,2025,24,190.0,38,23.2,11.7,3.3,3.3,0.442,0.308,0.741
+Jalen Park,Summit Peaks,Guard,2025,25,193.0,38,15.7,5.5,2.6,1.5,0.384,0.35,0.789
+Noah Nguyen,North Shore Waves,Guard,2025,26,197.0,38,16.9,5.0,0.3,3.1,0.451,0.276,0.622
+Tariq Brooks,Harbor City Gulls,Guard,2025,28,179.0,37,13.9,4.4,1.7,1.0,0.438,0.301,0.751
+Leo Ibrahim,Maple Valley Owls,Forward,2025,29,197.0,37,21.0,6.9,4.4,1.4,0.497,0.315,0.832
+Lena Silva,Summit Peaks,Guard,2025,30,188.0,23,28.5,12.4,2.8,5.1,0.447,0.333,0.801
+Maya Moreau,Cedar Park Lynx,Center,2025,31,216.0,31,27.0,9.6,8.6,1.9,0.543,0.396,0.742
+Aisha Brooks,Old Port Anchors,Center,2025,32,204.0,35,28.5,13.7,8.6,2.5,0.541,,0.891
+Elena Ortiz,Lighthouse Beacons,Guard,2025,33,190.0,21,26.9,14.6,3.4,5.4,0.457,0.406,0.742
+Amara Sow,North Shore Waves,Guard,2025,34,188.0,29,29.0,19.5,4.3,4.5,0.458,0.319,0.738
+Nia Chen,Riverton Rapids,Center,2025,35,206.0,31,20.6,6.8,6.6,1.3,0.531,0.386,0.674
+Ravi Nguyen,Harbor City Gulls,Forward,2025,36,204.0,26,27.5,15.9,3.3,2.7,0.554,0.363,0.73
+Ravi Moreau,Maple Valley Owls,Center,2025,37,220.0,22,19.0,9.6,6.6,0.9,0.529,,0.769
+Amara Kim,Summit Peaks,Forward,2025,38,195.0,22,18.3,8.7,4.2,0.0,0.406,0.35,0.805
+Malik Owusu,Cedar Park Lynx,Guard,2025,24,183.0,37,17.4,9.3,1.7,2.7,0.415,0.376,0.67
+Sofia Okafor,North Shore Waves,Forward,2025,27,205.0,34,19.3,9.1,2.7,1.4,0.521,0.298,0.754
+Aisha Owusu,Riverton Rapids,Center,2025,28,208.0,29,29.5,14.3,8.2,3.2,0.508,,0.82
+Kai Okafor,Harbor City Gulls,Forward,2025,29,202.0,21,11.7,6.4,3.2,0.0,0.437,0.298,0.683
+Fatou Patel,Riverton Rapids,Forward,2025,30,195.0,40,33.7,15.6,8.0,1.7,0.48,0.363,0.931
+Elena Sow,Cedar Park Lynx,Guard,2025,32,187.0,39,11.4,2.1,2.5,1.4,0.448,0.363,0.663
+Priya Kamara,Lighthouse Beacons,Guard,2025,34,191.0,20,23.1,11.1,4.1,3.1,0.426,0.404,0.789
+Nia Mensah,Harbor City Gulls,Guard,2025,37,190.0,26,18.8,8.9,1.5,4.0,0.42,0.345,0.73
+Imani Diallo,Maple Valley Owls,Forward,2025,38,203.0,36,29.4,16.5,6.1,2.2,0.536,0.377,0.747
+Omar Mensah,Cedar Park Lynx,Guard,2025,25,186.0,29,23.5,8.4,3.3,5.8,0.468,0.315,0.754
+Aisha Mensah,Old Port Anchors,Forward,2025,26,200.0,22,26.6,12.9,6.9,0.7,0.471,0.232,0.733
+Zara Mensah,Lighthouse Beacons,Forward,2025,27,195.0,24,20.8,11.6,5.4,1.4,0.471,0.425,0.766
+Aisha Brooks,Summit Peaks,Forward,2025,28,206.0,24,18.8,9.7,3.5,1.4,0.408,0.357,0.776
+Malik Ortiz,Riverton Rapids,Center,2025,29,210.0,37,20.6,6.8,6.6,0.8,0.547,,0.85
+Maya Patel,Harbor City Gulls,Forward,2025,30,205.0,21,31.2,16.5,5.9,2.3,0.527,0.392,0.782
+Tess Duarte,Maple Valley Owls,Guard,2025,31,192.0,36,12.9,6.0,0.7,1.9,0.458,0.42,0.827
+Amara Chen,Cedar Park Lynx,Center,2025,33,209.0,25,24.5,9.5,8.9,0.1,0.579,,0.628
+Noah Kamara,Old Port Anchors,Forward,2025,34,200.0,30,30.9,19.6,7.7,1.3,0.529,0.399,0.775
+Ayo Adeyemi,Lighthouse Beacons,Guard,2025,35,185.0,33,7.7,2.2,0.0,1.4,0.394,0.302,0.873
+Noah Park,North Shore Waves,Forward,2025,36,200.0,35,27.6,15.2,4.2,3.7,0.475,0.353,0.725
+Diego Ibrahim,Riverton Rapids,Guard,2025,37,194.0,27,18.2,12.0,3.7,3.0,0.455,0.372,0.731
+Omar Mensah,Harbor City Gulls,Center,2025,38,203.0,36,8.4,1.9,2.4,1.7,0.534,0.357,0.651
+Ayo Kim,Maple Valley Owls,Forward,2025,24,207.0,32,25.4,11.5,7.6,1.9,0.503,0.416,0.708
+Chloe Moreau,Summit Peaks,Guard,2025,25,180.0,40,18.5,5.8,2.4,1.7,0.439,0.233,0.676
+Jonah Kim,Cedar Park Lynx,Forward,2025,26,198.0,25,18.4,7.0,5.3,2.2,0.387,0.351,0.81
+Noah Tanaka,Lighthouse Beacons,Guard,2025,28,194.0,22,20.7,7.9,2.0,3.7,0.424,0.373,0.706
+Mei Novak,Riverton Rapids,Guard,2025,30,185.0,22,19.5,11.1,1.6,4.6,0.415,0.324,0.606
+Nia Park,Harbor City Gulls,Guard,2025,31,184.0,31,23.4,12.9,3.4,3.6,0.442,0.337,0.707
+Priya Mensah,Maple Valley Owls,Forward,2025,32,202.0,39,9.4,0.0,1.2,0.2,0.414,0.37,0.773
+Malik Ibrahim,Summit Peaks,Forward,2025,33,208.0,21,21.4,7.8,5.1,2.1,0.441,0.316,0.672
+Chloe Kamara,Cedar Park Lynx,Center,2025,34,216.0,39,29.5,17.3,8.5,1.9,0.541,,0.838
+Nia Mensah,Old Port Anchors,Center,2025,35,206.0,25,32.4,17.2,11.3,1.5,0.586,,0.738
+Jalen Duarte,Lighthouse Beacons,Center,2025,36,214.0,32,26.3,13.1,9.8,0.2,0.564,,0.787
+Aisha Diallo,North Shore Waves,Guard,2025,37,193.0,40,22.0,8.2,2.7,3.2,0.425,0.306,0.743
+Malik Kim,Riverton Rapids,Center,2025,38,212.0,40,36.6,26.1,10.5,1.2,0.51,,0.782
+Diego Nguyen,Harbor City Gulls,Guard,2025,24,187.0,33,24.7,15.5,2.3,4.7,0.412,0.321,0.748
+Chloe Adeyemi,Maple Valley Owls,Guard,2025,25,190.0,28,30.8,16.3,2.9,6.0,0.443,0.377,0.731
+Jalen Adeyemi,Summit Peaks,Forward,2025,26,199.0,20,17.7,5.6,5.1,2.6,0.425,0.434,0.709
+Malik Kim,Old Port Anchors,Guard,2025,28,180.0,37,31.9,19.3,3.4,6.0,0.468,0.333,0.715
+Chloe Tanaka,North Shore Waves,Forward,2025,30,206.0,26,28.0,10.6,7.0,2.4,0.527,0.382,0.74
+Kofi Moreau,Riverton Rapids,Forward,2025,31,204.0,36,21.4,10.5,4.5,3.2,0.438,0.326,0.712
+Noah Grant,Harbor City Gulls,Guard,2025,32,190.0,40,21.7,11.0,1.2,3.0,0.399,0.212,0.778
+Aisha Ramos,Maple Valley Owls,Forward,2025,33,202.0,24,22.0,9.8,4.9,1.8,0.454,0.329,0.8
+Elena Hale,Cedar Park Lynx,Center,2025,35,210.0,38,17.3,6.3,7.3,2.0,0.525,,0.803
+Ravi Okafor,Old Port Anchors,Forward,2025,36,200.0,39,31.3,19.4,6.6,2.0,0.49,0.415,0.773
+Idris Silva,Lighthouse Beacons,Forward,2025,37,202.0,24,26.7,16.3,5.1,1.7,0.475,0.355,0.694
+Elena Owusu,Riverton Rapids,Forward,2025,24,208.0,32,19.7,8.9,3.8,0.2,0.436,0.388,0.709
+Nia Owusu,Maple Valley Owls,Forward,2025,26,203.0,26,16.0,8.7,4.8,2.0,0.469,0.315,0.716
+Diego Hale,Riverton Rapids,Center,2025,28,213.0,22,13.6,3.7,4.6,1.9,0.479,0.297,0.711
+Aisha Chen,Old Port Anchors,Center,2025,29,212.0,40,23.1,13.8,5.7,1.8,0.622,,0.72
+Malik Brooks,Lighthouse Beacons,Forward,2025,30,203.0,23,34.7,17.1,8.2,2.5,0.506,0.361,0.814
+Leo Reyes,North Shore Waves,Center,2025,31,211.0,20,28.0,11.3,9.0,1.2,0.573,,0.723
+Imani Hale,North Shore Waves,Forward,2025,33,204.0,31,18.1,4.4,4.5,0.0,0.483,0.376,0.732
+Ayo Tanaka,Maple Valley Owls,Center,2025,34,206.0,24,26.8,14.4,10.4,2.8,0.548,,0.704
+Jonah Bennett,Summit Peaks,Center,2025,35,204.0,34,21.1,7.5,6.3,1.5,0.566,0.341,0.759
+Lucas Tanaka,Old Port Anchors,Forward,2025,37,197.0,35,20.9,5.7,4.6,1.2,0.465,0.402,0.757
+Idris Diallo,Lighthouse Beacons,Guard,2025,38,184.0,22,24.9,14.6,2.3,5.7,0.41,0.37,0.762
+Kofi Sow,Riverton Rapids,Forward,2025,25,193.0,36,26.5,10.3,6.6,1.7,0.501,0.376,0.818
+Mei Haddad,Cedar Park Lynx,Guard,2025,26,193.0,29,15.4,3.1,2.5,2.3,0.418,0.378,0.783
+Idris Novak,Cedar Park Lynx,Center,2025,29,208.0,35,12.1,2.5,3.2,0.3,0.508,,0.778
+Maya Nguyen,Old Port Anchors,Center,2025,30,215.0,27,16.1,7.2,6.9,0.1,0.537,,0.79
+Elena Chen,Lighthouse Beacons,Guard,2025,31,198.0,33,37.4,20.6,3.8,7.5,0.448,0.303,0.765
+Rosa Hale,North Shore Waves,Guard,2025,32,193.0,28,17.2,5.2,1.9,1.9,0.395,0.334,0.763
+Andre Grant,Riverton Rapids,Guard,2025,33,187.0,20,29.2,12.6,1.4,6.2,0.4,0.398,0.699
+Noah Mensah,Harbor City Gulls,Forward,2025,34,198.0,37,6.0,0.8,2.2,0.3,0.432,0.299,0.695
+Idris Silva,Maple Valley Owls,Guard,2025,35,190.0,39,14.2,3.2,2.8,2.9,0.47,0.341,0.741
+Mei Mensah,Summit Peaks,Center,2025,36,207.0,38,12.4,1.6,3.9,0.0,0.512,,0.881
+Jalen Toure,Cedar Park Lynx,Guard,2025,37,183.0,20,12.1,6.3,0.0,1.9,0.427,0.306,0.737
+Amara Ibrahim,Old Port Anchors,Center,2025,38,214.0,33,19.7,10.6,6.0,0.0,0.548,0.254,0.738
+Ayo Adeyemi,Lighthouse Beacons,Guard,2025,24,186.0,36,16.2,4.3,3.5,2.8,0.424,0.392,0.794
+Tariq Nguyen,North Shore Waves,Guard,2025,25,183.0,30,30.5,18.3,2.8,5.5,0.411,0.442,0.72
+Tariq Ramos,Harbor City Gulls,Forward,2025,27,199.0,29,20.1,7.6,4.3,2.0,0.472,0.318,0.788
+Mei Novak,Maple Valley Owls,Forward,2025,28,197.0,29,23.8,10.9,5.5,1.8,0.478,0.365,0.551
+Ravi Adeyemi,Cedar Park Lynx,Forward,2025,30,206.0,36,17.3,9.5,4.8,1.9,0.456,0.315,0.676
+Tess Hale,Old Port Anchors,Forward,2025,31,201.0,37,29.5,18.1,8.1,1.4,0.498,0.395,0.839
+Ravi Nguyen,Lighthouse Beacons,Center,2025,32,211.0,32,16.5,9.3,5.0,1.2,0.461,,0.796
+Tess Toure,North Shore Waves,Guard,2025,33,187.0,28,32.0,15.4,4.1,6.7,0.472,0.412,0.691

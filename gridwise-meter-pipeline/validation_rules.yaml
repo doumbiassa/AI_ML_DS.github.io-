@@ -1,0 +1,20 @@
+# Validation rules for incoming GridWise meter files
+dataset: meter_readings
+target_schema:
+  meter_id: {type: string, pattern: "^MTR-\\d{5}$", must_exist_in: reference/meters.csv}
+  reading_time: {type: datetime, format: "%Y-%m-%d %H:%M", hourly: true}
+  energy_kwh: {type: float, min: 0, max: 500, aliases: [kwh]}
+  voltage: {type: float, min: 200, max: 260, required_from: "2025-06-20"}
+rules:
+  - id: R1
+    description: Each file has exactly one header row and a consistent delimiter (comma).
+  - id: R2
+    description: energy_kwh must be between 0 and 500; values outside go to a quarantine table.
+  - id: R3
+    description: meter_id must exist in the meter registry.
+  - id: R4
+    description: (meter_id, reading_time) is unique across all loaded data; re-sent files must not create duplicates.
+  - id: R5
+    description: Every meter should have 24 readings per day; report meters with gaps.
+  - id: R6
+    description: Every calendar day in the period must be loaded exactly once, including files that arrive late.

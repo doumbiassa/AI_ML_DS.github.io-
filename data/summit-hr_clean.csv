@@ -1,0 +1,1801 @@
+employee_id,department,job_level,age,gender,education,hire_date,salary_usd,bonus_pct,performance_rating,remote_status,training_hours,satisfaction,left_company
+E4000,Marketing,4,36,Female,Bachelor's,2024-05-05,102800,1.7,3,Hybrid,28,3.6,No
+E4001,Customer Support,2,28,Male,Master's,2023-08-02,56300,9.6,3,Hybrid,21,2.9,Yes
+E4002,Sales,5,41,Male,Master's,2024-10-20,125300,2.4,2,Hybrid,15,4.2,No
+E4003,Finance,2,33,Female,Bachelor's,2024-04-25,90700,16.1,2,Remote,15,3.0,Yes
+E4004,Operations,2,26,Male,Bachelor's,2024-07-27,74400,1.5,4,Hybrid,15,5.0,No
+E4005,Sales,2,27,Male,Bachelor's,2025-03-25,69600,2.6,3,On-site,22,5.0,No
+E4006,Data Science,1,26,Female,Bachelor's,2021-09-24,86800,10.6,2,Remote,11,4.8,No
+E4007,Operations,2,29,Female,Bachelor's,2019-07-29,69000,4.7,5,On-site,16,3.7,Yes
+E4008,Finance,3,38,Male,Bachelor's,2024-08-07,108100,2.1,2,Hybrid,27,3.6,No
+E4009,Data Science,3,34,Female,Master's,2022-10-23,145500,6.2,3,Hybrid,12,3.9,No
+E4010,Sales,1,22,Male,Bachelor's,2023-02-11,57800,3.6,4,On-site,20,3.3,Yes
+E4011,Finance,4,38,Female,Bachelor's,2022-06-24,140900,7.5,2,Remote,21,3.8,No
+E4012,Engineering,5,47,Male,Bachelor's,2018-01-17,170700,5.0,3,On-site,16,4.0,No
+E4013,Engineering,2,30,Female,Master's,2019-03-20,104200,10.5,3,Hybrid,16,4.0,No
+E4014,Finance,1,25,Male,High School,2022-01-24,72000,3.2,3,Hybrid,18,4.5,No
+E4015,Operations,2,33,Female,PhD,2023-04-15,64300,10.2,4,Remote,29,4.7,No
+E4016,Data Science,4,42,Male,Bachelor's,2022-07-12,171800,8.5,3,Remote,19,1.3,Yes
+E4017,Data Science,2,33,Male,Bachelor's,2022-06-01,114000,4.6,2,Remote,19,1.4,Yes
+E4018,Marketing,5,37,Female,Master's,2024-05-08,119200,17.1,2,Remote,22,3.8,No
+E4019,Marketing,1,35,Female,High School,2022-06-08,51200,16.2,5,On-site,16,4.2,No
+E4020,Sales,5,44,Female,Bachelor's,2023-03-27,112900,4.8,1,Hybrid,19,3.2,No
+E4021,Data Science,4,44,Male,Bachelor's,2024-11-16,163300,0.4,3,Hybrid,14,4.5,No
+E4022,Sales,1,31,Male,Bachelor's,2018-04-27,55200,14.1,3,Hybrid,22,3.9,No
+E4023,Customer Support,2,27,Female,Master's,2020-09-06,54300,1.5,4,On-site,13,4.3,No
+E4024,Human Resources,3,39,Female,Master's,2021-11-05,75200,5.8,4,On-site,19,3.7,No
+E4025,Engineering,1,22,Male,High School,2018-12-15,85700,4.5,3,On-site,22,3.2,No
+E4026,Customer Support,1,34,Male,Bachelor's,2021-08-14,43400,3.8,5,Hybrid,24,4.6,No
+E4027,Sales,5,44,Female,High School,2019-08-24,121800,4.6,3,On-site,26,4.4,No
+E4028,Customer Support,1,25,Female,High School,2023-04-28,44000,11.3,4,Hybrid,19,3.5,No
+E4029,Human Resources,4,34,Female,Bachelor's,2021-10-01,98400,4.6,3,Hybrid,21,3.2,Yes
+E4030,Sales,2,34,Male,Bachelor's,2024-09-05,81100,7.1,4,On-site,17,3.6,No
+E4031,Finance,3,38,Female,Bachelor's,2019-03-04,105400,2.8,5,Hybrid,18,3.8,No
+E4032,Customer Support,4,36,Male,Bachelor's,2021-12-19,75800,12.3,2,Hybrid,16,4.0,No
+E4033,Finance,2,26,Male,High School,2022-10-19,87600,5.0,4,Hybrid,17,3.6,No
+E4034,Engineering,1,22,Female,Master's,2024-08-28,77200,6.3,2,Hybrid,21,2.5,No
+E4035,Operations,3,34,Female,Bachelor's,2023-08-23,74300,5.7,4,Remote,20,1.0,No
+E4036,Customer Support,2,26,Female,Bachelor's,2023-07-19,52100,4.1,2,Remote,21,3.3,No
+E4037,Engineering,4,32,Male,PhD,2018-10-18,151500,9.6,3,On-site,16,4.6,No
+E4038,Operations,1,33,Non-binary,Bachelor's,2023-07-20,48900,3.0,3,Hybrid,14,4.5,No
+E4039,Customer Support,1,27,Female,High School,2022-01-17,43400,5.6,3,On-site,14,4.1,No
+E4040,Operations,4,31,Male,Bachelor's,2022-03-20,79700,9.0,3,On-site,18,4.3,No
+E4041,Engineering,5,37,Female,Bachelor's,2018-03-11,184400,0.8,3,Hybrid,21,3.9,No
+E4042,Data Science,2,30,Male,Bachelor's,2017-05-20,106400,12.6,3,Hybrid,21,2.8,No
+E4043,Sales,1,27,Male,Master's,2023-07-19,56100,5.7,4,Remote,15,2.7,No
+E4044,Sales,3,37,Male,Master's,2023-11-02,85000,2.7,4,Hybrid,15,4.5,No
+E4045,Finance,2,29,Male,High School,2022-08-06,89200,4.7,4,On-site,18,2.0,No
+E4046,Customer Support,2,31,Male,Bachelor's,2019-10-05,50700,2.5,1,Hybrid,25,4.7,No
+E4047,Customer Support,3,48,Female,Bachelor's,2019-11-20,64300,3.7,4,Hybrid,19,3.4,No
+E4048,Operations,3,37,Male,Master's,2022-02-19,70200,1.9,3,Remote,19,2.4,Yes
+E4049,Engineering,1,23,Female,PhD,2021-03-03,81500,5.5,2,Hybrid,20,2.6,No
+E4050,Sales,2,38,Male,Master's,2024-04-05,75200,13.0,5,On-site,17,3.8,No
+E4051,Operations,1,27,Male,Master's,2023-10-02,41400,4.3,3,Hybrid,15,4.0,No
+E4052,Customer Support,2,29,Male,Bachelor's,2019-11-24,58200,17.1,3,Hybrid,20,2.4,No
+E4053,Finance,1,25,Female,Bachelor's,2011-12-30,67900,22.1,3,On-site,24,3.7,No
+E4054,Engineering,2,30,Female,High School,2015-09-25,108200,2.9,4,Hybrid,17,3.6,No
+E4055,Customer Support,1,25,Male,High School,2024-12-15,39600,7.1,3,On-site,19,2.8,No
+E4056,Data Science,4,46,Female,Bachelor's,2021-10-13,160700,3.2,4,Hybrid,12,3.1,Yes
+E4057,Customer Support,3,22,Female,High School,2019-10-15,60800,6.4,3,Hybrid,17,4.3,No
+E4058,Engineering,4,42,Female,Bachelor's,2023-12-15,151300,4.1,3,On-site,17,3.1,No
+E4059,Customer Support,1,24,Male,Bachelor's,2020-12-28,43500,10.0,3,Hybrid,19,3.2,No
+E4060,Engineering,3,34,Male,Master's,2024-04-28,126800,0.8,3,On-site,27,3.9,No
+E4061,Engineering,3,33,Male,Master's,2022-08-28,118100,2.2,4,On-site,12,3.7,No
+E4062,Operations,2,29,Female,Bachelor's,2020-04-06,78800,0.6,2,On-site,21,4.2,No
+E4063,Engineering,3,34,Female,Bachelor's,2023-05-09,132600,1.9,4,On-site,16,3.8,No
+E4064,Operations,1,29,Male,Bachelor's,2016-08-12,51600,11.6,2,Hybrid,16,2.6,No
+E4065,Finance,2,32,Male,Bachelor's,2024-05-19,90100,1.4,4,On-site,16,3.3,No
+E4066,Data Science,2,32,Male,High School,2023-05-08,122600,0.5,4,Hybrid,15,3.7,No
+E4067,Sales,1,29,Female,Bachelor's,2023-01-13,56900,2.2,2,Hybrid,18,4.3,No
+E4068,Marketing,3,37,Female,Bachelor's,2022-03-23,91800,1.7,3,Hybrid,21,4.3,No
+E4069,Operations,2,33,Female,Bachelor's,2023-02-12,69700,1.7,5,Hybrid,12,2.9,No
+E4070,Sales,3,35,Male,Master's,2023-08-10,90300,11.8,3,Hybrid,20,5.0,No
+E4071,Sales,1,30,Female,Bachelor's,2024-06-23,54300,3.8,2,Remote,17,3.2,No
+E4072,Engineering,1,31,Female,High School,2021-12-31,88400,2.2,4,Remote,14,3.4,No
+E4073,Sales,5,39,Male,High School,2017-07-11,146500,4.5,3,On-site,15,4.0,No
+E4074,Finance,3,34,Female,Bachelor's,2023-10-28,96300,6.2,4,Hybrid,14,3.6,No
+E4075,Engineering,3,43,Male,Master's,2016-11-13,140800,10.7,1,Hybrid,19,3.1,No
+E4076,Sales,3,32,Female,High School,2022-04-04,82700,9.0,3,Hybrid,17,3.9,Yes
+E4077,Sales,2,25,Non-binary,Bachelor's,2024-05-23,77700,7.8,3,On-site,16,2.7,No
+E4078,Customer Support,3,36,Male,Bachelor's,2021-08-29,65800,3.9,2,Hybrid,14,4.6,No
+E4079,Sales,2,31,Female,Master's,2023-12-26,72900,10.8,4,Hybrid,20,4.1,No
+E4080,Human Resources,2,28,Male,Master's,2017-04-28,59300,4.9,3,On-site,15,2.9,No
+E4081,Human Resources,1,23,Male,PhD,2021-08-25,56300,7.2,2,Remote,15,2.7,No
+E4082,Finance,2,25,Male,Master's,2020-06-10,98300,1.3,4,Remote,20,4.2,No
+E4083,Engineering,3,32,Male,Bachelor's,2021-11-10,118500,5.2,3,Remote,19,2.4,Yes
+E4084,Engineering,2,26,Female,Master's,2023-11-03,105700,2.2,1,On-site,18,3.4,No
+E4085,Operations,5,47,Male,Bachelor's,2023-02-12,122300,1.4,4,On-site,18,3.0,Yes
+E4086,Finance,1,21,Male,Bachelor's,2012-12-29,72400,4.2,3,Hybrid,21,3.4,No
+E4087,Customer Support,4,35,Female,Bachelor's,2021-12-31,76100,7.0,5,Hybrid,19,5.0,No
+E4088,Customer Support,2,35,Male,Bachelor's,2018-12-08,53000,12.1,4,On-site,12,2.9,Yes
+E4089,Data Science,4,43,Male,Bachelor's,2024-02-17,164800,4.9,3,On-site,16,2.7,Yes
+E4090,Finance,3,31,Male,Bachelor's,2022-12-30,101100,12.6,4,On-site,24,2.5,No
+E4091,Sales,2,25,Male,Bachelor's,2020-12-24,84100,5.9,4,On-site,25,4.6,Yes
+E4092,Sales,1,29,Female,Bachelor's,2023-08-10,60300,17.9,3,On-site,11,1.0,Yes
+E4093,Engineering,1,24,Female,Bachelor's,2019-12-25,77400,3.8,2,Hybrid,23,4.3,No
+E4094,Finance,1,28,Male,Master's,2019-02-21,71900,1.7,3,Hybrid,14,2.9,No
+E4095,Operations,2,29,Female,Master's,2019-03-21,60800,1.5,3,On-site,13,2.6,No
+E4096,Engineering,3,34,Female,Bachelor's,2021-08-09,123800,0.8,5,Remote,23,4.4,No
+E4097,Operations,3,30,Female,Bachelor's,2017-02-20,88000,2.0,3,Hybrid,19,2.2,No
+E4098,Operations,5,38,Female,Bachelor's,2023-06-18,104500,4.9,4,Hybrid,20,2.9,Yes
+E4099,Engineering,2,21,Female,High School,2024-07-04,108700,5.2,5,On-site,20,3.7,No
+E4100,Finance,1,31,Female,Master's,2017-09-20,69200,3.5,3,On-site,14,3.2,No
+E4101,Customer Support,3,35,Female,Master's,2022-09-25,61800,23.3,3,On-site,15,3.2,No
+E4102,Data Science,3,34,Female,Bachelor's,2020-11-01,150000,3.9,3,Remote,19,4.2,No
+E4103,Data Science,3,29,Female,Bachelor's,2024-08-28,129500,12.9,4,Hybrid,17,3.2,Yes
+E4104,Operations,2,21,Female,Bachelor's,2021-10-26,55200,1.8,1,Hybrid,19,3.1,No
+E4105,Marketing,4,42,Female,Bachelor's,2017-11-10,108600,4.4,3,Remote,11,2.6,No
+E4106,Customer Support,3,31,Male,Bachelor's,2023-05-16,61400,3.6,3,Hybrid,14,2.9,No
+E4107,Human Resources,2,37,Female,Bachelor's,2022-05-20,64200,4.7,3,Remote,24,2.5,No
+E4108,Finance,3,37,Female,Bachelor's,2023-09-23,111900,6.4,3,On-site,15,4.1,No
+E4109,Customer Support,3,23,Non-binary,High School,2022-04-01,58800,8.8,3,Hybrid,20,5.0,No
+E4110,Customer Support,2,34,Male,Master's,2017-03-17,46400,14.2,2,On-site,5,3.3,No
+E4111,Engineering,1,22,Male,Bachelor's,2018-05-29,77200,11.2,4,On-site,19,2.9,No
+E4112,Engineering,2,39,Female,Bachelor's,2022-02-11,101700,11.7,4,On-site,16,3.9,No
+E4113,Engineering,2,36,Female,Bachelor's,2023-03-27,95600,2.2,3,On-site,22,4.4,No
+E4114,Data Science,4,32,Female,Bachelor's,2023-08-02,183000,8.7,2,Remote,23,3.4,No
+E4115,Finance,3,36,Male,Bachelor's,2024-01-24,115100,9.6,3,Hybrid,21,4.4,No
+E4116,Operations,2,32,Male,High School,2020-07-21,62100,1.6,5,Hybrid,22,4.3,No
+E4117,Sales,2,37,Female,High School,2019-03-16,67000,4.6,4,Hybrid,20,3.2,No
+E4118,Data Science,2,41,Male,Bachelor's,2017-05-10,119200,7.0,4,Hybrid,26,3.2,No
+E4119,Marketing,5,49,Female,High School,2023-12-30,121000,20.3,2,On-site,22,4.3,No
+E4120,Customer Support,1,28,Male,Master's,2018-02-03,38600,7.1,5,Hybrid,14,4.0,No
+E4121,Engineering,3,31,Female,Bachelor's,2020-03-17,130000,5.1,2,Hybrid,21,4.3,No
+E4122,Data Science,4,43,Female,Master's,2022-09-16,150900,2.2,3,Remote,14,3.1,No
+E4123,Finance,1,29,Male,Bachelor's,2020-08-27,62400,12.1,4,Hybrid,21,3.1,No
+E4124,Engineering,3,27,Female,Master's,2023-05-26,119200,9.4,3,On-site,13,4.9,No
+E4125,Customer Support,2,37,Female,Master's,2022-12-12,48300,2.7,4,On-site,17,3.4,No
+E4126,Operations,1,23,Female,Bachelor's,2019-10-12,46000,7.6,3,Hybrid,17,4.4,No
+E4127,Engineering,3,28,Female,Master's,2021-12-14,124300,12.1,3,Remote,17,3.6,No
+E4128,Engineering,1,21,Male,Bachelor's,2021-11-26,77600,7.9,3,Hybrid,22,5.0,No
+E4129,Customer Support,1,27,Female,High School,2012-02-28,40800,4.2,2,On-site,19,2.9,No
+E4130,Data Science,1,24,Female,Bachelor's,2020-12-06,82900,4.8,4,Hybrid,24,3.2,No
+E4131,Marketing,3,41,Male,Master's,2021-07-04,86500,2.7,3,Hybrid,16,3.8,No
+E4132,Engineering,5,48,Male,Bachelor's,2025-05-24,167900,2.1,2,Hybrid,22,3.7,No
+E4133,Operations,1,24,Female,Bachelor's,2020-07-12,58200,2.7,2,Remote,17,3.1,No
+E4134,Customer Support,2,33,Male,Bachelor's,2021-09-03,47800,5.1,4,Hybrid,12,1.9,Yes
+E4135,Marketing,2,38,Male,Bachelor's,2017-06-23,71500,8.4,5,Hybrid,20,4.1,No
+E4136,Data Science,3,31,Female,Bachelor's,2019-12-31,133100,15.2,4,Hybrid,28,3.3,No
+E4137,Marketing,1,26,Male,Bachelor's,2018-10-25,63500,4.7,5,On-site,17,2.4,No
+E4138,Customer Support,3,31,Male,High School,2022-09-22,71400,4.3,4,On-site,10,3.1,No
+E4139,Operations,5,39,Male,Master's,2022-01-25,94300,3.0,4,Hybrid,14,3.0,No
+E4140,Engineering,2,28,Male,Bachelor's,2019-10-04,95900,8.2,4,On-site,17,3.2,No
+E4141,Sales,3,34,Non-binary,Bachelor's,2023-09-14,82600,12.0,4,Remote,17,2.4,No
+E4142,Human Resources,5,38,Female,Bachelor's,2020-12-29,109500,11.1,3,Hybrid,20,2.6,No
+E4143,Sales,3,31,Male,Bachelor's,2025-01-21,91500,12.3,4,Remote,30,2.9,No
+E4144,Data Science,2,28,Male,Bachelor's,2024-06-12,103900,9.9,2,Hybrid,18,4.4,No
+E4145,Human Resources,5,38,Male,Bachelor's,2022-01-17,109300,3.7,4,On-site,19,3.5,No
+E4146,Engineering,1,35,Male,Master's,2023-04-07,74100,12.2,3,On-site,18,4.2,No
+E4147,Data Science,1,26,Female,Bachelor's,2017-10-30,83100,1.2,5,On-site,16,4.3,Yes
+E4148,Engineering,4,35,Male,High School,2020-11-12,160300,2.3,3,Hybrid,13,4.0,No
+E4149,Engineering,2,30,Male,Bachelor's,2023-11-25,94500,2.7,3,Hybrid,15,2.8,No
+E4150,Sales,3,41,Female,Bachelor's,2020-04-13,85100,5.4,4,Hybrid,22,5.0,No
+E4151,Data Science,3,31,Female,Master's,2021-06-04,134700,3.0,4,On-site,15,3.0,No
+E4152,Sales,2,25,Male,Bachelor's,2021-01-16,69400,12.0,3,On-site,20,2.2,No
+E4153,Data Science,1,30,Male,Bachelor's,2019-09-16,85900,10.2,4,Remote,18,5.0,No
+E4154,Operations,1,29,Female,Bachelor's,2021-10-06,49600,12.6,3,Remote,21,1.1,Yes
+E4155,Engineering,3,31,Male,PhD,2024-03-02,129200,2.4,4,On-site,21,3.6,No
+E4156,Engineering,3,30,Male,Bachelor's,2021-08-30,129700,3.1,4,Remote,13,4.4,No
+E4157,Human Resources,3,38,Male,Bachelor's,2023-09-12,72800,5.6,3,Hybrid,13,4.4,No
+E4158,Operations,2,31,Female,Master's,2022-12-08,67100,2.4,2,On-site,17,3.4,Yes
+E4159,Sales,5,42,Male,Master's,2019-07-03,111400,7.4,4,Remote,21,2.0,No
+E4160,Data Science,4,40,Male,Bachelor's,2021-04-12,161300,8.2,3,Hybrid,14,4.6,No
+E4161,Operations,3,34,Male,Master's,2015-05-18,73700,12.0,3,Remote,23,3.3,No
+E4162,Operations,2,36,Male,Bachelor's,2021-09-26,66200,8.5,4,Hybrid,15,4.4,No
+E4163,Customer Support,5,45,Female,High School,2018-01-06,87200,1.6,3,On-site,21,1.7,Yes
+E4164,Finance,2,29,Male,Master's,2017-08-10,82100,5.4,3,On-site,20,5.0,No
+E4165,Human Resources,1,37,Male,Bachelor's,2022-07-25,54000,2.7,1,On-site,19,3.3,No
+E4166,Engineering,2,26,Male,Bachelor's,2020-04-06,107500,5.8,2,Remote,19,2.9,Yes
+E4167,Sales,4,42,Male,PhD,2023-11-12,112400,12.5,3,On-site,18,4.2,No
+E4168,Engineering,3,36,Female,Master's,2022-05-09,136300,6.8,3,On-site,18,3.6,No
+E4169,Engineering,3,33,Female,Bachelor's,2022-06-11,131300,8.4,3,Hybrid,20,4.8,No
+E4170,Customer Support,1,23,Female,Bachelor's,2019-03-15,49400,14.5,5,Hybrid,20,1.8,No
+E4171,Data Science,1,33,Male,Master's,2024-02-03,91700,18.8,3,On-site,18,2.0,Yes
+E4172,Customer Support,5,38,Male,Bachelor's,2024-03-26,80200,0.8,3,On-site,10,3.2,Yes
+E4173,Data Science,2,22,Female,Bachelor's,2013-05-08,102300,10.1,4,On-site,23,3.6,No
+E4174,Operations,4,42,Male,Bachelor's,2023-11-04,86600,4.4,4,Remote,22,3.5,No
+E4175,Data Science,4,42,Male,Master's,2021-08-11,157600,3.4,3,Hybrid,24,2.8,No
+E4176,Engineering,1,23,Female,Bachelor's,2023-04-27,85600,1.1,3,Remote,17,3.9,No
+E4177,Customer Support,4,35,Female,Master's,2020-12-29,74700,6.0,3,Remote,19,2.8,Yes
+E4178,Sales,2,28,Female,Bachelor's,2019-01-02,71400,4.9,3,Hybrid,29,3.1,No
+E4179,Operations,2,30,Female,Bachelor's,2023-01-31,58300,6.7,5,Hybrid,21,4.5,No
+E4180,Operations,3,32,Male,Bachelor's,2024-03-19,80300,3.8,5,Hybrid,17,4.1,No
+E4181,Customer Support,1,29,Male,Bachelor's,2024-03-18,36100,1.0,3,On-site,22,3.2,No
+E4182,Finance,3,28,Male,High School,2019-06-11,97000,7.3,2,Remote,15,3.0,No
+E4183,Finance,2,35,Female,Bachelor's,2024-08-08,82400,4.0,4,Hybrid,19,3.1,Yes
+E4184,Engineering,2,37,Male,High School,2022-06-03,104300,4.6,3,Hybrid,18,4.2,Yes
+E4185,Operations,3,39,Female,High School,2020-07-18,82400,3.3,3,Remote,17,3.1,Yes
+E4186,Operations,1,30,Female,Master's,2021-09-12,57400,4.0,3,Remote,24,4.1,No
+E4187,Operations,4,36,Female,Master's,2017-03-01,85100,3.2,3,Hybrid,21,1.4,No
+E4188,Finance,3,39,Female,High School,2009-04-01,108900,3.1,3,On-site,22,1.4,Yes
+E4189,Marketing,2,29,Female,Master's,2020-05-21,90700,4.2,3,Hybrid,23,3.2,No
+E4190,Customer Support,3,37,Male,High School,2022-11-07,65800,4.6,4,On-site,11,2.4,No
+E4191,Data Science,2,43,Male,Bachelor's,2023-05-18,113300,12.4,3,Hybrid,21,4.0,No
+E4192,Marketing,2,30,Male,Bachelor's,2018-06-06,66700,4.3,3,Remote,14,3.9,No
+E4193,Operations,3,36,Male,Bachelor's,2023-09-04,76900,1.8,3,On-site,15,4.0,Yes
+E4194,Sales,2,36,Female,Bachelor's,2021-02-04,83800,1.6,3,On-site,18,4.8,No
+E4195,Engineering,1,31,Male,Master's,2024-01-14,71800,1.1,5,Hybrid,8,4.4,No
+E4196,Finance,2,26,Female,Bachelor's,2021-09-24,94400,2.8,4,On-site,10,5.0,No
+E4197,Engineering,5,42,Male,Bachelor's,2023-06-07,172700,15.5,3,On-site,21,3.4,No
+E4198,Engineering,2,39,Female,Bachelor's,2024-01-19,110400,3.6,5,Hybrid,20,3.3,No
+E4199,Customer Support,5,38,Male,High School,2017-08-13,81600,1.7,3,On-site,19,2.5,Yes
+E4200,Human Resources,3,31,Female,High School,2023-07-17,76400,5.0,3,Hybrid,20,3.2,Yes
+E4201,Engineering,2,27,Female,Bachelor's,2023-10-30,98300,5.3,2,Remote,20,3.5,Yes
+E4202,Operations,3,34,Female,Bachelor's,2023-03-13,73800,2.5,1,Hybrid,16,3.3,No
+E4203,Customer Support,4,31,Male,Bachelor's,2017-11-12,76900,1.2,5,On-site,13,4.1,No
+E4204,Customer Support,3,32,Female,Bachelor's,2018-07-07,64700,4.7,3,On-site,20,2.5,No
+E4205,Finance,1,29,Female,Bachelor's,2021-08-20,65400,5.8,3,Hybrid,16,4.1,No
+E4206,Human Resources,5,43,Female,Master's,2023-09-01,133300,3.2,3,Hybrid,20,3.1,No
+E4207,Operations,3,31,Female,Bachelor's,2023-09-20,82400,4.0,3,Remote,16,2.9,No
+E4208,Human Resources,5,42,Male,Master's,2024-01-06,114700,5.8,2,Remote,18,2.8,No
+E4209,Customer Support,1,23,Male,PhD,2021-02-03,41300,2.7,3,Hybrid,20,3.3,No
+E4210,Marketing,2,24,Male,Bachelor's,2023-01-18,77100,5.1,3,On-site,19,3.4,No
+E4211,Engineering,1,21,Male,Master's,2021-04-02,90400,12.3,4,On-site,26,4.4,No
+E4212,Engineering,4,39,Female,Bachelor's,2017-11-09,142200,4.2,3,Hybrid,14,4.2,No
+E4213,Customer Support,3,40,Male,Bachelor's,2025-04-10,57200,2.0,4,Hybrid,12,4.6,No
+E4214,Operations,3,34,Male,High School,2021-04-12,76900,19.4,3,On-site,19,2.2,Yes
+E4215,Human Resources,4,42,Male,Bachelor's,2024-02-13,107500,6.8,3,Hybrid,13,3.3,No
+E4216,Operations,2,26,Female,Bachelor's,2024-10-02,57000,4.9,2,On-site,23,3.1,Yes
+E4217,Sales,2,33,Male,Bachelor's,2020-06-25,81900,4.8,3,On-site,12,4.6,No
+E4218,Finance,4,38,Female,Bachelor's,2021-11-30,125800,4.6,3,Remote,24,3.6,No
+E4219,Customer Support,5,46,Male,Bachelor's,2020-02-28,90600,9.9,4,On-site,23,3.9,No
+E4220,Human Resources,3,35,Male,Bachelor's,2023-07-05,82800,10.4,3,On-site,7,2.2,No
+E4221,Sales,5,41,Female,Bachelor's,2023-03-23,124300,9.4,3,Hybrid,18,3.1,No
+E4222,Sales,2,22,Male,Master's,2023-09-27,65000,6.1,3,Hybrid,11,4.7,No
+E4223,Engineering,1,28,Female,Bachelor's,2022-07-26,74600,20.0,4,Hybrid,23,5.0,No
+E4224,Human Resources,2,42,Male,Master's,2019-03-23,71400,3.8,5,On-site,12,3.6,No
+E4225,Operations,3,37,Male,Bachelor's,2023-05-29,70300,3.6,5,Hybrid,17,4.5,No
+E4226,Operations,1,21,Non-binary,Bachelor's,2015-09-29,48000,10.5,5,Remote,15,5.0,No
+E4227,Human Resources,1,26,Female,Bachelor's,2024-12-04,50700,2.0,2,Remote,22,3.4,No
+E4228,Finance,2,31,Male,Bachelor's,2019-12-01,96400,5.0,3,Remote,20,3.1,No
+E4229,Customer Support,4,42,Male,Master's,2023-08-23,68000,2.1,3,Remote,19,4.5,No
+E4230,Marketing,1,32,Female,Bachelor's,2023-07-22,57600,2.9,3,Remote,17,2.9,No
+E4231,Operations,3,40,Male,Bachelor's,2023-05-05,71600,17.2,1,Hybrid,19,3.1,No
+E4232,Customer Support,2,22,Male,Master's,2024-11-24,43200,7.4,4,On-site,18,4.5,No
+E4233,Operations,2,22,Male,Bachelor's,2024-06-21,66000,10.1,3,On-site,18,2.8,No
+E4234,Marketing,2,22,Non-binary,Bachelor's,2023-07-15,79300,5.7,4,Hybrid,18,2.2,No
+E4235,Sales,3,21,Female,Master's,2024-03-18,98600,2.7,2,On-site,15,3.0,No
+E4236,Marketing,2,29,Female,Bachelor's,2020-10-26,67400,1.1,4,Remote,20,4.0,No
+E4237,Operations,2,33,Male,Master's,2023-06-17,72300,0.2,2,Hybrid,25,2.8,No
+E4238,Marketing,2,26,Male,PhD,2021-03-04,70400,2.8,4,Hybrid,14,4.1,No
+E4239,Sales,4,38,Female,Bachelor's,2023-06-03,91600,6.4,3,Hybrid,17,1.1,No
+E4240,Operations,1,28,Female,Bachelor's,2016-08-17,53000,12.7,5,Remote,21,3.9,No
+E4241,Customer Support,3,34,Female,Master's,2021-10-14,59100,9.8,2,On-site,25,1.0,Yes
+E4242,Customer Support,1,23,Male,High School,2017-01-17,40500,3.5,3,Hybrid,18,3.2,No
+E4243,Engineering,2,27,Male,Bachelor's,2024-09-10,111800,3.3,3,On-site,25,3.2,No
+E4244,Data Science,2,25,Male,Master's,2019-05-25,126500,11.8,4,On-site,17,2.6,No
+E4245,Sales,2,33,Male,High School,2021-10-14,60800,9.5,3,On-site,13,2.3,Yes
+E4246,Operations,3,36,Male,PhD,2024-03-15,74100,7.8,3,Hybrid,19,2.8,No
+E4247,Engineering,3,36,Male,Master's,2014-01-17,133000,8.2,5,Remote,14,3.6,No
+E4248,Human Resources,2,21,Female,Bachelor's,2024-06-29,68400,0.1,2,Hybrid,20,4.0,No
+E4249,Customer Support,4,36,Male,Master's,2024-03-28,74600,8.5,3,Hybrid,17,1.9,Yes
+E4250,Operations,4,37,Female,Bachelor's,2023-11-29,95700,18.1,3,On-site,15,2.4,Yes
+E4251,Finance,3,28,Female,Master's,2024-02-29,97400,3.3,1,On-site,17,3.2,No
+E4252,Operations,1,22,Non-binary,Master's,2024-06-09,47400,4.7,3,Remote,20,3.9,No
+E4253,Human Resources,1,21,Non-binary,Bachelor's,2020-01-01,54900,3.2,3,Remote,23,2.6,Yes
+E4254,Sales,2,33,Female,Bachelor's,2018-07-29,83200,6.1,4,On-site,22,2.3,No
+E4255,Customer Support,1,21,Male,Bachelor's,2024-05-19,35500,3.4,3,Hybrid,16,4.0,No
+E4256,Sales,5,42,Female,Bachelor's,2019-04-25,129500,7.3,3,Remote,14,2.9,No
+E4257,Engineering,1,22,Female,Master's,2023-08-11,82900,6.5,4,On-site,15,3.4,Yes
+E4258,Engineering,4,35,Male,Bachelor's,2022-04-27,154300,0.8,2,On-site,17,4.1,No
+E4259,Engineering,2,30,Female,Bachelor's,2023-03-24,114200,9.4,3,On-site,27,4.1,No
+E4260,Sales,2,29,Female,Bachelor's,2021-02-25,64600,3.1,2,Hybrid,23,2.7,No
+E4261,Customer Support,5,48,Male,Bachelor's,2019-09-18,78800,7.5,3,Hybrid,16,3.4,No
+E4262,Engineering,3,39,Female,Bachelor's,2020-05-07,126800,9.4,4,Remote,21,3.7,No
+E4263,Operations,3,40,Female,Bachelor's,2025-01-07,70700,4.9,3,Hybrid,15,3.1,No
+E4264,Data Science,1,27,Male,Bachelor's,2023-04-14,91700,7.8,3,Remote,16,3.3,No
+E4265,Finance,1,26,Female,Master's,2021-08-24,77100,10.1,2,On-site,19,3.3,Yes
+E4266,Engineering,2,35,Female,PhD,2024-08-17,100900,9.8,5,Hybrid,22,3.0,No
+E4267,Human Resources,2,30,Female,Bachelor's,2020-09-14,75100,4.7,2,On-site,21,2.5,No
+E4268,Human Resources,4,36,Female,Bachelor's,2023-11-27,98300,5.8,3,On-site,16,3.1,No
+E4269,Customer Support,2,32,Male,High School,2020-12-05,61000,11.6,3,Hybrid,25,5.0,No
+E4270,Human Resources,3,44,Male,Bachelor's,2012-09-15,88700,10.5,4,On-site,7,2.3,No
+E4271,Data Science,3,36,Female,Bachelor's,2024-08-16,153500,7.4,5,Remote,13,4.5,No
+E4272,Engineering,3,36,Female,High School,2019-01-07,130700,9.9,3,On-site,20,3.0,No
+E4273,Customer Support,3,35,Male,Master's,2019-12-06,64600,6.7,2,Remote,18,3.6,No
+E4274,Customer Support,2,31,Male,Bachelor's,2025-02-08,52900,3.9,3,Remote,13,4.0,No
+E4275,Engineering,3,24,Female,Bachelor's,2024-08-27,124000,4.3,4,On-site,20,3.8,No
+E4276,Engineering,1,31,Female,Bachelor's,2023-03-07,85100,0.3,3,Hybrid,26,3.0,Yes
+E4277,Data Science,2,21,Male,Bachelor's,2022-04-04,101600,4.6,1,Hybrid,11,3.7,No
+E4278,Customer Support,3,36,Female,Bachelor's,2021-06-18,65700,8.3,2,On-site,18,1.3,No
+E4279,Finance,3,32,Female,PhD,2025-02-13,116000,9.5,3,Hybrid,20,3.3,No
+E4280,Human Resources,2,31,Male,PhD,2022-02-16,60000,3.7,3,On-site,25,1.8,No
+E4281,Marketing,5,39,Male,High School,2023-11-09,116200,11.5,4,On-site,15,3.1,No
+E4282,Finance,5,51,Female,High School,2022-06-14,129300,22.7,3,Remote,13,1.0,Yes
+E4283,Operations,2,25,Male,Master's,2024-10-03,59400,2.9,4,Remote,18,4.0,No
+E4284,Marketing,1,21,Male,Bachelor's,2024-05-27,52400,6.3,3,Remote,17,4.2,No
+E4285,Customer Support,2,27,Male,Master's,2023-05-10,51000,14.0,5,Hybrid,21,2.3,No
+E4286,Finance,3,37,Non-binary,High School,2024-01-16,116100,16.0,5,Remote,14,2.1,No
+E4287,Sales,3,36,Female,Bachelor's,2021-05-03,90500,3.9,2,Remote,15,2.1,No
+E4288,Customer Support,2,27,Male,PhD,2021-12-12,53000,14.9,3,Hybrid,20,3.1,Yes
+E4289,Data Science,4,35,Male,Bachelor's,2018-03-26,174100,2.0,4,Remote,22,4.2,No
+E4290,Finance,4,46,Male,Master's,2020-09-30,127500,5.1,3,On-site,15,3.2,No
+E4291,Engineering,1,21,Female,Master's,2023-04-06,81400,6.3,4,Remote,10,4.2,No
+E4292,Sales,3,34,Female,Bachelor's,2011-12-09,87800,3.3,3,Hybrid,22,2.1,No
+E4293,Customer Support,2,32,Female,Master's,2016-02-26,52500,0.3,3,Hybrid,26,4.0,No
+E4294,Sales,3,33,Female,High School,2021-12-29,103300,6.9,1,Remote,23,1.4,Yes
+E4295,Customer Support,3,36,Female,Bachelor's,2021-12-31,66200,11.8,4,Hybrid,20,2.6,No
+E4296,Data Science,3,44,Female,Bachelor's,2019-03-11,141400,11.5,2,On-site,19,4.1,No
+E4297,Sales,1,30,Male,High School,2019-09-02,48900,3.7,2,Hybrid,17,2.8,No
+E4298,Operations,2,38,Female,Master's,2019-09-15,63200,0.7,3,Hybrid,23,2.8,No
+E4299,Operations,2,27,Female,Master's,2023-11-23,61500,3.7,3,Hybrid,12,2.0,Yes
+E4300,Operations,2,31,Female,Master's,2018-08-22,63000,2.3,3,On-site,19,3.8,No
+E4301,Sales,1,27,Female,Bachelor's,2022-02-21,55200,5.2,2,Hybrid,18,2.5,No
+E4302,Marketing,4,43,Male,Bachelor's,2022-06-13,106400,2.0,2,On-site,19,3.9,Yes
+E4303,Engineering,3,35,Male,Bachelor's,2022-10-15,112900,1.6,3,On-site,12,4.8,No
+E4304,Marketing,3,38,Male,Bachelor's,2017-02-14,83600,1.8,3,Hybrid,17,4.2,No
+E4305,Operations,3,38,Female,Bachelor's,2025-05-02,76000,8.9,2,Hybrid,11,2.1,Yes
+E4306,Operations,2,32,Female,Master's,2022-08-31,69000,11.1,4,On-site,16,3.6,No
+E4307,Engineering,2,28,Male,Bachelor's,2022-12-07,100700,14.4,3,Hybrid,25,5.0,No
+E4308,Sales,3,30,Male,High School,2015-09-14,82500,12.2,5,Hybrid,20,3.7,No
+E4309,Finance,3,43,Female,Bachelor's,2020-09-30,129400,13.0,5,Hybrid,17,3.5,No
+E4310,Customer Support,2,38,Male,Master's,2022-11-03,56300,8.6,3,Hybrid,17,3.5,No
+E4311,Operations,2,32,Male,Master's,2024-04-21,61000,8.0,4,Hybrid,22,2.6,No
+E4312,Data Science,2,31,Female,Bachelor's,2018-08-02,120000,6.9,1,On-site,13,3.4,No
+E4313,Marketing,1,21,Male,Bachelor's,2023-04-25,58100,6.0,5,Hybrid,17,5.0,No
+E4314,Sales,1,24,Male,Master's,2013-12-22,58700,2.3,3,On-site,14,4.8,No
+E4315,Sales,5,36,Female,Bachelor's,2023-12-30,129900,12.6,4,Hybrid,14,4.7,No
+E4316,Operations,3,34,Female,Bachelor's,2019-06-23,73600,3.1,3,Hybrid,14,3.2,No
+E4317,Engineering,2,31,Female,Master's,2019-10-24,102200,4.3,2,Hybrid,14,3.3,No
+E4318,Marketing,1,28,Female,Bachelor's,2016-08-12,63900,0.4,3,Hybrid,15,2.8,No
+E4319,Data Science,2,21,Female,Bachelor's,2023-03-11,113300,7.2,2,On-site,14,3.5,Yes
+E4320,Customer Support,2,31,Female,Bachelor's,2022-10-25,47900,8.1,2,Hybrid,23,1.8,Yes
+E4321,Sales,1,32,Male,Bachelor's,2024-12-24,55600,13.2,3,Hybrid,22,4.9,No
+E4322,Marketing,2,29,Female,Bachelor's,2019-07-27,92600,3.1,2,Remote,21,2.9,No
+E4323,Marketing,2,32,Female,Bachelor's,2023-01-30,76200,10.4,3,On-site,22,4.0,No
+E4324,Customer Support,4,32,Non-binary,PhD,2019-03-24,77200,5.3,3,Hybrid,18,3.8,No
+E4325,Sales,2,41,Male,Master's,2023-11-12,69000,6.8,1,On-site,13,3.1,No
+E4326,Sales,4,35,Female,High School,2023-09-18,104700,11.1,2,Hybrid,17,2.5,Yes
+E4327,Customer Support,2,29,Female,Master's,2021-08-14,54300,6.4,5,On-site,22,3.9,No
+E4328,Engineering,3,44,Male,Bachelor's,2022-11-17,125200,17.6,3,Remote,18,2.9,No
+E4329,Data Science,2,30,Female,Bachelor's,2021-06-09,108600,4.9,3,Remote,17,3.8,Yes
+E4330,Sales,4,38,Male,Bachelor's,2019-08-26,102200,3.6,3,On-site,17,3.4,No
+E4331,Sales,3,28,Male,Bachelor's,2024-04-13,78300,0.9,4,On-site,18,5.0,No
+E4332,Customer Support,3,39,Female,Master's,2023-09-21,63100,8.1,3,On-site,18,2.1,No
+E4333,Engineering,4,52,Female,Bachelor's,2020-02-17,150400,9.2,3,Hybrid,16,3.0,No
+E4334,Sales,2,26,Female,Bachelor's,2023-03-23,80300,10.9,5,On-site,19,4.6,No
+E4335,Sales,4,36,Male,Bachelor's,2020-01-12,93100,9.1,5,On-site,17,3.8,Yes
+E4336,Sales,1,23,Female,Bachelor's,2018-12-04,53100,5.4,3,Hybrid,14,2.6,No
+E4337,Engineering,4,36,Female,Bachelor's,2025-03-16,162300,1.0,4,Remote,17,3.8,Yes
+E4338,Sales,4,39,Female,Master's,2021-05-19,97400,7.4,3,Hybrid,19,5.0,No
+E4339,Customer Support,3,40,Male,Master's,2024-02-21,57200,2.9,3,Remote,22,2.3,Yes
+E4340,Human Resources,5,39,Male,PhD,2023-08-10,127100,7.7,4,Hybrid,14,4.5,No
+E4341,Data Science,4,31,Female,Bachelor's,2022-01-20,135000,7.8,3,Hybrid,22,3.7,No
+E4342,Data Science,2,34,Male,High School,2020-02-14,101500,6.1,5,On-site,17,3.1,No
+E4343,Sales,3,35,Male,Bachelor's,2023-07-08,89100,11.2,2,On-site,20,2.9,No
+E4344,Engineering,3,26,Female,Master's,2021-07-13,114600,1.9,4,Remote,19,4.3,No
+E4345,Finance,4,37,Male,Master's,2020-11-01,142500,11.3,3,Hybrid,14,2.1,No
+E4346,Customer Support,2,30,Male,PhD,2018-07-08,53200,6.6,2,Hybrid,15,3.0,No
+E4347,Marketing,1,24,Female,Bachelor's,2024-06-06,51800,20.4,3,On-site,18,1.2,No
+E4348,Sales,2,35,Male,Bachelor's,2023-09-11,76100,17.2,3,Remote,24,3.6,No
+E4349,Finance,4,41,Female,Master's,2024-06-16,128200,2.1,3,Hybrid,19,5.0,No
+E4350,Engineering,3,29,Female,High School,2019-12-24,107500,7.2,2,On-site,19,2.8,No
+E4351,Sales,4,38,Female,Master's,2023-07-13,91300,3.7,1,Remote,10,3.5,No
+E4352,Human Resources,2,27,Non-binary,Bachelor's,2018-03-20,63500,5.7,3,Remote,18,4.1,No
+E4353,Data Science,3,37,Female,Master's,2022-04-10,146900,2.7,3,Hybrid,20,3.4,No
+E4354,Data Science,1,21,Male,Bachelor's,2020-07-31,69500,5.8,2,Hybrid,15,4.7,No
+E4355,Engineering,3,33,Non-binary,Bachelor's,2020-04-13,122800,2.0,4,Hybrid,14,3.3,No
+E4356,Operations,4,33,Female,Bachelor's,2024-02-04,89900,6.9,3,Hybrid,19,5.0,No
+E4357,Customer Support,2,24,Female,Bachelor's,2017-06-04,50000,10.1,3,Hybrid,20,4.9,No
+E4358,Engineering,3,30,Female,Bachelor's,2020-02-01,128000,1.8,3,On-site,28,3.7,No
+E4359,Human Resources,4,36,Male,Bachelor's,2018-02-26,100400,4.3,4,On-site,20,3.0,No
+E4360,Marketing,3,23,Female,Bachelor's,2023-11-02,81000,9.2,2,Remote,14,4.1,No
+E4361,Operations,1,33,Non-binary,Master's,2023-07-21,51300,3.4,3,Remote,24,4.8,No
+E4362,Sales,3,40,Female,Bachelor's,2021-10-25,76800,17.0,3,Hybrid,24,3.3,No
+E4363,Sales,1,21,Female,Master's,2014-11-19,57700,12.9,3,On-site,24,3.6,No
+E4364,Operations,2,21,Non-binary,Bachelor's,2023-07-27,68500,9.7,4,On-site,15,5.0,No
+E4365,Sales,3,33,Male,Bachelor's,2019-04-13,95000,10.9,3,On-site,12,3.2,No
+E4366,Sales,2,24,Male,Bachelor's,2023-11-03,70700,1.9,2,Hybrid,21,3.0,No
+E4367,Operations,2,26,Male,High School,2022-02-02,67600,10.1,5,On-site,22,4.2,No
+E4368,Engineering,4,33,Male,Bachelor's,2020-10-17,151800,3.7,2,On-site,33,3.1,No
+E4369,Sales,3,32,Female,Bachelor's,2021-10-18,83200,4.9,2,On-site,17,3.8,No
+E4370,Operations,2,28,Male,PhD,2019-03-06,66700,5.2,3,Hybrid,22,1.7,Yes
+E4371,Data Science,1,29,Male,Bachelor's,2024-10-19,90400,4.5,4,Hybrid,22,5.0,No
+E4372,Human Resources,5,38,Male,Bachelor's,2019-07-23,127000,2.9,3,Hybrid,19,2.9,No
+E4373,Human Resources,2,34,Female,Master's,2015-11-23,69600,1.5,3,On-site,12,3.1,No
+E4374,Customer Support,2,24,Female,Bachelor's,2023-03-16,46900,9.4,3,Hybrid,16,3.6,Yes
+E4375,Finance,3,30,Female,Master's,2023-07-15,94700,3.6,5,Remote,17,3.1,No
+E4376,Sales,2,39,Male,Master's,2023-03-14,65300,14.0,3,Hybrid,24,3.3,No
+E4377,Customer Support,3,30,Female,Master's,2024-01-14,64900,2.5,3,On-site,10,5.0,No
+E4378,Operations,2,27,Female,Bachelor's,2024-01-22,60600,2.1,2,On-site,17,2.5,No
+E4379,Customer Support,3,40,Male,High School,2024-06-10,60600,5.8,2,On-site,22,2.9,Yes
+E4380,Data Science,3,36,Female,Bachelor's,2022-11-03,133800,6.5,4,Hybrid,13,3.9,Yes
+E4381,Sales,1,28,Male,Bachelor's,2022-04-14,63800,3.8,4,Hybrid,16,4.6,No
+E4382,Marketing,2,34,Non-binary,Master's,2021-07-13,80800,7.3,3,On-site,25,2.6,No
+E4383,Customer Support,1,26,Female,PhD,2020-08-09,42300,9.8,3,Hybrid,15,3.2,No
+E4384,Sales,4,33,Female,Bachelor's,2018-06-30,97700,9.5,4,Remote,16,3.9,No
+E4385,Sales,2,28,Female,Bachelor's,2022-07-31,77600,5.7,3,On-site,15,3.7,Yes
+E4386,Marketing,3,37,Male,Master's,2020-02-04,98900,0.3,3,On-site,12,3.6,No
+E4387,Marketing,2,28,Male,Bachelor's,2022-12-28,88200,2.3,2,On-site,20,3.2,No
+E4388,Sales,3,38,Female,Bachelor's,2024-05-22,106200,14.1,3,Hybrid,14,4.0,No
+E4389,Data Science,1,28,Male,Bachelor's,2021-08-03,85400,10.2,4,Hybrid,26,3.2,Yes
+E4390,Engineering,2,38,Male,Master's,2024-06-30,100300,5.7,3,Hybrid,10,3.4,No
+E4391,Operations,2,32,Male,Master's,2024-01-27,58200,16.7,3,Hybrid,23,2.7,No
+E4392,Operations,1,21,Female,High School,2014-11-16,46700,14.3,3,On-site,20,5.0,No
+E4393,Customer Support,3,39,Male,Bachelor's,2019-12-12,63900,8.8,3,Remote,14,4.8,No
+E4394,Sales,3,28,Male,High School,2022-01-19,88800,5.3,4,On-site,14,1.8,No
+E4395,Sales,3,25,Male,Master's,2020-11-15,97400,16.8,3,On-site,22,4.1,Yes
+E4396,Operations,1,34,Male,PhD,2017-07-09,54700,8.2,3,Hybrid,15,2.7,Yes
+E4397,Operations,4,36,Male,High School,2024-08-01,98300,6.8,2,Hybrid,19,3.2,No
+E4398,Engineering,3,34,Male,Bachelor's,2024-12-20,136700,6.0,3,Hybrid,20,4.6,No
+E4399,Sales,1,34,Female,High School,2019-08-08,59100,5.2,4,Hybrid,17,3.5,No
+E4400,Finance,2,27,Male,Bachelor's,2022-05-12,82600,6.9,2,Hybrid,18,2.6,Yes
+E4401,Engineering,1,32,Male,Bachelor's,2017-11-17,80300,12.6,4,Hybrid,15,4.4,No
+E4402,Operations,5,42,Male,High School,2019-12-06,101800,1.8,4,Hybrid,20,3.4,No
+E4403,Operations,1,30,Male,High School,2022-04-08,53100,4.1,3,On-site,17,4.2,No
+E4404,Data Science,2,30,Male,PhD,2021-06-11,102300,3.4,3,Hybrid,19,2.4,No
+E4405,Engineering,2,36,Male,Bachelor's,2024-05-15,109600,1.0,3,Hybrid,19,3.9,No
+E4406,Operations,3,36,Female,Bachelor's,2022-02-21,68700,3.4,3,On-site,28,4.9,No
+E4407,Customer Support,3,28,Male,Master's,2022-07-13,56700,1.5,3,Hybrid,18,2.3,No
+E4408,Data Science,1,31,Male,High School,2019-05-28,92100,4.6,3,Hybrid,16,2.9,No
+E4409,Marketing,5,49,Female,Bachelor's,2024-01-26,137200,13.8,3,Hybrid,21,2.3,Yes
+E4410,Engineering,3,23,Male,Master's,2024-12-03,133500,13.0,4,Hybrid,13,3.7,No
+E4411,Data Science,3,33,Female,Bachelor's,2020-10-13,144100,3.8,4,Hybrid,27,3.0,No
+E4412,Operations,3,32,Female,High School,2023-03-30,75300,8.4,3,Hybrid,12,3.3,No
+E4413,Customer Support,2,22,Male,Bachelor's,2024-02-05,50400,10.6,1,On-site,18,1.9,Yes
+E4414,Engineering,1,25,Female,Master's,2023-02-23,72200,9.5,3,On-site,21,3.7,No
+E4415,Operations,4,36,Male,Master's,2021-11-19,92400,4.2,3,Remote,17,3.0,No
+E4416,Data Science,5,54,Male,Bachelor's,2023-05-15,188200,6.0,3,Hybrid,20,5.0,No
+E4417,Data Science,2,30,Female,Bachelor's,2015-10-09,116700,6.7,4,On-site,10,3.8,No
+E4418,Sales,1,25,Female,Master's,2016-06-20,48000,14.5,3,Remote,12,2.7,No
+E4419,Engineering,2,31,Male,Bachelor's,2024-08-03,94100,1.6,3,On-site,14,2.4,No
+E4420,Sales,2,29,Male,Bachelor's,2019-05-08,63200,4.5,2,On-site,24,3.7,No
+E4421,Customer Support,1,28,Male,Bachelor's,2023-06-20,42800,8.1,3,Hybrid,19,3.9,No
+E4422,Finance,1,24,Male,Bachelor's,2020-02-10,62300,8.8,5,On-site,27,3.5,No
+E4423,Operations,1,21,Male,Master's,2019-05-22,52800,4.6,4,On-site,23,4.7,No
+E4424,Customer Support,3,33,Female,Master's,2022-06-20,67300,2.2,3,Hybrid,14,1.7,Yes
+E4425,Data Science,1,29,Male,Master's,2018-09-13,101500,3.9,4,Hybrid,17,3.2,No
+E4426,Engineering,3,33,Male,Bachelor's,2023-04-11,127700,9.9,3,On-site,13,4.8,No
+E4427,Finance,2,33,Male,PhD,2021-12-03,94500,4.6,3,Remote,16,4.0,No
+E4428,Engineering,1,27,Female,PhD,2020-03-25,79200,8.6,3,On-site,21,3.3,No
+E4429,Sales,2,34,Female,High School,2021-11-16,71200,10.9,3,On-site,27,3.4,No
+E4430,Engineering,3,46,Female,Master's,2023-04-22,142600,1.0,3,On-site,15,3.3,No
+E4431,Customer Support,1,30,Female,Master's,2020-09-18,42700,5.4,3,On-site,21,3.2,No
+E4432,Customer Support,2,32,Female,Master's,2022-08-20,59700,1.0,4,Remote,9,4.6,No
+E4433,Engineering,3,30,Female,Master's,2024-10-10,136400,23.0,4,On-site,18,4.5,No
+E4434,Finance,3,37,Non-binary,Master's,2023-02-02,93900,10.5,3,Hybrid,15,2.7,No
+E4435,Engineering,1,23,Male,Bachelor's,2023-12-06,78000,2.6,3,On-site,20,3.3,No
+E4436,Operations,4,40,Male,High School,2017-06-23,86900,3.6,5,Hybrid,18,4.9,No
+E4437,Operations,5,40,Female,Bachelor's,2024-11-27,93200,4.2,4,On-site,17,2.9,Yes
+E4438,Engineering,5,48,Female,Bachelor's,2021-06-01,161800,1.4,1,On-site,17,2.2,No
+E4439,Customer Support,3,34,Female,Bachelor's,2024-06-04,62300,1.9,3,On-site,14,2.0,Yes
+E4440,Operations,2,33,Male,Bachelor's,2024-09-02,67800,11.1,2,Hybrid,23,1.4,Yes
+E4441,Data Science,3,36,Female,Master's,2017-03-08,131500,7.3,4,Hybrid,13,4.1,No
+E4442,Data Science,2,24,Male,PhD,2018-03-21,105100,6.7,1,On-site,23,4.5,No
+E4443,Engineering,2,31,Female,Bachelor's,2024-06-05,107300,7.9,3,On-site,16,3.3,No
+E4444,Sales,3,34,Female,Bachelor's,2024-01-05,85500,2.7,2,Remote,17,2.3,No
+E4445,Data Science,1,31,Male,Bachelor's,2025-03-19,95100,8.0,4,On-site,18,2.7,Yes
+E4446,Data Science,2,37,Female,Bachelor's,2020-09-27,112800,15.0,3,Hybrid,14,2.6,No
+E4447,Engineering,2,33,Female,Bachelor's,2018-10-28,104700,0.5,2,Hybrid,21,4.0,No
+E4448,Engineering,2,26,Female,Bachelor's,2024-10-17,95300,2.6,3,Hybrid,17,2.8,No
+E4449,Sales,1,21,Female,Master's,2022-07-30,51000,4.8,4,Remote,18,2.8,No
+E4450,Sales,1,34,Male,Bachelor's,2024-11-29,55600,8.9,2,Hybrid,17,2.6,No
+E4451,Marketing,1,26,Male,Master's,2022-02-02,67900,2.9,4,On-site,22,5.0,No
+E4452,Marketing,2,34,Male,Bachelor's,2023-03-12,74300,3.7,3,Hybrid,12,3.7,Yes
+E4453,Engineering,1,27,Male,Master's,2021-08-17,80600,5.3,5,Remote,22,3.6,No
+E4454,Customer Support,3,35,Male,Bachelor's,2022-01-11,61100,12.8,3,Hybrid,16,3.4,No
+E4455,Marketing,3,41,Female,Bachelor's,2020-11-20,92000,6.7,2,Hybrid,20,4.5,No
+E4456,Operations,5,37,Female,Bachelor's,2020-04-11,128000,10.1,4,Remote,25,2.0,No
+E4457,Sales,1,21,Female,High School,2017-05-09,57900,5.1,3,On-site,31,3.8,No
+E4458,Customer Support,4,46,Female,Master's,2022-08-25,71400,7.7,2,On-site,26,3.8,No
+E4459,Data Science,4,38,Female,Master's,2023-10-03,185000,8.4,3,On-site,16,4.3,Yes
+E4460,Engineering,1,23,Male,Master's,2022-03-30,80700,1.3,3,Remote,16,4.1,No
+E4461,Sales,3,34,Female,Bachelor's,2022-12-16,89300,11.6,4,Hybrid,14,4.6,No
+E4462,Sales,2,30,Female,Bachelor's,2022-09-28,77000,1.6,3,Hybrid,24,2.6,Yes
+E4463,Sales,4,41,Male,Bachelor's,2023-03-16,97100,0.5,4,On-site,12,5.0,No
+E4464,Engineering,3,34,Male,Bachelor's,2023-01-16,128800,2.0,3,Remote,17,2.7,Yes
+E4465,Finance,1,28,Male,Master's,2021-12-20,70800,3.6,3,Remote,15,2.9,No
+E4466,Engineering,3,38,Male,Bachelor's,2020-09-14,125100,2.9,5,On-site,20,2.8,No
+E4467,Sales,3,31,Male,Bachelor's,2022-04-14,86700,1.7,1,Remote,16,2.7,Yes
+E4468,Engineering,2,26,Female,High School,2015-06-16,109500,9.5,4,On-site,16,4.0,No
+E4469,Sales,2,22,Female,High School,2024-11-23,80000,15.6,4,Remote,26,3.8,No
+E4470,Engineering,3,34,Non-binary,High School,2017-07-03,132600,1.3,3,Hybrid,20,2.9,No
+E4471,Finance,3,25,Non-binary,Master's,2022-04-22,111400,27.3,3,Remote,14,2.8,No
+E4472,Marketing,5,31,Female,Bachelor's,2023-07-13,119600,0.7,3,Hybrid,19,2.7,No
+E4473,Engineering,3,41,Female,Bachelor's,2022-11-18,141300,5.7,3,Hybrid,12,3.5,No
+E4474,Engineering,1,28,Male,Master's,2024-02-19,82500,5.1,3,Hybrid,14,3.1,No
+E4475,Data Science,1,26,Female,Bachelor's,2016-09-13,89700,0.8,4,On-site,16,3.6,No
+E4476,Engineering,1,22,Female,Bachelor's,2016-10-02,84400,10.0,4,On-site,15,5.0,No
+E4477,Sales,3,29,Female,Master's,2023-05-20,87200,2.7,3,On-site,11,2.3,Yes
+E4478,Sales,3,28,Male,High School,2023-01-10,81300,1.9,2,Hybrid,23,4.4,No
+E4479,Human Resources,2,32,Female,Bachelor's,2022-11-23,72600,11.1,5,Hybrid,20,3.6,No
+E4480,Customer Support,3,34,Non-binary,Bachelor's,2023-11-18,64700,6.1,5,On-site,16,4.0,No
+E4481,Sales,2,27,Male,Master's,2023-12-11,75300,1.1,3,Hybrid,28,3.4,No
+E4482,Operations,1,29,Female,Master's,2017-12-10,58000,0.8,3,On-site,10,3.6,No
+E4483,Sales,2,24,Male,Bachelor's,2024-08-15,67800,12.6,3,On-site,21,2.7,Yes
+E4484,Operations,1,28,Male,PhD,2020-04-26,51700,4.0,3,Hybrid,16,3.9,No
+E4485,Data Science,4,39,Female,Bachelor's,2020-11-06,155200,3.9,1,On-site,14,2.8,No
+E4486,Sales,2,33,Female,Bachelor's,2022-04-30,69000,11.2,4,Hybrid,18,4.5,No
+E4487,Engineering,2,31,Male,Master's,2022-03-23,113000,9.6,5,Hybrid,19,2.5,Yes
+E4488,Sales,3,33,Female,Master's,2021-05-07,77400,10.8,3,Remote,13,3.5,No
+E4489,Engineering,4,41,Male,Bachelor's,2024-10-31,151600,10.3,3,Hybrid,14,3.0,No
+E4490,Operations,3,32,Female,Bachelor's,2023-02-05,78500,3.6,3,Remote,19,3.4,No
+E4491,Customer Support,3,37,Male,Bachelor's,2024-09-07,59100,4.9,4,Hybrid,16,3.6,No
+E4492,Customer Support,4,40,Male,Bachelor's,2023-06-17,70500,4.5,2,Hybrid,11,3.1,No
+E4493,Human Resources,4,42,Male,Bachelor's,2023-01-09,90200,2.8,5,Remote,22,4.0,No
+E4494,Engineering,2,36,Female,High School,2021-10-16,105600,11.1,3,On-site,15,3.2,Yes
+E4495,Data Science,3,35,Male,Bachelor's,2020-11-06,154600,5.4,4,On-site,24,3.9,No
+E4496,Customer Support,2,21,Male,Bachelor's,2020-02-02,48600,0.6,2,Remote,15,1.7,Yes
+E4497,Marketing,3,38,Male,Bachelor's,2017-09-24,82100,5.5,4,On-site,16,3.6,No
+E4498,Data Science,1,36,Male,High School,2019-09-13,88800,19.7,5,On-site,13,5.0,No
+E4499,Engineering,4,42,Male,Master's,2021-03-31,145700,2.0,3,On-site,26,4.0,No
+E4500,Customer Support,2,35,Male,Master's,2023-05-02,54600,14.9,3,Remote,20,2.2,Yes
+E4501,Engineering,1,28,Female,Bachelor's,2022-04-24,91300,7.7,4,On-site,20,2.7,No
+E4502,Data Science,3,34,Male,Master's,2024-03-27,139600,6.6,2,On-site,22,3.3,No
+E4503,Human Resources,3,34,Male,Bachelor's,2025-01-24,78900,5.9,3,On-site,12,3.4,No
+E4504,Operations,3,31,Male,Bachelor's,2021-01-03,77800,1.9,3,Hybrid,23,4.1,No
+E4505,Sales,1,31,Male,PhD,2013-06-15,60300,3.8,4,Hybrid,13,2.5,Yes
+E4506,Finance,2,30,Male,Bachelor's,2023-09-09,86600,5.0,3,On-site,19,2.0,No
+E4507,Sales,2,27,Female,High School,2018-09-30,67000,1.5,3,Hybrid,14,2.1,No
+E4508,Sales,3,35,Male,Bachelor's,2021-11-05,85700,11.6,2,Remote,16,3.1,No
+E4509,Data Science,3,36,Female,High School,2015-11-01,136600,9.9,4,On-site,18,3.3,No
+E4510,Sales,2,33,Female,Bachelor's,2020-11-19,79400,4.2,3,On-site,16,2.6,No
+E4511,Data Science,2,35,Non-binary,Bachelor's,2023-03-11,107600,2.1,5,Hybrid,15,3.2,Yes
+E4512,Sales,3,40,Female,Bachelor's,2024-10-10,92500,8.1,4,On-site,12,3.6,Yes
+E4513,Engineering,5,32,Male,High School,2021-07-14,173300,12.5,3,On-site,22,3.1,No
+E4514,Operations,4,34,Female,Bachelor's,2024-01-13,78000,21.9,3,Hybrid,16,4.7,No
+E4515,Finance,3,28,Male,Bachelor's,2020-12-12,107000,8.5,2,Hybrid,18,3.3,No
+E4516,Operations,2,35,Male,Master's,2024-07-09,63800,7.8,4,Hybrid,19,3.6,No
+E4517,Operations,1,32,Female,High School,2025-03-28,48600,2.2,3,Hybrid,26,4.8,No
+E4518,Data Science,1,26,Male,Master's,2021-04-25,95100,6.9,3,Hybrid,16,1.5,No
+E4519,Data Science,2,33,Male,Master's,2010-03-27,106100,9.6,3,Remote,17,3.0,No
+E4520,Data Science,2,26,Male,High School,2020-10-16,117800,2.2,3,On-site,16,5.0,No
+E4521,Sales,4,39,Female,PhD,2022-11-23,102200,2.6,3,Remote,18,4.2,No
+E4522,Finance,4,37,Female,Master's,2024-06-16,129800,15.8,3,On-site,21,4.1,No
+E4523,Sales,1,27,Female,Master's,2020-01-03,53500,10.5,5,Hybrid,24,3.8,No
+E4524,Sales,4,36,Female,Bachelor's,2016-01-24,113100,4.6,2,Remote,17,2.4,No
+E4525,Operations,2,28,Male,Bachelor's,2022-01-04,70800,4.2,1,On-site,11,4.7,No
+E4526,Human Resources,5,44,Male,Bachelor's,2021-02-25,125600,0.7,3,Remote,13,3.3,No
+E4527,Sales,1,24,Male,Bachelor's,2016-11-19,57900,3.0,3,Hybrid,19,3.2,Yes
+E4528,Engineering,2,30,Female,Master's,2023-12-16,99800,1.7,3,On-site,24,3.0,No
+E4529,Customer Support,1,31,Male,Bachelor's,2024-04-21,38000,7.5,1,On-site,18,2.3,Yes
+E4530,Engineering,2,35,Female,Master's,2024-01-18,111900,4.5,3,On-site,20,3.7,Yes
+E4531,Sales,2,35,Female,Master's,2019-02-07,66900,3.0,5,On-site,24,4.4,No
+E4532,Human Resources,1,30,Male,Bachelor's,2019-02-11,53100,10.0,4,Hybrid,19,5.0,No
+E4533,Engineering,1,31,Female,Master's,2021-01-20,79500,2.6,4,Hybrid,19,3.1,No
+E4534,Engineering,2,30,Male,Master's,2010-06-18,102900,9.0,2,Remote,24,4.9,No
+E4535,Human Resources,1,24,Male,Master's,2023-07-17,55700,10.8,4,Remote,19,3.3,No
+E4536,Marketing,3,40,Female,Bachelor's,2022-09-12,97800,3.3,3,Remote,19,3.2,No
+E4537,Sales,2,24,Male,Bachelor's,2021-05-02,69900,6.0,3,Remote,18,3.4,No
+E4538,Engineering,2,29,Male,PhD,2020-05-19,102400,2.2,3,Remote,20,2.9,No
+E4539,Sales,2,32,Male,Bachelor's,2022-01-20,64200,6.9,3,Hybrid,25,3.0,No
+E4540,Operations,2,40,Female,Master's,2022-05-28,64700,6.1,2,Remote,15,3.8,No
+E4541,Data Science,1,32,Female,Master's,2023-07-06,82000,4.7,3,Hybrid,24,3.7,No
+E4542,Data Science,4,40,Male,Bachelor's,2021-11-08,175400,12.5,1,Hybrid,17,3.1,Yes
+E4543,Sales,3,32,Female,Master's,2022-09-08,99700,2.5,4,Remote,17,3.2,Yes
+E4544,Operations,4,41,Female,Bachelor's,2019-12-04,91300,7.5,4,Remote,14,3.1,No
+E4545,Engineering,2,27,Male,Bachelor's,2019-12-17,121000,13.4,3,On-site,12,3.2,Yes
+E4546,Engineering,1,27,Male,Bachelor's,2023-03-21,85600,6.4,5,On-site,19,3.4,No
+E4547,Data Science,4,30,Male,PhD,2022-02-10,169300,3.1,3,On-site,19,3.7,No
+E4548,Sales,3,40,Male,Master's,2022-10-13,82400,8.9,4,On-site,24,4.6,No
+E4549,Customer Support,2,29,Female,High School,2025-04-26,52500,2.9,3,Hybrid,15,4.1,No
+E4550,Engineering,2,28,Female,Bachelor's,2016-11-21,105500,1.9,4,Hybrid,15,5.0,No
+E4551,Sales,1,27,Male,Master's,2021-03-25,53500,0.4,2,Hybrid,20,3.3,No
+E4552,Human Resources,1,28,Male,Master's,2023-02-12,57400,1.6,3,Hybrid,27,4.1,No
+E4553,Engineering,2,30,Male,Bachelor's,2019-04-14,102000,24.7,4,On-site,16,3.8,No
+E4554,Sales,3,43,Male,Bachelor's,2024-01-16,90200,7.9,5,Remote,19,3.4,Yes
+E4555,Marketing,2,24,Female,Bachelor's,2022-11-26,73100,17.5,4,On-site,19,3.5,No
+E4556,Operations,3,38,Male,Bachelor's,2024-11-11,73900,7.1,3,Remote,10,3.4,Yes
+E4557,Human Resources,2,27,Female,PhD,2019-07-01,73600,0.7,3,Remote,17,3.3,No
+E4558,Sales,4,32,Male,Bachelor's,2024-01-22,104600,7.5,3,Hybrid,10,2.7,No
+E4559,Customer Support,4,41,Female,Bachelor's,2023-01-06,81200,3.6,3,Hybrid,17,4.8,No
+E4560,Operations,3,32,Female,Bachelor's,2020-11-17,73700,5.9,3,On-site,11,3.1,No
+E4561,Finance,2,37,Female,Master's,2022-08-22,106400,14.2,3,Remote,22,4.7,No
+E4562,Operations,1,29,Male,Bachelor's,2022-09-05,51900,8.5,2,Hybrid,24,3.3,No
+E4563,Data Science,4,37,Male,Master's,2023-10-23,142700,6.7,3,Hybrid,23,4.1,No
+E4564,Marketing,1,22,Male,High School,2024-09-08,50000,4.5,3,Hybrid,6,2.4,Yes
+E4565,Finance,3,33,Male,Bachelor's,2024-05-19,129200,8.5,5,Hybrid,22,5.0,No
+E4566,Sales,3,33,Male,Master's,2022-12-07,84500,2.8,3,Hybrid,20,4.6,No
+E4567,Finance,3,29,Female,PhD,2017-10-19,118500,4.9,2,Hybrid,25,3.9,No
+E4568,Operations,3,27,Male,High School,2023-07-08,69800,4.2,4,Hybrid,23,2.9,No
+E4569,Customer Support,1,21,Female,Bachelor's,2024-08-30,36600,1.9,3,Hybrid,16,4.2,No
+E4570,Engineering,2,31,Female,Bachelor's,2024-12-09,114400,6.6,3,Hybrid,20,3.0,Yes
+E4571,Engineering,3,31,Female,Bachelor's,2019-12-27,130500,4.2,1,Hybrid,24,3.1,No
+E4572,Engineering,2,33,Female,High School,2019-10-29,112300,3.1,4,On-site,20,3.1,Yes
+E4573,Customer Support,3,31,Male,Bachelor's,2016-09-05,66200,19.1,3,Remote,16,3.6,No
+E4574,Data Science,3,39,Female,Bachelor's,2023-04-28,134100,10.3,3,On-site,19,2.8,Yes
+E4575,Marketing,2,30,Female,Bachelor's,2020-06-19,80300,9.7,2,On-site,12,3.2,No
+E4576,Sales,1,27,Female,Bachelor's,2018-05-18,58300,7.5,4,On-site,18,3.9,No
+E4577,Operations,2,31,Male,High School,2016-02-24,69000,6.6,3,Hybrid,21,4.4,No
+E4578,Human Resources,3,31,Female,Master's,2024-09-02,90600,5.0,3,Hybrid,19,3.1,No
+E4579,Customer Support,3,42,Female,Bachelor's,2025-01-20,55600,1.2,3,On-site,15,3.9,No
+E4580,Customer Support,5,43,Male,Master's,2021-09-21,78200,2.2,5,On-site,15,5.0,No
+E4581,Sales,2,34,Female,Bachelor's,2024-06-20,80600,4.7,3,Hybrid,19,4.4,Yes
+E4582,Data Science,1,30,Male,Bachelor's,2024-05-17,83700,5.1,2,Hybrid,24,2.6,Yes
+E4583,Sales,1,23,Male,Bachelor's,2021-02-13,56000,12.1,2,On-site,18,3.6,Yes
+E4584,Finance,1,35,Male,Master's,2022-03-30,56000,3.0,3,On-site,13,3.0,Yes
+E4585,Operations,3,34,Male,High School,2020-12-16,77200,6.7,1,Remote,13,3.8,No
+E4586,Data Science,1,41,Female,Bachelor's,2025-02-08,92500,7.6,3,Hybrid,16,5.0,No
+E4587,Sales,1,21,Female,Bachelor's,2022-09-07,52000,15.3,3,Hybrid,16,4.0,No
+E4588,Operations,2,31,Female,Master's,2022-12-08,66000,0.8,3,Hybrid,24,4.6,No
+E4589,Customer Support,1,24,Female,Bachelor's,2024-09-10,44000,2.1,5,On-site,14,3.0,No
+E4590,Human Resources,1,26,Male,Master's,2021-01-17,50800,6.8,3,Hybrid,17,3.7,No
+E4591,Engineering,1,35,Female,Bachelor's,2021-06-30,75900,10.9,4,On-site,21,3.2,No
+E4592,Data Science,1,21,Male,Master's,2023-11-02,87500,16.0,1,Remote,19,3.4,Yes
+E4593,Customer Support,1,23,Female,Bachelor's,2018-03-23,44300,6.3,4,Hybrid,33,3.5,No
+E4594,Engineering,2,29,Male,Bachelor's,2024-03-09,104800,5.4,4,Hybrid,19,3.8,No
+E4595,Sales,2,32,Male,High School,2018-05-26,68400,7.8,3,Remote,21,4.9,No
+E4596,Operations,3,24,Female,Master's,2018-04-29,79600,10.4,5,On-site,24,4.0,No
+E4597,Operations,2,37,Female,Bachelor's,2024-09-20,68500,8.1,3,On-site,26,3.8,No
+E4598,Engineering,1,22,Female,High School,2024-05-14,87300,5.2,3,Remote,18,2.3,No
+E4599,Engineering,2,32,Male,Master's,2017-10-23,102700,1.4,4,Hybrid,19,3.0,No
+E4600,Operations,1,21,Male,Master's,2020-07-04,45700,4.4,3,Remote,10,4.0,No
+E4601,Operations,3,34,Male,Bachelor's,2023-10-09,71100,27.9,3,Hybrid,20,3.9,No
+E4602,Engineering,2,21,Male,Bachelor's,2024-09-01,107200,5.4,3,On-site,17,2.4,Yes
+E4603,Customer Support,5,30,Male,Master's,2024-12-20,96300,3.4,4,Hybrid,20,2.8,Yes
+E4604,Marketing,1,21,Female,Bachelor's,2021-02-03,60100,10.2,2,On-site,22,2.0,No
+E4605,Customer Support,3,33,Female,Bachelor's,2017-02-20,72100,4.9,4,Remote,19,2.3,No
+E4606,Marketing,1,29,Female,Master's,2018-09-01,62800,6.9,3,Hybrid,21,2.9,No
+E4607,Operations,2,32,Male,Master's,2024-05-07,64200,8.8,3,On-site,15,2.7,No
+E4608,Engineering,4,39,Non-binary,Master's,2020-09-06,190100,7.2,5,On-site,24,4.6,No
+E4609,Operations,2,33,Male,Master's,2024-03-15,67700,3.4,1,Hybrid,14,2.2,Yes
+E4610,Engineering,5,38,Male,High School,2020-07-31,201300,2.7,3,On-site,18,3.1,No
+E4611,Marketing,4,41,Male,Bachelor's,2021-10-15,113300,5.4,3,Hybrid,17,2.6,No
+E4612,Engineering,4,36,Male,Master's,2023-06-06,170500,8.3,3,On-site,22,2.9,No
+E4613,Sales,3,39,Female,High School,2019-10-01,83600,3.4,2,Hybrid,20,3.4,No
+E4614,Sales,1,23,Male,Bachelor's,2022-02-06,66200,3.4,3,Remote,25,2.0,No
+E4615,Customer Support,1,33,Male,Bachelor's,2017-08-16,40800,5.7,1,On-site,16,3.2,No
+E4616,Engineering,1,38,Non-binary,Bachelor's,2022-03-28,77100,5.6,4,On-site,11,3.9,No
+E4617,Data Science,3,27,Male,Bachelor's,2023-12-18,128800,7.2,3,On-site,16,2.5,No
+E4618,Human Resources,3,30,Male,Master's,2020-10-14,86700,11.7,3,On-site,20,3.6,No
+E4619,Finance,1,25,Male,Bachelor's,2024-04-07,70600,5.7,3,Hybrid,18,2.7,No
+E4620,Data Science,4,34,Male,Bachelor's,2018-12-06,141600,6.8,2,On-site,23,4.4,No
+E4621,Operations,4,51,Male,Bachelor's,2024-04-08,80400,2.7,2,On-site,22,2.2,Yes
+E4622,Operations,1,26,Female,Master's,2022-11-17,52500,12.3,3,Remote,17,3.2,No
+E4623,Engineering,5,50,Male,Bachelor's,2024-04-17,221700,2.9,4,Remote,19,2.2,No
+E4624,Engineering,4,33,Female,Bachelor's,2023-02-04,156000,8.4,3,On-site,20,3.1,No
+E4625,Customer Support,2,30,Female,Master's,2015-12-03,56500,4.7,3,On-site,12,3.1,No
+E4626,Data Science,3,49,Female,Bachelor's,2023-01-31,145600,5.6,3,On-site,15,2.3,No
+E4627,Operations,2,39,Male,PhD,2023-01-02,69000,11.6,3,Hybrid,22,4.7,No
+E4628,Operations,2,25,Female,Bachelor's,2022-07-24,64100,4.9,3,On-site,27,3.2,No
+E4629,Operations,5,44,Female,Bachelor's,2021-08-12,104100,8.1,3,Hybrid,17,3.4,No
+E4630,Engineering,2,34,Female,Bachelor's,2024-12-17,92700,12.7,1,On-site,21,2.5,No
+E4631,Marketing,3,36,Female,High School,2022-04-12,103100,5.2,3,On-site,24,3.2,No
+E4632,Engineering,2,29,Female,High School,2023-09-19,97600,0.6,5,Hybrid,18,4.9,No
+E4633,Finance,2,32,Male,Bachelor's,2020-12-03,84200,8.3,4,On-site,16,3.7,No
+E4634,Finance,3,25,Female,Bachelor's,2022-05-21,110100,1.3,3,On-site,16,3.5,No
+E4635,Operations,2,27,Female,Bachelor's,2022-01-05,68900,1.4,3,Remote,14,4.0,No
+E4636,Engineering,2,35,Male,Master's,2020-08-08,106400,4.3,5,Hybrid,16,1.9,No
+E4637,Human Resources,3,28,Male,Bachelor's,2022-03-24,88700,3.0,4,Hybrid,21,2.2,No
+E4638,Operations,1,28,Male,Master's,2017-11-08,52800,4.9,3,On-site,18,4.6,No
+E4639,Operations,2,42,Female,Master's,2021-02-28,62300,7.9,2,Hybrid,17,2.6,Yes
+E4640,Operations,1,22,Male,Bachelor's,2025-02-03,52500,6.5,3,On-site,16,4.0,No
+E4641,Marketing,2,24,Female,Master's,2023-07-23,78200,2.4,3,On-site,13,4.6,Yes
+E4642,Engineering,2,31,Female,Bachelor's,2022-03-26,98400,1.6,4,Remote,22,3.6,No
+E4643,Data Science,1,21,Male,Bachelor's,2017-12-02,83400,2.7,2,On-site,27,3.0,No
+E4644,Marketing,1,22,Female,Bachelor's,2024-08-12,54300,10.5,2,Hybrid,18,2.4,Yes
+E4645,Engineering,5,39,Female,Bachelor's,2024-03-28,171700,12.6,3,Hybrid,14,4.4,No
+E4646,Engineering,4,26,Female,Bachelor's,2023-04-04,141600,6.7,4,Remote,14,3.4,No
+E4647,Customer Support,4,36,Female,Bachelor's,2019-11-02,82600,4.7,2,Hybrid,22,4.5,No
+E4648,Data Science,2,30,Male,Bachelor's,2018-12-27,100700,1.7,2,Hybrid,17,1.4,No
+E4649,Data Science,5,41,Male,Master's,2017-04-18,193000,12.9,3,Hybrid,15,3.7,No
+E4650,Engineering,2,24,Female,Master's,2024-01-15,91700,7.4,3,Hybrid,14,2.6,Yes
+E4651,Engineering,3,32,Female,Master's,2024-11-15,125800,7.3,4,Hybrid,18,4.2,No
+E4652,Customer Support,1,27,Male,Master's,2019-11-15,41500,5.2,3,Hybrid,17,2.5,No
+E4653,Finance,3,36,Male,Master's,2022-12-29,96700,14.4,3,Hybrid,21,3.6,No
+E4654,Marketing,2,27,Female,Bachelor's,2023-02-16,73700,6.2,2,Hybrid,12,1.8,No
+E4655,Engineering,2,36,Male,Bachelor's,2022-12-14,100500,1.0,5,Hybrid,22,3.2,No
+E4656,Marketing,1,25,Non-binary,Bachelor's,2023-03-02,65100,6.7,3,Hybrid,12,4.7,Yes
+E4657,Data Science,1,21,Male,High School,2022-02-09,92400,7.5,3,Hybrid,23,4.9,Yes
+E4658,Finance,1,21,Male,Master's,2021-05-04,80100,13.5,4,Hybrid,22,5.0,No
+E4659,Customer Support,1,23,Male,Bachelor's,2022-10-12,36300,1.6,4,On-site,18,3.5,Yes
+E4660,Engineering,2,29,Female,Bachelor's,2022-07-15,100900,7.6,4,On-site,14,5.0,No
+E4661,Human Resources,2,32,Female,Master's,2023-09-04,67100,12.4,3,Hybrid,17,2.8,No
+E4662,Finance,3,44,Female,Bachelor's,2022-01-22,106600,1.8,4,On-site,21,2.4,No
+E4663,Data Science,1,21,Female,Master's,2021-10-12,90900,4.1,3,On-site,17,3.1,Yes
+E4664,Finance,3,29,Female,Bachelor's,2023-04-16,107300,4.5,1,Hybrid,19,2.2,Yes
+E4665,Operations,1,30,Female,Bachelor's,2022-09-29,49700,10.9,3,Remote,18,3.0,No
+E4666,Finance,2,33,Female,High School,2022-11-11,90300,10.5,3,On-site,15,3.0,No
+E4667,Customer Support,2,21,Female,Bachelor's,2021-11-05,47000,11.3,3,On-site,18,3.5,No
+E4668,Customer Support,1,30,Female,PhD,2024-07-07,39900,8.8,4,Remote,16,2.7,No
+E4669,Marketing,2,23,Male,Master's,2022-11-24,78900,10.3,3,Hybrid,15,2.7,No
+E4670,Operations,3,24,Male,PhD,2022-08-11,86400,10.8,4,Remote,21,2.8,No
+E4671,Marketing,3,34,Female,Bachelor's,2023-11-26,95100,5.2,3,On-site,28,2.1,No
+E4672,Marketing,3,32,Female,High School,2021-01-07,83600,5.9,3,Hybrid,18,2.5,No
+E4673,Data Science,3,36,Female,Bachelor's,2020-10-19,131800,5.8,4,On-site,21,3.7,No
+E4674,Operations,3,33,Male,Master's,2023-03-12,68400,9.9,3,Remote,15,4.6,No
+E4675,Marketing,2,30,Female,Master's,2022-11-06,79400,4.8,2,Remote,13,3.2,No
+E4676,Engineering,1,37,Male,Master's,2021-06-19,82400,3.2,3,Hybrid,14,3.6,No
+E4677,Engineering,1,24,Female,Bachelor's,2021-06-02,82600,5.4,3,Hybrid,22,2.8,No
+E4678,Engineering,2,28,Female,PhD,2021-05-07,103000,1.2,3,On-site,18,2.9,No
+E4679,Sales,4,34,Female,PhD,2021-05-07,106600,6.3,2,On-site,17,3.4,Yes
+E4680,Marketing,4,40,Female,High School,2024-07-12,100700,2.9,3,Hybrid,18,3.0,No
+E4681,Operations,2,28,Female,Master's,2024-01-27,70000,7.5,4,Hybrid,14,4.1,No
+E4682,Operations,2,37,Male,Master's,2024-08-24,68300,9.4,2,Remote,16,4.7,No
+E4683,Sales,1,24,Female,Bachelor's,2025-01-05,53700,4.8,3,On-site,15,3.2,No
+E4684,Customer Support,1,30,Female,Bachelor's,2013-09-07,38300,9.5,3,Hybrid,12,4.2,No
+E4685,Finance,4,37,Male,Bachelor's,2022-06-18,130700,0.9,3,On-site,18,2.5,No
+E4686,Engineering,4,39,Female,Bachelor's,2020-07-15,166000,12.4,5,On-site,21,4.9,No
+E4687,Operations,5,46,Female,Bachelor's,2022-06-04,120000,11.9,4,Remote,22,3.2,No
+E4688,Data Science,2,25,Male,High School,2021-03-05,96300,4.6,4,On-site,21,3.9,No
+E4689,Human Resources,5,41,Female,High School,2022-10-20,118200,9.3,4,Hybrid,19,3.6,No
+E4690,Operations,2,29,Female,Master's,2019-06-25,66500,3.6,3,Hybrid,15,3.7,No
+E4691,Human Resources,2,26,Male,High School,2017-10-15,63700,7.7,3,Hybrid,12,3.5,No
+E4692,Marketing,5,50,Male,Bachelor's,2021-10-01,119600,4.3,3,On-site,14,4.5,Yes
+E4693,Human Resources,1,31,Male,Bachelor's,2024-08-02,55000,2.3,3,On-site,11,1.8,Yes
+E4694,Finance,2,27,Male,Bachelor's,2018-09-08,83100,11.1,4,Remote,17,4.4,No
+E4695,Marketing,1,27,Female,Bachelor's,2024-04-08,54800,7.1,3,On-site,20,2.8,No
+E4696,Operations,3,40,Male,Master's,2017-09-20,84200,3.5,2,Hybrid,14,3.0,Yes
+E4697,Marketing,4,42,Female,PhD,2021-10-09,125400,8.2,3,Hybrid,11,2.7,No
+E4698,Customer Support,4,32,Female,Bachelor's,2024-05-31,76800,8.4,4,Hybrid,17,4.5,No
+E4699,Engineering,2,24,Female,Bachelor's,2021-03-24,113500,3.4,2,Remote,21,4.9,No
+E4700,Customer Support,2,40,Male,Bachelor's,2023-05-24,49400,0.5,2,Remote,21,4.8,No
+E4701,Operations,1,23,Female,Bachelor's,2023-04-04,54500,4.2,5,Remote,21,2.6,No
+E4702,Customer Support,1,21,Male,Bachelor's,2024-08-07,39400,1.7,1,On-site,19,3.5,No
+E4703,Human Resources,3,40,Male,Bachelor's,2015-02-10,76700,0.6,2,On-site,21,4.5,No
+E4704,Engineering,2,34,Male,Master's,2023-09-28,104900,10.1,4,On-site,18,2.6,No
+E4705,Sales,2,38,Non-binary,Bachelor's,2023-01-21,69700,15.0,4,Remote,18,4.7,No
+E4706,Customer Support,1,21,Male,Bachelor's,2024-11-22,43800,8.5,2,Remote,19,2.5,Yes
+E4707,Customer Support,1,29,Female,Bachelor's,2019-05-10,36400,5.9,1,Hybrid,25,3.8,Yes
+E4708,Human Resources,1,34,Female,Master's,2023-02-12,59900,9.1,4,Hybrid,16,4.7,No
+E4709,Engineering,2,40,Female,Bachelor's,2023-05-07,99400,4.1,2,Hybrid,12,2.6,Yes
+E4710,Human Resources,2,38,Male,Bachelor's,2019-01-21,65700,6.3,3,Remote,18,3.7,No
+E4711,Marketing,4,39,Female,Bachelor's,2023-08-12,105400,5.4,3,Hybrid,9,3.3,No
+E4712,Customer Support,2,38,Male,Master's,2023-05-16,49700,1.1,3,Hybrid,16,3.8,No
+E4713,Operations,1,32,Female,Master's,2022-04-16,51100,6.3,3,On-site,9,4.3,No
+E4714,Finance,2,30,Female,Master's,2023-10-04,85700,5.2,2,Hybrid,28,3.9,No
+E4715,Sales,4,38,Female,Bachelor's,2023-12-23,95100,2.9,5,Remote,18,4.6,No
+E4716,Engineering,1,21,Male,Master's,2018-05-11,82000,7.0,3,Remote,9,3.0,No
+E4717,Sales,2,27,Male,Master's,2024-05-18,69900,6.7,2,On-site,20,3.7,Yes
+E4718,Customer Support,5,40,Female,Bachelor's,2023-10-03,84700,5.4,2,Hybrid,19,3.8,No
+E4719,Finance,3,38,Female,Bachelor's,2022-03-10,100500,10.7,3,Hybrid,15,2.1,No
+E4720,Human Resources,4,34,Male,Bachelor's,2020-11-11,90900,4.9,4,On-site,21,3.9,No
+E4721,Customer Support,4,40,Male,Master's,2022-03-25,78600,11.4,3,Remote,18,3.2,Yes
+E4722,Sales,4,50,Male,Bachelor's,2025-01-25,97300,7.1,3,Remote,16,3.5,No
+E4723,Marketing,3,29,Female,Bachelor's,2021-03-05,102200,5.3,2,On-site,24,3.7,No
+E4724,Data Science,3,35,Female,Master's,2020-11-30,131500,10.1,4,Hybrid,20,3.6,No
+E4725,Customer Support,3,42,Male,Master's,2019-06-23,70400,10.3,4,Hybrid,16,3.8,Yes
+E4726,Customer Support,5,37,Male,Master's,2023-11-02,100100,10.0,1,Remote,15,3.4,Yes
+E4727,Engineering,1,26,Male,Master's,2022-01-13,83000,1.6,3,Hybrid,13,3.8,No
+E4728,Human Resources,1,42,Male,PhD,2022-12-06,56000,8.4,3,On-site,20,3.3,No
+E4729,Marketing,2,25,Female,Master's,2021-12-05,70300,11.9,5,On-site,20,2.9,No
+E4730,Engineering,2,25,Female,Master's,2023-03-21,105200,10.5,4,Remote,21,2.7,Yes
+E4731,Human Resources,2,25,Male,Bachelor's,2023-04-11,65700,1.1,5,On-site,20,3.7,No
+E4732,Sales,1,21,Male,PhD,2021-11-09,55600,3.0,3,On-site,14,3.5,No
+E4733,Customer Support,1,31,Female,Bachelor's,2020-08-26,42900,10.6,3,On-site,14,1.9,No
+E4734,Engineering,1,25,Male,Bachelor's,2023-08-28,93000,4.0,2,On-site,23,4.9,No
+E4735,Marketing,4,34,Male,Master's,2023-05-07,114600,1.8,4,Remote,26,4.8,No
+E4736,Engineering,1,21,Female,PhD,2024-01-22,80800,10.0,3,Hybrid,14,3.2,No
+E4737,Operations,2,39,Male,Bachelor's,2017-11-21,58900,15.4,4,Remote,20,3.7,No
+E4738,Engineering,2,30,Female,Master's,2022-06-04,121200,5.1,4,Hybrid,23,3.1,No
+E4739,Data Science,1,41,Female,High School,2024-01-19,86700,2.7,3,Hybrid,15,3.9,No
+E4740,Data Science,1,28,Male,Bachelor's,2022-10-16,76900,5.4,3,Hybrid,23,2.5,No
+E4741,Finance,1,23,Male,Bachelor's,2024-03-11,66900,6.9,3,Remote,18,3.9,No
+E4742,Sales,1,24,Male,Bachelor's,2021-12-20,61000,1.5,5,Hybrid,22,4.0,No
+E4743,Engineering,3,39,Female,Bachelor's,2022-10-25,134300,8.6,4,On-site,19,2.3,Yes
+E4744,Engineering,2,29,Male,Bachelor's,2021-03-01,91500,0.6,3,On-site,24,3.9,No
+E4745,Sales,1,26,Male,Bachelor's,2024-11-28,53800,5.4,2,On-site,12,2.6,No
+E4746,Marketing,2,30,Female,Master's,2019-07-11,78900,2.3,3,Hybrid,12,3.3,No
+E4747,Data Science,2,34,Male,Master's,2022-12-16,117500,16.6,3,On-site,10,3.9,No
+E4748,Human Resources,5,50,Male,Bachelor's,2024-11-10,119700,1.5,4,Hybrid,15,2.4,No
+E4749,Engineering,3,30,Male,Bachelor's,2022-04-27,132400,3.8,1,Hybrid,12,2.4,No
+E4750,Operations,3,34,Male,Bachelor's,2021-02-12,87500,9.2,3,Hybrid,19,3.7,No
+E4751,Marketing,4,44,Female,Master's,2020-05-12,107800,5.5,3,Hybrid,14,3.2,No
+E4752,Data Science,3,35,Female,Master's,2021-12-10,136600,3.4,4,Remote,19,4.1,No
+E4753,Data Science,2,34,Male,Master's,2020-04-04,111200,4.6,2,On-site,16,2.9,No
+E4754,Engineering,2,28,Female,Master's,2020-11-20,112300,6.7,3,On-site,14,5.0,No
+E4755,Human Resources,3,40,Male,Bachelor's,2021-09-30,78200,7.8,3,On-site,17,3.1,Yes
+E4756,Customer Support,3,31,Male,Bachelor's,2021-08-07,73400,3.9,4,Remote,17,3.4,No
+E4757,Sales,3,39,Male,Master's,2023-02-23,91700,3.3,3,On-site,19,3.6,No
+E4758,Operations,1,24,Female,Bachelor's,2024-02-09,49700,0.6,3,Hybrid,17,3.0,No
+E4759,Data Science,3,36,Female,Bachelor's,2022-10-17,134200,7.7,4,On-site,19,4.7,No
+E4760,Data Science,3,29,Female,Bachelor's,2020-10-03,153100,4.4,2,On-site,12,3.9,No
+E4761,Data Science,1,28,Non-binary,Master's,2021-04-29,79000,10.3,3,Remote,20,2.9,Yes
+E4762,Sales,2,30,Female,Bachelor's,2019-08-30,72400,5.8,3,On-site,12,3.1,No
+E4763,Engineering,3,29,Female,Bachelor's,2023-11-01,155000,3.3,3,On-site,15,5.0,No
+E4764,Human Resources,4,42,Male,Bachelor's,2021-01-27,104600,6.1,4,Hybrid,22,3.6,No
+E4765,Data Science,1,30,Female,Bachelor's,2020-01-23,79400,5.2,3,On-site,25,2.7,Yes
+E4766,Customer Support,1,29,Female,Bachelor's,2023-04-25,46200,5.4,4,Hybrid,23,2.6,Yes
+E4767,Operations,2,28,Male,Bachelor's,2023-01-15,68000,0.8,4,On-site,21,4.8,No
+E4768,Sales,1,28,Female,Master's,2018-10-01,59300,20.5,4,On-site,22,3.4,No
+E4769,Operations,1,31,Female,Master's,2022-05-05,55400,6.3,3,Remote,9,5.0,No
+E4770,Customer Support,1,27,Male,High School,2011-03-04,36600,5.8,4,On-site,16,5.0,No
+E4771,Customer Support,2,26,Female,Master's,2024-01-24,44200,8.5,3,Remote,13,3.5,Yes
+E4772,Operations,2,33,Non-binary,Bachelor's,2020-08-07,64600,5.9,3,Remote,12,2.4,No
+E4773,Operations,2,28,Female,High School,2024-08-08,74800,3.8,3,Hybrid,16,3.6,No
+E4774,Finance,2,31,Female,Master's,2021-09-15,96500,2.5,3,Hybrid,20,2.6,No
+E4775,Sales,2,30,Male,Master's,2022-02-13,62600,6.6,4,Hybrid,19,2.3,Yes
+E4776,Marketing,2,33,Female,Bachelor's,2022-03-04,79000,4.2,1,Remote,19,3.3,No
+E4777,Finance,4,33,Female,Master's,2022-05-14,127100,10.5,3,On-site,17,4.0,No
+E4778,Marketing,2,31,Male,Bachelor's,2016-02-21,65000,7.0,4,Remote,17,2.8,No
+E4779,Customer Support,5,35,Male,Bachelor's,2013-09-08,82800,4.8,4,On-site,24,2.9,No
+E4780,Marketing,1,25,Male,Bachelor's,2022-09-19,53200,4.6,4,Remote,22,3.5,No
+E4781,Customer Support,1,23,Male,High School,2021-05-01,43900,17.6,2,Hybrid,26,2.2,No
+E4782,Operations,1,32,Male,Master's,2021-10-28,50500,1.7,3,On-site,21,3.0,No
+E4783,Sales,2,32,Female,Bachelor's,2022-09-03,79600,2.2,3,Remote,21,3.5,Yes
+E4784,Marketing,3,39,Male,Bachelor's,2023-04-23,101000,1.5,3,Hybrid,17,2.9,No
+E4785,Engineering,4,39,Female,Bachelor's,2024-04-11,148100,13.2,4,Remote,17,4.0,No
+E4786,Finance,3,36,Female,Master's,2023-01-07,119500,7.3,1,On-site,11,3.0,Yes
+E4787,Marketing,2,36,Female,Bachelor's,2021-01-08,76200,6.6,4,Hybrid,14,2.4,No
+E4788,Engineering,2,39,Male,Bachelor's,2023-07-15,108100,11.4,4,Hybrid,23,2.2,No
+E4789,Engineering,1,26,Female,PhD,2023-06-22,93100,2.6,3,On-site,12,3.3,No
+E4790,Customer Support,2,29,Male,Master's,2021-06-30,51800,1.3,3,Hybrid,26,2.6,Yes
+E4791,Human Resources,2,32,Male,Bachelor's,2023-05-14,71900,4.9,4,On-site,13,3.0,No
+E4792,Customer Support,1,27,Male,Bachelor's,2025-02-14,38400,18.5,3,On-site,13,2.0,No
+E4793,Data Science,2,31,Male,Bachelor's,2022-04-15,107100,2.4,3,On-site,23,3.7,No
+E4794,Customer Support,3,28,Female,Bachelor's,2022-06-01,61300,5.5,2,Remote,13,4.1,No
+E4795,Engineering,2,32,Male,Bachelor's,2023-01-28,100600,17.9,4,Hybrid,16,3.0,No
+E4796,Sales,3,33,Male,Master's,2023-03-04,84900,2.3,2,On-site,19,2.2,No
+E4797,Data Science,5,43,Male,Bachelor's,2017-01-09,160000,3.8,4,Hybrid,18,3.4,No
+E4798,Sales,3,32,Male,Bachelor's,2023-08-07,92600,16.5,5,Hybrid,11,4.4,No
+E4799,Engineering,2,33,Female,Bachelor's,2021-11-10,106500,3.7,3,On-site,21,2.5,Yes
+E4800,Engineering,4,38,Female,Bachelor's,2023-05-03,142800,7.0,3,Hybrid,17,2.5,No
+E4801,Engineering,2,27,Female,Master's,2020-10-17,99300,2.4,3,Remote,25,2.5,No
+E4802,Customer Support,1,32,Female,Bachelor's,2023-10-23,42500,3.8,3,On-site,13,2.9,No
+E4803,Operations,3,22,Male,Bachelor's,2023-12-28,78800,7.9,3,Hybrid,19,3.7,No
+E4804,Human Resources,4,36,Male,Bachelor's,2019-09-17,107000,13.6,3,Hybrid,17,4.0,No
+E4805,Operations,3,32,Male,Bachelor's,2019-08-17,87500,11.0,3,Hybrid,11,4.2,No
+E4806,Sales,4,42,Female,Bachelor's,2024-04-25,107100,3.0,3,Hybrid,19,4.3,No
+E4807,Customer Support,1,29,Male,Bachelor's,2020-10-31,38500,8.0,2,Hybrid,17,2.4,No
+E4808,Data Science,3,36,Female,Bachelor's,2023-08-22,134300,9.3,4,On-site,23,3.7,No
+E4809,Operations,1,30,Male,Master's,2018-08-13,52200,15.1,4,Hybrid,16,4.1,No
+E4810,Customer Support,3,27,Male,Bachelor's,2022-08-04,69000,15.2,4,Hybrid,25,1.9,No
+E4811,Operations,3,30,Male,Bachelor's,2016-11-26,68800,1.3,3,On-site,21,3.3,No
+E4812,Finance,5,39,Female,Bachelor's,2024-10-29,132300,1.4,4,Remote,16,1.7,No
+E4813,Sales,3,27,Female,Bachelor's,2022-06-12,91900,3.6,5,On-site,22,4.4,No
+E4814,Engineering,4,37,Female,Bachelor's,2023-07-17,127700,7.8,4,On-site,21,3.2,No
+E4815,Operations,2,33,Male,Bachelor's,2022-01-13,68600,7.0,3,Hybrid,18,5.0,No
+E4816,Engineering,2,30,Female,Bachelor's,2017-09-29,125200,8.0,4,Hybrid,19,2.5,No
+E4817,Sales,2,26,Female,Bachelor's,2019-06-20,74900,12.5,2,On-site,19,2.9,No
+E4818,Sales,3,26,Male,Bachelor's,2019-08-06,96100,4.6,3,On-site,22,2.6,No
+E4819,Data Science,3,41,Male,Bachelor's,2023-06-28,126000,2.6,1,On-site,13,4.8,No
+E4820,Finance,1,21,Female,Master's,2014-11-18,63500,7.8,4,Hybrid,17,2.5,No
+E4821,Marketing,4,37,Female,Bachelor's,2024-02-29,109600,2.2,1,Remote,8,3.0,Yes
+E4822,Sales,1,31,Male,Bachelor's,2016-01-05,57200,3.3,4,Remote,18,3.6,No
+E4823,Sales,3,37,Male,PhD,2022-07-20,95100,4.8,4,On-site,23,3.7,No
+E4824,Customer Support,1,30,Male,Master's,2023-02-04,34300,1.1,3,Hybrid,21,2.8,Yes
+E4825,Operations,3,34,Male,Bachelor's,2022-07-07,81300,13.0,4,Hybrid,18,3.0,No
+E4826,Engineering,1,27,Female,Bachelor's,2024-05-13,83800,7.0,3,Hybrid,22,4.7,Yes
+E4827,Engineering,4,41,Female,High School,2023-12-06,157800,5.5,1,Hybrid,20,2.3,No
+E4828,Operations,4,41,Female,Bachelor's,2019-01-04,100100,3.4,3,Remote,14,2.6,No
+E4829,Data Science,5,35,Female,Master's,2023-08-01,169500,1.7,3,Remote,13,2.9,Yes
+E4830,Engineering,3,40,Male,Bachelor's,2017-08-11,139600,4.4,4,Hybrid,16,3.7,No
+E4831,Customer Support,3,28,Male,Bachelor's,2024-08-30,60700,5.7,3,On-site,16,4.3,No
+E4832,Sales,1,31,Female,Bachelor's,2024-10-24,58200,10.9,4,Remote,21,4.1,No
+E4833,Marketing,3,38,Male,Master's,2022-05-26,90200,13.1,4,On-site,16,3.3,No
+E4834,Marketing,3,31,Male,Bachelor's,2018-06-25,101200,6.8,3,Remote,22,4.2,No
+E4835,Human Resources,2,21,Male,Master's,2020-12-22,83200,1.3,4,Remote,20,3.8,Yes
+E4836,Marketing,1,21,Male,Bachelor's,2022-03-14,63100,7.9,4,On-site,18,2.9,Yes
+E4837,Finance,1,30,Male,High School,2024-09-22,70300,9.1,1,On-site,10,2.8,No
+E4838,Engineering,4,35,Male,PhD,2018-05-21,158200,12.6,3,Hybrid,19,3.1,Yes
+E4839,Customer Support,1,22,Female,Master's,2024-05-11,40900,4.6,4,On-site,10,4.5,No
+E4840,Engineering,1,26,Male,Bachelor's,2015-09-10,80500,8.7,3,On-site,16,2.4,No
+E4841,Engineering,2,36,Male,Master's,2023-02-21,109600,11.5,4,Hybrid,9,4.7,No
+E4842,Human Resources,3,34,Female,Bachelor's,2023-06-08,90700,11.9,4,Hybrid,12,3.9,No
+E4843,Finance,3,36,Male,High School,2023-05-31,100200,2.4,4,Hybrid,25,3.2,No
+E4844,Operations,3,31,Female,Bachelor's,2022-02-25,81500,6.3,3,Hybrid,19,2.9,No
+E4845,Customer Support,2,37,Male,Master's,2021-07-30,51900,8.7,4,Hybrid,13,3.8,No
+E4846,Sales,1,26,Female,Bachelor's,2014-10-29,52400,6.0,3,Remote,17,3.3,Yes
+E4847,Sales,4,43,Male,Bachelor's,2019-11-20,115100,2.4,3,Remote,23,3.3,No
+E4848,Operations,3,37,Female,Bachelor's,2021-12-11,73100,5.8,3,Hybrid,19,2.6,Yes
+E4849,Sales,1,24,Female,Bachelor's,2022-07-30,53000,8.5,3,Remote,15,2.8,No
+E4850,Marketing,1,35,Female,Bachelor's,2022-11-18,60700,11.7,5,Hybrid,19,3.0,No
+E4851,Operations,2,38,Female,PhD,2021-02-17,56000,9.4,4,On-site,15,3.4,No
+E4852,Marketing,3,36,Female,Bachelor's,2023-05-14,89100,0.4,4,On-site,26,4.0,No
+E4853,Sales,3,36,Female,Bachelor's,2022-08-18,93000,1.9,2,Hybrid,10,2.6,Yes
+E4854,Customer Support,1,22,Male,Master's,2023-12-08,35400,5.9,5,On-site,17,3.7,Yes
+E4855,Marketing,3,27,Female,PhD,2022-03-29,86300,1.9,3,On-site,12,2.2,No
+E4856,Sales,1,21,Female,High School,2021-09-17,58600,2.1,4,On-site,18,3.9,No
+E4857,Sales,3,38,Male,Master's,2021-08-01,83300,5.9,4,Hybrid,23,4.3,No
+E4858,Data Science,3,24,Female,Bachelor's,2020-02-02,130600,3.8,4,Hybrid,20,3.3,Yes
+E4859,Finance,2,27,Male,Bachelor's,2013-11-07,83400,18.5,3,On-site,17,2.8,No
+E4860,Sales,4,38,Female,High School,2024-10-08,104600,7.1,4,Hybrid,19,4.0,No
+E4861,Engineering,4,43,Male,Master's,2021-11-01,143700,4.6,3,Hybrid,22,1.4,No
+E4862,Human Resources,3,35,Female,Bachelor's,2021-03-27,83800,5.2,3,Hybrid,18,4.8,No
+E4863,Finance,4,34,Female,Master's,2023-12-24,122900,12.0,5,On-site,13,3.2,No
+E4864,Customer Support,5,41,Male,Bachelor's,2022-09-29,81400,7.4,2,Hybrid,15,3.7,No
+E4865,Human Resources,1,23,Male,High School,2020-02-20,50900,2.0,3,Hybrid,20,2.2,Yes
+E4866,Human Resources,1,31,Male,Master's,2022-09-29,60300,6.0,2,Remote,17,4.4,No
+E4867,Engineering,1,27,Female,Bachelor's,2024-03-17,83500,10.4,2,Hybrid,11,2.5,No
+E4868,Operations,3,31,Female,Bachelor's,2019-03-15,67700,10.0,3,Remote,16,3.7,Yes
+E4869,Engineering,4,36,Male,Bachelor's,2021-07-15,154300,1.1,4,Hybrid,20,2.7,No
+E4870,Operations,2,39,Male,High School,2021-11-12,69600,10.2,3,Hybrid,14,2.7,Yes
+E4871,Data Science,3,31,Male,Master's,2019-09-21,143600,10.6,4,On-site,16,2.4,No
+E4872,Engineering,3,36,Female,Bachelor's,2022-11-20,134800,2.3,3,Hybrid,18,3.7,No
+E4873,Engineering,4,33,Female,Bachelor's,2021-12-27,132000,4.5,2,On-site,24,3.5,No
+E4874,Operations,2,28,Male,Bachelor's,2024-08-24,63100,16.3,5,Remote,16,4.4,No
+E4875,Customer Support,2,29,Male,Bachelor's,2023-03-20,59100,8.1,2,Remote,21,1.7,Yes
+E4876,Sales,4,38,Female,Bachelor's,2021-11-22,108500,17.7,3,On-site,15,3.1,No
+E4877,Operations,1,33,Male,Bachelor's,2022-11-21,54600,2.5,4,On-site,17,4.2,No
+E4878,Finance,3,33,Female,High School,2023-01-18,97300,1.3,3,Hybrid,30,1.5,No
+E4879,Marketing,3,38,Male,Bachelor's,2022-05-11,84900,2.5,3,Remote,19,4.8,No
+E4880,Data Science,2,28,Male,Bachelor's,2025-01-19,127400,3.9,5,On-site,18,3.8,No
+E4881,Customer Support,1,25,Female,Bachelor's,2022-03-09,44700,5.5,3,Hybrid,20,3.3,No
+E4882,Engineering,2,28,Male,Bachelor's,2020-09-29,111700,1.4,3,Hybrid,19,4.3,No
+E4883,Customer Support,5,35,Male,Master's,2025-01-09,87600,2.7,3,Hybrid,20,3.7,No
+E4884,Finance,5,40,Female,Master's,2024-03-15,157300,4.3,2,On-site,11,2.6,No
+E4885,Engineering,2,30,Female,Bachelor's,2021-01-06,104500,0.8,1,Hybrid,15,2.2,Yes
+E4886,Finance,4,44,Female,Bachelor's,2022-12-03,127200,2.2,3,Remote,20,4.6,No
+E4887,Sales,3,40,Male,High School,2019-09-25,91700,11.4,3,On-site,11,4.0,No
+E4888,Operations,2,30,Male,High School,2022-08-03,69600,3.4,3,On-site,20,1.9,Yes
+E4889,Sales,1,21,Female,Master's,2023-06-17,55700,6.9,4,Hybrid,15,3.1,No
+E4890,Finance,2,24,Male,Bachelor's,2022-06-08,95100,20.6,3,Remote,19,1.9,Yes
+E4891,Data Science,4,38,Male,Master's,2025-02-20,169100,10.1,4,Remote,13,4.3,No
+E4892,Human Resources,2,32,Female,Master's,2024-01-26,66800,4.9,4,Hybrid,21,3.6,No
+E4893,Marketing,2,30,Female,Bachelor's,2023-09-25,81100,3.1,3,Remote,23,4.2,No
+E4894,Engineering,1,26,Female,Bachelor's,2021-04-22,89900,7.8,5,On-site,23,3.2,No
+E4895,Marketing,4,38,Male,Bachelor's,2024-09-22,108800,6.6,3,Hybrid,9,3.8,No
+E4896,Engineering,2,24,Male,Bachelor's,2020-02-04,107700,5.4,3,On-site,22,4.9,No
+E4897,Customer Support,3,43,Female,Bachelor's,2021-12-20,63200,10.2,3,Hybrid,14,4.0,No
+E4898,Sales,4,37,Male,Master's,2019-09-24,115700,6.5,3,Hybrid,18,1.2,No
+E4899,Finance,1,22,Non-binary,Bachelor's,2023-02-18,65600,3.2,4,Hybrid,18,2.0,No
+E4900,Engineering,1,26,Male,Master's,2022-10-12,74400,0.7,3,Hybrid,15,3.2,No
+E4901,Sales,2,33,Female,Bachelor's,2019-06-13,79300,7.9,4,On-site,21,3.2,No
+E4902,Engineering,2,33,Male,PhD,2019-02-22,102100,3.7,4,On-site,24,3.2,No
+E4903,Operations,2,23,Female,Bachelor's,2024-09-09,67600,13.9,3,On-site,16,3.0,No
+E4904,Sales,2,37,Female,Bachelor's,2022-08-19,69200,7.4,2,Remote,13,3.7,No
+E4905,Data Science,1,28,Female,High School,2025-02-27,77500,15.3,3,Hybrid,22,3.2,Yes
+E4906,Engineering,1,33,Male,Master's,2018-09-02,85000,13.3,4,On-site,10,3.7,No
+E4907,Operations,3,41,Female,Bachelor's,2018-06-19,66400,4.3,3,Hybrid,25,3.6,No
+E4908,Operations,2,21,Male,Bachelor's,2017-07-31,57700,5.1,3,Hybrid,20,3.3,No
+E4909,Human Resources,1,21,Male,Bachelor's,2021-11-04,49800,8.2,4,Hybrid,13,2.1,No
+E4910,Customer Support,1,21,Male,Bachelor's,2022-01-02,43400,1.7,4,Remote,20,4.8,No
+E4911,Engineering,4,39,Female,Bachelor's,2020-08-20,120200,2.8,3,Hybrid,13,2.0,No
+E4912,Marketing,2,25,Female,Master's,2023-04-09,78800,8.6,3,On-site,26,5.0,No
+E4913,Sales,1,27,Female,Master's,2023-05-20,57700,3.7,4,On-site,15,4.6,No
+E4914,Marketing,4,34,Female,Bachelor's,2020-12-23,104900,2.2,3,Hybrid,25,4.6,No
+E4915,Sales,2,25,Male,Master's,2024-01-13,68700,3.6,4,On-site,26,3.2,No
+E4916,Human Resources,1,21,Male,Master's,2023-01-18,49300,10.0,4,Hybrid,19,4.2,No
+E4917,Marketing,2,32,Male,Master's,2016-12-14,75400,5.8,2,Hybrid,21,3.2,No
+E4918,Marketing,1,31,Female,Bachelor's,2023-08-12,67600,4.0,4,Remote,15,3.5,No
+E4919,Customer Support,4,39,Male,High School,2020-08-27,78600,5.4,4,On-site,17,4.0,Yes
+E4920,Operations,2,30,Male,Bachelor's,2023-10-30,59400,10.4,3,On-site,15,1.9,No
+E4921,Finance,1,31,Male,Master's,2024-02-17,58700,11.5,3,Hybrid,12,4.0,No
+E4922,Engineering,1,30,Male,Bachelor's,2020-04-03,76600,8.4,4,Hybrid,18,4.0,Yes
+E4923,Sales,3,28,Female,Bachelor's,2020-02-29,89600,4.9,4,On-site,19,4.3,No
+E4924,Engineering,4,36,Male,Bachelor's,2024-09-19,125900,1.6,3,Hybrid,22,4.4,No
+E4925,Marketing,4,38,Male,Master's,2022-08-30,107000,14.0,5,On-site,27,4.6,No
+E4926,Marketing,4,37,Male,Bachelor's,2016-11-14,105600,20.5,3,Hybrid,16,2.7,No
+E4927,Operations,2,22,Female,Bachelor's,2024-09-20,63000,10.9,3,On-site,22,2.3,No
+E4928,Customer Support,3,30,Male,Bachelor's,2019-04-20,61400,3.4,4,Hybrid,16,3.1,Yes
+E4929,Operations,4,32,Female,Bachelor's,2018-07-12,101900,7.8,3,Remote,14,1.9,No
+E4930,Marketing,2,29,Male,Master's,2023-09-30,71600,9.6,5,On-site,14,4.0,No
+E4931,Human Resources,1,21,Male,Bachelor's,2021-11-13,55900,3.6,3,On-site,11,2.9,No
+E4932,Marketing,2,22,Male,High School,2020-06-29,70100,10.0,3,Hybrid,20,3.5,No
+E4933,Engineering,5,49,Male,Bachelor's,2024-05-26,178200,5.6,4,Hybrid,20,2.0,No
+E4934,Finance,1,21,Female,Master's,2024-06-05,68400,5.8,4,On-site,17,4.1,No
+E4935,Customer Support,4,42,Male,Master's,2020-09-26,78400,3.2,4,Hybrid,16,3.0,No
+E4936,Marketing,4,37,Male,Bachelor's,2023-05-14,106700,3.7,3,On-site,18,3.8,No
+E4937,Sales,2,31,Female,Master's,2021-01-20,74400,2.9,5,On-site,22,3.9,No
+E4938,Operations,1,34,Male,Master's,2016-10-19,47800,17.2,3,On-site,21,4.1,No
+E4939,Finance,2,31,Male,Master's,2024-01-22,88400,10.1,3,On-site,12,3.2,No
+E4940,Human Resources,1,27,Male,Bachelor's,2019-08-17,53600,3.1,3,Hybrid,18,5.0,No
+E4941,Customer Support,2,29,Female,Master's,2021-07-14,48300,10.3,3,On-site,28,1.9,Yes
+E4942,Marketing,3,36,Male,Bachelor's,2021-08-09,91300,5.7,2,Hybrid,21,3.1,No
+E4943,Human Resources,2,39,Female,Master's,2021-08-27,60900,40.1,5,Remote,16,3.2,No
+E4944,Finance,2,32,Female,Bachelor's,2022-10-22,84800,17.3,5,Hybrid,22,4.4,No
+E4945,Customer Support,1,21,Female,Master's,2022-11-10,44300,6.1,2,Remote,13,2.1,No
+E4946,Engineering,1,21,Female,Bachelor's,2023-10-20,92300,5.8,4,On-site,19,4.0,No
+E4947,Sales,3,41,Male,Bachelor's,2024-05-27,89100,4.7,4,On-site,21,2.7,No
+E4948,Marketing,3,40,Male,Bachelor's,2021-05-04,85100,1.6,4,On-site,12,3.4,No
+E4949,Sales,1,21,Female,Bachelor's,2022-07-08,56400,2.9,3,Hybrid,16,3.5,Yes
+E4950,Sales,4,39,Male,Bachelor's,2018-04-13,104400,3.9,3,On-site,18,3.0,No
+E4951,Marketing,5,44,Female,Bachelor's,2021-04-29,122400,2.6,4,Remote,20,3.5,No
+E4952,Customer Support,3,40,Non-binary,Bachelor's,2024-09-22,65000,10.0,3,Remote,18,3.6,Yes
+E4953,Sales,1,28,Female,Bachelor's,2023-10-08,66000,5.6,1,Remote,21,2.7,No
+E4954,Customer Support,2,23,Male,Master's,2024-04-09,55000,4.9,4,On-site,13,3.9,No
+E4955,Engineering,2,28,Male,Bachelor's,2022-02-14,117900,3.1,3,Remote,17,3.8,No
+E4956,Human Resources,2,26,Female,Bachelor's,2023-09-03,72100,10.5,3,Hybrid,17,5.0,No
+E4957,Marketing,2,29,Male,Bachelor's,2019-11-07,87400,0.7,3,Hybrid,12,3.4,No
+E4958,Marketing,2,32,Female,High School,2021-12-31,76400,5.6,2,On-site,20,3.5,No
+E4959,Engineering,5,45,Female,Master's,2022-02-17,193700,1.8,3,On-site,26,3.6,No
+E4960,Marketing,1,27,Female,Bachelor's,2020-09-28,60300,2.0,5,On-site,16,5.0,No
+E4961,Data Science,1,33,Female,Bachelor's,2017-10-13,91500,10.9,2,Remote,15,2.6,Yes
+E4962,Sales,2,27,Male,Bachelor's,2017-12-31,71400,6.2,3,Hybrid,19,3.2,No
+E4963,Operations,4,31,Male,Bachelor's,2012-10-16,97400,5.1,3,On-site,20,3.7,No
+E4964,Data Science,2,34,Male,Master's,2024-03-30,115200,4.1,4,Hybrid,21,1.8,No
+E4965,Customer Support,2,25,Male,Master's,2022-09-02,50700,2.8,4,Hybrid,14,2.4,Yes
+E4966,Sales,3,27,Male,Bachelor's,2018-06-02,92300,8.2,5,Remote,15,2.2,No
+E4967,Data Science,4,37,Male,Bachelor's,2023-12-30,148700,12.3,3,On-site,19,3.2,Yes
+E4968,Operations,4,38,Female,Bachelor's,2024-02-02,91300,3.0,4,Hybrid,18,3.2,No
+E4969,Sales,1,27,Male,Master's,2016-01-04,55100,9.7,2,Hybrid,22,3.0,No
+E4970,Marketing,4,36,Female,Bachelor's,2023-10-29,114600,0.7,2,Hybrid,15,4.6,No
+E4971,Finance,2,34,Male,Master's,2023-11-21,83800,3.9,4,On-site,13,4.6,No
+E4972,Engineering,2,32,Male,Bachelor's,2022-07-13,107700,6.4,4,On-site,25,4.7,No
+E4973,Engineering,3,31,Female,Bachelor's,2020-09-15,118400,2.4,3,Hybrid,20,5.0,No
+E4974,Sales,2,35,Male,PhD,2017-06-03,70700,1.4,4,On-site,14,4.3,No
+E4975,Finance,2,32,Female,Master's,2023-11-09,94800,15.9,3,Hybrid,9,2.8,Yes
+E4976,Customer Support,2,31,Male,High School,2023-05-12,55000,9.3,3,On-site,26,4.6,No
+E4977,Engineering,3,34,Female,PhD,2024-07-13,114600,2.7,3,Remote,16,4.1,No
+E4978,Customer Support,2,33,Male,Bachelor's,2020-11-12,55000,6.7,3,On-site,18,3.8,Yes
+E4979,Sales,1,24,Male,Bachelor's,2024-01-25,53400,6.0,2,Hybrid,20,2.8,No
+E4980,Operations,4,38,Male,PhD,2016-05-28,93500,8.2,3,Hybrid,11,3.1,No
+E4981,Sales,2,40,Male,Bachelor's,2022-09-07,72000,4.5,5,Remote,22,2.9,Yes
+E4982,Data Science,5,45,Female,Master's,2022-04-06,192300,8.9,3,Remote,24,3.3,No
+E4983,Sales,2,28,Female,Master's,2015-01-27,73800,2.1,3,Hybrid,14,3.2,No
+E4984,Operations,1,21,Male,Bachelor's,2019-07-15,56500,8.8,3,On-site,15,3.0,No
+E4985,Finance,2,30,Female,Bachelor's,2018-03-04,84100,1.6,3,Remote,19,3.3,No
+E4986,Engineering,2,32,Female,High School,2023-01-07,120100,6.8,3,Hybrid,22,2.8,No
+E4987,Human Resources,2,30,Female,Master's,2023-03-12,60200,7.2,4,Hybrid,14,1.8,No
+E4988,Finance,2,32,Male,Bachelor's,2024-03-07,94700,4.5,3,Remote,19,4.0,Yes
+E4989,Marketing,2,41,Male,Master's,2022-05-12,75500,0.8,3,On-site,16,2.6,No
+E4990,Marketing,2,31,Female,Bachelor's,2018-12-16,72800,3.0,3,On-site,16,3.1,Yes
+E4991,Finance,2,30,Male,PhD,2023-11-23,94200,11.1,3,Hybrid,24,2.5,No
+E4992,Sales,2,32,Female,Master's,2021-09-01,78300,4.5,3,On-site,13,4.2,Yes
+E4993,Marketing,1,21,Female,Bachelor's,2024-04-07,55200,8.3,3,Hybrid,14,3.9,No
+E4994,Human Resources,1,30,Non-binary,High School,2020-10-31,58900,5.8,3,On-site,25,3.1,No
+E4995,Customer Support,3,26,Male,PhD,2023-01-22,60100,3.2,3,On-site,15,4.8,No
+E4996,Engineering,3,39,Male,Master's,2022-03-28,131700,14.1,3,On-site,15,3.5,No
+E4997,Human Resources,3,36,Female,Bachelor's,2019-08-02,85700,3.2,3,Hybrid,22,1.8,Yes
+E4998,Engineering,5,41,Male,Master's,2021-06-13,187200,5.0,3,On-site,20,3.5,No
+E4999,Data Science,2,37,Female,PhD,2018-04-05,102300,7.7,3,Hybrid,21,3.9,No
+E5000,Data Science,2,26,Female,Bachelor's,2023-11-11,110100,9.6,3,Remote,16,4.0,Yes
+E5001,Data Science,2,30,Female,PhD,2024-09-17,124400,4.6,3,Remote,7,3.6,No
+E5002,Data Science,4,33,Female,Master's,2018-01-30,153200,10.6,3,Remote,26,2.7,No
+E5003,Customer Support,3,30,Female,Master's,2025-02-18,67600,4.5,2,Hybrid,24,3.4,Yes
+E5004,Data Science,1,21,Male,Master's,2020-07-22,90800,6.2,2,Remote,19,2.6,No
+E5005,Engineering,3,42,Male,Bachelor's,2021-06-12,122600,6.4,3,Hybrid,20,3.2,No
+E5006,Engineering,1,24,Female,Bachelor's,2024-11-09,82700,4.8,3,Hybrid,15,3.3,Yes
+E5007,Customer Support,1,26,Female,Master's,2024-02-08,41200,9.1,4,Hybrid,14,4.2,No
+E5008,Sales,3,44,Female,PhD,2021-07-16,95600,12.2,5,On-site,27,3.8,No
+E5009,Human Resources,1,22,Male,High School,2012-10-17,51400,7.8,3,Hybrid,16,3.3,No
+E5010,Sales,2,23,Male,Bachelor's,2023-06-02,76900,9.5,2,On-site,15,4.5,No
+E5011,Customer Support,1,24,Male,Bachelor's,2012-10-26,34900,4.1,3,Hybrid,16,3.2,No
+E5012,Operations,4,33,Female,PhD,2024-05-03,89000,2.4,4,Hybrid,19,3.5,No
+E5013,Customer Support,3,36,Female,Master's,2020-10-08,70700,0.7,3,On-site,17,3.6,No
+E5014,Sales,2,25,Male,High School,2022-07-24,67600,2.5,5,On-site,17,3.2,No
+E5015,Marketing,1,24,Male,Bachelor's,2020-05-05,56100,4.1,2,Hybrid,29,2.6,No
+E5016,Human Resources,2,37,Male,Master's,2023-07-08,63300,12.9,4,Hybrid,16,3.4,Yes
+E5017,Data Science,3,37,Male,Bachelor's,2025-02-28,111900,12.2,3,On-site,12,2.9,No
+E5018,Data Science,1,38,Male,Master's,2019-01-04,90500,2.0,3,On-site,21,3.6,No
+E5019,Engineering,3,35,Female,Master's,2021-02-18,116500,7.3,3,Hybrid,18,3.0,No
+E5020,Data Science,2,33,Female,Bachelor's,2023-06-21,102700,8.3,4,On-site,14,3.5,No
+E5021,Customer Support,3,25,Female,Bachelor's,2020-03-08,55000,6.1,3,On-site,18,3.8,No
+E5022,Marketing,2,34,Female,Master's,2025-02-04,73900,1.8,3,Remote,22,3.4,No
+E5023,Finance,2,34,Female,Bachelor's,2022-10-13,85700,2.2,3,Hybrid,18,3.4,No
+E5024,Sales,4,40,Female,Master's,2020-12-11,116400,5.2,4,Hybrid,22,3.4,No
+E5025,Sales,4,42,Female,Master's,2019-11-14,88100,3.9,3,Remote,18,3.2,No
+E5026,Marketing,4,28,Female,Bachelor's,2022-07-01,103600,16.4,3,Remote,16,4.3,No
+E5027,Operations,1,25,Female,Master's,2023-02-25,48300,4.4,3,On-site,18,2.4,No
+E5028,Engineering,3,34,Male,Master's,2022-03-11,115500,0.9,3,On-site,18,1.0,Yes
+E5029,Marketing,1,30,Male,Master's,2022-03-08,53100,4.5,5,Hybrid,10,2.8,Yes
+E5030,Sales,4,37,Male,Bachelor's,2021-01-26,94000,1.0,3,Hybrid,26,4.6,No
+E5031,Engineering,4,39,Male,Bachelor's,2022-09-23,168700,5.4,3,Hybrid,26,4.5,No
+E5032,Sales,1,21,Male,Bachelor's,2024-01-09,53000,13.5,3,Hybrid,17,3.3,No
+E5033,Human Resources,4,33,Female,Master's,2022-03-13,100400,14.9,4,Remote,24,3.6,No
+E5034,Customer Support,4,34,Male,Bachelor's,2021-06-03,73500,4.9,2,On-site,18,2.7,No
+E5035,Marketing,3,42,Male,Bachelor's,2024-07-16,99200,12.4,2,Remote,15,4.5,No
+E5036,Finance,3,33,Female,Bachelor's,2021-12-06,108100,9.3,3,Hybrid,20,3.4,No
+E5037,Sales,5,48,Male,Master's,2022-03-01,119400,4.8,4,Remote,11,1.9,No
+E5038,Operations,3,25,Male,Bachelor's,2020-12-16,78500,0.8,3,Hybrid,25,2.2,No
+E5039,Human Resources,3,41,Female,Bachelor's,2023-07-22,79600,4.2,3,Hybrid,17,3.5,No
+E5040,Data Science,2,37,Female,Master's,2016-02-25,108200,0.3,3,Hybrid,20,2.7,No
+E5041,Finance,2,31,Female,Bachelor's,2023-05-18,87500,4.1,4,Hybrid,21,3.3,No
+E5042,Finance,1,22,Female,Bachelor's,2018-10-25,63900,14.1,4,On-site,15,2.9,No
+E5043,Operations,2,33,Male,PhD,2024-08-10,70100,3.9,4,Hybrid,21,2.2,Yes
+E5044,Operations,1,22,Female,Bachelor's,2024-09-11,54100,2.5,5,On-site,18,4.5,No
+E5045,Engineering,2,27,Female,Master's,2023-10-06,98200,4.4,4,Hybrid,22,3.3,No
+E5046,Sales,2,30,Male,Bachelor's,2024-12-18,72700,2.8,3,Hybrid,22,2.1,No
+E5047,Engineering,4,40,Female,Bachelor's,2023-11-12,135600,13.4,3,Remote,23,4.1,No
+E5048,Engineering,2,31,Female,Bachelor's,2021-11-22,83600,5.5,2,Hybrid,22,2.6,No
+E5049,Human Resources,2,37,Female,Master's,2023-07-20,64700,1.7,3,Hybrid,17,2.9,No
+E5050,Engineering,3,38,Female,Master's,2021-07-04,133300,4.7,3,Remote,32,3.7,No
+E5051,Operations,3,31,Male,Bachelor's,2022-08-05,90400,3.0,5,Hybrid,15,4.0,No
+E5052,Marketing,2,26,Male,Master's,2021-09-03,75700,5.6,2,Hybrid,16,3.6,No
+E5053,Operations,1,21,Male,Bachelor's,2017-12-25,47400,2.7,3,Hybrid,16,3.0,No
+E5054,Engineering,3,30,Male,Bachelor's,2020-08-07,135200,3.4,3,Hybrid,19,2.8,No
+E5055,Sales,1,30,Female,Master's,2020-12-13,57300,6.0,3,Remote,15,2.8,No
+E5056,Human Resources,3,29,Female,Master's,2023-04-26,76600,6.6,3,Remote,11,2.5,No
+E5057,Finance,5,40,Male,Bachelor's,2023-10-22,151900,0.9,4,On-site,22,4.4,Yes
+E5058,Customer Support,1,24,Male,Master's,2024-06-19,37400,6.9,3,On-site,13,2.7,Yes
+E5059,Sales,2,36,Male,Master's,2018-01-25,73900,3.7,2,Remote,25,3.7,No
+E5060,Data Science,2,37,Female,Master's,2017-09-10,113500,2.0,2,On-site,16,2.8,Yes
+E5061,Finance,5,46,Male,Bachelor's,2023-07-27,136000,15.2,3,Hybrid,14,2.8,No
+E5062,Marketing,3,32,Female,Bachelor's,2018-06-02,89900,6.1,3,On-site,16,3.9,No
+E5063,Engineering,3,33,Male,Master's,2021-11-05,127400,2.6,4,Hybrid,19,3.7,No
+E5064,Engineering,4,41,Female,Bachelor's,2017-10-12,142300,6.5,3,Hybrid,10,3.3,No
+E5065,Marketing,2,28,Male,High School,2022-09-22,72400,5.0,4,On-site,19,3.3,No
+E5066,Engineering,2,29,Female,Bachelor's,2022-12-29,104600,4.6,3,Remote,22,4.5,No
+E5067,Customer Support,3,34,Male,Bachelor's,2020-10-29,63000,7.0,3,Hybrid,14,4.0,No
+E5068,Sales,3,33,Male,Bachelor's,2021-09-29,84400,0.1,4,Hybrid,13,4.0,Yes
+E5069,Operations,2,28,Female,Bachelor's,2020-10-19,62600,13.5,3,Hybrid,22,2.8,No
+E5070,Engineering,1,26,Female,Master's,2019-04-30,84500,7.5,3,Remote,14,4.3,No
+E5071,Human Resources,4,31,Male,PhD,2023-12-14,108300,4.0,3,Remote,16,3.6,No
+E5072,Customer Support,2,29,Female,Master's,2016-02-22,54600,5.2,5,On-site,27,4.4,No
+E5073,Engineering,4,38,Male,Bachelor's,2023-06-12,142500,17.1,4,Remote,14,3.0,No
+E5074,Data Science,1,24,Male,Bachelor's,2019-09-02,76400,7.6,4,Remote,22,3.3,No
+E5075,Finance,3,36,Female,Bachelor's,2024-09-14,108400,0.9,4,Hybrid,18,3.9,No
+E5076,Engineering,2,36,Male,Bachelor's,2022-03-21,90500,5.0,3,On-site,21,3.5,No
+E5077,Sales,4,37,Male,Bachelor's,2022-07-14,98600,2.5,4,On-site,17,3.0,No
+E5078,Sales,3,27,Female,Master's,2023-12-09,88400,3.4,3,Remote,18,4.2,No
+E5079,Marketing,4,37,Male,Bachelor's,2025-03-23,93600,15.5,3,Hybrid,20,3.4,No
+E5080,Engineering,1,27,Male,High School,2024-10-30,85700,2.0,3,On-site,19,2.9,Yes
+E5081,Operations,3,27,Non-binary,PhD,2020-09-03,72900,4.6,3,Remote,20,4.4,No
+E5082,Engineering,1,29,Male,Master's,2023-10-23,82100,14.0,3,On-site,14,2.7,No
+E5083,Marketing,2,35,Male,Bachelor's,2024-10-13,65000,7.6,3,On-site,20,2.6,No
+E5084,Operations,4,38,Male,Master's,2025-02-15,79000,7.6,2,Remote,12,4.2,Yes
+E5085,Sales,5,32,Female,Master's,2024-12-24,122600,14.3,4,Hybrid,17,4.2,No
+E5086,Data Science,3,35,Female,Bachelor's,2019-04-14,125200,11.4,3,On-site,19,3.0,No
+E5087,Data Science,4,34,Female,Bachelor's,2021-12-18,154600,4.2,2,Remote,17,3.7,No
+E5088,Human Resources,2,28,Male,Master's,2018-01-31,70200,16.8,2,On-site,16,3.4,No
+E5089,Human Resources,1,27,Male,PhD,2019-02-26,52500,3.7,3,Remote,21,3.8,No
+E5090,Customer Support,2,30,Male,Master's,2024-03-12,47700,5.1,3,Hybrid,19,4.5,No
+E5091,Data Science,1,25,Male,Bachelor's,2019-06-15,98600,9.8,2,On-site,19,3.2,No
+E5092,Marketing,2,27,Female,Bachelor's,2023-09-07,75700,7.7,2,Remote,18,4.7,No
+E5093,Marketing,3,34,Male,Bachelor's,2024-10-28,73900,5.8,4,Hybrid,19,3.8,No
+E5094,Sales,4,37,Male,Master's,2021-08-31,101600,4.8,2,Remote,23,3.1,No
+E5095,Sales,1,34,Male,Master's,2023-03-06,58100,1.8,3,On-site,18,3.9,No
+E5096,Human Resources,2,31,Female,Master's,2020-10-18,73100,1.8,3,On-site,18,2.9,No
+E5097,Finance,2,24,Male,Master's,2015-07-17,79700,5.2,2,Remote,16,3.7,No
+E5098,Human Resources,2,27,Female,High School,2020-04-15,67200,4.8,4,On-site,17,3.9,No
+E5099,Engineering,3,29,Female,PhD,2023-09-03,131000,9.8,3,Hybrid,23,4.0,No
+E5100,Sales,2,21,Male,Bachelor's,2024-02-08,63500,4.9,3,On-site,18,3.6,No
+E5101,Marketing,2,33,Male,Bachelor's,2024-06-13,72000,2.0,5,On-site,19,5.0,No
+E5102,Data Science,2,36,Male,Master's,2018-01-01,106900,11.7,2,Hybrid,15,4.1,No
+E5103,Customer Support,3,30,Male,Bachelor's,2016-02-22,66000,6.9,4,Hybrid,17,2.8,No
+E5104,Engineering,3,44,Male,Master's,2020-10-05,131000,10.7,2,Hybrid,13,2.9,No
+E5105,Data Science,2,36,Male,Bachelor's,2024-01-08,122800,3.6,3,Hybrid,11,3.1,No
+E5106,Marketing,2,21,Male,High School,2016-06-20,81500,5.4,3,On-site,16,2.2,Yes
+E5107,Operations,3,39,Female,Bachelor's,2015-04-15,83300,4.4,3,Remote,24,2.6,No
+E5108,Sales,4,34,Female,High School,2021-03-03,102000,0.8,3,Hybrid,26,3.8,No
+E5109,Sales,3,35,Male,High School,2021-10-31,86400,5.9,3,Hybrid,18,3.8,No
+E5110,Customer Support,4,32,Male,Bachelor's,2018-06-10,65000,2.5,3,Hybrid,21,2.2,No
+E5111,Engineering,1,31,Female,Bachelor's,2018-05-28,82900,6.5,3,Hybrid,14,4.6,No
+E5112,Engineering,2,38,Male,Bachelor's,2024-08-13,97300,8.2,4,Hybrid,18,2.6,No
+E5113,Finance,2,33,Female,Bachelor's,2020-09-02,85000,11.8,4,On-site,21,4.0,No
+E5114,Marketing,3,35,Female,Master's,2022-12-01,92000,4.0,3,On-site,18,2.7,No
+E5115,Sales,3,31,Female,Bachelor's,2023-11-03,86600,0.2,5,Remote,16,5.0,No
+E5116,Sales,2,27,Female,High School,2024-02-16,62700,8.0,5,On-site,13,4.7,No
+E5117,Sales,2,23,Non-binary,Master's,2025-05-03,75700,5.6,4,Hybrid,13,3.5,No
+E5118,Engineering,1,25,Female,Bachelor's,2022-11-06,78200,3.3,4,On-site,11,4.5,No
+E5119,Sales,4,34,Female,Bachelor's,2021-09-18,111700,21.0,3,Hybrid,15,3.2,No
+E5120,Customer Support,4,39,Male,High School,2020-05-15,66800,1.9,3,On-site,15,2.9,No
+E5121,Sales,3,26,Male,PhD,2025-04-26,95600,4.0,3,Remote,20,3.3,No
+E5122,Finance,1,32,Female,Bachelor's,2023-12-05,64900,13.4,4,Remote,22,2.7,No
+E5123,Operations,1,23,Female,Master's,2024-10-06,50500,2.9,3,On-site,15,3.3,Yes
+E5124,Engineering,1,27,Female,Bachelor's,2022-10-10,75300,3.7,3,Hybrid,27,3.1,No
+E5125,Customer Support,3,31,Male,Bachelor's,2019-01-25,62400,2.7,2,On-site,22,2.0,No
+E5126,Data Science,3,37,Male,Bachelor's,2021-05-10,124200,1.0,4,On-site,14,3.4,No
+E5127,Engineering,1,33,Female,Bachelor's,2015-06-04,79700,2.5,2,Remote,19,2.6,No
+E5128,Marketing,2,28,Male,Bachelor's,2021-08-12,83800,6.0,3,On-site,21,3.1,No
+E5129,Engineering,5,40,Male,Master's,2013-12-13,169400,2.2,4,On-site,20,4.7,No
+E5130,Human Resources,1,26,Male,Master's,2020-07-27,54200,1.9,3,Remote,11,3.0,No
+E5131,Engineering,2,32,Male,Bachelor's,2021-07-13,99500,5.4,3,On-site,16,3.5,No
+E5132,Sales,2,34,Male,Master's,2022-10-10,67100,4.0,2,Hybrid,13,5.0,No
+E5133,Finance,2,33,Male,Bachelor's,2019-05-26,95400,1.8,1,Hybrid,18,3.6,Yes
+E5134,Customer Support,3,27,Male,Bachelor's,2019-07-14,61700,22.8,5,On-site,12,4.2,No
+E5135,Engineering,2,21,Male,Bachelor's,2023-09-27,103400,6.4,1,Remote,23,3.3,No
+E5136,Customer Support,5,37,Non-binary,Master's,2022-07-12,83100,0.5,3,Hybrid,25,3.3,Yes
+E5137,Finance,3,29,Female,Bachelor's,2017-03-18,118200,12.8,3,Hybrid,12,3.7,No
+E5138,Data Science,3,33,Male,Master's,2021-03-23,127500,4.5,3,Hybrid,17,3.0,No
+E5139,Marketing,4,45,Male,Master's,2022-02-24,120400,2.0,3,Remote,22,4.3,No
+E5140,Engineering,2,29,Female,Bachelor's,2023-09-16,93100,3.0,2,On-site,17,4.6,No
+E5141,Sales,2,28,Male,Bachelor's,2023-07-28,73600,3.5,3,Hybrid,13,2.2,No
+E5142,Operations,3,30,Female,PhD,2023-12-19,77400,7.1,3,Remote,10,4.1,No
+E5143,Operations,2,35,Male,Master's,2017-11-20,56700,3.1,4,Hybrid,20,5.0,No
+E5144,Data Science,1,27,Male,PhD,2021-05-04,86300,6.8,3,Hybrid,12,2.2,Yes
+E5145,Finance,2,38,Female,Master's,2022-09-09,87600,9.7,2,Remote,12,3.8,No
+E5146,Sales,2,37,Female,Bachelor's,2021-08-16,76500,2.9,2,Hybrid,13,3.0,No
+E5147,Marketing,1,28,Male,High School,2021-09-26,55500,11.9,3,Hybrid,17,1.7,Yes
+E5148,Marketing,3,23,Male,Bachelor's,2024-01-02,105200,2.5,2,Hybrid,19,4.5,No
+E5149,Finance,2,29,Female,Master's,2023-08-11,82600,3.3,4,Hybrid,14,3.3,No
+E5150,Engineering,2,36,Female,Bachelor's,2022-12-04,92900,8.4,3,On-site,32,3.0,No
+E5151,Engineering,2,33,Male,High School,2022-12-27,115200,8.4,5,Hybrid,27,4.5,No
+E5152,Operations,4,35,Male,High School,2023-05-30,98700,13.0,4,Hybrid,25,2.1,No
+E5153,Marketing,1,27,Male,Bachelor's,2017-03-07,62400,2.7,3,On-site,10,2.2,Yes
+E5154,Sales,3,32,Male,Bachelor's,2020-10-04,96200,12.5,3,Hybrid,21,5.0,No
+E5155,Sales,3,37,Male,Master's,2024-06-07,92100,9.0,3,Remote,16,4.3,No
+E5156,Finance,2,34,Male,Bachelor's,2022-03-16,77400,8.3,3,Hybrid,22,3.5,No
+E5157,Finance,2,33,Female,Bachelor's,2018-07-28,95800,8.2,4,Hybrid,11,4.0,No
+E5158,Operations,3,32,Male,Bachelor's,2021-07-31,80400,4.6,4,Remote,11,2.6,No
+E5159,Sales,2,31,Female,Bachelor's,2022-04-04,67700,3.1,2,On-site,12,2.8,No
+E5160,Customer Support,4,34,Female,Bachelor's,2022-11-18,85000,8.4,2,On-site,21,2.9,No
+E5161,Finance,2,31,Female,Bachelor's,2019-10-27,83300,13.5,3,On-site,17,3.3,No
+E5162,Customer Support,4,33,Female,Bachelor's,2025-01-11,77300,10.8,4,On-site,14,3.3,No
+E5163,Human Resources,1,27,Female,Master's,2019-05-29,60300,9.4,2,Remote,13,2.1,No
+E5164,Customer Support,2,33,Male,Bachelor's,2021-06-29,49200,11.7,2,Hybrid,11,4.2,Yes
+E5165,Customer Support,4,39,Female,Bachelor's,2022-07-21,75400,2.7,5,On-site,17,5.0,No
+E5166,Sales,3,34,Male,Master's,2014-01-14,94300,3.8,3,Hybrid,22,4.5,No
+E5167,Finance,4,36,Male,PhD,2020-09-23,104300,9.8,4,On-site,18,2.8,No
+E5168,Finance,1,29,Female,High School,2023-07-19,70900,23.8,5,Remote,20,4.5,No
+E5169,Sales,4,34,Male,Bachelor's,2019-12-09,106700,2.5,3,Hybrid,20,3.3,No
+E5170,Sales,1,29,Male,High School,2020-04-09,58300,3.8,2,On-site,18,3.5,No
+E5171,Sales,2,41,Male,Master's,2021-09-24,74900,12.9,3,On-site,15,3.4,No
+E5172,Engineering,2,33,Non-binary,Bachelor's,2018-04-12,109300,5.5,2,Hybrid,20,3.8,No
+E5173,Sales,2,26,Male,Bachelor's,2023-02-03,76800,2.1,1,Hybrid,28,3.1,No
+E5174,Data Science,5,38,Male,Master's,2018-11-04,202500,2.3,2,On-site,24,3.2,No
+E5175,Data Science,4,35,Female,Bachelor's,2021-12-20,143000,1.4,3,On-site,14,4.5,No
+E5176,Sales,3,34,Female,Master's,2023-01-11,95000,1.4,3,On-site,24,2.8,No
+E5177,Sales,2,36,Male,High School,2023-04-19,82600,4.4,3,On-site,19,3.7,No
+E5178,Customer Support,2,34,Female,Master's,2019-09-09,60400,7.5,4,Hybrid,14,4.5,No
+E5179,Sales,3,38,Female,High School,2022-12-22,86200,4.5,1,On-site,18,5.0,No
+E5180,Data Science,3,32,Female,Bachelor's,2021-06-24,162900,4.2,3,Hybrid,16,2.9,No
+E5181,Customer Support,2,31,Female,High School,2021-05-02,54500,3.2,1,Hybrid,18,3.6,No
+E5182,Customer Support,5,56,Male,Bachelor's,2024-07-26,86000,0.5,2,Remote,16,5.0,No
+E5183,Finance,1,29,Male,Master's,2023-01-17,75500,5.1,3,Remote,15,2.7,No
+E5184,Sales,4,38,Female,Master's,2023-01-20,111200,0.9,3,On-site,20,1.3,Yes
+E5185,Engineering,2,23,Male,Bachelor's,2016-09-24,100400,3.1,3,On-site,13,4.4,No
+E5186,Customer Support,5,45,Male,Bachelor's,2020-07-29,92100,7.4,3,On-site,13,3.5,No
+E5187,Customer Support,3,33,Female,Bachelor's,2021-03-19,61400,6.6,3,On-site,10,3.1,No
+E5188,Sales,4,30,Female,Master's,2023-01-25,113300,2.2,3,Remote,24,2.7,No
+E5189,Sales,3,37,Female,Master's,2022-05-01,74200,3.3,2,Hybrid,10,3.4,No
+E5190,Engineering,1,27,Male,High School,2023-08-07,85000,4.2,2,Hybrid,21,2.9,No
+E5191,Operations,3,36,Female,Bachelor's,2022-06-07,86700,9.0,5,On-site,13,3.1,No
+E5192,Data Science,2,35,Female,Master's,2020-08-28,114900,1.7,2,Hybrid,21,4.7,No
+E5193,Data Science,1,33,Male,Bachelor's,2019-12-22,92700,6.8,4,Hybrid,15,5.0,No
+E5194,Data Science,2,33,Female,Bachelor's,2022-11-13,120000,6.7,4,Hybrid,26,4.5,No
+E5195,Human Resources,3,33,Non-binary,Bachelor's,2021-08-16,84700,2.3,3,Remote,19,5.0,No
+E5196,Sales,3,31,Male,Bachelor's,2023-02-07,85600,4.7,3,Hybrid,18,3.1,No
+E5197,Engineering,1,28,Female,Bachelor's,2024-01-04,85800,7.0,3,Remote,19,2.4,Yes
+E5198,Sales,3,33,Male,High School,2021-03-18,95300,0.9,3,Hybrid,17,3.2,No
+E5199,Sales,2,21,Male,Bachelor's,2022-11-28,76400,6.1,3,Hybrid,15,3.9,No
+E5200,Marketing,4,30,Male,Bachelor's,2020-08-05,105500,14.8,3,Hybrid,18,3.1,Yes
+E5201,Engineering,5,48,Female,High School,2024-05-26,183400,4.5,3,Remote,20,3.3,No
+E5202,Sales,2,27,Female,Bachelor's,2023-05-23,69800,4.0,3,Hybrid,27,3.5,No
+E5203,Human Resources,1,34,Male,Bachelor's,2022-09-12,53300,6.2,3,On-site,16,2.1,Yes
+E5204,Operations,1,30,Male,Bachelor's,2020-09-04,46800,2.1,2,Hybrid,17,2.0,Yes
+E5205,Operations,1,32,Female,Bachelor's,2018-03-01,45500,14.9,4,On-site,14,3.3,No
+E5206,Sales,2,33,Female,Bachelor's,2023-12-06,71600,4.9,3,Hybrid,20,4.3,No
+E5207,Sales,3,33,Female,Master's,2024-08-02,85900,3.7,4,Hybrid,23,3.0,No
+E5208,Engineering,4,41,Female,Bachelor's,2021-03-11,158700,7.2,5,On-site,15,4.0,Yes
+E5209,Engineering,1,28,Male,Bachelor's,2018-12-01,78500,6.5,3,On-site,16,3.0,No
+E5210,Human Resources,2,21,Female,Bachelor's,2023-01-26,61800,2.5,2,Hybrid,16,4.2,No
+E5211,Finance,3,31,Female,Master's,2022-08-01,112000,3.0,3,Remote,15,4.3,No
+E5212,Marketing,1,21,Male,Bachelor's,2023-10-19,52900,15.1,4,Hybrid,18,4.2,No
+E5213,Customer Support,4,33,Male,Master's,2021-03-16,71900,12.0,3,Hybrid,15,3.1,No
+E5214,Engineering,2,28,Female,Master's,2024-08-06,97900,7.9,3,Remote,26,2.5,Yes
+E5215,Human Resources,1,34,Male,Bachelor's,2021-06-08,58900,9.6,4,Hybrid,10,2.3,No
+E5216,Sales,3,37,Female,High School,2014-10-10,75600,8.0,3,Hybrid,10,3.0,No
+E5217,Human Resources,2,38,Female,Master's,2023-05-20,56200,0.8,1,On-site,18,2.4,No
+E5218,Customer Support,4,31,Female,Bachelor's,2020-03-18,70700,12.7,3,Hybrid,24,2.6,Yes
+E5219,Human Resources,2,25,Female,Master's,2024-09-27,77200,19.8,4,Remote,17,4.1,No
+E5220,Data Science,1,23,Male,Bachelor's,2025-01-31,102500,8.5,2,Remote,14,4.2,No
+E5221,Human Resources,3,21,Male,Bachelor's,2017-09-09,85900,5.1,5,On-site,14,4.6,No
+E5222,Sales,4,30,Female,Bachelor's,2021-10-06,94500,3.5,3,Hybrid,21,1.8,Yes
+E5223,Sales,1,27,Female,Bachelor's,2024-01-23,50000,3.7,3,On-site,12,2.6,No
+E5224,Data Science,5,35,Female,Bachelor's,2023-07-30,165500,8.1,5,On-site,12,5.0,No
+E5225,Finance,2,35,Female,Master's,2023-03-21,84400,2.9,4,Hybrid,17,3.5,No
+E5226,Sales,2,33,Female,Bachelor's,2021-01-12,68500,8.0,5,On-site,20,1.7,Yes
+E5227,Marketing,3,39,Male,Bachelor's,2025-01-25,102200,19.4,3,Remote,6,3.1,No
+E5228,Operations,2,27,Female,PhD,2024-12-20,73600,11.2,5,Remote,19,3.8,No
+E5229,Finance,3,30,Female,Bachelor's,2022-06-20,107700,1.4,4,Remote,16,4.1,No
+E5230,Finance,5,43,Female,Master's,2023-07-21,158300,1.1,4,Remote,20,3.1,No
+E5231,Data Science,3,44,Female,Bachelor's,2019-11-08,136100,3.1,3,On-site,16,4.6,Yes
+E5232,Finance,3,35,Male,Master's,2024-09-30,106300,7.0,3,Hybrid,20,5.0,No
+E5233,Finance,1,31,Male,High School,2025-01-26,70800,1.2,3,Hybrid,17,2.6,Yes
+E5234,Operations,2,37,Female,Bachelor's,2021-08-18,62900,12.0,3,Remote,16,2.5,No
+E5235,Operations,2,33,Female,Master's,2018-04-25,59900,1.6,5,On-site,12,4.2,No
+E5236,Customer Support,1,28,Female,PhD,2023-06-27,36500,6.0,2,On-site,19,2.8,No
+E5237,Customer Support,3,41,Female,Bachelor's,2013-06-20,61600,2.1,3,Remote,34,4.6,No
+E5238,Finance,4,27,Female,High School,2025-01-15,108900,7.4,3,Hybrid,14,3.2,No
+E5239,Operations,4,39,Male,High School,2019-05-28,82800,6.8,3,On-site,23,3.5,No
+E5240,Finance,1,21,Female,Bachelor's,2019-08-01,80400,4.3,3,Hybrid,21,2.5,No
+E5241,Sales,1,23,Female,Bachelor's,2024-03-08,49800,6.4,4,Remote,12,2.8,No
+E5242,Sales,3,41,Female,Bachelor's,2022-01-08,87200,19.4,4,Hybrid,23,4.1,No
+E5243,Engineering,5,39,Male,Bachelor's,2023-02-25,176600,14.4,5,On-site,10,3.8,No
+E5244,Engineering,2,33,Female,High School,2022-11-05,113800,1.6,5,Hybrid,19,2.1,Yes
+E5245,Customer Support,1,26,Female,Master's,2022-10-26,48000,4.0,3,On-site,21,3.3,No
+E5246,Customer Support,3,38,Female,Bachelor's,2024-01-02,74300,3.7,3,Remote,24,3.2,No
+E5247,Sales,1,21,Female,Bachelor's,2023-12-24,54600,6.1,3,Remote,21,3.3,No
+E5248,Sales,2,24,Female,Master's,2019-07-01,69600,7.5,3,On-site,20,4.1,No
+E5249,Engineering,3,47,Female,Master's,2014-08-14,137700,6.7,4,On-site,23,4.9,No
+E5250,Customer Support,2,37,Male,Master's,2022-04-05,59300,2.0,4,Remote,18,3.8,Yes
+E5251,Engineering,3,35,Male,Master's,2022-07-07,117600,7.6,1,Hybrid,24,2.1,No
+E5252,Engineering,1,23,Female,Bachelor's,2024-10-26,91000,6.3,5,On-site,16,4.3,No
+E5253,Sales,2,25,Female,Bachelor's,2021-08-05,76700,10.3,3,Remote,11,3.1,Yes
+E5254,Engineering,3,29,Female,Bachelor's,2023-06-27,130500,8.7,4,Remote,20,3.8,No
+E5255,Marketing,5,37,Female,Master's,2022-12-05,135900,14.3,4,On-site,16,3.0,No
+E5256,Data Science,2,35,Female,Master's,2020-09-13,109300,3.0,3,On-site,18,2.1,No
+E5257,Finance,3,25,Male,Bachelor's,2016-05-04,106300,10.1,4,Hybrid,20,4.5,No
+E5258,Finance,1,37,Male,Master's,2021-09-26,69300,4.2,3,On-site,16,2.6,No
+E5259,Data Science,2,31,Female,Bachelor's,2023-07-03,101000,7.2,3,On-site,18,4.2,No
+E5260,Marketing,2,34,Female,Bachelor's,2021-08-29,81400,10.2,3,Remote,20,4.3,No
+E5261,Operations,3,36,Male,High School,2018-11-14,79500,4.9,3,On-site,23,4.6,No
+E5262,Sales,2,37,Male,Bachelor's,2019-03-21,69900,6.6,3,On-site,24,2.5,No
+E5263,Finance,1,21,Male,Bachelor's,2019-09-28,60700,7.5,3,Hybrid,17,3.0,No
+E5264,Customer Support,3,37,Male,High School,2016-07-09,61000,5.0,4,Remote,16,3.1,No
+E5265,Operations,4,37,Male,Bachelor's,2023-12-01,93600,11.5,4,Hybrid,9,4.4,No
+E5266,Marketing,4,28,Female,Bachelor's,2022-06-25,119400,1.5,4,Hybrid,15,3.0,No
+E5267,Sales,5,34,Female,High School,2023-11-08,122600,2.8,3,Remote,26,3.6,No
+E5268,Engineering,2,31,Female,Bachelor's,2020-11-26,100800,10.6,1,On-site,16,3.5,No
+E5269,Customer Support,2,26,Male,High School,2008-04-06,52300,2.9,2,Hybrid,13,2.9,No
+E5270,Engineering,2,32,Male,Master's,2016-02-12,108000,0.8,3,Hybrid,17,5.0,No
+E5271,Customer Support,1,34,Male,Bachelor's,2018-06-27,36000,3.1,3,Remote,14,4.4,Yes
+E5272,Engineering,1,27,Male,Master's,2022-11-28,95700,2.6,3,Remote,18,2.4,No
+E5273,Sales,1,23,Male,High School,2024-01-19,55900,8.5,3,Hybrid,24,4.8,No
+E5274,Engineering,1,27,Male,Bachelor's,2019-07-06,81400,4.8,3,Hybrid,22,4.1,No
+E5275,Marketing,3,34,Male,Bachelor's,2013-04-07,92000,5.9,3,Hybrid,16,4.0,No
+E5276,Sales,2,33,Male,Bachelor's,2023-01-04,75500,4.3,4,Hybrid,24,2.3,Yes
+E5277,Finance,1,27,Female,Master's,2021-11-07,68100,12.7,3,Hybrid,29,2.7,No
+E5278,Data Science,1,26,Male,Master's,2023-02-17,100000,4.3,3,Remote,16,2.2,Yes
+E5279,Sales,1,36,Female,Bachelor's,2023-12-01,59200,15.1,4,Hybrid,14,2.2,Yes
+E5280,Finance,2,25,Male,PhD,2021-03-12,86900,0.4,4,Hybrid,14,2.9,No
+E5281,Human Resources,2,29,Female,Bachelor's,2023-12-05,62200,7.7,3,Remote,18,2.5,No
+E5282,Engineering,5,33,Male,Master's,2022-03-08,171100,8.6,3,Remote,16,3.8,No
+E5283,Engineering,2,32,Male,Master's,2021-06-13,113000,17.2,5,Hybrid,14,4.2,No
+E5284,Marketing,2,32,Male,Bachelor's,2024-02-06,78800,1.2,3,Remote,16,3.9,No
+E5285,Finance,4,35,Male,Bachelor's,2018-02-20,110400,3.1,3,Hybrid,16,3.8,No
+E5286,Finance,3,33,Male,High School,2020-10-31,107900,3.0,4,Hybrid,18,4.1,No
+E5287,Finance,2,34,Male,Bachelor's,2020-12-01,83800,11.9,3,On-site,18,3.7,No
+E5288,Human Resources,4,33,Female,Master's,2019-05-03,87800,3.9,4,On-site,17,4.1,No
+E5289,Operations,3,42,Male,Bachelor's,2023-04-13,75700,5.2,4,Hybrid,12,4.4,Yes
+E5290,Operations,3,37,Female,Bachelor's,2022-02-14,71700,1.4,4,On-site,17,4.9,No
+E5291,Finance,3,25,Female,Master's,2020-12-21,91900,13.7,3,Remote,12,2.7,No
+E5292,Operations,3,34,Female,Bachelor's,2021-12-01,79700,3.1,4,On-site,22,3.7,No
+E5293,Sales,2,33,Male,Bachelor's,2020-01-18,62300,11.5,4,Hybrid,21,3.4,Yes
+E5294,Customer Support,1,24,Male,High School,2023-01-21,37400,1.5,3,On-site,24,3.0,No
+E5295,Data Science,1,25,Male,Master's,2019-06-11,78200,4.1,3,Hybrid,12,3.4,No
+E5296,Customer Support,2,23,Female,PhD,2023-11-10,51800,4.8,4,Remote,16,2.7,Yes
+E5297,Operations,2,34,Female,Bachelor's,2022-07-30,59700,1.3,3,Remote,18,3.2,Yes
+E5298,Human Resources,2,35,Male,Master's,2021-02-01,77000,7.6,3,On-site,18,3.2,No
+E5299,Engineering,1,28,Female,Bachelor's,2020-10-10,71300,4.8,2,On-site,18,4.1,No
+E5300,Data Science,2,25,Female,PhD,2024-03-10,104900,8.2,2,Remote,23,2.0,No
+E5301,Finance,2,21,Female,Master's,2024-02-10,85900,3.5,3,Hybrid,17,3.5,Yes
+E5302,Operations,3,40,Male,Bachelor's,2022-05-15,70200,2.5,3,On-site,18,3.2,No
+E5303,Customer Support,5,38,Male,High School,2022-08-11,94800,0.3,3,On-site,17,1.0,Yes
+E5304,Customer Support,1,33,Female,High School,2020-02-11,39700,2.4,3,Remote,18,2.5,No
+E5305,Engineering,3,36,Female,Bachelor's,2024-11-02,135900,8.6,4,On-site,20,5.0,No
+E5306,Data Science,1,21,Male,Bachelor's,2023-07-04,74000,7.5,4,Hybrid,17,1.5,No
+E5307,Finance,2,26,Male,Master's,2019-08-11,93500,2.3,4,Remote,16,3.4,No
+E5308,Engineering,2,42,Male,Master's,2013-10-29,100000,3.8,4,Hybrid,22,3.6,No
+E5309,Engineering,2,23,Male,Bachelor's,2021-09-26,102000,4.5,4,Hybrid,12,3.0,No
+E5310,Data Science,4,34,Male,Master's,2023-11-06,149500,6.8,4,Hybrid,19,3.7,No
+E5311,Customer Support,1,21,Female,Master's,2022-08-12,40800,9.0,3,Hybrid,20,4.8,No
+E5312,Sales,3,33,Female,Master's,2021-03-31,84400,6.4,3,Hybrid,16,3.3,No
+E5313,Sales,2,27,Male,Bachelor's,2012-11-02,77200,16.4,4,Remote,28,3.2,No
+E5314,Operations,3,40,Male,Bachelor's,2018-11-03,78500,0.9,3,Remote,23,5.0,No
+E5315,Engineering,4,44,Female,Bachelor's,2017-11-18,159900,1.6,5,Hybrid,22,4.1,No
+E5316,Finance,3,41,Male,Bachelor's,2024-09-28,107900,0.6,4,Hybrid,19,3.4,Yes
+E5317,Human Resources,2,33,Male,Master's,2022-08-19,64700,9.8,3,Remote,21,2.6,No
+E5318,Finance,4,34,Female,High School,2016-11-04,125800,12.9,3,Remote,19,3.7,No
+E5319,Customer Support,1,21,Male,Master's,2017-10-12,39100,6.0,5,Hybrid,20,4.7,No
+E5320,Engineering,4,39,Male,PhD,2024-06-28,172100,3.5,3,On-site,15,2.7,No
+E5321,Human Resources,3,31,Male,Bachelor's,2021-05-18,82700,3.9,2,On-site,13,1.9,No
+E5322,Engineering,2,27,Female,PhD,2023-12-03,121000,2.4,4,On-site,17,3.0,No
+E5323,Sales,3,28,Male,Bachelor's,2015-07-26,94000,4.6,5,Hybrid,16,3.9,No
+E5324,Operations,5,38,Female,Bachelor's,2019-08-07,106300,3.6,2,Hybrid,24,4.6,No
+E5325,Human Resources,3,28,Female,Bachelor's,2018-12-03,79400,2.6,2,Hybrid,16,2.7,Yes
+E5326,Finance,1,39,Female,High School,2023-05-01,73700,3.4,2,Remote,20,3.2,No
+E5327,Operations,4,41,Male,PhD,2024-08-31,89200,8.2,3,Remote,10,1.0,Yes
+E5328,Engineering,2,29,Female,Bachelor's,2024-02-08,105200,3.2,1,Remote,12,2.8,Yes
+E5329,Engineering,1,22,Male,Bachelor's,2022-03-24,81100,2.9,3,Hybrid,19,3.5,No
+E5330,Sales,2,34,Male,Bachelor's,2023-04-27,80400,11.0,3,Hybrid,19,3.8,No
+E5331,Data Science,3,34,Female,Bachelor's,2022-08-22,145300,4.9,1,On-site,18,3.1,No
+E5332,Operations,4,30,Female,Master's,2024-10-15,101400,9.0,4,Hybrid,16,4.8,No
+E5333,Sales,1,24,Male,Bachelor's,2020-11-21,56900,22.7,3,Remote,16,2.9,No
+E5334,Data Science,4,36,Male,Bachelor's,2023-12-25,156800,14.4,4,On-site,21,2.6,No
+E5335,Sales,2,35,Male,Bachelor's,2025-01-24,76600,2.2,3,Hybrid,10,3.6,No
+E5336,Data Science,3,30,Male,Master's,2024-03-23,132300,3.4,4,On-site,16,5.0,No
+E5337,Marketing,1,31,Male,Bachelor's,2021-06-02,58600,11.1,5,On-site,16,3.6,No
+E5338,Marketing,3,42,Female,Master's,2023-01-15,89600,7.2,4,On-site,17,3.1,No
+E5339,Human Resources,3,28,Female,Bachelor's,2023-07-22,79400,8.0,3,Hybrid,16,2.8,No
+E5340,Marketing,4,43,Male,Bachelor's,2022-02-01,103500,2.0,2,On-site,16,4.9,No
+E5341,Customer Support,1,28,Female,Bachelor's,2020-01-03,41200,5.6,3,Hybrid,16,3.1,No
+E5342,Sales,4,44,Male,Bachelor's,2022-07-07,108400,3.6,4,On-site,16,3.1,No
+E5343,Operations,3,34,Female,Bachelor's,2015-08-19,79200,5.5,3,On-site,24,3.5,No
+E5344,Finance,4,35,Male,Bachelor's,2019-09-22,139100,5.4,4,Hybrid,16,2.7,No
+E5345,Engineering,2,28,Female,Master's,2025-02-11,108300,3.0,3,Remote,22,3.1,No
+E5346,Sales,2,21,Female,PhD,2021-05-18,67100,3.6,3,Hybrid,23,3.1,No
+E5347,Engineering,1,23,Female,Master's,2023-10-08,86300,8.0,4,On-site,23,4.5,No
+E5348,Marketing,1,21,Female,Bachelor's,2022-10-05,59100,1.5,3,Remote,18,3.1,No
+E5349,Customer Support,3,30,Male,Bachelor's,2019-11-02,58600,4.9,2,On-site,16,3.3,No
+E5350,Sales,1,21,Female,Bachelor's,2024-01-26,50200,3.0,2,Hybrid,8,3.8,Yes
+E5351,Customer Support,4,37,Female,Master's,2010-03-13,77000,4.4,2,Remote,16,3.2,No
+E5352,Customer Support,2,32,Female,Master's,2023-02-25,50100,6.0,2,On-site,16,2.7,Yes
+E5353,Human Resources,1,32,Male,Bachelor's,2018-08-19,53000,15.4,3,Remote,10,2.4,No
+E5354,Operations,4,43,Male,Bachelor's,2022-04-16,91900,2.7,4,On-site,11,3.2,Yes
+E5355,Sales,1,34,Male,Bachelor's,2024-10-17,51600,9.7,3,On-site,21,3.1,Yes
+E5356,Human Resources,2,30,Female,Bachelor's,2024-08-23,72800,6.0,4,Hybrid,13,3.7,No
+E5357,Customer Support,1,26,Male,Bachelor's,2013-09-12,38500,4.0,4,Hybrid,21,3.1,No
+E5358,Engineering,2,26,Male,Bachelor's,2018-08-23,96200,3.9,5,On-site,15,5.0,No
+E5359,Data Science,1,21,Male,Bachelor's,2022-09-24,85200,10.8,4,On-site,18,2.3,No
+E5360,Data Science,4,42,Female,High School,2022-02-22,149100,1.7,3,Hybrid,18,4.3,No
+E5361,Marketing,3,24,Male,Master's,2022-03-26,87200,11.9,4,Remote,17,3.6,No
+E5362,Engineering,4,38,Female,Master's,2019-03-05,145300,15.7,2,On-site,17,3.4,No
+E5363,Human Resources,4,38,Female,Bachelor's,2020-05-21,108000,10.3,3,Hybrid,26,3.1,No
+E5364,Human Resources,4,37,Male,High School,2022-10-14,87100,8.6,3,Hybrid,18,4.2,No
+E5365,Customer Support,2,30,Male,Bachelor's,2023-09-11,46900,2.9,3,Hybrid,22,2.4,No
+E5366,Operations,3,37,Female,Bachelor's,2022-09-29,75500,7.7,3,Remote,17,4.0,No
+E5367,Operations,4,36,Female,Master's,2024-05-28,92800,2.7,2,Remote,19,2.8,No
+E5368,Human Resources,2,30,Male,Bachelor's,2023-06-15,64400,5.5,5,On-site,13,3.6,No
+E5369,Sales,2,34,Female,Bachelor's,2025-01-03,65900,17.2,2,Hybrid,13,4.3,No
+E5370,Customer Support,1,29,Male,Bachelor's,2021-05-06,39000,11.1,1,Remote,15,3.5,No
+E5371,Engineering,2,41,Male,Bachelor's,2019-12-19,112900,1.0,2,On-site,8,3.5,Yes
+E5372,Engineering,3,41,Female,Master's,2024-03-27,133400,5.2,3,Remote,23,3.7,No
+E5373,Data Science,5,38,Male,Bachelor's,2022-10-04,187500,6.2,1,Hybrid,20,3.6,No
+E5374,Finance,2,31,Male,Bachelor's,2023-07-07,86100,1.1,4,On-site,22,3.0,No
+E5375,Engineering,1,22,Male,Bachelor's,2020-12-18,71900,6.6,3,Hybrid,20,3.7,No
+E5376,Operations,4,38,Female,Bachelor's,2021-06-09,87700,4.9,2,Remote,20,3.5,No
+E5377,Operations,1,28,Female,Bachelor's,2020-07-19,43800,1.5,4,Hybrid,28,4.5,No
+E5378,Sales,1,22,Female,Bachelor's,2020-01-25,59600,6.2,4,On-site,15,3.9,Yes
+E5379,Marketing,1,21,Male,Bachelor's,2018-12-29,64800,6.4,3,Hybrid,15,2.5,No
+E5380,Engineering,4,39,Female,Bachelor's,2024-03-28,144200,5.7,3,On-site,15,3.9,No
+E5381,Marketing,1,26,Male,Bachelor's,2023-04-20,56900,13.0,3,Hybrid,16,3.4,Yes
+E5382,Human Resources,1,23,Male,High School,2017-10-17,51300,9.1,3,Remote,18,3.3,Yes
+E5383,Operations,4,42,Male,Bachelor's,2017-04-20,91100,3.8,1,Remote,22,2.6,No
+E5384,Human Resources,1,21,Female,Bachelor's,2021-07-10,51900,7.9,4,Hybrid,26,2.9,No
+E5385,Engineering,4,38,Male,PhD,2023-09-30,158000,3.2,3,Hybrid,19,3.9,Yes
+E5386,Sales,1,25,Female,Master's,2020-09-29,63100,4.4,3,Remote,19,2.9,No
+E5387,Operations,1,27,Female,High School,2023-03-22,50400,4.2,3,Hybrid,17,3.3,No
+E5388,Engineering,2,23,Female,Bachelor's,2020-12-11,95300,7.2,3,Remote,21,4.1,No
+E5389,Sales,1,26,Male,High School,2024-07-10,47200,5.4,4,Remote,21,3.4,Yes
+E5390,Data Science,4,37,Non-binary,High School,2023-10-08,170900,13.9,3,On-site,18,5.0,No
+E5391,Sales,2,32,Male,Master's,2021-12-20,80300,9.7,4,On-site,17,3.2,No
+E5392,Human Resources,2,33,Female,Bachelor's,2024-05-30,64900,9.5,3,On-site,16,4.3,No
+E5393,Human Resources,3,29,Male,Master's,2014-01-23,84500,2.3,5,Hybrid,21,3.9,No
+E5394,Sales,3,33,Male,Bachelor's,2023-09-27,89400,0.5,3,Hybrid,22,1.9,Yes
+E5395,Customer Support,2,28,Male,Bachelor's,2023-04-25,45200,3.1,4,Hybrid,12,3.2,No
+E5396,Operations,2,29,Male,Bachelor's,2014-06-25,55800,5.9,3,On-site,17,2.2,Yes
+E5397,Human Resources,2,35,Male,Bachelor's,2019-06-19,64200,14.3,3,On-site,10,3.7,No
+E5398,Finance,1,24,Female,Master's,2021-11-07,77100,0.4,4,Remote,27,3.9,Yes
+E5399,Sales,1,29,Male,Master's,2024-03-04,61000,17.1,2,Hybrid,24,3.7,No
+E5400,Engineering,4,42,Male,Master's,2019-05-29,151700,16.4,3,Remote,18,3.7,No
+E5401,Data Science,1,29,Female,Bachelor's,2022-05-11,90000,12.5,4,Remote,17,2.5,No
+E5402,Customer Support,2,29,Male,PhD,2023-06-09,46700,5.2,3,On-site,11,2.8,Yes
+E5403,Marketing,3,31,Male,Bachelor's,2020-09-27,97400,6.6,4,Hybrid,23,2.4,No
+E5404,Finance,2,33,Male,Bachelor's,2021-05-25,90200,6.9,3,On-site,13,2.6,Yes
+E5405,Sales,3,36,Male,Master's,2018-09-15,94600,16.3,4,On-site,17,3.2,No
+E5406,Engineering,2,32,Male,PhD,2023-10-30,96300,4.0,2,On-site,18,1.9,Yes
+E5407,Engineering,1,28,Male,Bachelor's,2022-10-09,80900,4.7,3,On-site,16,3.6,No
+E5408,Data Science,2,25,Male,High School,2023-10-12,105400,11.1,4,Hybrid,12,4.3,No
+E5409,Engineering,4,38,Male,Bachelor's,2023-06-18,140300,2.1,4,On-site,12,5.0,No
+E5410,Engineering,2,21,Female,Bachelor's,2021-07-09,113000,5.3,4,Hybrid,15,3.1,No
+E5411,Customer Support,3,31,Female,Bachelor's,2024-02-24,67500,13.2,2,On-site,23,2.4,Yes
+E5412,Operations,3,41,Male,Bachelor's,2022-07-12,73600,8.8,2,Hybrid,18,2.3,Yes
+E5413,Engineering,5,45,Male,Master's,2019-06-16,172600,8.2,3,On-site,17,4.3,No
+E5414,Finance,3,35,Male,Bachelor's,2023-02-18,107900,13.0,3,On-site,22,4.2,No
+E5415,Operations,2,38,Male,High School,2024-08-22,68300,10.7,3,Hybrid,24,4.8,No
+E5416,Operations,4,39,Male,High School,2025-01-02,84800,3.9,2,On-site,16,2.4,No
+E5417,Human Resources,4,33,Female,Bachelor's,2023-04-25,89300,7.4,4,On-site,15,3.9,No
+E5418,Customer Support,2,31,Male,PhD,2017-08-07,46100,7.5,3,Hybrid,20,3.2,No
+E5419,Finance,4,45,Female,Bachelor's,2024-01-19,139400,4.3,4,Hybrid,21,3.6,No
+E5420,Sales,2,30,Female,Bachelor's,2017-11-23,76300,1.9,3,Hybrid,18,2.6,No
+E5421,Data Science,2,30,Female,High School,2023-04-17,105700,0.9,4,Hybrid,19,4.4,No
+E5422,Operations,4,45,Female,Bachelor's,2019-12-19,82300,1.5,1,On-site,13,2.6,No
+E5423,Data Science,1,28,Female,Bachelor's,2022-10-14,87400,9.6,4,Hybrid,20,5.0,No
+E5424,Sales,2,31,Male,Bachelor's,2023-02-23,67200,5.2,3,Hybrid,25,2.6,No
+E5425,Engineering,3,34,Male,Bachelor's,2020-07-06,115000,2.8,4,On-site,15,4.9,No
+E5426,Engineering,1,30,Male,Bachelor's,2022-02-18,84800,2.5,3,Remote,20,3.0,No
+E5427,Marketing,4,23,Female,Bachelor's,2021-06-08,101600,15.6,3,Hybrid,24,2.8,No
+E5428,Engineering,4,28,Male,Master's,2023-01-12,138800,3.4,3,On-site,23,3.4,No
+E5429,Customer Support,1,23,Female,Master's,2019-04-16,40600,3.1,2,On-site,16,3.3,No
+E5430,Finance,3,29,Female,Bachelor's,2024-07-26,124200,1.1,1,Hybrid,24,2.7,No
+E5431,Engineering,1,21,Male,Master's,2023-04-27,72300,1.6,3,On-site,19,5.0,No
+E5432,Operations,3,34,Female,Bachelor's,2020-08-16,85200,5.4,4,On-site,31,4.8,No
+E5433,Sales,2,34,Male,Master's,2023-04-26,72900,8.8,3,Hybrid,18,3.9,No
+E5434,Marketing,2,28,Male,Master's,2024-07-16,74300,8.7,2,Hybrid,13,3.1,No
+E5435,Engineering,2,37,Female,Bachelor's,2021-01-10,84800,11.7,4,On-site,10,2.5,No
+E5436,Engineering,2,37,Female,Bachelor's,2019-06-17,97500,14.1,3,Remote,9,4.0,No
+E5437,Sales,2,31,Female,Bachelor's,2024-08-13,74200,3.4,2,Remote,12,2.5,No
+E5438,Engineering,2,22,Female,Bachelor's,2022-03-14,117800,1.3,3,Hybrid,15,3.7,No
+E5439,Operations,2,25,Male,Bachelor's,2023-02-14,63500,1.7,3,Hybrid,28,3.8,No
+E5440,Sales,1,27,Male,Bachelor's,2023-03-10,54700,3.7,3,Hybrid,25,3.2,No
+E5441,Finance,1,25,Female,Master's,2018-09-22,65600,9.6,4,Hybrid,19,4.0,No
+E5442,Operations,2,27,Male,Bachelor's,2024-04-02,64100,16.1,3,Hybrid,32,2.7,Yes
+E5443,Engineering,5,44,Female,Bachelor's,2017-05-29,194100,1.4,4,On-site,16,2.8,No
+E5444,Data Science,4,36,Female,Master's,2023-10-24,157900,12.7,5,Hybrid,21,2.6,Yes
+E5445,Sales,4,42,Male,Bachelor's,2022-07-07,114300,7.6,4,Hybrid,21,3.3,Yes
+E5446,Customer Support,4,43,Female,Master's,2022-01-13,80600,2.5,4,On-site,25,3.4,No
+E5447,Finance,2,38,Male,Bachelor's,2022-03-03,86900,5.3,5,On-site,6,4.0,No
+E5448,Sales,5,31,Female,Bachelor's,2023-08-25,125200,4.4,3,On-site,13,3.0,No
+E5449,Customer Support,4,43,Male,Bachelor's,2019-10-16,77700,2.6,3,On-site,19,3.9,No
+E5450,Operations,4,46,Male,Master's,2020-06-09,118000,7.9,3,Hybrid,15,3.6,No
+E5451,Engineering,1,24,Male,Bachelor's,2016-11-18,72000,15.2,4,Hybrid,9,2.9,No
+E5452,Engineering,3,29,Female,High School,2024-11-15,125200,6.6,3,On-site,11,1.9,No
+E5453,Customer Support,4,31,Male,Master's,2024-06-08,85600,10.9,5,Hybrid,24,3.7,No
+E5454,Sales,3,27,Male,Master's,2022-07-05,104600,1.0,4,On-site,17,3.4,No
+E5455,Marketing,3,21,Female,Bachelor's,2023-11-16,91600,10.9,3,On-site,17,5.0,No
+E5456,Data Science,2,29,Female,Bachelor's,2024-06-25,119300,5.9,4,Remote,17,4.2,No
+E5457,Engineering,3,33,Female,Bachelor's,2023-05-20,138700,8.2,3,Hybrid,26,3.4,No
+E5458,Customer Support,1,27,Male,Bachelor's,2023-05-15,41300,6.4,3,Hybrid,22,3.3,No
+E5459,Sales,1,27,Male,High School,2020-09-22,58000,5.6,3,Hybrid,14,3.4,No
+E5460,Customer Support,2,27,Male,Bachelor's,2025-01-23,48200,9.1,4,Remote,12,2.4,No
+E5461,Sales,3,29,Male,Bachelor's,2022-03-25,79800,15.7,4,Hybrid,22,3.8,No
+E5462,Sales,3,33,Male,Bachelor's,2023-08-29,92300,6.8,3,Hybrid,17,2.6,No
+E5463,Data Science,1,28,Female,Master's,2022-07-16,94400,6.2,3,On-site,13,3.4,No
+E5464,Engineering,5,50,Male,Bachelor's,2025-04-08,169100,8.6,3,Hybrid,14,3.6,No
+E5465,Customer Support,3,30,Male,Bachelor's,2023-06-02,66000,1.4,3,On-site,10,4.3,No
+E5466,Data Science,5,43,Male,Bachelor's,2023-04-02,181900,8.0,4,Remote,22,3.0,No
+E5467,Operations,3,31,Male,Bachelor's,2022-04-14,74100,16.7,3,Hybrid,13,3.0,No
+E5468,Data Science,4,43,Female,Master's,2023-02-16,149600,4.5,3,Remote,16,3.4,No
+E5469,Finance,2,29,Female,Master's,2021-09-26,102200,0.3,3,Remote,16,2.9,No
+E5470,Sales,3,31,Male,PhD,2023-04-04,89000,5.6,2,On-site,14,2.6,No
+E5471,Marketing,2,31,Male,Master's,2022-06-14,75000,4.5,5,Hybrid,20,3.1,Yes
+E5472,Engineering,1,39,Male,Master's,2022-02-09,81700,5.1,5,Hybrid,22,4.3,No
+E5473,Operations,4,46,Female,Master's,2010-12-11,96700,5.7,2,On-site,14,2.9,No
+E5474,Sales,4,26,Male,Master's,2023-06-06,98600,1.4,3,On-site,17,2.7,No
+E5475,Human Resources,4,37,Male,High School,2023-02-06,108400,6.4,3,Hybrid,26,4.6,No
+E5476,Sales,4,36,Male,Bachelor's,2018-08-03,87800,14.7,3,Remote,15,4.7,No
+E5477,Sales,2,31,Male,Bachelor's,2009-12-25,80700,4.2,3,Hybrid,20,4.1,No
+E5478,Operations,3,30,Female,Bachelor's,2023-10-12,71700,3.7,2,Hybrid,19,3.4,No
+E5479,Operations,1,30,Female,Master's,2024-08-05,46700,0.8,2,Remote,19,3.1,No
+E5480,Operations,3,35,Non-binary,Master's,2023-03-19,71800,1.3,3,Hybrid,17,3.1,No
+E5481,Marketing,2,29,Male,Bachelor's,2023-07-05,67200,7.2,3,On-site,18,4.2,Yes
+E5482,Operations,1,28,Female,Bachelor's,2019-03-11,49200,3.6,3,Hybrid,17,5.0,No
+E5483,Data Science,3,26,Female,Bachelor's,2024-05-28,133700,4.6,3,Hybrid,13,3.6,No
+E5484,Customer Support,2,29,Male,Master's,2020-03-27,56000,6.6,4,Remote,20,4.0,No
+E5485,Operations,1,23,Female,Master's,2024-05-27,55600,16.2,4,On-site,26,4.1,No
+E5486,Data Science,2,33,Male,Master's,2021-08-05,121200,3.6,2,On-site,15,4.4,No
+E5487,Engineering,2,33,Female,Master's,2023-05-29,106800,4.7,4,On-site,22,3.9,No
+E5488,Data Science,2,34,Male,Bachelor's,2021-09-28,106200,0.5,3,On-site,14,3.5,Yes
+E5489,Sales,3,23,Male,Bachelor's,2019-10-28,84500,5.5,3,Remote,22,4.0,No
+E5490,Sales,2,27,Female,Bachelor's,2020-10-20,70000,9.0,4,Remote,18,2.0,No
+E5491,Human Resources,5,50,Female,Bachelor's,2022-01-27,103400,7.6,4,Remote,15,2.8,No
+E5492,Engineering,1,24,Female,Bachelor's,2023-06-22,80400,3.6,3,Hybrid,20,4.5,No
+E5493,Operations,3,38,Male,Bachelor's,2018-01-25,68100,4.6,5,Hybrid,20,2.5,Yes
+E5494,Operations,2,28,Female,Master's,2022-08-11,66800,14.2,3,Remote,14,3.4,No
+E5495,Sales,2,21,Female,Master's,2019-03-09,71400,10.4,2,Hybrid,19,2.7,No
+E5496,Marketing,1,22,Male,Master's,2017-08-27,62900,7.0,3,On-site,11,2.5,No
+E5497,Engineering,4,40,Male,PhD,2023-10-20,143600,15.0,3,On-site,20,4.0,No
+E5498,Sales,2,38,Female,High School,2021-03-15,66200,5.8,5,Hybrid,17,2.5,No
+E5499,Customer Support,3,29,Male,Master's,2021-06-05,62400,5.3,3,Hybrid,19,2.6,No
+E5500,Engineering,2,41,Female,Master's,2023-06-05,108800,8.8,3,On-site,12,3.2,No
+E5501,Sales,1,21,Female,High School,2022-04-15,52600,7.8,3,Remote,27,5.0,No
+E5502,Engineering,3,33,Male,Bachelor's,2022-02-18,141700,11.1,3,Hybrid,17,1.7,No
+E5503,Engineering,5,45,Non-binary,Bachelor's,2019-05-27,196700,3.5,5,Remote,22,5.0,No
+E5504,Engineering,4,40,Male,High School,2019-10-19,143700,7.6,3,On-site,23,2.3,Yes
+E5505,Sales,2,39,Male,Master's,2021-10-02,71700,3.0,4,Remote,21,2.9,No
+E5506,Operations,1,30,Male,Bachelor's,2022-11-05,45600,4.7,2,Hybrid,19,2.6,Yes
+E5507,Marketing,1,28,Female,PhD,2021-01-15,58200,10.0,2,On-site,22,4.0,No
+E5508,Operations,4,41,Female,Bachelor's,2016-05-14,104200,7.3,4,Remote,12,2.5,No
+E5509,Customer Support,1,21,Male,Master's,2021-05-13,39400,6.3,3,Remote,26,4.3,No
+E5510,Engineering,1,21,Male,High School,2020-01-17,72900,7.7,2,On-site,16,1.9,No
+E5511,Customer Support,4,41,Male,Bachelor's,2020-11-29,79500,6.1,2,Remote,26,3.9,No
+E5512,Finance,4,42,Female,Master's,2020-08-15,126200,14.9,4,Hybrid,21,2.5,Yes
+E5513,Sales,2,22,Female,Bachelor's,2024-09-09,80200,1.9,3,Hybrid,19,3.4,No
+E5514,Sales,3,37,Male,High School,2024-02-12,94300,25.7,3,On-site,8,3.0,Yes
+E5515,Data Science,5,47,Male,Bachelor's,2018-05-11,203200,2.3,2,Remote,20,3.8,No
+E5516,Engineering,4,47,Male,Bachelor's,2021-10-29,177100,5.1,5,On-site,19,4.1,No
+E5517,Sales,3,32,Male,Master's,2023-08-01,103700,0.7,4,Hybrid,12,2.1,No
+E5518,Sales,3,33,Male,Bachelor's,2016-12-01,72400,1.3,3,On-site,20,3.3,No
+E5519,Engineering,2,41,Male,High School,2023-05-09,88300,5.0,3,Hybrid,26,4.9,No
+E5520,Engineering,1,24,Male,Master's,2023-01-18,83300,5.8,3,Hybrid,17,4.7,No
+E5521,Engineering,3,37,Male,Bachelor's,2025-02-04,121700,14.2,5,On-site,23,4.2,No
+E5522,Marketing,2,24,Female,Master's,2024-08-11,87300,11.2,4,Remote,23,3.4,No
+E5523,Engineering,1,33,Female,Master's,2016-04-21,85500,5.1,3,Hybrid,12,4.1,No
+E5524,Sales,1,22,Female,Bachelor's,2022-02-23,55400,11.9,4,Hybrid,27,3.3,No
+E5525,Engineering,3,35,Male,Bachelor's,2020-04-30,120000,7.4,5,Hybrid,15,3.0,No
+E5526,Engineering,3,33,Male,Bachelor's,2024-04-07,130100,4.8,3,On-site,28,3.2,No
+E5527,Sales,4,31,Male,Master's,2018-10-05,94200,6.1,2,Hybrid,13,3.3,No
+E5528,Engineering,4,35,Female,PhD,2020-06-20,153900,7.8,2,Remote,21,3.4,No
+E5529,Engineering,3,36,Female,Bachelor's,2020-11-15,114700,0.1,4,On-site,17,3.1,No
+E5530,Marketing,2,27,Female,Bachelor's,2024-09-07,71100,9.2,3,On-site,20,1.7,No
+E5531,Marketing,2,30,Male,Master's,2023-02-24,94300,8.8,5,On-site,18,4.1,No
+E5532,Customer Support,3,30,Female,Bachelor's,2023-09-20,63400,2.8,4,On-site,19,4.8,No
+E5533,Data Science,3,36,Female,Bachelor's,2023-06-06,142100,1.5,5,Hybrid,23,3.5,No
+E5534,Human Resources,1,21,Female,PhD,2020-01-27,47700,9.1,3,On-site,15,3.8,No
+E5535,Operations,3,36,Female,High School,2021-05-12,80000,6.3,3,Hybrid,18,4.2,No
+E5536,Marketing,1,29,Male,PhD,2022-04-10,52300,0.9,3,Remote,17,4.7,No
+E5537,Sales,1,27,Male,Bachelor's,2018-03-19,55000,13.8,3,On-site,22,3.9,No
+E5538,Engineering,1,28,Female,Bachelor's,2025-01-18,90300,6.7,3,On-site,18,2.0,No
+E5539,Customer Support,1,21,Male,High School,2023-01-08,41400,1.6,3,Hybrid,14,2.3,Yes
+E5540,Customer Support,2,30,Male,Bachelor's,2023-05-04,51600,2.8,4,Hybrid,26,2.4,No
+E5541,Engineering,3,31,Male,Bachelor's,2024-03-31,98000,10.4,4,On-site,21,3.7,Yes
+E5542,Engineering,3,35,Male,Master's,2021-11-11,133400,6.0,5,Hybrid,18,3.2,No
+E5543,Sales,3,38,Female,Bachelor's,2019-12-07,85600,9.3,4,Hybrid,14,3.1,No
+E5544,Engineering,3,35,Male,Bachelor's,2020-11-30,129700,3.7,4,Hybrid,22,5.0,No
+E5545,Human Resources,3,35,Female,Bachelor's,2022-09-29,80500,7.1,3,On-site,18,4.4,No
+E5546,Customer Support,2,24,Male,Bachelor's,2014-11-25,46300,8.9,4,Hybrid,16,4.4,No
+E5547,Finance,1,21,Male,Master's,2023-09-15,71200,8.6,2,Hybrid,27,3.0,No
+E5548,Engineering,3,38,Male,Master's,2024-07-16,112000,10.1,3,On-site,15,2.2,No
+E5549,Engineering,3,32,Male,Master's,2017-02-20,130400,2.5,4,Hybrid,21,3.7,No
+E5550,Engineering,3,29,Female,High School,2021-03-04,131000,2.0,4,Remote,24,4.3,No
+E5551,Sales,3,32,Male,Bachelor's,2021-03-31,82800,3.7,2,On-site,11,2.6,Yes
+E5552,Finance,3,32,Female,Master's,2021-04-06,100900,5.8,2,On-site,24,3.2,No
+E5553,Engineering,3,31,Female,Bachelor's,2024-05-28,131300,5.6,4,Hybrid,30,2.6,Yes
+E5554,Operations,3,41,Male,Bachelor's,2023-12-23,78000,16.5,5,Hybrid,12,3.3,No
+E5555,Data Science,1,30,Female,Master's,2022-12-16,82100,2.2,4,Hybrid,19,4.2,No
+E5556,Sales,1,27,Female,Bachelor's,2018-11-09,49400,9.0,4,Remote,17,3.3,No
+E5557,Engineering,3,30,Female,Master's,2017-07-31,127200,0.4,3,Hybrid,24,3.7,No
+E5558,Human Resources,3,38,Female,Bachelor's,2024-03-12,82800,5.1,3,On-site,20,3.4,No
+E5559,Finance,2,34,Male,High School,2020-03-08,88400,1.5,5,Remote,15,4.2,No
+E5560,Marketing,1,27,Female,Master's,2020-04-30,58900,6.9,3,Hybrid,13,3.5,No
+E5561,Data Science,3,27,Male,PhD,2022-03-03,138200,5.0,3,Remote,27,3.5,Yes
+E5562,Marketing,1,21,Female,Bachelor's,2020-06-06,61900,2.7,4,Remote,10,2.9,No
+E5563,Customer Support,3,34,Non-binary,Master's,2022-03-28,67000,1.4,5,On-site,22,4.2,No
+E5564,Customer Support,3,35,Female,PhD,2019-11-14,65700,5.0,3,Remote,18,4.2,No
+E5565,Data Science,1,24,Female,Bachelor's,2024-07-08,91500,5.2,4,Hybrid,16,4.4,No
+E5566,Engineering,2,35,Female,Bachelor's,2024-04-27,103200,4.4,4,Hybrid,15,4.0,Yes
+E5567,Marketing,3,35,Female,Bachelor's,2021-12-25,88200,3.0,2,Hybrid,18,2.9,Yes
+E5568,Operations,3,35,Female,Bachelor's,2021-10-14,76600,3.3,4,Hybrid,16,1.7,No
+E5569,Marketing,3,33,Female,Bachelor's,2020-06-24,95400,1.1,3,Hybrid,17,3.9,No
+E5570,Engineering,2,35,Male,Master's,2018-03-05,100200,11.3,3,On-site,13,2.6,No
+E5571,Engineering,2,29,Female,Master's,2020-09-28,102600,10.5,3,Remote,24,1.9,Yes
+E5572,Marketing,4,29,Female,Master's,2021-01-04,117600,19.7,5,Hybrid,20,5.0,No
+E5573,Engineering,2,36,Female,Bachelor's,2017-06-30,91500,0.8,4,On-site,19,5.0,No
+E5574,Customer Support,3,39,Female,High School,2021-11-03,68300,14.9,3,Hybrid,24,3.1,No
+E5575,Sales,2,32,Female,Bachelor's,2019-05-06,77600,5.4,4,Remote,12,3.3,No
+E5576,Marketing,1,32,Female,Bachelor's,2021-12-12,64300,1.8,5,Hybrid,22,5.0,No
+E5577,Engineering,1,28,Male,Bachelor's,2025-01-03,76800,11.5,3,Remote,16,4.2,No
+E5578,Finance,1,37,Female,Bachelor's,2023-02-26,76500,7.8,1,Remote,14,3.3,No
+E5579,Sales,5,31,Female,Master's,2020-05-17,116300,5.2,4,On-site,9,1.0,No
+E5580,Finance,3,32,Female,Bachelor's,2020-07-26,117800,1.7,3,On-site,17,2.3,No
+E5581,Human Resources,5,52,Female,Bachelor's,2022-11-29,105000,1.7,2,Hybrid,24,4.9,No
+E5582,Engineering,3,38,Female,Master's,2020-10-29,119700,3.3,3,Remote,17,5.0,No
+E5583,Operations,3,32,Female,PhD,2021-05-26,67400,2.1,3,Hybrid,17,3.0,No
+E5584,Data Science,5,42,Female,Master's,2024-07-04,188100,5.3,3,Remote,16,4.0,No
+E5585,Customer Support,4,37,Male,Bachelor's,2022-05-11,85400,5.0,4,On-site,24,2.1,Yes
+E5586,Engineering,3,36,Male,Bachelor's,2024-11-20,129300,5.8,5,Hybrid,26,4.4,No
+E5587,Finance,2,30,Female,Bachelor's,2023-06-27,95400,9.7,4,Hybrid,15,4.6,No
+E5588,Sales,4,35,Male,High School,2024-03-03,104300,8.8,3,Hybrid,14,3.9,No
+E5589,Finance,1,25,Male,Bachelor's,2016-11-05,76100,4.9,2,Hybrid,17,4.7,No
+E5590,Sales,1,24,Female,Bachelor's,2016-04-06,58000,3.9,3,Hybrid,14,1.9,No
+E5591,Finance,3,33,Female,Master's,2016-09-07,127400,1.8,3,On-site,20,2.9,No
+E5592,Sales,2,33,Female,Bachelor's,2023-12-11,65200,2.5,1,On-site,19,4.5,No
+E5593,Customer Support,2,32,Female,Bachelor's,2022-08-22,48000,4.9,4,Remote,15,2.5,No
+E5594,Customer Support,4,45,Female,Master's,2023-06-08,74500,9.9,5,Hybrid,23,4.2,No
+E5595,Marketing,2,27,Male,Bachelor's,2019-12-29,82500,4.9,4,Hybrid,13,4.5,No
+E5596,Operations,1,26,Female,Master's,2020-07-16,52800,2.1,2,Hybrid,23,3.9,No
+E5597,Customer Support,3,44,Male,Bachelor's,2018-09-29,63700,3.0,5,Remote,22,3.9,No
+E5598,Data Science,2,31,Male,Master's,2023-08-04,120200,4.1,5,Hybrid,23,4.4,No
+E5599,Sales,1,28,Female,Master's,2021-03-11,58400,2.0,3,On-site,23,3.1,No
+E5600,Customer Support,1,21,Female,Bachelor's,2021-07-14,36500,9.0,3,Remote,20,4.7,No
+E5601,Sales,5,40,Male,Master's,2023-08-24,115800,6.6,5,Hybrid,14,2.5,No
+E5602,Engineering,2,33,Female,Bachelor's,2023-11-30,109100,2.6,3,Hybrid,14,1.8,Yes
+E5603,Engineering,3,26,Female,Bachelor's,2024-08-06,130900,5.1,3,Hybrid,23,2.2,Yes
+E5604,Finance,1,30,Male,Bachelor's,2021-02-10,71800,8.7,5,Hybrid,17,2.8,Yes
+E5605,Sales,3,35,Female,Bachelor's,2025-03-10,85000,2.4,1,On-site,19,3.9,No
+E5606,Sales,1,31,Female,Bachelor's,2013-12-15,61300,2.5,3,On-site,20,2.8,Yes
+E5607,Sales,4,39,Non-binary,Bachelor's,2016-03-15,114000,9.9,4,On-site,21,3.4,No
+E5608,Finance,1,30,Female,Master's,2022-01-22,70700,4.6,3,Hybrid,18,2.7,No
+E5609,Customer Support,2,36,Male,Bachelor's,2020-01-22,48200,2.6,3,On-site,23,3.1,No
+E5610,Finance,2,40,Female,Bachelor's,2019-06-24,81200,6.8,2,Hybrid,25,2.3,No
+E5611,Human Resources,4,43,Male,Bachelor's,2022-11-22,99300,11.4,3,Remote,17,3.7,No
+E5612,Marketing,2,27,Female,Bachelor's,2017-01-06,78800,5.2,3,Hybrid,13,3.4,No
+E5613,Sales,2,30,Female,Master's,2023-11-09,79400,6.4,2,On-site,13,3.2,No
+E5614,Customer Support,2,28,Female,Master's,2024-02-12,53800,7.0,4,Hybrid,16,2.9,No
+E5615,Operations,3,36,Male,Bachelor's,2023-02-27,78300,5.3,3,On-site,14,1.7,No
+E5616,Finance,4,34,Non-binary,Master's,2019-05-11,129800,2.5,4,Hybrid,23,4.4,No
+E5617,Human Resources,4,38,Male,Master's,2021-08-13,98600,8.2,2,Remote,16,2.0,No
+E5618,Marketing,4,40,Male,Bachelor's,2022-11-17,115900,6.1,5,On-site,16,4.3,No
+E5619,Data Science,4,36,Male,Bachelor's,2019-12-18,167900,1.2,4,On-site,9,4.2,No
+E5620,Customer Support,5,39,Male,PhD,2017-01-23,75600,6.2,3,Hybrid,12,1.9,No
+E5621,Human Resources,2,21,Female,Master's,2023-03-29,75400,8.2,4,On-site,13,2.7,Yes
+E5622,Finance,2,37,Female,Bachelor's,2023-05-04,89700,4.2,4,Hybrid,24,2.2,No
+E5623,Sales,1,24,Male,Master's,2022-04-25,58800,8.4,2,Remote,20,4.2,No
+E5624,Marketing,2,31,Male,High School,2023-03-18,71500,9.8,3,Hybrid,10,1.8,No
+E5625,Engineering,2,32,Male,Bachelor's,2024-06-15,93500,14.6,1,On-site,10,3.9,No
+E5626,Operations,5,50,Male,Bachelor's,2022-04-08,87200,3.1,2,Remote,17,3.6,Yes
+E5627,Customer Support,4,43,Male,Master's,2020-04-26,68200,11.7,5,On-site,16,3.9,No
+E5628,Finance,2,23,Male,Bachelor's,2019-11-27,90900,1.1,3,Hybrid,28,4.0,No
+E5629,Sales,2,31,Male,Bachelor's,2024-06-23,71900,0.8,3,Hybrid,17,1.0,Yes
+E5630,Engineering,3,26,Male,Master's,2022-12-05,138100,4.4,3,On-site,13,4.7,No
+E5631,Operations,3,36,Male,Bachelor's,2023-01-13,79200,2.4,2,Remote,22,2.5,No
+E5632,Sales,2,21,Male,Bachelor's,2022-10-13,73400,6.0,4,Hybrid,20,4.6,No
+E5633,Customer Support,2,31,Female,High School,2022-04-08,49400,2.4,2,Hybrid,13,3.3,Yes
+E5634,Finance,1,22,Female,Bachelor's,2014-10-01,63900,8.5,4,On-site,19,2.2,Yes
+E5635,Engineering,2,25,Female,Master's,2018-10-23,112900,5.9,4,Remote,17,4.1,No
+E5636,Operations,3,24,Female,Master's,2017-05-01,75800,8.3,4,Hybrid,10,4.6,No
+E5637,Finance,1,21,Male,Master's,2021-07-13,77700,3.5,4,Hybrid,21,3.9,No
+E5638,Engineering,3,31,Male,High School,2023-12-28,142600,2.9,4,Hybrid,18,1.9,No
+E5639,Engineering,2,29,Female,PhD,2020-01-29,111400,4.7,2,Hybrid,21,4.3,No
+E5640,Customer Support,4,27,Male,Bachelor's,2023-11-14,77000,8.0,3,Remote,22,3.7,No
+E5641,Engineering,1,32,Male,Bachelor's,2024-12-19,82100,0.8,2,Remote,21,3.3,No
+E5642,Engineering,2,26,Female,Master's,2024-04-10,96400,1.6,5,On-site,17,5.0,No
+E5643,Data Science,2,30,Female,Bachelor's,2023-08-27,100300,4.6,3,On-site,18,1.9,No
+E5644,Sales,2,29,Male,Bachelor's,2024-07-02,74500,7.6,3,On-site,19,4.6,No
+E5645,Customer Support,5,43,Female,Master's,2025-05-31,83000,11.2,3,Hybrid,24,2.4,Yes
+E5646,Engineering,2,34,Male,Bachelor's,2020-08-11,103600,11.8,3,On-site,11,2.7,No
+E5647,Operations,4,31,Male,High School,2020-07-03,95900,10.8,3,Hybrid,18,2.4,Yes
+E5648,Finance,1,28,Male,Master's,2017-11-07,74900,8.8,3,Hybrid,16,5.0,No
+E5649,Marketing,1,22,Male,High School,2021-06-29,65300,4.5,3,On-site,18,2.3,Yes
+E5650,Data Science,2,38,Male,Master's,2022-05-16,107600,2.7,3,On-site,16,3.8,No
+E5651,Marketing,1,29,Male,Master's,2024-06-02,65600,10.8,3,Remote,28,2.8,No
+E5652,Operations,5,48,Male,High School,2020-04-11,88900,3.7,3,On-site,15,2.7,No
+E5653,Sales,2,28,Female,Bachelor's,2023-12-01,69700,4.6,4,Hybrid,14,3.7,No
+E5654,Marketing,4,39,Male,Bachelor's,2023-04-27,83400,25.3,3,Remote,14,3.6,No
+E5655,Finance,2,31,Male,PhD,2022-03-20,96800,3.4,5,On-site,12,4.4,No
+E5656,Data Science,3,45,Male,Bachelor's,2021-03-29,140000,16.6,3,Remote,13,4.1,No
+E5657,Data Science,4,32,Female,Master's,2022-10-29,156100,10.0,4,Hybrid,22,3.1,No
+E5658,Human Resources,3,34,Female,Bachelor's,2024-09-06,73400,14.1,3,Hybrid,14,3.2,No
+E5659,Finance,1,21,Female,Master's,2019-06-03,88000,11.6,3,Remote,16,3.5,No
+E5660,Human Resources,1,29,Male,Bachelor's,2016-12-15,56800,7.4,4,Hybrid,13,3.5,No
+E5661,Customer Support,5,38,Female,Bachelor's,2024-02-18,88100,9.8,4,On-site,18,4.9,No
+E5662,Sales,5,47,Female,Master's,2022-02-27,115900,4.6,3,Hybrid,18,3.3,No
+E5663,Sales,2,32,Male,Bachelor's,2020-10-12,76800,1.0,5,On-site,18,3.2,Yes
+E5664,Engineering,3,37,Female,Bachelor's,2022-11-12,125100,3.7,2,Hybrid,16,2.6,No
+E5665,Customer Support,3,37,Female,Bachelor's,2020-09-25,64400,3.6,4,On-site,15,4.0,No
+E5666,Operations,1,32,Female,High School,2015-08-14,49700,2.5,4,On-site,15,4.4,No
+E5667,Engineering,1,34,Female,Bachelor's,2021-03-13,76300,10.8,3,Remote,14,3.8,No
+E5668,Engineering,2,37,Female,High School,2021-05-27,127000,11.6,4,On-site,20,4.2,No
+E5669,Human Resources,1,33,Male,Bachelor's,2023-06-20,47600,4.6,3,Hybrid,13,1.9,Yes
+E5670,Human Resources,3,35,Male,Bachelor's,2022-11-19,83400,3.9,3,Hybrid,18,3.3,No
+E5671,Sales,5,36,Female,Bachelor's,2023-02-24,110900,6.7,5,Hybrid,25,2.9,No
+E5672,Engineering,3,34,Male,Master's,2019-09-23,131800,4.1,3,Hybrid,18,4.4,No
+E5673,Operations,3,38,Male,Master's,2023-01-08,81100,8.8,3,Hybrid,15,3.9,No
+E5674,Finance,4,30,Male,Bachelor's,2013-11-29,122100,5.6,3,Hybrid,16,2.7,No
+E5675,Operations,4,43,Female,Master's,2022-07-10,90500,4.4,3,Hybrid,19,2.8,No
+E5676,Sales,4,44,Female,Master's,2022-10-29,110500,4.4,3,Hybrid,18,3.7,No
+E5677,Engineering,2,21,Female,Bachelor's,2021-04-02,116600,20.8,4,Hybrid,23,4.3,No
+E5678,Marketing,3,40,Male,Master's,2020-05-06,97300,10.4,3,Hybrid,14,2.4,No
+E5679,Sales,4,36,Male,Master's,2022-02-12,114200,12.4,3,Remote,16,2.7,No
+E5680,Sales,2,34,Male,Master's,2017-07-02,84900,3.4,4,Hybrid,11,4.2,No
+E5681,Finance,2,30,Male,Bachelor's,2022-05-30,102500,4.0,2,On-site,12,3.2,No
+E5682,Engineering,1,30,Male,Bachelor's,2021-09-17,74900,17.0,4,Hybrid,22,4.5,No
+E5683,Finance,3,32,Female,Bachelor's,2024-09-21,113400,7.0,3,Hybrid,20,1.3,Yes
+E5684,Operations,4,43,Male,PhD,2019-06-20,88700,5.8,2,Remote,13,2.4,No
+E5685,Engineering,3,24,Male,Bachelor's,2024-08-29,122100,10.9,3,On-site,17,1.9,No
+E5686,Sales,2,33,Female,Bachelor's,2021-08-24,77000,2.0,3,Hybrid,19,5.0,No
+E5687,Data Science,1,31,Female,Master's,2024-07-02,91400,2.7,3,On-site,18,2.9,No
+E5688,Human Resources,2,21,Female,Bachelor's,2021-05-05,75200,15.5,4,Hybrid,21,3.1,Yes
+E5689,Human Resources,3,25,Male,Master's,2018-01-14,74200,11.4,3,Hybrid,17,3.0,No
+E5690,Operations,1,34,Non-binary,Bachelor's,2023-08-02,46200,2.4,3,Hybrid,22,3.6,No
+E5691,Sales,4,40,Male,Bachelor's,2021-03-12,99900,11.7,4,Hybrid,9,3.4,No
+E5692,Operations,1,28,Male,Master's,2021-04-14,54100,5.4,4,Remote,13,3.8,No
+E5693,Data Science,4,43,Female,Bachelor's,2021-10-02,168500,2.3,1,Hybrid,17,3.8,No
+E5694,Customer Support,1,26,Male,Master's,2025-01-25,44300,13.9,3,Remote,18,1.7,Yes
+E5695,Human Resources,1,28,Female,Bachelor's,2020-09-21,46800,0.6,5,Hybrid,11,4.5,No
+E5696,Customer Support,2,32,Female,Master's,2013-12-31,59000,3.1,2,Remote,10,4.5,Yes
+E5697,Sales,2,21,Female,Master's,2023-11-12,80300,3.1,3,Remote,27,3.6,No
+E5698,Engineering,5,39,Male,Bachelor's,2017-04-02,183900,11.5,2,Hybrid,14,3.3,No
+E5699,Customer Support,4,39,Female,Bachelor's,2020-10-09,68300,9.8,4,On-site,19,2.9,No
+E5700,Engineering,4,44,Female,Bachelor's,2024-10-26,155700,6.9,2,On-site,17,3.0,No
+E5701,Sales,2,30,Male,Master's,2020-12-01,70400,3.3,4,Remote,15,3.6,No
+E5702,Operations,3,32,Male,High School,2024-08-26,82200,6.7,3,On-site,27,4.5,No
+E5703,Sales,4,36,Male,Master's,2021-04-14,98500,3.7,4,On-site,7,4.9,No
+E5704,Operations,3,36,Male,Bachelor's,2016-02-09,76900,6.8,4,On-site,21,2.7,No
+E5705,Sales,1,24,Male,Master's,2024-11-27,56900,13.4,3,On-site,21,3.2,No
+E5706,Operations,3,23,Female,PhD,2021-12-20,82600,5.1,5,On-site,20,5.0,No
+E5707,Engineering,1,39,Female,Bachelor's,2023-01-13,73600,17.5,2,On-site,18,4.4,No
+E5708,Customer Support,1,25,Female,Bachelor's,2025-03-21,39000,11.8,2,Remote,19,3.0,No
+E5709,Customer Support,3,30,Non-binary,Bachelor's,2021-02-06,66900,0.9,2,Hybrid,15,1.0,Yes
+E5710,Marketing,3,34,Male,Master's,2021-09-07,101200,8.7,2,On-site,16,3.1,No
+E5711,Sales,1,26,Female,PhD,2023-07-20,56100,16.5,3,On-site,12,4.5,No
+E5712,Sales,2,28,Female,Master's,2023-08-15,72700,10.3,2,Hybrid,8,2.3,Yes
+E5713,Marketing,2,33,Female,Bachelor's,2022-08-31,72500,4.0,4,Remote,16,3.2,No
+E5714,Data Science,4,45,Male,Bachelor's,2021-11-28,152000,5.9,3,On-site,17,3.5,Yes
+E5715,Sales,3,33,Female,Bachelor's,2016-12-05,91200,5.3,3,Hybrid,15,3.9,No
+E5716,Sales,2,32,Male,High School,2019-06-13,67000,13.7,3,Hybrid,24,5.0,No
+E5717,Operations,3,40,Female,High School,2021-04-06,88100,4.8,3,On-site,28,4.7,No
+E5718,Sales,3,31,Female,Bachelor's,2022-12-13,87400,5.0,4,Hybrid,20,2.9,No
+E5719,Engineering,2,31,Female,Master's,2023-01-01,115600,5.7,3,Remote,22,2.5,No
+E5720,Engineering,1,21,Male,Bachelor's,2019-08-14,86700,3.3,5,Hybrid,20,3.1,No
+E5721,Sales,2,41,Male,Bachelor's,2023-01-01,66100,4.2,3,On-site,14,2.3,Yes
+E5722,Sales,2,36,Male,Master's,2017-07-23,77400,7.6,3,On-site,23,4.4,No
+E5723,Operations,2,35,Female,Bachelor's,2021-09-16,57100,4.7,3,Hybrid,20,4.4,No
+E5724,Finance,1,29,Male,High School,2019-04-12,62500,8.2,2,Hybrid,26,3.2,Yes
+E5725,Human Resources,3,31,Male,Master's,2024-07-27,74300,9.2,4,On-site,25,3.6,No
+E5726,Data Science,1,33,Male,Master's,2022-02-20,95000,4.4,3,Remote,24,3.4,No
+E5727,Engineering,4,36,Female,High School,2024-12-04,164900,4.7,2,On-site,23,5.0,No
+E5728,Human Resources,3,37,Male,Master's,2023-06-06,78300,6.9,3,Hybrid,13,4.4,No
+E5729,Data Science,2,31,Female,Bachelor's,2018-04-05,97800,3.7,2,On-site,19,5.0,No
+E5730,Data Science,1,24,Female,Bachelor's,2020-03-13,87600,9.1,4,Hybrid,13,3.1,Yes
+E5731,Engineering,2,39,Male,Bachelor's,2024-04-07,109800,0.7,2,On-site,14,3.0,No
+E5732,Data Science,2,30,Female,Master's,2019-08-02,115600,3.9,4,Hybrid,21,2.6,No
+E5733,Marketing,2,33,Male,Master's,2023-01-26,74800,5.5,3,Hybrid,18,4.3,No
+E5734,Engineering,1,21,Male,PhD,2022-07-15,88000,4.1,1,Hybrid,16,2.4,Yes
+E5735,Data Science,1,24,Female,Master's,2016-09-11,81400,4.5,1,Hybrid,22,2.7,No
+E5736,Human Resources,4,42,Non-binary,Bachelor's,2016-05-16,103300,2.0,2,Hybrid,15,3.1,No
+E5737,Human Resources,2,37,Female,Master's,2024-12-17,61600,0.8,3,On-site,24,2.4,No
+E5738,Operations,4,32,Female,Bachelor's,2022-08-06,104400,6.6,3,On-site,14,4.2,No
+E5739,Operations,4,36,Male,Master's,2020-12-31,95300,4.1,2,On-site,22,2.5,No
+E5740,Human Resources,1,25,Female,Master's,2018-05-18,50500,0.2,2,On-site,16,1.9,Yes
+E5741,Sales,4,41,Male,Bachelor's,2023-05-25,119800,8.5,2,Hybrid,22,1.7,Yes
+E5742,Operations,1,22,Male,Bachelor's,2022-09-21,45500,2.9,3,Hybrid,14,3.4,Yes
+E5743,Human Resources,1,22,Female,Bachelor's,2023-08-29,50700,8.8,4,Remote,26,4.4,No
+E5744,Customer Support,3,32,Female,Master's,2022-10-24,56500,4.7,4,Hybrid,18,3.5,No
+E5745,Engineering,4,36,Male,High School,2024-06-28,131200,3.6,2,Hybrid,16,1.8,No
+E5746,Customer Support,2,28,Male,Bachelor's,2017-08-07,54900,9.3,4,Hybrid,10,2.8,Yes
+E5747,Marketing,3,37,Male,Master's,2017-11-15,113700,3.9,1,Remote,18,2.1,Yes
+E5748,Finance,1,30,Male,Bachelor's,2023-02-28,74400,5.3,2,Hybrid,19,3.7,No
+E5749,Engineering,4,39,Male,Bachelor's,2021-12-03,142000,5.9,3,Remote,18,4.1,No
+E5750,Data Science,2,34,Female,Master's,2018-09-09,97900,5.4,3,On-site,13,2.2,No
+E5751,Sales,2,30,Male,Master's,2022-04-07,65700,4.4,2,On-site,13,2.9,No
+E5752,Human Resources,2,31,Male,Master's,2024-10-25,72700,13.6,5,On-site,10,4.6,No
+E5753,Sales,1,21,Male,Bachelor's,2023-07-16,52400,5.3,5,Hybrid,20,3.1,No
+E5754,Data Science,3,36,Male,Master's,2023-10-03,128600,3.3,3,Remote,18,2.2,No
+E5755,Operations,1,23,Male,Bachelor's,2022-12-17,45400,5.3,5,Remote,16,3.6,No
+E5756,Finance,2,24,Non-binary,Bachelor's,2022-09-07,87500,11.7,3,Hybrid,22,2.4,No
+E5757,Engineering,3,41,Female,Bachelor's,2022-03-06,109000,3.5,3,Hybrid,12,1.0,No
+E5758,Marketing,3,23,Female,Bachelor's,2021-10-14,95100,8.2,4,Remote,18,2.7,No
+E5759,Marketing,2,28,Male,Master's,2025-02-20,83300,2.8,3,Hybrid,16,3.9,No
+E5760,Engineering,1,25,Female,Master's,2022-04-16,87300,10.2,2,Hybrid,15,5.0,No
+E5761,Sales,5,47,Female,Bachelor's,2022-09-08,115500,0.8,3,Remote,20,3.4,Yes
+E5762,Sales,3,39,Male,Bachelor's,2024-03-14,110900,2.3,2,Remote,18,2.0,No
+E5763,Marketing,3,36,Male,Master's,2023-07-15,92800,5.9,3,On-site,16,2.5,No
+E5764,Operations,3,33,Male,Bachelor's,2023-08-04,88900,14.0,4,Hybrid,19,3.2,No
+E5765,Sales,3,34,Male,Bachelor's,2018-07-21,89400,8.2,3,Hybrid,26,2.7,No
+E5766,Engineering,1,24,Female,Master's,2017-09-26,71500,6.6,2,Hybrid,18,3.3,No
+E5767,Human Resources,1,25,Male,Bachelor's,2023-07-19,53000,4.0,5,On-site,21,2.8,No
+E5768,Finance,1,36,Male,Master's,2022-01-05,61800,6.5,2,Hybrid,20,3.0,No
+E5769,Sales,1,24,Female,Bachelor's,2024-05-26,52100,0.3,3,Hybrid,21,2.8,No
+E5770,Data Science,2,35,Male,Bachelor's,2021-06-21,111600,3.4,4,Hybrid,15,3.5,No
+E5771,Sales,1,25,Female,Bachelor's,2022-11-05,48400,9.2,4,On-site,24,2.4,No
+E5772,Marketing,2,30,Male,PhD,2021-08-23,72700,1.7,3,Hybrid,28,2.1,Yes
+E5773,Engineering,3,36,Male,Master's,2024-05-14,131700,5.3,3,Hybrid,17,3.4,No
+E5774,Finance,3,35,Female,Master's,2019-09-21,94400,11.7,3,Hybrid,14,3.4,No
+E5775,Human Resources,2,27,Female,Bachelor's,2024-04-14,67000,2.7,4,On-site,11,2.7,No
+E5776,Human Resources,2,36,Male,Bachelor's,2021-06-29,64500,4.0,4,Hybrid,22,3.9,No
+E5777,Operations,2,29,Female,Bachelor's,2017-03-13,54900,13.7,4,Remote,23,4.7,No
+E5778,Marketing,2,32,Male,Bachelor's,2022-01-02,88100,4.4,2,Hybrid,18,3.5,No
+E5779,Sales,3,44,Male,Bachelor's,2020-05-14,87600,3.5,3,On-site,23,4.2,No
+E5780,Sales,1,38,Female,Master's,2022-01-04,55900,8.0,4,Hybrid,21,3.2,No
+E5781,Data Science,1,35,Male,Master's,2021-05-07,89600,15.3,4,On-site,24,3.7,Yes
+E5782,Human Resources,4,43,Female,Master's,2024-01-30,99200,2.8,1,On-site,22,1.6,Yes
+E5783,Engineering,5,37,Male,Bachelor's,2022-10-01,178700,3.8,5,On-site,23,4.1,No
+E5784,Engineering,4,43,Male,Master's,2021-02-02,175800,1.6,2,Hybrid,13,5.0,No
+E5785,Operations,3,35,Female,Master's,2022-04-19,76500,5.2,3,Hybrid,20,4.4,No
+E5786,Sales,1,22,Female,Bachelor's,2024-03-29,57100,4.4,3,Hybrid,17,3.0,No
+E5787,Marketing,4,35,Male,Master's,2023-05-17,108100,17.6,3,Hybrid,17,2.6,No
+E5788,Engineering,2,31,Male,Bachelor's,2021-10-17,96100,2.2,3,On-site,12,3.2,No
+E5789,Operations,2,30,Male,Bachelor's,2016-06-30,63800,15.2,2,On-site,14,2.9,No
+E5790,Marketing,3,28,Female,Bachelor's,2024-05-23,82700,10.6,3,Hybrid,20,3.3,No
+E5791,Marketing,3,35,Male,Bachelor's,2023-06-06,91600,3.7,3,Remote,20,4.0,Yes
+E5792,Operations,2,21,Female,Master's,2022-02-02,58000,4.5,3,On-site,22,3.6,No
+E5793,Engineering,2,29,Male,Master's,2024-05-19,97700,3.6,3,On-site,21,4.3,No
+E5794,Engineering,2,30,Male,Bachelor's,2024-02-12,97100,3.5,5,On-site,12,4.9,No
+E5795,Operations,4,38,Female,Bachelor's,2022-09-27,87100,3.5,3,Hybrid,16,2.4,No
+E5796,Engineering,2,34,Female,Bachelor's,2022-05-17,116800,15.5,3,Hybrid,17,2.0,No
+E5797,Finance,3,33,Female,High School,2023-12-12,114500,9.7,3,Hybrid,18,2.8,Yes
+E5798,Engineering,1,21,Female,Master's,2025-02-22,87000,3.4,3,Hybrid,11,2.6,No
+E5799,Sales,5,46,Female,Bachelor's,2023-06-21,128700,5.3,2,Remote,19,3.6,No

@@ -1,0 +1,1216 @@
+student_id,major,class_year,age,study_hours_week,sleep_hours,attendance_pct,part_time_job,commute_minutes,prior_gpa,midterm_score,final_score,passed
+S10243,Mathematics,Senior,23,21.4,7.1,83.7,Yes,7.0,4.0,74.7,88.5,Yes
+S11153,Data Science,Sophomore,18,27.4,8.5,90.5,Yes,26.0,3.05,84.8,90.1,yes
+S10475,Biology,Senior,28,17.1,6.0,65.9,No,18.0,2.45,62.5,53.1,No
+S11067,Economics,Senior,27,7.8,5.5,81.6,No,5.0,3.29,61.1,70.6,yes
+S10646,Computer Science,Sophomore,17,14.3,6.3,97.3,Yes,15.0,,69.8,68.5,Yes
+S10244,Econ,Junior,19,11.4,6.8,72.7,Yes,29.0,2.81,58.5,55.3,No
+S10545,Data Sci,Junior,21,14.4,7.2,87.8,Yes,6.0,2.96,67.8,63.4,Yes
+S11129,Computer Science,Junior,18,12.2,5.5,98.0,No,12.0,3.1,59.2,58.7,No
+S10044,Data Science,Senior,19,6.6,8.4,76.1,No,4.0,3.53,66.5,61.4,Yes
+S10126,Computer Science,Senior,18,14.8,,72.2,No,20.0,3.25,70.6,74.6,Yes
+S11089,Mathematics,Junior,29,4.4,5.1,85.4,Yes,33.0,2.11,30.9,26.8,No
+S10161,DS,Senior,22,13.5,6.3,90.5,Yes,8.0,2.87,56.8,63.6,TRUE
+S11134,Biology,Senior,19,16.0,7.2,83.5,Yes,9.0,2.76,62.1,84.8,Yes
+S10691,Data Sci,Junior,28,18.4,7.1,67.8,No,51.0,2.12,46.5,55.2,No
+S10257,Data Science,Freshman,22,19.4,7.2,76.9,No,26.0,1.93,66.8,66.9,Yes
+S10865,Biology,Junior,22,18.8,6.3,82.0,Yes,2.0,3.13,63.6,82.5,Yes
+S10093,Mathematics,Junior,26,8.8,9.1,84.5,No,13.0,3.75,75.5,58.2,Y
+S11024,Computer Science,Freshman,26,14.3,7.0,97.1,Yes,45.0,3.61,68.2,74.9,Yes
+S10326,Economics,Sophomore,24,18.7,8.2,77.7,No,1.0,3.61,72.7,57.2,Yes
+S10789,Mathematics,Freshman,25,3.5,7.9,85.2,No,1.0,3.22,71.0,64.3,Yes
+S10995,Computer Science,Freshman,20,22.9,6.9,70.4,No,46.0,3.08,76.2,75.1,yes
+S11167,Economics,Freshman,25,10.8,5.7,96.4,Yes,5.0,3.48,70.1,64.1,Yes
+S10335,Computer Science,Freshman,28,3.5,8.6,66.5,Yes,15.0,2.8,47.3,64.7,No
+S11000,Economics,Senior,25,8.8,6.8,84.7,No,25.0,2.94,47.9,62.0,No
+S10352,Mathematics,Sophomore,19,28.8,,92.5,No,37.0,2.63,68.4,71.4,Yes
+S10158,Computer Science,Junior,28,6.7,8.5,94.9,Yes,8.0,,66.2,52.6,no
+S10751,Computer Science,Junior,29,9.9,4.9,92.9,Yes,13.0,2.31,64.3,67.0,Yes
+S10025,Biology,Junior,19,12.9,7.4,86.6,Yes,0.0,3.66,57.0,60.9,No
+S10402,Data Science,Freshman,22,2.9,6.2,63.4,Yes,19.0,3.06,45.0,49.3,No
+S10759,Computer Science,Junior,22,15.2,,98.6,No,4.0,3.41,69.9,72.1,Yes
+S11020,data science,Freshman,23,14.5,7.2,99.9,No,52.0,3.07,63.8,78.6,Yes
+S10609,Data Science,Junior,27,3.6,7.6,89.9,No,28.0,3.21,58.4,72.2,Yes
+S10719,Data Science,Junior,22,18.8,7.4,85.5,Yes,3.0,3.42,71.5,78.0,Yes
+S10842,Bio,Senior,19,5.8,7.2,79.4,Yes,27.0,2.88,52.7,57.7,N
+S10565,Data Sci,Junior,20,2.9,8.2,95.9,Yes,6.0,2.71,47.2,37.3,No
+S10988,Computer Science,Senior,250,9.9,6.5,98.6,No,48.0,2.95,72.1,71.6,Yes
+S11150,STAT,Freshman,23,34.1,6.3,71.8,No,7.0,2.88,72.7,87.4,Yes
+S10450,mathematics,Senior,17,6.8,7.6,65.2,No,6.0,3.28,55.7,58.0,No
+S11080,Data Science,Junior,23,19.3,8.0,92.7,Yes,,2.68,61.8,64.0,Yes
+S10725,Economics,Senior,25,14.2,5.6,66.4,Yes,34.0,3.33,59.8,62.5,Yes
+S10624,Economics,Sophomore,19,14.0,7.5,93.6,No,24.0,2.91,75.2,79.4,Yes
+S10558,Data Science,Junior,25,6.9,6.2,87.2,No,,2.64,64.7,56.5,No
+S10055,Mathematics,Senior,28,14.0,8.1,95.0,No,29.0,2.83,62.6,61.4,Yes
+S10108,Computer Science,Sophomore,20,15.7,,87.9,No,17.0,2.54,68.7,78.3,Yes
+S11074,Computer Science,Sophomore,18,20.8,6.2,83.7,No,73.0,3.39,72.3,67.2,Yes
+S11159,Economics,Freshman,23,5.5,6.6,74.0,No,2.0,3.14,50.0,50.0,No
+S10704,Biology,Sophomore,18,6.2,5.0,77.1,Yes,23.0,2.81,51.1,54.9,No
+S10445,Mathematics,Sophomore,21,3.6,7.9,97.6,Yes,19.0,2.47,57.0,64.5,Yes
+S10214,Data Science,Junior,25,5.8,8.1,88.2,Yes,31.0,2.68,52.5,51.4,No
+S10299,CS,Junior,29,9.9,5.3,76.9,No,15.0,3.21,50.7,66.5,Yes
+S11080,Data Science,Junior,23,19.3,8.0,92.7,Yes,,2.68,61.8,64.0,Yes
+S10189,Mathematics,Freshman,20,21.4,,79.6,Yes,10.0,2.7,64.4,58.4,Yes
+S11025,Data Science,Freshman,22,10.1,8.5,87.9,No,21.0,3.15,73.0,75.3,Yes
+S10621,Data Science,Senior,23,5.4,,86.3,No,13.0,2.85,58.5,64.0,Yes
+S11023,Statistics,Freshman,29,14.1,6.6,98.5,Yes,15.0,2.98,61.6,68.1,Yes
+S11158,economics,Freshman,26,25.7,6.1,80.9,No,11.0,2.99,87.3,86.9,Yes
+S10690,Computer Science,Junior,26,27.3,6.0,92.3,No,1.0,2.9,91.0,78.8,Yes
+S10270,Data Science,Freshman,27,7.4,7.4,92.9,Yes,14.0,3.78,52.7,45.4,No
+S10136,Economics,Junior,20,31.5,5.8,83.4,Yes,9.0,2.51,89.6,84.4,Yes
+S10312,Statistics,Junior,25,15.3,5.5,96.8,No,1.0,2.66,74.8,63.8,Yes
+S10846,Computer Science,Junior,19,9.9,6.9,94.8,Yes,29.0,2.8,67.6,80.0,Yes
+S10175,Computer Science,Sophomore,28,12.4,8.7,98.5,No,24.0,3.28,70.6,72.3,Yes
+S10425,Computer Science,Junior,26,6.9,7.0,88.8,No,12.0,3.26,75.0,74.8,Yes
+S10433,Computer Science,Sophomore,22,12.3,7.0,68.1,Yes,12.0,3.18,59.5,60.5,Yes
+S10096,Data Science,Freshman,18,6.8,6.0,59.7,Yes,,3.4,65.1,61.3,Yes
+S10032,economics,Senior,28,9.1,5.4,88.1,No,6.0,2.39,43.0,44.2,No
+S10447,Computer Science,Sophomore,21,1.6,7.2,902.0,Yes,79.0,3.02,48.6,60.9,No
+S10164,Computer Science,Senior,22,28.7,6.8,75.5,No,10.0,3.19,88.2,76.9,Y
+S10525,Statistics,Freshman,25,7.6,7.7,86.8,No,25.0,,69.6,72.5,Yes
+S10440,Computer Science,Senior,25,36.9,6.7,90.4,No,32.0,3.21,100.0,100.0,Y
+S10931,Computer Science,Sophomore,22,21.4,5.1,93.5,No,14.0,2.97,85.1,84.1,Yes
+S10689,Biology,Senior,18,4.7,6.2,98.8,Yes,4.0,3.12,60.1,64.9,Yes
+S10945,Computer Science,Junior,25,17.2,7.3,98.5,Yes,1.0,3.2,78.7,89.4,Yes
+S10291,Data Science,Junior,17,7.2,5.8,67.5,No,1.0,3.34,51.4,54.5,No
+S10903,Data Science,Freshman,23,22.1,4.9,78.8,No,,2.41,64.2,53.7,No
+S10227,Data Science,Junior,18,7.5,7.2,64.2,No,41.0,2.8,59.1,56.1,No
+S10863,Mathematics,Freshman,25,13.7,6.2,97.2,No,3.0,2.73,56.3,68.9,Y
+S10424,Statistics,Sophomore,24,8.6,8.3,58.7,Yes,0.0,3.41,53.9,64.7,Yes
+S10123,Mathematics,Junior,20,1.4,5.1,84.8,No,30.0,2.62,42.0,63.7,No
+S10205,Computer Science,Sophomore,20,15.5,5.5,92.6,No,20.0,2.93,49.8,66.2,No
+S10127,Mathematics,Sophomore,24,20.3,8.8,69.9,Yes,17.0,3.14,67.1,66.3,Y
+S11044,CS,Sophomore,24,24.7,5.4,91.7,Yes,47.0,3.33,64.3,66.1,Yes
+S10049,STAT,Senior,26,16.3,,89.2,No,2.0,2.95,81.0,90.4,Yes
+S11002,Data Science,Sophomore,20,22.2,8.1,77.5,Yes,5.0,3.18,64.2,74.4,Y
+S10799, Data Science,Junior,19,12.2,6.0,91.2,Yes,8.0,2.66,54.3,63.3,No
+S10631,Mathematics,Sophomore,28,43.4,,86.7,No,1.0,,75.4,86.3,Yes
+S11169,Biology,Freshman,25,9.5,6.9,71.6,No,9.0,2.78,55.5,61.6,No
+S10084,Economics,Sophomore,29,10.1,6.5,68.2,Yes,13.0,,50.4,57.5,No
+S10770,Computer Science,Freshman,20,27.4,5.3,92.6,No,19.0,3.51,81.0,79.1,Yes
+S10483,Computer Science,Senior,29,10.8,7.4,89.2,No,,3.71,75.6,72.0,Yes
+S10198,Economics,Junior,22,10.4,7.2,91.6,Yes,,2.74,61.1,74.8,Yes
+S10939,Data Science,Junior,24,21.0,5.6,64.4,Yes,50.0,3.87,67.9,67.2,Yes
+S10179,Bio,Junior,17,9.5,5.6,97.9,No,21.0,4.0,77.1,69.4,Yes
+S10234,Data Science,Junior,27,13.2,7.0,86.5,No,6.0,2.27,73.4,71.9,Yes
+S10830,Data Science,Freshman,28,16.1,9.4,92.2,Yes,11.0,1.98,65.4,65.6,Yes
+S10167,Data Science,Sophomore,23,7.0,9.1,82.5,No,1.0,3.25,61.9,58.8,Yes
+S10309,Data Science,Senior,17,7.6,6.8,77.9,Yes,16.0,2.82,53.4,47.2,No
+S10076,Biology,Senior,29,8.3,7.3,76.4,Yes,4.0,2.92,58.7,48.2,No
+S10174,biology,Sophomore,24,12.2,5.4,98.5,No,14.0,2.35,57.3,63.2,Yes
+S10700,Computer Science,Freshman,27,16.5,5.7,86.5,Yes,70.0,3.27,78.0,86.9,Yes
+S10611,Economics,Senior,28,6.8,7.1,70.2,Yes,14.0,3.07,53.9,59.8,No
+S10969,Data Science,Senior,27,16.4,6.3,88.1,No,66.0,2.76,62.7,80.8,TRUE
+S10641,DS,Sophomore,23,7.3,5.3,77.7,No,6.0,2.95,56.6,50.2,No
+S10881,Economics,Sophomore,240,5.3,7.9,92.5,No,11.0,3.04,62.9,69.9,Yes
+S10151,Bio,Senior,19,5.7,5.4,83.2,Yes,,2.74,36.4,35.7,No
+S10344,Economics,Junior,25,8.8,6.5,63.6,No,11.0,3.26,56.6,67.3,Yes
+S10897,Bio,Junior,28,22.8,6.4,96.5,Yes,16.0,2.86,75.4,88.7,1
+S10013,Data Science,Freshman,29,14.0,7.5,80.5,Yes,27.0,3.14,63.3,73.9,Yes
+S10911,Economics,Senior,29,12.7,7.9,65.8,No,11.0,2.78,59.6,69.4,Yes
+S10436,Economics,Senior,17,17.2,7.6,92.1,No,66.0,3.01,74.7,73.2,Yes
+S10048,Data Science,Freshman,21,14.5,7.3,94.0,Yes,45.0,2.37,61.8,66.1,Yes
+S11117,Data Science,Senior,20,6.6,8.3,85.8,Yes,9.0,3.17,49.1,69.1,Yes
+S10625, Data Science,Junior,29,14.5,6.2,83.9,Yes,2.0,3.55,56.9,68.3,Yes
+S10651,Computer Science,Senior,22,12.4,6.6,59.3,No,13.0,2.37,58.6,66.7,Yes
+S11059,Comp Sci,Sophomore,25,8.0,7.7,825.0,No,27.0,2.42,57.7,57.8,No
+S10112,Mathematics,Junior,20,16.2,5.3,93.4,Yes,25.0,2.77,64.0,70.0,Yes
+S10029,Biology,Sophomore,27,5.2,5.6,98.2,No,3.0,2.99,71.4,73.2,Yes
+S10938,CS,Freshman,29,9.4,5.9,66.6,No,,3.54,74.0,69.0,Yes
+S10192,Computer Science,Senior,18,5.2,7.8,87.5,Yes,7.0,2.48,45.9,49.8,No
+S10114,Computer Science,Sophomore,20,5.7,5.3,86.6,Yes,1.0,3.15,54.2,49.7,N
+S11147,Economics,Freshman,20,13.9,6.6,77.7,Yes,31.0,2.49,59.9,56.4,No
+S10453,Economics,Sophomore,21,10.4,,76.3,No,22.0,2.71,63.6,86.9,Yes
+S10153,Data Science,Freshman,25,17.3,6.9,91.6,No,17.0,3.22,83.4,77.7,Yes
+S10342,mathematics,Sophomore,25,3.9,6.0,76.2,Yes,20.0,2.49,49.5,54.8,No
+S10561,Statistics,Senior,25,9.4,8.0,78.4,No,15.0,2.25,54.0,56.6,No
+S10332,Statistics,Senior,25,10.3,6.4,83.8,Yes,3.0,3.08,54.5,69.0,Yes
+S10427,Biology,Freshman,21,19.6,7.2,83.8,Yes,0.0,3.75,72.5,72.3,Yes
+S10682,Statistics,Sophomore,22,2.7,5.1,70.7,No,8.0,2.89,60.8,55.0,No
+S11184,Data Science,Sophomore,23,2.9,8.9,96.4,No,6.0,3.05,49.5,57.4,No
+S10571,Economics,Sophomore,29,16.4,5.9,91.4,Yes,2.0,3.49,66.1,73.9,Yes
+S10583,Statistics,Junior,18,8.1,,89.1,No,,3.46,74.8,87.2,Yes
+S10228,Biology,Senior,24,13.2,7.3,74.3,No,7.0,2.85,62.0,71.6,Yes
+S11010,Statistics,Junior,23,29.7,7.4,81.3,Yes,17.0,2.66,65.3,61.0,Yes
+S10030,Data Science,Freshman,22,4.3,,82.9,No,1.0,3.33,48.1,52.8,No
+S10372,Economics,Freshman,20,17.8,6.9,93.5,Yes,5.0,2.95,69.4,71.6,Yes
+S10275,Mathematics,Junior,17,18.0,6.7,95.7,No,13.0,3.22,65.8,73.3,Yes
+S10382,Biology,Freshman,27,4.2,,62.6,Yes,29.0,3.22,45.9,44.2,No
+S10364,Computer Science,Sophomore,21,8.2,7.2,93.5,Yes,51.0,3.33,66.3,68.2,Yes
+S10523,Computer Science,Senior,27,12.6,6.4,94.4,No,19.0,2.1,57.9,54.4,No
+S10999,Biology,Freshman,29,8.9,7.2,78.6,Yes,2.0,2.99,61.1,59.8,Yes
+S10302,Computer Science,Senior,22,13.6,,75.6,Yes,1.0,2.73,57.6,47.5,No
+S10784,Bio,Senior,18,10.8,,86.1,No,,2.28,57.8,60.9,No
+S10703,Data Science,Freshman,20,12.9,7.0,78.4,Yes,2.0,2.62,58.3,59.3,No
+S10176,Data Science,Freshman,17,4.9,5.5,57.7,No,19.0,3.25,50.1,48.3,No
+S11090,Data Sci,Senior,23,6.9,7.3,60.5,No,48.0,2.62,43.0,42.6,No
+S11073,Bio,Freshman,20,10.0,7.1,75.6,No,15.0,,60.2,67.7,Yes
+S10019,Computer Science,Junior,28,27.3,8.1,96.9,No,3.0,3.43,89.6,89.6,Yes
+S10862,Data Science,Junior,27,4.1,8.5,68.3,No,1.0,2.99,67.8,57.7,Yes
+S10277,Economics,Sophomore,20,10.9,7.7,97.4,No,83.0,2.77,66.8,62.4,Yes
+S10347,Data Science,Junior,22,9.7,7.6,87.5,No,34.0,3.04,57.8,56.8,No
+S10365,Math,Freshman,21,4.1,7.3,65.8,No,8.0,2.13,45.1,28.1,No
+S10010,Biology,Sophomore,29,16.4,5.3,76.4,Yes,11.0,3.04,61.1,66.7,Yes
+S10852,Data Science,Senior,19,20.2,5.8,85.1,No,4.0,3.77,80.5,83.9,Yes
+S10091,Computer Science,Senior,28,22.5,6.5,65.0,No,22.0,2.6,57.3,56.1,No
+S11165,data science,Freshman,19,19.4,,91.9,No,1.0,3.88,85.1,84.5,Yes
+S10160,Biology,Sophomore,20,5.1,8.2,93.9,Yes,3.0,,62.5,76.4,Yes
+S10478,Statistics,Junior,28,20.5,7.2,89.3,No,14.0,3.66,77.5,84.3,Yes
+S10331,Data Science,Sophomore,25,5.9,7.4,95.4,Yes,13.0,2.55,59.5,52.2,No
+S10009,Data Sci,Sophomore,20,7.7,6.8,85.3,No,45.0,3.24,62.1,63.4,Yes
+S10276,Computer Science,Junior,21,9.5,9.1,90.5,Yes,9.0,2.99,72.2,75.1,Yes
+S10490,Economics,Senior,28,2.4,8.3,86.1,Yes,19.0,3.48,64.0,50.5,0
+S10143,Computer Science,Junior,25,12.1,7.2,91.3,Yes,35.0,3.0,72.7,65.0,Yes
+S10705,Mathematics,Sophomore,29,4.8,,87.0,No,50.0,2.03,56.8,61.9,No
+S10348,Computer Science,Junior,28,5.8,7.2,82.1,Yes,6.0,2.39,69.8,75.5,Yes
+S10521,Statistics,Sophomore,20,12.0,6.2,79.2,No,6.0,3.08,69.9,72.7,Yes
+S10292,Mathematics,Freshman,29,8.9,6.0,81.3,Yes,40.0,2.85,67.8,67.1,Yes
+S10608,Statistics,Junior,25,3.3,7.7,77.7,No,3.0,2.94,51.9,65.1,No
+S10549,Data Science,Junior,20,6.8,,87.4,No,3.0,4.0,63.9,65.6,Yes
+S10317,Computer Science,Senior,19,25.4,6.4,95.1,No,17.0,3.39,89.6,90.0,Yes
+S11081,Biology,Junior,23,4.3,7.3,95.3,No,28.0,3.14,64.3,71.3,Yes
+S10993,Data Science,Freshman,18,10.6,6.8,98.2,Yes,18.0,2.69,57.2,64.2,Yes
+S11053,Data Science,Junior,19,23.5,5.4,90.3,Yes,32.0,2.83,73.2,65.6,Yes
+S10570,Data Science,Freshman,25,13.8,6.3,94.0,Yes,22.0,1.94,57.0,65.6,Yes
+S10744,Data Science,Junior,24,7.9,6.5,88.1,No,5.0,,59.0,55.2,No
+S10452,Econ,Freshman,29,7.7,7.1,89.2,No,9.0,2.96,58.4,57.7,No
+S10491,Economics,Freshman,21,16.1,6.3,87.7,Yes,17.0,2.79,54.0,68.8,Yes
+S11052,Biology,Junior,22,6.7,7.8,77.2,Yes,18.0,2.78,56.7,61.0,No
+S11173,Biology,Junior,23,15.6,7.9,84.6,No,2.0,2.86,66.1,61.7,Yes
+S10434,Computer Science,Junior,23,10.7,8.8,85.9,Yes,5.0,3.1,69.0,80.0,Yes
+S10944,Biology,Senior,18,11.1,,59.4,No,39.0,2.42,62.1,56.2,No
+S10766,Computer Science,Junior,19,1.3,6.0,94.7,Yes,30.0,3.28,55.8,66.7,Yes
+S11034,Data Sci,Senior,28,9.3,8.7,80.7,Yes,6.0,3.02,54.8,68.2,yes
+S11048,Computer Science,Senior,21,9.0,6.0,83.2,No,13.0,3.32,77.6,82.5,Yes
+S10498,Computer Science,Senior,24,19.3,6.2,95.6,No,20.0,3.0,73.1,80.9,Yes
+S10948,data science,Freshman,27,15.2,,77.6,No,,2.4,60.9,65.5,Yes
+S10418,statistics ,Sophomore,28,3.0,8.9,87.6,No,12.0,2.18,65.7,57.1,Yes
+S10023,Data Science,Freshman,17,19.9,5.6,71.7,No,2.0,2.69,61.9,64.5,Yes
+S10501,Data Science,Senior,20,10.0,7.0,82.3,No,23.0,3.25,63.6,71.6,Yes
+S10734,Data Science,Sophomore,24,14.3,7.5,85.1,No,7.0,3.37,68.3,63.3,Yes
+S11130,Mathematics,Sophomore,23,10.8,7.3,83.2,No,4.0,3.67,67.4,65.4,Yes
+S10397,Computer Science,Senior,17,6.4,6.1,72.0,Yes,1.0,3.1,49.1,50.6,No
+S10098,Economics,Junior,20,11.9,5.4,78.3,Yes,13.0,2.85,52.8,60.6,No
+S10249,Mathematics,Sophomore,23,7.0,6.8,88.5,Yes,3.0,3.15,59.2,47.9,No
+S10087,biology,Sophomore,20,4.7,7.1,81.6,No,,2.88,57.3,67.7,Yes
+S10421,Data Science,Senior,180,15.7,6.2,88.0,No,,2.08,79.9,73.5,Yes
+S10820,Economics,Freshman,27,17.1,6.1,94.9,Yes,,3.02,64.8,57.9,Yes
+S10339,Statistics,Junior,21,6.9,7.5,87.9,No,19.0,3.31,65.1,69.2,Yes
+S10595,mathematics,Sophomore,28,26.2,8.3,69.1,Yes,66.0,2.34,65.8,64.3,Yes
+S11193,Mathematics,Sophomore,17,9.1,8.9,96.8,No,0.0,2.55,69.0,60.2,Yes
+S10031,Statistics,Senior,20,3.2,5.9,98.5,Yes,23.0,2.84,48.7,51.7,No
+S10601,biology,Senior,22,6.8,,91.9,No,54.0,3.24,85.3,92.8,Yes
+S10866,Statistics,Senior,19,15.0,9.3,76.2,No,25.0,2.6,67.9,73.6,Yes
+S10009,Data Sci,Sophomore,20,7.7,6.8,85.3,No,45.0,3.24,62.1,63.4,Yes
+S10555,Data Science,Junior,26,2.4,,69.1,Yes,5.0,3.33,54.4,59.0,No
+S10063,Data Science,Senior,27,5.1,6.5,97.3,Yes,15.0,2.59,54.3,58.3,No
+S10638,Statistics,Freshman,23,11.1,8.4,77.5,No,,3.05,66.2,63.8,Yes
+S10237,Data Science,Sophomore,24,10.9,5.7,88.3,Yes,22.0,3.13,62.5,68.2,Yes
+S10740,Data Science,Freshman,26,24.2,5.7,62.7,Yes,27.0,2.94,56.9,61.2,No
+S11127,Biology,Sophomore,17,7.4,5.6,76.5,No,35.0,2.64,37.4,49.2,No
+S10199,Comp Sci,Senior,28,9.1,,54.6,Yes,53.0,2.68,45.1,45.5,No
+S10811,Statistics,Senior,17,7.2,5.8,88.4,Yes,1.0,3.41,72.6,69.5,Yes
+S10869,Mathematics,Freshman,18,11.0,7.8,65.5,Yes,21.0,3.6,64.2,61.6,Yes
+S10762,biology,Freshman,21,12.7,8.9,80.5,Yes,11.0,3.32,88.4,73.5,Yes
+S10802,Data Science,Senior,25,14.8,6.4,68.1,No,31.0,1.92,45.1,63.7,N
+S10513,Data Science,Junior,29,17.3,8.0,91.9,No,1.0,2.41,64.7,75.3,Yes
+S10800,Data Science,Junior,21,10.6,7.6,83.5,No,3.0,3.07,66.6,70.2,Yes
+S11043,Biology,Freshman,20,6.4,6.4,81.8,Yes,,3.01,54.3,56.8,no
+S11160,STAT,Sophomore,28,10.6,6.0,94.2,No,24.0,2.77,51.3,53.3,No
+S10353,Computer Science,Sophomore,19,17.4,6.5,88.3,Yes,13.0,3.26,61.7,68.1,Yes
+S11168,Biology,Junior,20,4.3,6.0,95.2,No,21.0,3.82,55.3,50.8,No
+S11060,data science,Freshman,21,12.0,6.6,85.1,Yes,7.0,3.31,59.3,63.2,Yes
+S10915,Economics,Senior,21,18.8,6.8,78.3,Yes,18.0,3.04,65.7,69.1,Yes
+S11099,Computer Science,Junior,27,13.9,7.8,89.9,No,35.0,3.25,66.3,59.2,Yes
+S10354,Computer Science,Sophomore,29,8.2,5.4,98.0,No,20.0,3.78,65.3,53.3,No
+S10701,Data Science,Senior,20,8.4,8.1,72.4,No,1.0,,44.3,52.9,No
+S10542,Biology,Junior,20,5.1,7.2,86.6,Yes,6.0,3.21,64.0,55.9,No
+S10310,Computer Science,Freshman,24,3.1,8.2,87.5,No,11.0,,73.8,64.1,Yes
+S10540,Data Science,Freshman,28,5.3,7.0,81.5,No,6.0,3.51,64.0,72.8,Yes
+S11007,STAT,Sophomore,27,6.8,4.7,68.6,Yes,25.0,3.18,46.4,56.2,No
+S10265,economics,Junior,28,20.8,7.6,61.6,No,19.0,3.19,75.0,65.7,Yes
+S10222,Economics,Senior,19,19.0,,79.9,No,16.0,3.74,67.9,78.9,Yes
+S10370,Biology,Sophomore,25,19.4,5.7,65.5,No,1.0,3.61,63.8,74.4,Yes
+S10245,Mathematics,Sophomore,24,17.6,7.1,97.0,No,6.0,2.15,73.6,83.6,Yes
+S10812,Data Science,Senior,25,9.7,6.2,95.7,No,,2.95,65.1,77.5,Yes
+S10316,Biology,Senior,23,10.5,6.7,72.7,Yes,35.0,2.79,55.6,59.6,No
+S10471,Economics,Freshman,29,22.6,7.4,74.4,No,7.0,2.88,65.4,63.1,Yes
+S10196,Statistics,Junior,24,18.0,4.2,86.2,No,17.0,3.35,56.8,48.0,No
+S11098,Economics,Senior,22,13.2,7.4,75.8,No,22.0,2.92,66.1,63.0,Yes
+S10716,Data Science,Junior,20,14.8,4.6,83.5,Yes,5.0,3.2,55.9,52.2,0
+S10075,Economics,Freshman,18,12.1,4.7,75.6,Yes,29.0,1.72,59.3,63.4,Yes
+S10754,Data Science,Junior,23,8.0,6.0,90.5,Yes,8.0,3.94,61.9,54.2,No
+S10369,Data Science,Junior,29,9.1,5.0,82.8,No,6.0,2.75,61.0,72.0,Yes
+S11040,Economics,Freshman,18,15.4,,98.8,No,,2.7,68.2,69.7,Yes
+S10594,Economics,Senior,17,17.3,5.8,91.0,No,16.0,2.92,63.0,55.8,no
+S11062,Data Science,Freshman,29,4.6,5.4,81.0,No,2.0,3.36,51.4,37.9,No
+S10140,Computer Science,Freshman,20,6.8,5.5,75.3,No,21.0,2.63,56.9,45.8,No
+S10069,Statistics,Sophomore,17,9.1,5.5,86.3,No,5.0,3.44,65.3,76.4,Yes
+S10280,Bio,Sophomore,23,15.3,7.2,88.6,Yes,25.0,2.54,48.4,44.9,No
+S10912,Computer Science,Junior,29,13.8,5.1,92.1,Yes,18.0,3.03,72.3,71.4,1
+S10560,Data Science,Junior,17,6.6,8.3,93.7,Yes,1.0,3.71,59.8,59.8,No
+S10683,Data Science,Junior,21,16.6,5.1,73.4,No,12.0,2.49,70.2,72.0,Yes
+S10899,Computer Science,Senior,25,4.5,5.9,99.0,Yes,,3.3,51.3,69.8,Yes
+S10773,Mathematics,Junior,22,10.5,7.5,82.1,No,8.0,3.3,78.7,53.7,Yes
+S11066,Statistics,Junior,23,10.6,5.9,76.0,No,1.0,2.82,54.5,53.1,0
+S10321,Comp Sci,Sophomore,25,20.5,6.1,87.0,Yes,26.0,3.38,60.3,71.2,Yes
+S10639,Computer Science,Junior,17,3.9,8.0,82.6,Yes,18.0,2.44,60.0,51.6,No
+S10132,Computer Science,Junior,23,22.1,7.3,98.1,Yes,10.0,3.16,77.7,76.0,Yes
+S10873,biology,Senior,24,17.6,7.4,80.5,Yes,14.0,2.75,60.1,67.4,Yes
+S10088,Data Science,Junior,24,32.2,6.1,72.5,No,19.0,,64.8,73.7,Yes
+S10928,Data Science,Senior,26,8.8,6.6,77.5,No,2.0,3.79,58.6,60.8,No
+S11037,Data Science,Junior,27,12.9,6.1,86.6,No,19.0,3.24,64.7,61.7,Y
+S10623,Statistics,Senior,23,30.4,8.8,93.3,Yes,1.0,3.16,79.8,84.2,1
+S10390,Statistics,Freshman,26,11.8,6.2,94.6,No,0.0,2.67,57.3,60.4,No
+S10254,Data Science,Senior,21,7.8,6.9,79.1,No,22.0,2.11,45.8,49.2,No
+S10180,Data Science,Sophomore,28,34.1,9.4,93.9,Yes,6.0,2.63,92.0,90.5,Yes
+S10735,Data Science,Freshman,28,7.4,6.9,70.2,No,,3.04,53.9,54.1,No
+S10060,Mathematics,Freshman,20,12.2,6.3,93.1,No,3.0,2.95,65.1,72.8,Yes
+S10507,Mathematics,Junior,22,11.2,6.7,86.0,Yes,12.0,3.04,56.1,59.6,No
+S11137,Biology,Freshman,21,10.8,6.4,94.0,No,4.0,3.49,75.9,74.1,Yes
+S10671,Biology,Senior,18,2.6,8.2,89.5,Yes,1.0,2.73,51.0,62.3,No
+S10456,Biology,Senior,23,4.7,6.8,75.1,Yes,21.0,3.33,45.7,46.1,No
+S10042,Computer Science,Junior,21,18.4,7.2,91.1,Yes,19.0,2.5,61.0,59.5,yes
+S10394,Mathematics,Freshman,21,13.8,7.8,71.6,No,1.0,3.04,81.9,87.6,Yes
+S11157,Computer Science,Senior,22,19.5,6.5,76.9,No,5.0,3.39,70.2,67.9,yes
+S11014,Biology,Senior,18,12.2,7.5,84.1,Yes,6.0,3.9,67.2,70.6,Yes
+S10101,Biology,Freshman,19,18.2,6.4,60.7,Yes,6.0,2.77,56.5,60.6,No
+S10529,data science,Senior,24,19.6,6.3,93.2,No,12.0,2.92,76.1,71.0,Yes
+S10462,Statistics,Freshman,26,12.6,5.1,66.2,Yes,12.0,2.95,46.6,53.1,No
+S10924,Data Science,Sophomore,27,2.4,6.2,59.8,Yes,2.0,3.38,56.2,62.6,Yes
+S10781,Economics,Junior,19,4.5,6.2,98.5,No,24.0,2.5,62.8,56.9,No
+S10428,STAT,Junior,19,25.1,5.4,85.6,No,32.0,2.97,87.1,91.4,Yes
+S10097,Data Sci,Junior,27,3.9,6.7,66.0,No,43.0,2.2,39.1,41.8,No
+S10373,Data Science,Senior,22,19.5,,74.3,Yes,1.0,2.92,58.1,55.7,No
+S10949,DS,Freshman,27,6.4,6.5,90.6,No,30.0,3.33,55.7,58.5,No
+S10681,Biology,Junior,21,22.1,7.6,77.3,Yes,20.0,3.31,68.4,75.2,Yes
+S11022,Computer Science,Junior,29,8.0,,84.5,Yes,14.0,3.63,57.7,65.1,Yes
+S10451,Computer Science,Senior,19,6.3,8.2,92.8,No,2.0,3.2,61.4,63.6,Yes
+S10528,Data Science,Senior,29,1.8,5.7,94.2,No,37.0,2.86,54.4,56.5,No
+S10367,Economics,Sophomore,22,10.7,,80.1,No,,3.46,57.7,54.2,No
+S10079,Economics,Freshman,27,8.4,6.6,88.5,No,21.0,3.51,61.2,67.3,Yes
+S10613,Economics,Junior,21,7.0,6.2,79.4,No,2.0,2.8,51.8,51.1,No
+S10238,Biology,Junior,29,5.1,5.4,83.2,Yes,2.0,2.15,47.4,51.4,No
+S10213,Computer Science,Sophomore,25,7.8,5.6,86.1,No,14.0,2.44,59.9,46.8,FALSE
+S10488,Computer Science,Junior,28,13.7,5.9,95.0,No,1.0,2.13,59.8,61.3,Yes
+S10479,Computer Science,Junior,20,10.5,8.8,90.8,No,4.0,3.2,75.3,72.9,Yes
+S10261,Computer Science,Senior,29,26.3,6.7,90.5,No,2.0,3.03,77.8,85.6,yes
+S11141,Biology,Senior,29,14.8,6.6,96.7,No,34.0,2.6,66.1,66.4,Yes
+S10629,Data Science,Junior,25,18.4,3.4,91.2,Yes,,3.51,68.8,76.9,Yes
+S11175,Data Science,Junior,19,7.0,8.3,73.7,No,8.0,3.09,61.3,67.7,Yes
+S10156,Computer Science,Junior,29,13.4,5.2,90.4,No,12.0,3.52,68.9,69.8,Yes
+S10073,Biology,Junior,24,16.9,5.4,82.9,Yes,34.0,2.33,61.1,74.6,Yes
+S10194,Data Science,Senior,21,5.9,7.2,64.1,Yes,3.0,3.54,43.3,52.0,0
+S10077,Economics,Junior,25,17.1,7.8,98.4,Yes,52.0,2.9,66.6,70.0,Yes
+S11100,Statistics,Senior,22,5.0,4.7,88.1,Yes,12.0,2.37,54.4,70.6,Yes
+S10113,Statistics,Senior,21,13.2,6.8,70.7,No,8.0,3.27,59.2,54.9,No
+S10952,Data Science,Senior,24,23.7,7.8,98.7,Yes,6.0,3.02,64.0,84.3,Yes
+S10027,Computer Science,Sophomore,21,7.2,5.5,79.0,Yes,18.0,2.12,41.2,46.0,No
+S11192,Data Science,Senior,25,4.2,6.0,94.4,Yes,34.0,3.46,68.1,66.7,TRUE
+S10543,Economics,Sophomore,26,5.8,8.2,78.6,Yes,37.0,3.27,50.5,65.0,N
+S10555,Data Science,Junior,26,2.4,,69.1,Yes,5.0,3.33,54.4,59.0,No
+S10363,Data Science,Sophomore,28,12.7,6.3,86.7,No,52.0,2.65,52.5,54.3,No
+S10667,Computer Science,Freshman,18,16.8,4.6,82.4,Yes,6.0,2.84,68.1,61.1,Yes
+S10210,Economics,Senior,26,32.7,8.0,96.2,No,8.0,2.9,85.6,90.8,Yes
+S10065,Biology,Freshman,17,8.9,6.5,93.1,No,16.0,3.44,57.9,73.2,Yes
+S10268,Economics,Junior,24,4.4,7.8,82.7,Yes,28.0,3.29,47.9,46.9,No
+S10416,Bio,Freshman,22,12.1,6.9,95.6,Yes,16.0,3.18,62.9,67.7,yes
+S11199,Computer Science,Senior,28,6.9,7.9,81.7,Yes,8.0,2.39,44.8,45.3,No
+S10756,Data Science,Junior,25,13.6,8.1,81.5,Yes,30.0,2.47,60.0,52.9,FALSE
+S10834,Bio,Freshman,19,18.3,7.6,83.4,No,6.0,,69.9,75.0,Yes
+S10111,Computer Science,Freshman,27,9.6,7.2,66.0,No,20.0,2.97,54.9,64.1,Yes
+S10250,data science,Freshman,20,19.0,5.7,94.1,No,23.0,2.86,65.5,58.0,Yes
+S10857,Mathematics,Freshman,29,3.0,6.4,77.2,No,13.0,3.26,53.9,57.7,No
+S10838,Computer Science,Junior,26,7.2,8.5,86.9,No,,2.77,49.7,76.3,Yes
+S11119,Data Science,Junior,27,8.2,8.3,97.4,No,18.0,2.4,47.7,49.5,No
+S10359,Data Science,Junior,24,11.7,,91.2,Yes,1.0,3.44,67.3,60.8,Yes
+S10801,Computer Science,Junior,20,18.4,,86.6,Yes,2.0,3.47,78.0,73.2,Yes
+S10411,Mathematics,Sophomore,27,19.6,6.1,79.6,No,35.0,2.53,60.0,70.1,Yes
+S10867,Computer Science,Sophomore,27,8.9,7.7,63.5,No,36.0,,56.0,61.1,FALSE
+S10135,Economics,Freshman,25,10.2,7.8,84.0,Yes,7.0,3.29,67.7,56.8,Yes
+S10209,economics,Junior,21,7.6,7.5,80.6,No,11.0,3.15,65.9,72.3,Yes
+S10417,Biology,Sophomore,21,14.8,6.3,97.8,Yes,8.0,3.67,61.6,69.9,TRUE
+S10935,Biology,Senior,27,10.3,6.4,77.7,No,14.0,2.6,57.2,57.4,No
+S10081,Statistics,Senior,19,10.2,6.5,54.0,No,4.0,2.42,57.5,54.9,no
+S11035,Data Science,Sophomore,22,15.9,6.3,86.9,No,29.0,2.58,74.0,65.7,Yes
+S10152,Data Science,Sophomore,21,3.2,6.6,69.7,No,0.0,2.55,51.1,45.8,No
+S10020,Statistics,Sophomore,26,10.4,8.8,67.2,No,47.0,3.4,63.8,66.4,Yes
+S10102,CS,Senior,24,2.3,,78.3,Yes,23.0,2.1,60.2,49.1,No
+S10835,Computer Science,Senior,23,10.3,6.1,53.7,No,7.0,3.14,53.4,59.4,No
+S10492,Mathematics,Freshman,17,5.2,7.8,77.5,Yes,0.0,3.05,52.7,63.2,No
+S10460,Statistics,Freshman,18,7.5,7.3,95.3,Yes,8.0,3.14,58.5,52.8,No
+S11144,Statistics,Freshman,19,21.7,5.6,64.8,No,29.0,,63.9,67.1,Yes
+S10322,Computer Science,Senior,24,4.4,7.4,56.4,Yes,12.0,3.09,62.2,67.9,Yes
+S11166,Statistics,Sophomore,24,11.5,6.4,93.6,No,52.0,2.58,48.2,55.6,N
+S10486,data science,Freshman,28,8.7,7.0,81.1,Yes,4.0,3.21,61.0,60.6,Yes
+S10181,Biology,Junior,28,1.9,7.8,86.3,No,27.0,3.5,61.4,64.4,Yes
+S10761,Statistics,Senior,26,15.5,7.1,87.7,Yes,20.0,4.0,88.2,82.5,Yes
+S10449,Mathematics,Senior,28,19.1,6.9,93.2,No,39.0,2.53,65.5,54.8,No
+S11122,Computer Science,Freshman,19,5.4,7.3,76.3,No,9.0,3.24,56.6,54.8,No
+S10229,biology,Junior,22,5.7,8.7,94.9,No,,2.79,57.3,76.2,Yes
+S10546,Statistics,Sophomore,17,6.4,5.6,85.1,Yes,12.0,2.78,58.8,66.3,Yes
+S10381,Data Science,Senior,21,12.2,8.1,59.1,No,12.0,3.0,54.5,58.3,No
+S10776,Biology,Junior,23,9.4,7.0,50.1,No,2.0,3.22,60.4,44.7,FALSE
+S10943,Statistics,Junior,28,3.8,5.4,88.2,No,68.0,3.0,55.3,61.9,no
+S10287,Data Science,Freshman,19,4.3,6.8,58.0,Yes,29.0,3.48,48.5,41.3,No
+S10769,computer science,Senior,22,10.7,6.4,84.9,No,20.0,3.43,58.4,72.0,yes
+S11112,Econ,Freshman,23,7.8,5.5,80.6,No,6.0,2.63,54.2,48.2,No
+S10929,Mathematics,Freshman,29,7.5,5.7,90.2,No,14.0,,44.2,65.9,No
+S10960,Data Science,Sophomore,27,4.9,5.7,96.4,Yes,26.0,3.15,60.3,56.7,No
+S10695,biology,Freshman,29,18.2,6.0,92.4,No,2.0,2.66,57.0,59.5,No
+S10688,Computer Science,Freshman,24,9.7,6.6,93.0,Yes,2.0,2.42,65.0,59.7,Yes
+S10954,Biology,Sophomore,27,4.4,5.2,77.0,Yes,27.0,2.54,48.7,48.3,No
+S10880,Computer Science,Freshman,22,11.2,8.5,73.0,Yes,4.0,2.73,72.9,81.4,Yes
+S10356,Biology,Sophomore,21,9.1,7.5,86.4,No,9.0,2.82,64.8,61.4,Yes
+S10891,Data Science,Senior,18,4.5,8.4,78.8,No,11.0,2.66,62.8,63.8,Yes
+S10898,Data Science,Senior,21,28.5,7.3,76.8,Yes,39.0,2.35,88.8,86.0,Yes
+S10900,DS,Senior,19,8.9,4.8,97.7,No,8.0,2.77,46.7,57.0,No
+S11182,Statistics,Freshman,28,12.8,5.1,86.8,Yes,57.0,2.27,51.6,52.9,No
+S10665,Biology,Freshman,23,10.2,6.6,66.2,Yes,14.0,,53.1,55.1,No
+S10921,Biology,Junior,20,14.1,7.0,79.8,No,13.0,3.06,63.9,50.4,no
+S10459,Economics,Freshman,22,22.5,4.4,65.2,Yes,24.0,3.19,61.7,70.3,Yes
+S10251,Data Science,Freshman,25,10.4,9.1,80.3,No,0.0,2.67,61.5,74.1,Yes
+S10597,Computer Science,Sophomore,19,17.4,6.5,82.5,Yes,15.0,3.37,63.1,65.6,Yes
+S10481,Computer Science,Senior,25,10.5,8.1,97.7,Yes,27.0,,68.8,79.1,Yes
+S10057,Data Science,Junior,20,10.5,7.9,71.0,No,11.0,2.88,60.3,70.2,Yes
+S10803,Data Science,Freshman,240,14.3,5.2,86.9,No,31.0,,61.3,54.0,No
+S11123, Data Science,Senior,18,4.2,6.5,81.4,Yes,22.0,3.33,41.0,44.7,No
+S10831,Data Science,Freshman,27,3.1,5.4,80.4,Yes,1.0,2.89,44.3,37.3,No
+S10580,Data Science,Sophomore,25,10.7,6.7,78.8,No,25.0,3.0,58.8,57.8,No
+S10794,Statistics,Sophomore,23,22.6,5.3,85.3,No,30.0,2.8,66.9,67.8,Yes
+S10551,Mathematics,Junior,23,13.6,7.2,61.5,No,5.0,2.25,32.0,44.4,No
+S10473,Statistics,Sophomore,28,12.3,8.7,78.8,Yes,48.0,2.97,58.4,62.2,Yes
+S11109,Economics,Sophomore,29,12.4,6.4,92.4,No,18.0,2.76,61.0,77.8,Yes
+S11191,Comp Sci,Senior,29,8.0,8.3,89.9,No,2.0,3.17,63.4,59.7,Yes
+S10720,Statistics,Freshman,23,9.9,7.0,74.9,No,40.0,3.34,63.0,67.4,Yes
+S10577,Computer Science,Sophomore,18,10.6,8.2,88.7,No,38.0,3.87,90.3,82.1,Yes
+S10663,Economics,Sophomore,27,22.3,6.9,82.9,No,25.0,2.72,69.6,71.2,Yes
+S10713,Data Science,Freshman,29,4.9,,82.1,Yes,4.0,3.03,46.8,60.4,No
+S10385,Statistics,Sophomore,18,27.2,7.9,91.2,Yes,4.0,2.48,77.6,92.0,Yes
+S10919,Statistics,Junior,25,21.7,7.2,95.9,No,,2.44,77.1,64.4,Yes
+S10173,Data Science,Sophomore,27,11.6,7.5,71.4,No,,3.19,67.5,68.9,Yes
+S10672,Biology,Junior,21,6.7,7.3,97.9,Yes,8.0,2.35,58.4,48.4,No
+S11152,Stats,Freshman,18,13.7,7.5,71.5,No,35.0,3.19,74.5,65.6,Yes
+S10860,Data Science,Freshman,20,4.2,6.6,97.5,Yes,19.0,2.3,55.9,50.1,No
+S11187,Mathematics,Sophomore,19,21.4,6.1,65.9,Yes,0.0,3.32,66.1,59.6,Yes
+S10760,Computer Science,Freshman,24,19.2,6.2,88.3,No,4.0,,75.6,76.4,Yes
+S10778,Computer Science,Junior,27,9.7,6.0,84.7,No,3.0,3.29,71.3,61.6,Yes
+S10738,Mathematics,Senior,23,3.4,6.4,99.7,Yes,17.0,3.3,58.0,63.5,Yes
+S10454,Economics,Senior,21,10.4,3.0,98.1,Yes,3.0,3.55,59.9,68.3,Yes
+S10392,Statistics,Sophomore,25,24.3,8.0,54.9,No,35.0,3.2,68.0,66.6,Yes
+S10874,CS,Senior,24,10.6,6.4,76.7,No,20.0,3.0,58.9,65.3,Yes
+S10366,Computer Science,Junior,24,20.9,6.5,96.3,No,57.0,2.94,71.5,71.0,Yes
+S10977,Mathematics,Sophomore,23,9.0,5.9,73.0,No,12.0,3.19,59.9,45.1,No
+S10841,Mathematics,Freshman,17,5.7,7.8,74.4,No,81.0,3.73,62.1,59.9,Yes
+S11075,Data Science,Freshman,25,23.9,7.4,91.0,No,11.0,2.69,76.8,86.3,Yes
+S10314,Data Science,Senior,25,6.6,6.9,81.7,No,33.0,2.02,36.5,29.1,No
+S10345,Statistics,Senior,18,9.3,7.7,80.7,No,27.0,2.98,66.8,66.2,Yes
+S10661,Computer Science,Senior,26,10.6,5.3,86.8,Yes,,2.44,48.4,48.4,No
+S10569,Biology,Sophomore,27,26.8,7.7,89.6,Yes,79.0,3.2,72.4,70.6,Yes
+S11054,Data Science,Junior,23,28.3,,67.2,Yes,44.0,2.56,72.8,63.9,Yes
+S10775,Data Science,Sophomore,19,13.2,7.6,93.4,Yes,2.0,2.45,48.4,42.3,No
+S10391,Biology,Senior,29,16.5,,88.7,Yes,76.0,2.66,79.6,68.7,Yes
+S10236,Data Science,Senior,20,2.7,6.9,62.8,No,,,66.1,63.5,Yes
+S10741,Statistics,Freshman,23,5.7,7.9,74.2,No,3.0,2.62,51.5,58.1,No
+S10263,Data Science,Junior,21,2.4,7.8,94.1,No,28.0,3.05,69.2,69.7,Yes
+S10120,Economics,Freshman,28,9.1,8.1,84.7,Yes,5.0,3.2,59.2,58.3,No
+S10011,Mathematics,Freshman,26,13.8,6.3,90.2,Yes,38.0,3.01,50.5,59.6,No
+S10962,Biology,Sophomore,24,22.2,6.5,71.9,No,10.0,2.91,74.1,66.9,Yes
+S10508,Comp Sci,Junior,17,16.2,5.9,86.0,No,5.0,2.77,67.9,70.6,yes
+S10981, Data Science,Junior,28,3.5,6.0,86.8,No,8.0,2.57,53.5,47.3,No
+S11082,Biology,Freshman,23,10.7,,81.0,No,37.0,2.37,60.0,58.3,No
+S10163,Computer Science,Freshman,21,24.1,9.1,83.8,No,25.0,3.28,84.9,94.1,Yes
+S10731,Data Science,Junior,24,7.4,6.8,98.2,No,15.0,2.14,57.5,50.9,no
+S10071,Economics,Sophomore,20,11.7,7.7,94.9,No,3.0,2.86,76.3,78.0,Yes
+S10748,Biology,Junior,23,5.1,8.7,77.3,Yes,11.0,2.94,53.6,58.6,No
+S10068,computer science,Freshman,21,14.8,6.4,72.5,Yes,4.0,2.8,44.5,44.7,No
+S11041,Econ,Freshman,26,16.9,6.9,90.4,No,14.0,2.58,57.1,64.4,Yes
+S10058,Economics,Senior,27,4.0,7.3,77.9,No,25.0,,46.9,52.6,No
+S10082,Statistics,Freshman,29,18.6,6.0,97.4,No,3.0,2.73,70.1,56.1,Yes
+S10868,Computer Science,Junior,26,9.4,5.3,90.6,No,23.0,2.99,61.9,51.4,No
+S10539,Comp Sci,Sophomore,23,11.2,8.4,93.1,Yes,2.0,3.1,74.7,70.3,Yes
+S11185,Computer Science,Junior,19,2.5,6.1,94.2,No,11.0,3.87,77.3,78.6,Yes
+S10567,Data Science,Freshman,28,7.3,7.8,85.0,Yes,,3.11,76.7,66.7,Yes
+S10850,Data Science,Senior,22,12.0,4.7,43.7,No,9.0,2.39,51.8,54.5,No
+S10620,Computer Science,Freshman,24,11.6,7.1,90.7,Yes,23.0,3.25,68.9,71.3,Y
+S10637,Data Science,Freshman,29,5.1,,89.7,No,6.0,2.9,62.6,63.8,Yes
+S10368,Data Science,Senior,21,10.5,7.2,82.3,Yes,10.0,3.23,64.0,80.9,Yes
+S10047,Math,Freshman,25,16.1,7.6,82.3,Yes,38.0,3.46,69.4,78.4,Yes
+S10537,Statistics,Freshman,18,24.2,6.2,84.5,Yes,0.0,2.48,66.3,74.7,Yes
+S11049,economics,Freshman,25,24.1,5.9,90.8,No,9.0,,85.7,91.3,Yes
+S10131,Mathematics,Junior,18,7.0,8.1,92.4,Yes,3.0,3.39,75.5,54.7,Yes
+S10711,Data Science,Freshman,20,6.1,6.2,94.5,No,7.0,3.0,59.9,63.9,Yes
+S10165,Biology,Freshman,22,15.2,7.3,94.1,Yes,3.0,2.9,63.0,60.3,Yes
+S10197,Economics,Sophomore,24,13.9,7.5,54.0,Yes,34.0,3.67,62.6,61.3,Yes
+S10957, Data Science,Junior,20,4.3,5.9,96.4,No,1.0,3.66,67.9,72.5,Yes
+S10693,Computer Science,Freshman,17,5.0,8.1,98.2,Yes,19.0,2.86,60.3,66.6,yes
+S10272,Data Science,Junior,19,14.4,3.7,80.0,Yes,18.0,3.23,46.6,58.0,No
+S10917,Statistics,Junior,27,21.8,7.5,79.8,Yes,2.0,2.89,50.6,56.4,No
+S11093,computer science,Freshman,27,6.8,7.4,82.3,No,39.0,3.41,64.8,63.5,Yes
+S10125,Computer Science,Junior,23,19.3,6.7,78.1,No,7.0,3.56,56.0,67.5,Yes
+S10839,Economics,Senior,28,27.1,4.8,81.8,Yes,,3.1,73.8,71.9,Yes
+S11186,Economics,Senior,25,3.2,7.9,95.1,Yes,10.0,2.56,53.4,60.9,No
+S11149,Mathematics,Junior,24,11.9,8.2,99.0,Yes,29.0,3.8,71.5,68.8,Yes
+S10668,Data Science,Junior,22,21.9,8.3,81.2,No,4.0,3.48,83.7,94.2,Yes
+S10606,Computer Science,Sophomore,26,14.4,6.8,56.3,No,21.0,3.0,51.8,43.4,No
+S10003,Statistics,Sophomore,28,7.5,6.7,48.4,Yes,8.0,2.74,51.9,60.9,No
+S10188,Data Science,Junior,27,7.6,7.6,96.5,No,19.0,2.77,68.0,54.5,No
+S11198,Data Science,Junior,28,7.1,6.6,62.5,Yes,6.0,2.64,63.6,59.0,Yes
+S10150,Biology,Senior,29,5.7,,82.7,Yes,15.0,3.73,57.6,64.5,Yes
+S10532,Economics,Sophomore,17,20.8,6.9,89.5,No,12.0,3.08,71.3,66.4,Yes
+S10718,Mathematics,Senior,27,9.7,8.0,94.7,No,12.0,2.99,56.6,67.5,yes
+S10149,Economics,Sophomore,24,11.2,5.9,75.0,Yes,11.0,2.17,45.3,52.3,No
+S10223,Computer Science,Freshman,24,2.9,8.6,82.1,No,6.0,2.37,55.9,55.3,No
+S10686,Mathematics,Freshman,24,19.3,6.4,81.3,Yes,,3.71,62.7,66.5,TRUE
+S10959,Computer Science,Freshman,19,14.5,6.7,78.7,No,7.0,3.34,58.0,76.3,Yes
+S10786,Data Science,Freshman,29,8.3,7.1,99.0,Yes,27.0,3.24,69.1,58.4,Yes
+S10797,DS,Junior,19,39.8,,79.0,No,18.0,3.46,87.9,92.9,Yes
+S10050,Statistics,Sophomore,27,14.2,5.6,64.9,Yes,15.0,2.68,56.4,62.3,No
+S10067,Mathematics,Freshman,25,4.9,,73.3,Yes,18.0,2.95,53.8,61.4,No
+S10783,Biology,Junior,17,12.9,7.4,85.3,Yes,23.0,2.34,64.1,59.1,Yes
+S11068,Data Science,Senior,25,17.0,7.8,95.1,Yes,15.0,3.67,89.8,69.2,Yes
+S10121,Computer Science,Sophomore,18,10.5,6.7,91.9,Yes,19.0,3.38,75.0,70.7,Yes
+S11116,Statistics,Freshman,27,22.0,4.2,82.1,No,18.0,3.13,65.9,62.6,Yes
+S10393,Data Science,Sophomore,18,7.3,6.9,69.8,Yes,26.0,2.74,52.2,45.2,No
+S10908,Statistics,Sophomore,24,15.0,8.0,91.4,No,25.0,3.51,71.5,67.9,Yes
+S10472,Biology,Sophomore,17,10.6,6.8,84.4,No,25.0,3.15,60.8,60.0,Yes
+S10262,Data Science,Senior,25,18.7,6.4,98.5,No,15.0,2.96,63.6,80.6,Yes
+S10318,Mathematics,Senior,19,10.0,6.1,89.8,No,21.0,2.76,62.3,73.7,1
+S11131,Statistics,Freshman,25,2.3,8.3,99.7,No,17.0,2.56,64.4,72.1,TRUE
+S10406,Statistics,Senior,17,9.7,7.7,85.6,No,7.0,2.94,77.1,61.5,Yes
+S10171,Economics,Senior,21,8.3,8.6,78.9,No,13.0,2.97,60.4,60.5,Yes
+S10640,Data Science,Junior,20,17.0,7.8,93.6,No,31.0,3.21,69.0,56.1,TRUE
+S10178,Computer Science,Junior,18,14.8,6.5,49.9,No,3.0,3.03,43.4,53.9,FALSE
+S10593,Statistics,Sophomore,24,5.0,5.0,93.6,No,1.0,2.96,68.4,68.3,Yes
+S10512,Computer Science,Sophomore,17,7.0,5.5,71.3,No,1.0,3.46,53.4,59.5,No
+S11170,Computer Science,Freshman,21,23.0,5.6,91.5,No,28.0,2.38,71.2,78.1,Yes
+S11045,Statistics,Freshman,29,13.7,7.8,87.1,Yes,0.0,2.81,67.1,60.1,Yes
+S10541, Data Science,Junior,26,6.1,,83.4,Yes,7.0,3.55,61.3,61.2,Yes
+S10095,computer science,Senior,19,7.5,,78.5,No,7.0,1.85,61.4,56.2,N
+S10724,Economics,Freshman,25,22.0,6.1,81.7,No,10.0,3.4,73.5,79.5,Yes
+S11004,Computer Science,Sophomore,23,8.9,6.1,92.5,Yes,40.0,3.49,64.0,78.7,Yes
+S10056,Economics,Freshman,18,7.1,7.7,91.3,Yes,17.0,2.53,55.2,51.0,No
+S10887,Data Science,Freshman,19,12.9,6.3,665.0,Yes,8.0,,61.6,64.8,Yes
+S10341,Economics,Freshman,24,3.2,4.6,61.0,No,26.0,2.97,45.5,47.6,No
+S10037,Economics,Sophomore,24,8.4,,86.4,No,1.0,3.3,51.1,57.9,No
+S10687,Biology,Junior,29,10.1,6.5,87.8,Yes,16.0,2.55,61.8,70.4,Yes
+S10279,Economics,Senior,17,19.0,,92.6,Yes,65.0,2.64,55.1,65.0,Yes
+S11042,Data Science,Junior,22,9.5,6.1,95.1,Yes,1.0,3.27,54.3,62.0,No
+S10610,Computer Science,Senior,20,6.9,9.4,82.5,Yes,10.0,2.53,52.5,48.9,No
+S10074,Computer Science,Junior,19,7.6,5.0,79.0,No,14.0,2.48,54.5,39.2,No
+S10752,Economics,Senior,22,9.0,7.6,93.5,No,34.0,3.25,66.4,71.8,yes
+S10575,Computer Science,Freshman,28,6.4,5.5,76.3,No,26.0,2.65,61.0,51.7,No
+S10785,Computer Science,Freshman,19,11.9,7.4,99.3,Yes,11.0,3.71,67.1,69.7,Yes
+S10941,Data Science,Sophomore,25,11.1,8.2,85.6,No,7.0,2.26,55.7,55.7,No
+S10384,Biology,Senior,20,20.7,,96.9,No,13.0,,65.3,81.6,Yes
+S10933,Computer Science,Senior,29,12.4,6.1,90.0,No,14.0,2.88,58.6,57.7,No
+S10627,Statistics,Junior,21,7.5,8.4,62.2,No,4.0,3.0,53.8,51.9,No
+S10157,Data Science,Senior,23,14.2,7.0,87.7,Yes,16.0,3.46,71.8,65.0,Yes
+S10605,Biology,Sophomore,18,4.9,7.4,52.3,Yes,20.0,3.05,35.2,41.6,No
+S10949,DS,Freshman,27,6.4,6.5,90.6,No,30.0,3.33,55.7,58.5,No
+S10080,Computer Science,Freshman,24,1.8,5.9,97.5,No,8.0,,51.1,54.4,No
+S10246,computer science,Sophomore,18,6.7,9.1,74.3,No,16.0,2.92,64.9,71.1,Yes
+S10973,Data Science,Freshman,20,9.6,7.0,78.5,Yes,35.0,3.27,58.8,52.6,No
+S10588,Biology,Senior,21,9.2,4.6,88.8,Yes,12.0,2.83,47.6,64.8,No
+S10956,Biology,Sophomore,28,5.6,5.4,98.7,No,25.0,,67.5,53.2,No
+S10635,Statistics,Freshman,18,20.9,5.6,96.8,No,11.0,3.81,76.6,80.4,Yes
+S11065,Computer Science,Freshman,18,19.1,3.7,77.8,No,31.0,3.22,64.5,71.6,Yes
+S10896,Computer Science,Freshman,22,11.5,8.3,92.1,No,1.0,3.4,65.5,60.0,yes
+S10878,Econ,Senior,22,11.5,8.6,94.7,No,8.0,2.76,64.1,67.5,Yes
+S11104,Data Science,Freshman,29,11.6,5.6,76.0,Yes,1.0,3.42,68.0,92.3,Yes
+S10062,Data Science,Sophomore,17,19.9,8.0,81.4,Yes,0.0,3.31,51.4,69.8,Yes
+S10574,Data Science,Junior,19,14.7,6.6,85.3,Yes,1.0,3.58,61.2,67.9,Y
+S10790,Biology,Freshman,21,7.3,,76.5,Yes,15.0,3.26,48.7,61.7,No
+S10429,Biology,Freshman,20,13.7,,95.9,No,20.0,3.16,79.0,88.9,Yes
+S11013,Computer Science,Freshman,19,4.0,5.3,97.8,Yes,22.0,2.79,48.8,55.3,No
+S10505,Economics,Senior,29,15.6,8.2,79.0,Yes,7.0,2.77,72.2,62.9,Yes
+S10666,Computer Science,Sophomore,22,6.1,6.2,79.9,No,4.0,3.37,65.2,79.0,Yes
+S10538,economics,Junior,19,14.8,5.6,81.5,No,18.0,3.74,87.7,90.8,Yes
+S10378,Computer Science,Freshman,22,12.8,3.6,42.7,Yes,7.0,2.8,56.4,41.9,No
+S10808,Computer Science,Freshman,29,9.3,7.1,83.1,No,1.0,3.7,66.5,74.1,Yes
+S10502,Mathematics,Freshman,21,9.8,6.6,87.8,No,12.0,2.96,72.6,62.7,Yes
+S10817,Computer Science,Sophomore,26,9.1,9.0,71.8,No,5.0,3.53,79.1,91.3,Yes
+S10673,Computer Science,Senior,27,6.8,5.7,62.5,No,8.0,2.47,50.2,52.7,No
+S10128,DS,Senior,25,24.5,7.3,84.0,No,19.0,2.54,69.8,68.9,Yes
+S10643,CS,Sophomore,26,13.4,5.8,97.2,No,6.0,2.88,61.8,70.5,Yes
+S10810,Computer Science,Freshman,22,18.9,6.4,89.0,No,30.0,3.74,73.8,69.5,Yes
+S10248,Data Sci,Sophomore,28,12.5,8.0,81.7,No,47.0,3.13,70.8,64.1,Yes
+S10230, Data Science,Freshman,24,6.8,4.5,82.4,Yes,4.0,2.99,48.1,54.7,No
+S10294,Computer Science,Junior,28,8.7,3.9,83.6,Yes,14.0,3.38,48.8,51.8,No
+S10298,Statistics,Sophomore,28,4.3,6.6,83.4,Yes,7.0,2.38,43.9,54.7,No
+S10533,Biology,Sophomore,18,21.8,6.3,89.3,No,5.0,3.59,78.6,95.9,Yes
+S11063,Statistics,Senior,25,9.7,5.8,87.7,No,13.0,2.68,63.0,65.6,Yes
+S10283,Data Science,Junior,23,15.6,7.5,97.9,Yes,13.0,3.19,65.5,75.6,Yes
+S10586,Economics,Senior,28,4.4,7.4,82.9,No,6.0,2.6,58.5,54.7,No
+S10615,data science,Freshman,22,5.6,9.3,81.0,No,,2.78,62.1,72.3,Yes
+S10117,Mathematics,Sophomore,19,10.2,4.2,97.5,Yes,0.0,2.5,68.5,70.3,Yes
+S11017,Comp Sci,Junior,18,4.6,4.7,55.7,No,93.0,3.3,49.2,63.9,No
+S10499,Economics,Junior,23,12.1,8.1,93.1,Yes,10.0,3.37,57.1,70.3,Yes
+S10968,Computer Science,Sophomore,23,7.4,5.7,84.2,No,12.0,2.6,50.0,52.9,No
+S10535,Data Science,Senior,29,12.7,5.5,95.0,No,8.0,2.35,54.9,55.7,No
+S10045,Data Science,Senior,25,33.7,5.8,91.5,No,4.0,2.75,74.4,75.9,Yes
+S10626,Statistics,Sophomore,19,12.7,8.5,84.1,No,46.0,3.05,69.1,72.4,Yes
+S10926,Computer Science,Junior,18,11.8,7.9,83.6,Yes,10.0,3.29,63.0,64.0,Yes
+S10894,Computer Science,Junior,26,4.8,5.4,81.7,No,1.0,2.86,42.4,44.0,N
+S10407,Data Science,Senior,22,13.5,6.4,88.5,No,17.0,2.54,78.4,65.7,Yes
+S10401,Data Science,Senior,18,6.8,8.3,89.5,No,4.0,3.98,87.0,87.7,Yes
+S10515,Biology,Senior,24,11.2,,85.9,Yes,2.0,3.38,60.6,68.2,Yes
+S10958,Data Science,Sophomore,24,9.1,7.4,93.0,No,57.0,2.68,71.1,66.8,Yes
+S10516,Data Science,Sophomore,23,3.5,8.0,85.7,No,59.0,3.05,68.8,68.5,Yes
+S11194,Data Science,Junior,18,18.4,5.6,89.1,No,4.0,3.05,70.1,83.8,Yes
+S10798,Data Science,Senior,28,7.9,6.4,92.2,No,8.0,3.11,73.6,71.0,Yes
+S10183,Biology,Junior,17,6.0,6.5,81.4,Yes,3.0,3.12,72.2,75.5,Yes
+S10004,CS,Freshman,26,26.2,7.1,76.7,No,,2.83,64.7,73.1,Yes
+S10100,Statistics,Junior,26,11.8,6.2,94.2,No,3.0,3.41,65.7,71.4,Yes
+S10828,Economics,Senior,20,8.9,5.8,78.5,No,9.0,4.0,76.0,85.4,Yes
+S10269,Data Science,Junior,24,5.9,8.2,83.8,No,5.0,2.88,53.6,60.5,No
+S10818,Mathematics,Senior,27,7.5,5.7,76.0,Yes,42.0,2.05,43.8,44.3,N
+S10187,Data Science,Freshman,20,6.4,6.8,68.6,No,18.0,2.49,53.3,46.8,FALSE
+S10007,Comp Sci,Sophomore,19,15.7,8.0,83.9,No,3.0,3.3,67.3,79.3,Yes
+S10767,Economics,Senior,29,10.5,7.7,92.7,No,9.0,3.66,68.3,65.8,Yes
+S10961,Statistics,Sophomore,27,0.9,7.9,94.0,Yes,79.0,3.27,60.1,66.6,Yes
+S10739,Data Science,Junior,26,13.8,7.3,77.6,Yes,10.0,3.29,69.4,74.8,Yes
+S10220,Biology,Senior,21,13.6,8.2,76.8,No,13.0,3.62,63.8,65.2,Yes
+S10412,Data Sci,Junior,19,4.1,7.7,67.5,No,1.0,2.87,49.5,52.0,No
+S10914,Economics,Senior,24,10.6,4.5,89.5,Yes,6.0,2.97,56.0,55.3,No
+S10039,Computer Science,Junior,26,13.4,7.0,85.7,No,8.0,2.94,76.6,63.3,yes
+S10414,Computer Science,Senior,26,7.5,7.9,96.5,No,29.0,3.33,81.9,81.8,Yes
+S10107,Data Science,Freshman,28,15.1,5.9,96.8,Yes,10.0,2.54,50.1,63.2,No
+S10920,data science,Senior,26,11.3,,74.9,Yes,25.0,3.59,55.1,68.2,Yes
+S10633,Mathematics,Senior,27,15.5,6.9,61.6,Yes,20.0,2.41,60.4,60.2,Yes
+S11047,Mathematics,Freshman,27,12.8,7.0,70.2,No,0.0,2.05,59.8,60.1,No
+S10403,Economics,Freshman,19,23.0,6.7,73.5,Yes,17.0,3.17,59.9,76.3,Yes
+S10573,Statistics,Junior,25,14.2,7.5,45.7,No,1.0,3.12,59.7,50.5,No
+S10572,Econ,Senior,23,17.1,7.9,75.8,Yes,5.0,3.4,86.3,74.2,Yes
+S10656,Economics,Freshman,24,17.5,5.3,88.2,Yes,19.0,3.16,63.1,58.2,Yes
+S10892,Stats,Junior,18,4.1,5.7,87.1,No,12.0,3.86,59.7,56.5,No
+S10901,Economics,Sophomore,28,5.9,7.4,92.8,Yes,4.0,,55.8,56.4,No
+S10723,Computer Science,Freshman,21,11.4,6.3,96.7,No,,2.75,43.0,65.2,No
+S10825,Computer Science,Junior,19,9.9,5.5,83.3,Yes,11.0,3.33,70.9,60.9,Yes
+S10883,Computer Science,Freshman,23,25.6,8.5,57.8,No,20.0,2.28,65.4,76.4,1
+S10517,Economics,Senior,20,17.6,,92.7,No,5.0,2.39,67.7,57.8,Yes
+S10051,Economics,Sophomore,20,6.4,6.6,88.6,Yes,9.0,2.74,58.8,59.6,No
+S10361,Biology,Sophomore,18,15.0,7.4,66.7,No,26.0,3.07,59.7,67.5,1
+S10155,Econ,Freshman,21,21.3,7.4,90.1,No,5.0,2.94,72.2,71.4,Yes
+S11032,Biology,Senior,22,11.2,4.7,56.0,Yes,21.0,2.19,41.6,50.3,No
+S10616,Data Sci,Freshman,27,21.2,6.5,83.9,No,29.0,3.51,80.3,97.6,Yes
+S10950,Computer Science,Sophomore,21,6.1,7.1,94.5,Yes,4.0,2.71,48.1,56.7,no
+S10519,Economics,Junior,27,18.0,9.2,95.6,No,26.0,1.7,68.9,73.8,Yes
+S10544,Biology,Senior,26,16.8,6.7,52.0,No,1.0,,55.1,64.5,1
+S10534,DS,Freshman,23,8.4,5.5,96.3,No,11.0,2.78,73.2,77.4,Yes
+S10743,biology,Senior,20,7.3,5.3,86.7,No,20.0,2.78,48.5,61.2,No
+S11142,Economics,Junior,20,15.5,8.4,88.7,No,22.0,2.81,76.7,77.5,Yes
+S10383,Data Science,Sophomore,20,17.1,6.1,90.5,Yes,19.0,3.39,66.4,73.8,Yes
+S10137,Economics,Sophomore,22,20.2,8.4,74.6,Yes,2.0,,69.6,68.1,Yes
+S10166,Computer Science,Freshman,23,14.7,6.3,97.2,Yes,11.0,2.75,61.2,60.1,Yes
+S10371,Mathematics,Junior,23,10.7,,95.2,No,9.0,2.93,52.3,63.1,No
+S10697,Computer Science,Senior,24,15.0,,42.6,No,15.0,3.5,58.4,65.0,Yes
+S10717,Statistics,Senior,18,13.7,6.2,92.0,Yes,27.0,3.3,71.4,75.3,Yes
+S10325,Computer Science,Senior,28,9.0,7.0,86.3,No,29.0,,51.3,58.1,No
+S10059,DS,Senior,17,24.4,7.4,85.8,Yes,37.0,3.59,89.0,94.5,Yes
+S10145,computer science,Senior,21,12.2,5.9,98.8,No,13.0,2.94,63.2,71.7,Yes
+S10657,Computer Science,Junior,23,8.5,6.1,79.4,No,31.0,2.78,66.5,69.8,Yes
+S10288,Statistics,Junior,17,7.9,7.3,83.5,Yes,26.0,3.15,52.2,36.1,No
+S10855,Data Science,Sophomore,22,3.5,7.5,91.8,No,55.0,2.81,57.9,65.1,Yes
+S10791,Computer Science,Freshman,27,9.6,7.2,86.4,No,22.0,2.9,60.4,58.6,No
+S10531,Economics,Freshman,22,6.2,6.1,87.1,No,29.0,2.46,43.3,43.3,No
+S11146,Data Sci,Sophomore,23,8.2,,87.1,No,6.0,2.83,73.2,70.2,yes
+S10304,Computer Science,Senior,27,12.5,9.7,82.8,Yes,2.0,2.61,64.5,70.8,Yes
+S10046,Data Science,Sophomore,18,15.7,6.7,76.3,No,26.0,2.86,70.9,70.4,Yes
+S10089,Computer Science,Sophomore,25,35.4,5.8,78.6,Yes,4.0,3.21,85.4,80.7,Yes
+S10423,Biology,Junior,23,2.3,6.3,75.4,No,4.0,2.34,48.8,47.2,No
+S10186,Data Science,Freshman,22,10.4,6.6,96.2,No,15.0,3.17,59.0,59.5,No
+S10301,Mathematics,Freshman,19,4.3,6.9,83.9,No,7.0,2.67,54.4,63.0,No
+S10980,Statistics,Sophomore,29,11.0,6.8,81.6,Yes,33.0,2.64,56.6,65.3,Yes
+S11078,Biology,Freshman,19,11.5,8.1,73.3,Yes,1.0,3.36,64.9,74.6,Yes
+S10134,Data Science,Freshman,19,13.4,7.1,88.6,No,4.0,3.27,65.9,74.4,Yes
+S10579,Mathematics,Sophomore,21,7.7,6.7,87.4,No,11.0,2.97,63.3,68.9,Yes
+S10129,Computer Science,Freshman,29,13.5,6.3,95.1,No,4.0,3.62,67.7,83.9,1
+S10282,Data Science,Senior,19,18.2,6.6,82.5,Yes,5.0,3.3,69.7,76.4,1
+S10837,Economics,Junior,20,23.9,5.9,80.2,No,,2.66,72.0,72.8,Yes
+S10745,Statistics,Junior,21,14.3,7.5,86.8,Yes,3.0,2.45,60.7,64.3,Yes
+S10930,Data Science,Junior,27,7.8,5.8,76.6,Yes,7.0,2.72,64.5,60.1,Yes
+S10771,Biology,Freshman,28,9.4,6.8,91.0,No,24.0,3.03,66.0,67.6,Yes
+S10405,Data Science,Senior,22,3.3,6.1,94.9,Yes,92.0,3.03,66.5,69.7,Yes
+S10765,Data Science,Freshman,24,8.9,7.9,86.9,Yes,,2.36,62.5,62.7,Yes
+S10360,Comp Sci,Sophomore,17,1.4,9.3,77.7,No,10.0,3.03,55.4,56.2,No
+S10307,Biology,Senior,29,20.3,5.1,81.4,No,19.0,2.61,48.7,67.9,Yes
+S10685,computer science,Freshman,24,27.5,5.7,94.0,No,10.0,3.51,77.1,84.2,Yes
+S10281,Statistics,Senior,20,4.5,7.0,84.6,No,1.0,3.44,73.0,61.6,Yes
+S10599,mathematics,Sophomore,28,7.7,5.8,86.3,No,27.0,2.92,65.6,55.7,No
+S10647,Statistics,Junior,20,9.8,7.3,97.2,No,34.0,2.73,72.9,62.0,Yes
+S10721,Mathematics,Freshman,29,3.7,6.5,86.7,Yes,18.0,3.34,43.3,50.6,No
+S10714,Computer Science,Sophomore,27,12.3,6.7,74.6,No,20.0,3.06,67.1,77.0,Yes
+S10185,Data Science,Junior,24,5.8,5.9,90.7,No,9.0,2.82,69.7,68.9,Yes
+S10674,Statistics,Senior,22,15.9,,76.0,No,39.0,2.99,54.0,63.8,No
+S10632,Data Science,Sophomore,21,9.0,,83.1,No,7.0,3.59,64.0,79.9,Yes
+S10782,Data Science,Sophomore,22,10.6,6.2,89.0,Yes,13.0,2.52,56.3,58.5,No
+S11021,Statistics,Sophomore,28,17.6,6.7,87.6,Yes,5.0,2.37,54.3,57.2,No
+S10618,Computer Science,Senior,19,14.2,6.5,73.3,Yes,1.0,3.06,58.0,54.7,No
+S10829,Economics,Senior,23,3.2,5.4,84.1,No,,3.7,60.0,66.5,Yes
+S10619,Biology,Sophomore,28,6.9,7.4,58.7,No,,3.23,63.5,47.9,No
+S10992,Economics,Sophomore,25,8.0,6.5,94.6,No,12.0,2.94,56.3,49.2,No
+S11120,Economics,Junior,26,13.9,6.9,79.6,Yes,,2.9,58.6,56.1,No
+S10119,Data Science,Senior,24,12.2,7.4,89.9,No,17.0,3.14,72.6,79.5,Yes
+S10271,Data Science,Junior,27,12.9,6.4,74.1,Yes,26.0,2.6,50.2,56.0,No
+S10984,Computer Science,Freshman,26,3.7,5.9,92.3,No,,2.98,65.7,59.5,Yes
+S10319,STAT,Senior,29,4.6,7.0,97.1,Yes,26.0,3.2,58.9,57.2,No
+S11012,Data Science,Junior,22,8.6,7.0,97.6,No,5.0,3.32,59.3,66.5,Yes
+S10844,biology,Sophomore,18,34.9,6.4,98.4,Yes,5.0,3.15,79.8,71.3,Yes
+S10122,Computer Science,Junior,21,9.9,5.2,90.9,No,12.0,3.17,51.9,62.1,No
+S11036,Data Science,Junior,22,2.6,6.2,85.4,No,1.0,2.61,64.0,66.0,Yes
+S10617,Bio,Junior,23,10.5,,99.0,Yes,1.0,3.16,59.2,64.1,Yes
+S10859,Economics,Senior,23,36.9,6.7,92.7,No,19.0,2.72,94.0,89.2,Yes
+S11113,Computer Science,Senior,29,11.3,7.7,88.7,Yes,28.0,3.37,58.2,64.9,Yes
+S11027,Data Science,Senior,23,17.7,7.5,83.7,No,9.0,3.31,72.6,75.5,Yes
+S10805,Computer Science,Senior,25,19.3,6.2,84.1,No,27.0,2.89,72.7,79.9,Yes
+S11197,Computer Science,Junior,27,6.6,5.9,73.4,Yes,1.0,2.95,50.1,47.1,No
+S11135,Computer Science,Freshman,21,4.6,9.1,82.4,No,26.0,2.46,58.9,61.7,Yes
+S10497,Data Science,Junior,26,20.9,7.2,92.1,Yes,49.0,2.88,66.4,70.8,Yes
+S10979,Mathematics,Junior,28,10.1,7.6,90.5,No,0.0,3.92,68.8,69.1,yes
+S10495,Mathematics,Freshman,17,15.0,6.9,83.9,No,14.0,3.32,73.0,82.1,Yes
+S10070,Computer Science,Sophomore,26,4.6,,74.4,No,15.0,3.57,67.9,62.6,Yes
+S10323,Computer Science,Freshman,17,7.0,9.6,89.4,No,34.0,3.66,78.0,75.0,Yes
+S10340,data science,Junior,19,12.8,7.0,95.5,No,12.0,3.47,93.2,69.9,Yes
+S10232,Computer Science,Freshman,26,8.7,6.5,88.9,No,22.0,3.17,67.1,58.1,Yes
+S10630,Computer Science,Junior,20,16.0,7.1,81.2,Yes,57.0,2.96,64.4,66.0,Yes
+S10018,Mathematics,Senior,17,6.3,4.3,90.1,No,4.0,3.47,54.5,56.5,No
+S10184,Mathematics,Senior,25,9.6,7.8,91.9,No,9.0,2.66,63.9,77.2,Yes
+S10763,Data Science,Senior,20,6.3,6.5,86.6,No,5.0,3.07,70.7,67.1,Yes
+S10293,Biology,Senior,20,17.9,6.3,61.9,No,18.0,3.21,57.2,66.9,Yes
+S10987,Mathematics,Senior,21,10.0,5.4,70.9,No,8.0,2.53,52.6,64.1,No
+S10642,Bio,Junior,27,7.6,8.0,91.7,No,5.0,3.19,67.2,74.8,Yes
+S10028,economics,Junior,20,10.5,5.4,84.4,Yes,20.0,3.64,71.3,62.9,Yes
+S10886,Biology,Sophomore,17,7.4,6.7,96.9,Yes,56.0,2.95,51.9,61.0,No
+S11126,Economics,Sophomore,21,13.1,7.6,67.2,No,8.0,3.64,68.0,66.6,Yes
+S11133,Statistics,Sophomore,28,3.8,6.2,914.0,No,16.0,2.43,59.2,40.2,No
+S10764,Data Science,Sophomore,19,11.5,5.9,84.9,Yes,35.0,2.96,51.8,58.3,FALSE
+S10552,Data Science,Senior,20,25.0,7.3,80.1,No,28.0,2.99,81.3,82.1,Yes
+S10289,Computer Science,Senior,26,13.3,7.2,90.7,Yes,27.0,2.79,87.7,84.9,Yes
+S10024,Biology,Junior,18,10.6,7.3,37.9,Yes,3.0,2.09,43.6,49.9,No
+S10652,Computer Science,Junior,26,16.0,6.3,80.6,No,29.0,2.51,65.2,77.4,Yes
+S10315,Computer Science,Junior,28,9.2,8.0,74.8,No,9.0,,67.2,57.8,Yes
+S11148,Data Science,Junior,25,6.0,6.4,93.2,Yes,56.0,2.95,53.5,63.4,No
+S11057,Economics,Sophomore,20,5.3,6.6,80.0,No,12.0,2.94,57.5,56.2,No
+S10426,Data Science,Junior,25,34.9,7.0,91.8,No,10.0,2.73,75.9,85.0,Yes
+S10395,Economics,Freshman,17,5.6,,73.5,Yes,9.0,2.49,37.8,39.6,No
+S10343,Computer Science,Senior,26,8.6,6.1,79.8,No,8.0,2.82,59.7,51.5,No
+S10895,Data Science,Sophomore,22,11.0,,89.2,No,10.0,3.23,72.1,58.3,Yes
+S11107,Computer Science,Junior,24,19.7,8.7,91.3,No,41.0,3.41,78.7,73.9,Yes
+S11076,Mathematics,Sophomore,24,11.2,5.5,87.9,Yes,49.0,3.49,63.0,76.7,Yes
+S10266,Statistics,Junior,21,13.7,9.3,95.6,No,1.0,2.74,63.2,78.3,Yes
+S10710,Mathematics,Sophomore,26,12.3,6.4,94.8,No,35.0,2.64,65.6,73.8,Yes
+S10737,Mathematics,Senior,21,9.6,5.6,63.5,No,39.0,2.4,60.0,62.6,yes
+S10386,Data Science,Junior,29,9.0,7.1,87.1,Yes,1.0,2.83,62.6,68.5,Yes
+S10200,Computer Science,Junior,19,4.7,7.4,83.7,No,4.0,2.84,56.6,58.5,No
+S11181,Biology,Senior,20,9.2,7.7,84.5,No,37.0,3.14,61.9,65.9,Yes
+S10448,Computer Science,Junior,21,13.1,10.0,85.8,Yes,9.0,3.32,66.5,78.2,Yes
+S10485,Computer Science,Sophomore,24,-8.9,8.0,96.0,No,34.0,3.06,68.3,73.9,1
+S10564,Statistics,Freshman,18,10.4,6.0,83.5,Yes,30.0,3.42,63.2,62.7,Y
+S11108, Data Science,Junior,27,3.0,9.8,89.8,Yes,33.0,3.39,49.7,62.7,No
+S10780,Data Science,Sophomore,23,11.8,7.3,86.4,Yes,58.0,2.59,60.4,53.7,No
+S10286,Mathematics,Sophomore,19,5.3,7.6,72.0,No,2.0,2.8,62.4,67.4,yes
+S10709,Biology,Junior,17,10.5,7.1,96.0,No,41.0,2.85,65.2,66.6,Yes
+S10556,Computer Science,Junior,27,11.3,6.4,54.0,Yes,17.0,2.53,36.0,52.4,No
+S10824,Computer Science,Senior,20,11.3,5.9,551.0,Yes,33.0,2.26,49.4,47.6,No
+S10819,Data Science,Sophomore,24,10.7,5.8,92.4,No,5.0,2.29,59.7,64.8,Yes
+S10851,Data Science,Senior,25,15.0,6.3,91.6,Yes,5.0,3.09,57.8,65.1,Yes
+S10882,Data Science,Senior,22,3.2,5.7,65.8,No,11.0,3.53,38.8,51.3,No
+S11009,Computer Science,Senior,26,8.6,5.3,99.0,Yes,17.0,3.11,58.9,66.6,Yes
+S10195,Mathematics,Sophomore,20,2.3,,89.4,Yes,,2.82,44.8,45.8,No
+S10465, Data Science,Freshman,22,11.3,4.4,93.0,Yes,29.0,2.17,43.0,53.2,No
+S10338,Bio,Sophomore,17,-11.6,4.9,79.8,No,48.0,2.93,58.7,72.2,Yes
+S10932,Biology,Freshman,26,3.2,5.7,58.7,Yes,12.0,3.48,44.6,45.6,No
+S10002,Biology,Freshman,22,12.4,5.9,80.2,Yes,9.0,2.72,59.6,56.3,No
+S10328,Computer Science,Freshman,17,10.9,8.7,79.9,No,17.0,3.29,72.8,76.8,Yes
+S11095,Data Science,Freshman,22,25.0,7.4,77.3,No,63.0,3.17,72.2,78.9,Yes
+S10408,Data Science,Senior,20,8.6,7.4,95.3,No,12.0,3.51,71.8,75.6,Yes
+S11071,biology,Sophomore,22,11.8,8.0,85.5,No,2.0,2.59,60.8,61.0,Yes
+S10755,CS,Sophomore,17,12.2,,90.8,Yes,1.0,2.61,56.4,67.0,Yes
+S10333,Data Science,Freshman,22,8.0,4.1,88.7,Yes,20.0,3.0,53.4,56.0,No
+S10489,Data Science,Freshman,21,12.5,4.7,84.2,No,,2.16,56.2,57.5,No
+S10989,Computer Science,Freshman,18,17.5,6.2,87.2,No,16.0,3.36,73.2,73.8,Yes
+S10133,Computer Science,Freshman,27,15.0,6.6,85.1,No,5.0,3.37,69.5,71.1,Yes
+S10922,Data Science,Senior,29,5.3,8.7,83.1,No,9.0,3.13,64.4,56.4,No
+S11145,Mathematics,Senior,27,12.5,8.8,86.3,Yes,13.0,2.65,59.3,61.5,Yes
+S10327,Computer Science,Sophomore,26,9.5,6.3,89.3,Yes,18.0,3.49,52.0,56.3,No
+S10305,Computer Science,Freshman,18,3.4,6.7,88.9,No,1.0,3.11,70.5,73.2,yes
+S11155,Mathematics,Junior,21,11.4,8.4,99.0,No,45.0,3.34,72.3,81.8,Yes
+S10083,Data Science,Senior,24,6.0,6.1,94.5,No,34.0,3.48,68.1,64.3,Yes
+S10885,Data Science,Freshman,24,5.5,8.7,57.9,No,8.0,2.78,50.9,62.6,No
+S10141,Biology,Junior,18,11.2,4.5,98.2,No,3.0,3.08,70.9,69.4,Yes
+S10875,Data Science,Freshman,28,14.6,7.5,94.5,No,37.0,2.39,69.4,61.7,Yes
+S11138,Computer Science,Junior,28,12.7,6.9,92.5,Yes,8.0,2.74,63.1,71.9,Yes
+S10563,Economics,Junior,21,6.7,7.5,77.0,No,17.0,3.04,75.6,64.6,Yes
+S10496,Computer Science,Senior,27,13.5,5.4,88.8,No,14.0,3.11,69.1,77.8,Yes
+S10804,Data Science,Freshman,22,8.6,6.4,93.2,No,1.0,3.1,55.9,70.9,Yes
+S11110,Data Science,Junior,27,15.7,5.6,96.3,Yes,2.0,2.38,64.1,61.4,Yes
+S10592,Biology,Freshman,250,15.7,6.8,91.7,No,4.0,,65.5,73.7,1
+S10092,data science,Senior,23,9.5,6.9,66.7,No,16.0,3.14,59.3,53.1,No
+S11088,Computer Science,Freshman,20,6.1,6.5,65.9,No,56.0,3.0,43.0,55.6,FALSE
+S11058,Computer Science,Junior,29,14.1,5.6,92.0,Yes,20.0,2.74,65.9,66.4,Yes
+S10530,Statistics,Freshman,27,16.7,5.9,91.9,Yes,28.0,3.09,64.6,73.6,Yes
+S10441,Statistics,Sophomore,23,14.1,6.9,71.1,No,35.0,3.13,53.6,59.1,No
+S10072,Computer Science,Junior,18,16.4,8.8,55.1,No,11.0,2.41,59.8,58.5,No
+S10000,Economics,Freshman,26,27.4,8.1,87.4,No,25.0,2.67,75.2,72.7,Yes
+S11033,Statistics,Junior,21,16.0,8.5,85.1,No,11.0,2.14,65.1,61.3,Yes
+S10320,Data Science,Senior,20,14.4,,80.8,No,3.0,2.7,70.9,75.3,Yes
+S11038,Computer Science,Sophomore,20,21.2,8.6,97.4,No,13.0,2.87,74.7,69.5,Yes
+S10086,Data Science,Senior,17,20.2,7.2,80.1,No,24.0,2.86,61.6,69.7,Yes
+S10578,Mathematics,Junior,25,8.3,,76.1,Yes,25.0,3.46,68.4,57.7,Yes
+S10753,Statistics,Sophomore,22,11.9,5.5,99.1,Yes,23.0,2.97,59.1,50.1,No
+S10043,Data Science,Junior,26,29.9,5.9,86.9,No,32.0,2.07,60.2,74.0,Y
+S11050,Data Science,Freshman,29,17.1,7.1,90.2,No,35.0,2.77,61.6,59.5,Yes
+S10772,Mathematics,Freshman,29,7.1,4.8,63.7,No,20.0,2.61,60.7,52.5,No
+S10876,Data Science,Junior,22,4.2,6.8,80.4,No,1.0,3.7,66.9,64.2,Y
+S10273,Data Science,Freshman,21,32.7,6.6,87.4,Yes,32.0,3.11,87.6,92.6,Yes
+S10889,Economics,Senior,27,15.5,7.9,80.6,Yes,1.0,2.97,74.9,74.7,Yes
+S11106,Economics,Freshman,28,7.5,8.8,93.9,No,9.0,2.59,59.9,56.3,No
+S10148, Data Science,Sophomore,28,12.7,5.8,80.8,Yes,7.0,2.96,75.2,59.0,Yes
+S11164,Economics,Sophomore,29,5.7,6.2,872.0,No,5.0,4.0,63.7,72.7,TRUE
+S10581,Computer Science,Sophomore,26,2.9,7.1,94.4,No,24.0,2.3,62.1,73.3,Yes
+S10439,Mathematics,Freshman,26,23.8,,98.9,No,27.0,2.73,77.8,79.9,Yes
+S10664,Economics,Senior,23,16.2,,83.9,No,23.0,,75.6,85.4,yes
+S11019,Data Science,Senior,23,12.5,7.4,95.3,No,8.0,3.01,71.4,68.2,Yes
+S10139,Statistics,Sophomore,19,9.7,6.1,86.2,Yes,28.0,3.0,53.5,49.2,No
+S11111,Economics,Junior,28,12.7,,93.2,Yes,19.0,2.58,67.0,54.4,No
+S11171,Data Science,Senior,28,11.4,5.9,76.6,No,5.0,3.32,62.0,63.0,Yes
+S10990,Economics,Senior,27,9.8,8.3,85.0,No,6.0,2.89,67.3,78.9,Yes
+S10422,Statistics,Senior,19,12.2,6.8,71.6,Yes,28.0,3.6,62.9,64.0,Yes
+S10653,Computer Science,Senior,25,14.5,7.1,82.9,No,8.0,3.11,67.2,63.9,Yes
+S10351,Computer Science,Senior,27,7.9,7.3,80.6,Yes,14.0,2.85,64.8,45.9,No
+S10206,Economics,Junior,25,8.9,6.9,84.1,No,54.0,2.88,54.6,56.5,0
+S10421,Data Science,Senior,180,15.7,6.2,88.0,No,,2.08,79.9,73.5,Yes
+S10559,Biology,Sophomore,26,20.5,8.0,76.7,No,1.0,2.91,76.4,72.4,Yes
+S10940,Economics,Junior,23,27.9,6.0,90.2,No,9.0,3.38,78.2,76.9,Yes
+S11085,Mathematics,Senior,22,16.7,5.9,93.5,No,10.0,3.47,71.6,79.7,Yes
+S10553,Computer Science,Freshman,20,12.8,5.9,73.8,Yes,23.0,2.48,59.2,43.7,no
+S10746,Bio,Senior,27,-8.6,6.6,85.9,Yes,18.0,2.35,60.4,60.5,Yes
+S10016,Computer Science,Freshman,27,9.8,6.7,92.4,No,22.0,3.68,65.4,67.0,Yes
+S10033,biology,Sophomore,22,30.8,6.6,77.0,No,25.0,,83.5,79.1,Yes
+S10216,Economics,Junior,24,16.3,6.8,94.2,Yes,3.0,2.52,68.4,76.0,Yes
+S10936,Data Science,Junior,17,4.1,8.2,92.2,Yes,9.0,3.74,61.4,65.2,Yes
+S10927,Computer Science,Junior,29,26.1,5.8,89.9,No,5.0,2.58,67.1,81.0,Yes
+S10104,Statistics,Senior,20,13.3,5.8,86.8,Yes,0.0,3.07,54.3,62.1,No
+S11091,Biology,Junior,29,28.4,7.1,96.6,No,20.0,3.3,83.2,85.4,Yes
+S11176,Data Science,Freshman,27,5.2,6.3,89.0,No,43.0,3.6,67.1,65.5,Yes
+S10736,Data Science,Senior,27,12.2,5.7,75.7,Yes,7.0,2.14,44.8,53.0,No
+S11018,Biology,Junior,19,4.3,9.0,94.0,No,10.0,2.6,58.3,68.2,1
+S10159,Biology,Sophomore,22,9.1,8.0,90.8,Yes,20.0,2.78,64.0,65.8,Yes
+S10334,Economics,Freshman,23,22.7,8.2,78.9,Yes,22.0,2.87,68.9,84.1,Yes
+S10036,Statistics,Senior,27,4.2,6.8,87.9,No,4.0,3.22,63.6,64.0,Yes
+S11031,Data Science,Freshman,17,16.1,6.0,87.8,Yes,4.0,3.08,66.0,73.6,Yes
+S11156,Economics,Senior,22,11.4,6.0,71.7,Yes,25.0,2.68,55.8,60.2,No
+S10774,Economics,Sophomore,20,22.3,5.3,92.3,No,47.0,3.27,68.9,75.5,Yes
+S10814,Computer Science,Sophomore,23,9.3,7.5,64.0,Yes,33.0,3.31,63.4,62.2,Yes
+S10506,Stats,Sophomore,27,13.7,5.5,78.1,Yes,21.0,3.39,60.6,60.0,Yes
+S11190,Comp Sci,Freshman,21,3.9,6.0,92.8,No,35.0,1.97,53.1,51.1,No
+S10975,Computer Science,Senior,25,10.4,5.9,88.8,No,23.0,2.81,59.7,48.6,No
+S10264,DS,Senior,18,14.6,,88.8,No,2.0,2.31,58.6,68.4,Yes
+S10398,Economics,Senior,21,15.7,7.5,77.5,Yes,7.0,2.43,48.6,68.3,Yes
+S11064,CS,Freshman,26,1.4,8.2,82.5,Yes,5.0,2.95,62.0,67.5,Yes
+S10202,Data Science,Junior,17,15.3,6.8,91.5,No,11.0,,49.1,52.0,No
+S10856,Data Science,Sophomore,19,19.7,9.6,73.0,Yes,27.0,1.96,63.0,58.7,Yes
+S10253,Computer Science,Sophomore,19,7.6,6.6,94.2,No,35.0,3.69,67.0,67.3,Yes
+S10821, Data Science,Senior,20,10.4,7.0,68.7,No,2.0,2.68,56.4,57.6,No
+S10494,Statistics,Junior,28,16.5,5.7,75.8,Yes,4.0,1.84,61.8,70.5,Yes
+S10012,computer science,Sophomore,20,12.0,6.3,78.5,No,5.0,3.06,57.7,64.3,Yes
+S10324,Economics,Sophomore,19,13.7,6.3,81.8,Yes,45.0,2.56,54.4,59.2,No
+S11087,Data Science,Sophomore,25,5.2,6.1,89.1,No,7.0,2.14,48.0,56.2,No
+S11016,Economics,Freshman,18,4.4,5.4,93.4,No,0.0,3.5,66.6,66.5,Yes
+S10978,Mathematics,Junior,28,13.4,7.2,95.1,No,33.0,2.96,63.1,58.3,yes
+S10201,Computer Science,Junior,25,7.3,6.6,79.9,Yes,24.0,2.9,52.7,64.0,No
+S10680,biology,Sophomore,25,4.7,6.4,70.8,No,37.0,2.97,46.0,41.7,No
+S10660,biology,Sophomore,27,12.2,7.7,64.9,No,10.0,3.24,56.6,67.9,Yes
+S10203,Mathematics,Freshman,22,19.8,7.3,79.8,Yes,29.0,3.11,73.4,71.1,yes
+S10001,Computer Science,Sophomore,19,16.6,8.1,945.0,No,11.0,2.22,63.2,73.0,Yes
+S10470,Biology,Sophomore,21,9.6,6.4,76.1,Yes,36.0,2.52,57.7,51.2,No
+S10757,Biology,Junior,23,7.1,6.6,85.5,No,11.0,3.01,62.7,61.1,Yes
+S10779, Data Science,Junior,19,6.2,7.9,93.1,No,54.0,3.04,68.0,75.4,Yes
+S10226,biology,Senior,20,11.2,6.6,80.8,No,4.0,3.35,67.1,67.9,Yes
+S10965,Statistics,Senior,18,2.7,7.3,66.7,Yes,6.0,2.35,46.0,41.8,No
+S10099,Statistics,Senior,25,10.3,6.1,79.9,No,13.0,3.16,50.4,50.5,no
+S10904,Data Science,Junior,23,10.2,6.1,95.3,Yes,29.0,3.12,52.6,60.5,No
+S10614,Economics,Sophomore,19,17.1,5.5,58.4,No,9.0,3.24,68.4,66.0,Yes
+S11180,Economics,Sophomore,26,4.7,6.9,78.0,No,7.0,2.44,44.8,40.2,No
+S11195,STAT,Freshman,27,11.8,6.0,92.2,Yes,9.0,2.89,78.1,83.4,Yes
+S11055,Data Sci,Freshman,27,11.4,6.4,89.7,No,44.0,2.71,56.0,73.1,Yes
+S10986,CS,Junior,21,2.1,7.2,96.6,No,48.0,3.31,58.9,67.8,Yes
+S10006,Biology,Sophomore,20,21.1,,86.4,Yes,62.0,3.58,99.0,84.0,Yes
+S10982,Computer Science,Sophomore,29,5.0,8.0,76.5,No,5.0,3.02,57.2,41.5,No
+S10116,Data Science,Junior,24,7.0,7.5,53.3,No,1.0,3.44,63.0,73.1,Yes
+S11086,Data Science,Freshman,21,6.5,6.1,88.5,Yes,15.0,2.85,62.7,74.0,Yes
+S10233,Economics,Freshman,25,4.6,6.0,96.9,No,15.0,3.13,68.9,73.4,TRUE
+S10218,Biology,Freshman,19,9.7,7.8,82.5,Yes,4.0,3.21,62.8,65.9,Yes
+S11006,Biology,Freshman,28,25.7,7.1,92.8,No,36.0,3.45,81.3,92.9,Yes
+S10274,Statistics,Sophomore,18,8.9,6.8,92.3,No,12.0,3.02,62.5,55.9,No
+S10256,Stats,Junior,22,6.0,6.3,74.1,No,40.0,2.3,54.0,52.9,N
+S11072,Computer Science,Sophomore,20,1.5,4.8,75.4,Yes,,3.54,55.6,56.7,No
+S10308,Computer Science,Junior,18,7.9,7.6,21.7,No,53.0,,40.9,48.2,No
+S10712,Computer Science,Freshman,22,32.1,7.6,68.1,Yes,2.0,2.84,70.8,75.1,Yes
+S10676,Data Science,Sophomore,21,9.8,7.8,92.5,Yes,,2.12,67.8,60.0,Yes
+S10509,Bio,Freshman,29,8.6,7.8,90.9,No,10.0,3.62,59.1,56.8,No
+S10511,Computer Science,Junior,23,8.4,7.1,85.2,Yes,,3.32,61.9,70.9,Yes
+S10480,Economics,Sophomore,22,13.3,6.8,66.3,No,14.0,2.35,63.8,62.3,Yes
+S11103,Biology,Junior,17,6.1,,75.4,Yes,14.0,3.05,56.4,45.2,No
+S11094,Computer Science,Senior,29,8.3,7.0,65.8,No,35.0,2.85,61.6,64.7,Yes
+S11037,Data Science,Junior,27,12.9,6.1,86.6,No,19.0,3.24,64.7,61.7,Y
+S10890,Computer Science,Freshman,28,11.3,4.9,74.0,No,18.0,2.62,59.0,48.6,No
+S10658,Data Science,Junior,17,3.7,6.6,87.4,No,8.0,3.48,62.7,55.9,No
+S10854,Biology,Sophomore,17,3.2,7.7,54.9,No,17.0,3.17,54.7,64.0,Yes
+S10329,Mathematics,Sophomore,22,11.3,4.5,88.6,Yes,28.0,2.18,45.0,54.9,No
+S10377,Computer Science,Sophomore,26,10.9,6.8,59.0,No,3.0,3.32,60.6,55.9,no
+S11161,Computer Science,Freshman,17,23.8,6.5,87.7,No,0.0,2.56,63.2,80.2,Yes
+S11125,Data Science,Freshman,21,7.5,,85.2,No,2.0,3.15,47.6,59.6,No
+S10419,Biology,Junior,24,4.6,6.3,88.0,No,23.0,2.11,59.1,49.6,No
+S10285, Data Science,Sophomore,19,17.5,5.6,93.3,Yes,47.0,,52.6,51.3,No
+S10870,Biology,Sophomore,19,16.6,5.7,80.0,No,3.0,2.82,65.4,74.1,Yes
+S10208,Data Science,Junior,26,20.5,8.6,69.3,Yes,11.0,3.25,71.5,70.0,Yes
+S10300,Mathematics,Freshman,25,12.3,6.5,89.2,Yes,5.0,3.1,61.7,73.6,Yes
+S11136,Bio,Sophomore,18,18.3,7.8,95.7,Yes,2.0,2.81,61.6,77.6,1
+S10297,Data Science,Freshman,21,19.7,6.7,89.9,Yes,39.0,3.46,77.0,86.8,Yes
+S10168,Computer Science,Junior,21,11.2,6.5,97.8,No,21.0,3.57,69.5,65.7,Yes
+S11105,mathematics,Freshman,21,8.3,5.0,98.5,No,10.0,3.05,71.1,78.6,TRUE
+S10247,Economics,Freshman,24,11.9,7.7,85.2,No,7.0,,73.8,55.7,Yes
+S10350,Data Science,Senior,26,26.4,7.7,83.6,No,9.0,3.19,80.2,86.6,TRUE
+S10061,Data Science,Freshman,25,14.1,7.9,93.5,No,10.0,3.73,83.1,75.7,Yes
+S10431,Biology,Freshman,17,17.2,5.3,95.0,Yes,22.0,2.72,70.6,70.5,Yes
+S11097,Computer Science,Freshman,26,6.5,6.4,66.2,Yes,2.0,2.98,45.2,55.4,No
+S10130,Economics,Freshman,21,9.1,8.0,80.3,No,7.0,3.59,57.6,58.1,No
+S11026,Data Science,Freshman,29,21.6,5.7,85.3,No,13.0,2.93,60.0,65.1,Yes
+S10457,Economics,Sophomore,29,11.1,7.0,76.0,No,17.0,3.08,63.6,61.4,Yes
+S10017,Computer Science,Sophomore,29,17.0,6.7,98.7,No,2.0,3.16,68.4,66.6,Yes
+S11189,Data Science,Freshman,17,14.4,6.9,70.9,No,36.0,3.34,71.5,74.3,Yes
+S10207,Data Science,Sophomore,25,13.6,7.6,81.7,No,22.0,2.78,62.9,54.6,No
+S10241,Statistics,Freshman,23,13.1,6.8,60.0,No,19.0,3.0,62.4,64.7,Yes
+S10231,Computer Science,Sophomore,24,25.9,6.2,88.2,No,,2.42,78.6,88.8,Yes
+S10240,Statistics,Freshman,28,9.4,7.0,93.6,Yes,1.0,3.07,63.2,56.7,No
+S10827,Statistics,Sophomore,18,6.9,7.4,90.3,Yes,23.0,3.59,71.3,72.5,Yes
+S10242,Economics,Senior,23,13.9,7.7,70.7,No,5.0,3.03,64.8,65.4,Yes
+S10078,Data Science,Freshman,20,12.8,7.0,90.9,Yes,1.0,3.25,52.9,55.9,No
+S10039,Computer Science,Junior,26,13.4,7.0,85.7,No,8.0,2.94,76.6,63.3,yes
+S11001,Biology,Sophomore,29,13.5,7.6,80.8,Yes,9.0,2.54,55.9,66.8,Yes
+S10094,Computer Science,Sophomore,28,23.4,6.7,84.0,No,24.0,3.77,72.3,83.0,Yes
+S10438,Data Science,Senior,27,10.8,7.0,64.0,No,73.0,2.18,56.9,45.7,0
+S10848,Data Science,Junior,18,36.7,5.3,84.4,No,,2.99,62.8,71.9,Yes
+S10278,Biology,Junior,25,9.8,6.4,93.9,No,16.0,,57.1,63.7,Yes
+S10888,computer science,Freshman,17,6.5,6.5,89.5,Yes,14.0,2.37,52.4,58.1,No
+S10953,Data Science,Freshman,26,11.9,7.8,86.2,Yes,0.0,3.42,71.0,73.2,Yes
+S10585,Data Science,Freshman,25,7.1,8.8,79.3,No,1.0,3.2,62.8,85.3,Yes
+S10503,biology,Sophomore,19,13.3,7.4,96.5,Yes,18.0,3.6,83.5,81.5,Yes
+S10235,Economics,Freshman,18,19.7,6.1,84.6,Yes,20.0,2.45,49.0,59.4,No
+S10966,computer science,Freshman,20,16.6,7.9,80.4,No,16.0,3.26,81.3,77.7,Yes
+S10442,Mathematics,Junior,26,13.9,5.6,79.6,Yes,19.0,2.97,65.5,63.2,Yes
+S11128,Economics,Senior,19,14.4,7.3,89.4,Yes,6.0,3.88,83.6,84.5,Yes
+S10468,biology,Sophomore,19,30.9,,83.6,No,18.0,3.16,78.4,85.6,Yes
+S10974,Data Science,Senior,18,17.1,6.6,61.0,No,0.0,2.61,67.5,68.8,Yes
+S10284,Computer Science,Sophomore,23,14.0,6.6,96.7,No,6.0,2.97,65.5,57.3,Yes
+S10628,Economics,Senior,19,14.8,6.6,85.6,No,49.0,3.71,76.3,91.6,Yes
+S10598,Mathematics,Junior,18,1.0,6.6,89.5,No,13.0,4.0,63.3,56.7,No
+S10115,Computer Science,Junior,25,4.9,7.2,95.2,No,5.0,2.37,56.2,67.7,Yes
+S10518,Data Science,Freshman,20,5.3,10.0,85.7,Yes,37.0,2.94,63.0,62.0,Yes
+S10461,Computer Science,Sophomore,22,26.1,7.1,77.8,No,12.0,3.11,84.3,87.7,Yes
+S10358,Computer Science,Senior,29,3.2,7.9,89.4,Yes,,3.74,58.6,71.5,Yes
+S10916,Biology,Freshman,22,6.2,6.8,71.0,Yes,2.0,2.89,50.3,57.4,No
+S10105,Computer Science,Sophomore,17,16.0,6.0,86.8,No,8.0,2.51,66.1,69.2,Yes
+S10807,Data Science,Senior,20,3.1,5.7,92.4,Yes,5.0,3.11,45.2,44.9,No
+S11039,Economics,Junior,24,19.1,6.9,92.5,Yes,15.0,3.43,76.8,70.8,Yes
+S10255,CS,Sophomore,20,13.8,6.6,91.1,No,3.0,3.36,71.6,75.3,Yes
+S10430,Data Science,Sophomore,20,7.5,7.2,78.8,No,,2.92,58.7,65.2,Yes
+S10684,Computer Science,Sophomore,22,7.3,,93.7,No,15.0,3.43,76.7,70.8,Y
+S10591,Computer Science,Senior,25,11.0,7.7,70.8,No,53.0,3.65,63.6,71.5,Yes
+S10379,Data Science,Freshman,23,12.4,6.5,88.9,Yes,4.0,2.84,67.6,62.8,Y
+S10295,Computer Science,Freshman,17,7.4,7.1,79.7,No,10.0,,50.5,57.2,No
+S10021,Comp Sci,Sophomore,18,26.4,4.6,91.5,No,35.0,3.17,77.7,70.8,Yes
+S11196,Computer Science,Junior,26,12.8,6.0,93.5,No,8.0,2.48,69.6,68.8,Yes
+S10997,Data Science,Freshman,20,13.2,7.2,93.9,Yes,18.0,2.68,55.7,67.3,Yes
+S10698,Computer Science,Junior,20,8.7,7.2,82.8,No,18.0,3.72,72.6,78.8,Yes
+S10692,Data Science,Senior,24,14.1,7.6,79.8,Yes,46.0,2.31,62.4,61.5,Yes
+S10699,Statistics,Freshman,22,10.4,7.0,92.9,Yes,38.0,2.59,51.5,53.6,No
+S10871,Mathematics,Sophomore,29,10.4,5.0,94.5,Yes,6.0,1.96,45.2,44.7,FALSE
+S10582,Mathematics,Sophomore,21,7.8,6.4,845.0,No,5.0,3.27,49.9,60.1,No
+S10694,Computer Science,Freshman,23,11.9,6.5,89.8,No,0.0,3.35,51.3,55.2,No
+S10836,Economics,Sophomore,19,9.8,6.8,93.3,Yes,9.0,3.01,59.6,58.9,0
+S10477,Data Science,Senior,25,11.6,6.5,79.1,Yes,6.0,3.22,71.8,69.3,Yes
+S11183,Data Sci,Sophomore,26,13.2,,97.4,No,44.0,2.96,71.1,68.6,Yes
+S10388,Data Science,Sophomore,28,22.9,,69.3,No,60.0,2.59,54.6,65.3,Yes
+S10907,Data Science,Sophomore,21,22.3,,83.7,No,14.0,3.28,76.3,72.6,Yes
+S10374,Data Science,Sophomore,28,6.1,8.5,82.1,No,16.0,2.41,63.1,65.8,Yes
+S10845,Mathematics,Junior,21,10.4,7.4,74.6,No,22.0,2.87,49.2,47.7,No
+S11046,Computer Science,Freshman,23,13.4,9.0,97.6,No,4.0,3.7,84.0,77.1,Yes
+S10252,CS,Senior,27,15.2,6.4,81.2,No,2.0,4.0,56.1,62.2,No
+S10357,Data Science,Junior,23,10.2,7.5,81.4,No,1.0,1.78,65.7,63.6,Yes
+S10064,Economics,Sophomore,17,12.5,6.3,94.0,No,7.0,2.96,62.6,61.3,Y
+S10840,Biology,Senior,22,8.3,7.9,92.7,No,3.0,3.7,57.4,55.4,no
+S10951,Mathematics,Freshman,22,4.3,7.7,78.0,No,21.0,2.89,61.8,61.1,Yes
+S10659,Mathematics,Junior,29,5.4,5.7,95.5,Yes,20.0,2.67,57.2,62.9,Yes
+S10346,Computer Science,Freshman,17,11.5,5.9,65.5,Yes,38.0,2.87,60.7,62.9,1
+S10910,Economics,Senior,25,4.9,6.2,92.1,Yes,32.0,2.14,50.3,37.4,No
+S11154,Data Science,Freshman,28,15.7,5.3,89.3,No,27.0,2.75,53.3,55.1,No
+S10375,Data Science,Freshman,17,21.9,6.7,91.6,Yes,,3.03,56.9,65.3,Yes
+S10655,Data Science,Freshman,26,8.7,7.9,95.1,No,44.0,2.54,59.7,66.3,Yes
+S10654,Data Science,Junior,28,14.0,7.8,88.8,Yes,24.0,3.63,72.4,59.1,Yes
+S10706,Computer Science,Senior,21,5.2,7.2,77.6,No,31.0,2.9,50.1,60.1,No
+S10303,Data Science,Senior,21,22.8,6.5,95.9,No,1.0,3.26,76.2,69.5,Y
+S10967,Comp Sci,Sophomore,21,2.5,7.4,83.3,No,3.0,2.92,59.3,50.0,No
+S11051,Computer Science,Freshman,27,9.5,7.9,95.4,No,9.0,3.29,71.6,66.3,TRUE
+S10649,computer science,Senior,29,8.3,6.4,83.3,Yes,8.0,2.52,49.7,44.1,No
+S10169,data science,Junior,24,11.2,9.0,82.7,Yes,67.0,3.16,71.6,60.0,yes
+S11124,Computer Science,Senior,22,6.5,6.8,66.3,No,1.0,3.41,53.8,52.4,No
+S10768,Biology,Senior,25,11.0,7.6,78.2,No,16.0,3.34,61.7,71.0,Yes
+S10970,Statistics,Junior,28,2.4,5.6,88.7,No,51.0,3.31,57.2,67.0,Yes
+S10985,Biology,Junior,27,13.3,7.2,79.5,No,3.0,3.07,72.5,77.7,Yes
+S10066,Mathematics,Freshman,29,5.5,5.6,89.7,No,2.0,3.09,63.3,64.6,Yes
+S10858,DS,Freshman,26,16.7,7.1,80.2,No,25.0,3.27,80.5,85.9,Yes
+S10467,Data Science,Senior,17,11.9,5.7,84.0,Yes,5.0,1.87,52.7,50.9,No
+S10484,Data Science,Sophomore,200,18.4,7.7,71.1,No,4.0,2.92,71.3,64.9,Yes
+S10396,Data Science,Sophomore,28,8.8,7.1,94.6,Yes,22.0,3.99,62.6,77.1,Yes
+S10224,Computer Science,Freshman,17,15.7,6.0,97.3,No,0.0,3.09,83.5,71.9,Yes
+S11140,Data Science,Junior,25,10.5,7.7,82.2,Yes,51.0,3.41,77.3,68.1,Y
+S11079,Data Science,Freshman,19,16.5,8.7,84.2,Yes,23.0,3.4,68.3,67.7,Yes
+S10634,Data Science,Sophomore,23,8.8,8.7,63.0,Yes,12.0,3.39,82.1,75.1,Yes
+S10172,Statistics,Junior,28,8.0,4.8,70.2,No,38.0,2.51,48.4,42.1,No
+S11188,Economics,Junior,21,21.2,7.3,98.1,Yes,3.0,3.05,82.9,86.0,Yes
+S10311,Biology,Junior,23,11.5,,68.0,No,100.0,3.02,65.1,67.9,Yes
+S10972,Mathematics,Junior,28,5.0,7.6,71.4,No,13.0,3.71,59.9,52.7,No
+S11008,Data Science,Sophomore,21,8.1,6.0,89.8,No,8.0,3.42,71.3,68.0,Yes
+S10404,Biology,Junior,22,3.1,7.5,96.6,No,5.0,2.83,42.6,51.4,No
+S11030,Data Science,Freshman,19,2.3,6.8,80.3,No,29.0,2.8,49.9,40.4,No
+S10313,Data Science,Junior,27,6.4,3.7,81.1,No,65.0,3.54,64.0,56.1,No
+S10554,Economics,Senior,23,7.1,5.6,77.9,Yes,1.0,3.63,57.5,54.4,No
+S10902,biology,Senior,18,10.0,,97.1,No,23.0,,68.2,66.2,Yes
+S10215,Computer Science,Senior,27,13.2,6.7,90.9,No,6.0,2.31,57.9,65.5,Yes
+S10942,Economics,Sophomore,18,6.8,4.6,92.3,No,36.0,2.69,52.3,51.5,No
+S10913,Biology,Senior,18,9.7,7.0,89.8,No,9.0,3.3,68.2,53.3,No
+S10994,Biology,Junior,27,11.9,7.2,90.7,Yes,10.0,3.36,71.6,70.5,Y
+S10729,Data Science,Senior,18,7.2,6.8,93.4,No,42.0,3.14,71.3,70.7,Yes
+S10527,computer science,Sophomore,21,7.3,,84.1,Yes,22.0,3.45,62.4,63.4,Yes
+S10446,Economics,Sophomore,19,29.1,7.0,96.5,No,10.0,2.84,89.0,83.4,Yes
+S10376,Economics,Senior,22,6.2,5.4,86.1,Yes,3.0,3.14,52.1,58.6,No
+S10604,STAT,Senior,21,18.9,7.2,90.0,No,42.0,3.31,88.1,89.1,Yes
+S10861,Mathematics,Junior,18,18.7,8.1,88.9,No,14.0,2.62,87.1,78.0,Yes
+S10536,Mathematics,Sophomore,28,5.1,6.9,92.5,No,10.0,2.68,63.3,66.0,Yes
+S10211,Statistics,Junior,26,11.0,5.8,87.2,No,27.0,2.43,62.2,54.1,No
+S10022, Data Science,Junior,20,25.2,6.3,94.9,Yes,31.0,3.08,71.7,77.9,Yes
+S10758,Data Science,Sophomore,28,8.4,6.7,92.3,No,11.0,3.4,71.2,54.5,1
+S10464,Economics,Freshman,23,6.6,8.0,96.1,No,27.0,2.15,47.8,57.4,0
+S10038,Mathematics,Sophomore,26,6.4,6.6,78.5,Yes,8.0,2.48,55.6,48.1,No
+S10217,Statistics,Sophomore,21,7.7,5.4,64.4,No,52.0,3.55,64.4,75.4,Yes
+S11121,Data Science,Sophomore,23,23.6,5.3,94.3,No,,3.3,84.7,97.3,yes
+S10815,Mathematics,Sophomore,20,24.4,8.4,84.4,Yes,0.0,2.64,64.0,65.9,Yes
+S10260,Data Science,Sophomore,23,5.7,8.8,92.8,Yes,7.0,3.65,65.8,62.7,Yes
+S10162,Data Science,Freshman,24,9.3,8.2,92.8,Yes,26.0,2.68,66.3,82.7,Yes
+S10014,Economics,Sophomore,23,11.5,7.4,88.8,Yes,4.0,3.34,73.5,80.9,Yes
+S10971,Economics,Freshman,27,10.6,5.4,99.0,Yes,13.0,2.78,48.7,54.8,FALSE
+S10843,Economics,Senior,19,11.2,6.7,88.1,Yes,15.0,3.7,67.8,68.4,Yes
+S10702,Biology,Junior,29,13.3,5.2,78.2,No,13.0,3.68,71.9,70.8,Yes
+S11096,biology,Freshman,19,25.3,6.9,83.8,No,40.0,3.18,81.5,93.2,Yes
+S11162,Data Science,Junior,26,6.5,5.2,82.0,No,21.0,3.24,57.4,65.1,Yes
+S10976,Data Science,Sophomore,23,7.9,6.1,93.7,Yes,18.0,3.32,70.9,51.3,No
+S10502,Mathematics,Freshman,21,9.8,6.6,87.8,No,12.0,2.96,72.6,62.7,Yes
+S10793,Biology,Freshman,24,16.8,8.9,74.3,No,43.0,3.17,73.3,85.8,Yes
+S10520,Data Science,Junior,17,3.9,6.8,93.1,Yes,7.0,3.35,50.5,60.6,No
+S10550,Data Science,Senior,17,6.8,3.5,87.9,Yes,39.0,2.43,56.1,50.1,No
+S10057,Data Science,Junior,20,10.5,7.9,71.0,No,11.0,2.88,60.3,70.2,Yes
+S11015,Economics,Sophomore,24,12.1,5.7,86.5,Yes,7.0,3.96,55.5,69.7,Yes
+S10769,computer science,Senior,22,10.7,6.4,84.9,No,20.0,3.43,58.4,72.0,yes
+S10290,Computer Science,Sophomore,25,16.3,5.8,84.1,No,6.0,3.04,67.5,63.2,Yes
+S11114,Computer Science,Sophomore,29,24.5,6.6,84.8,Yes,1.0,2.71,62.1,66.3,Yes
+S10493,Data Science,Junior,28,4.9,6.6,96.2,No,4.0,2.84,57.0,55.9,No
+S10816,Biology,Junior,23,15.1,7.1,79.9,Yes,12.0,2.13,62.8,44.7,No
+S10964,Computer Science,Junior,22,2.5,8.0,77.5,No,5.0,3.44,69.8,71.4,Yes
+S10387, Data Science,Senior,18,12.1,6.6,88.0,Yes,29.0,3.48,64.4,72.7,Yes
+S10875,Data Science,Freshman,28,14.6,7.5,94.5,No,37.0,2.39,69.4,61.7,Yes
+S10833,Economics,Senior,18,13.2,5.7,98.4,Yes,39.0,3.51,58.9,51.4,No
+S10336,Economics,Sophomore,22,17.1,8.7,78.6,No,19.0,3.82,68.1,77.1,Yes
+S10510,Data Science,Sophomore,18,7.7,6.6,94.1,No,7.0,2.76,85.6,92.0,Yes
+S10443,Economics,Senior,29,15.4,6.2,79.5,Yes,81.0,2.58,69.3,55.8,Yes
+S11102,Statistics,Junior,17,15.1,5.9,93.2,No,11.0,2.85,67.5,70.5,Yes
+S10380,Data Science,Freshman,17,14.2,5.3,92.7,Yes,38.0,2.94,69.4,56.3,Yes
+S11070,Data Science,Senior,29,26.4,6.0,91.8,No,5.0,2.94,76.6,79.0,Yes
+S10906,Biology,Sophomore,18,7.9,5.5,97.2,No,23.0,,60.0,48.4,no
+S11056,Mathematics,Sophomore,22,8.7,6.1,86.3,No,5.0,3.44,67.3,52.0,No
+S10258,Comp Sci,Senior,19,7.6,7.9,80.0,Yes,48.0,3.25,48.7,57.9,No
+S10106,Computer Science,Junior,25,9.1,7.1,79.3,Yes,7.0,3.44,65.2,52.0,No
+S11061, Data Science,Sophomore,29,10.0,,91.2,Yes,6.0,1.91,54.4,50.0,No
+S10983,Data Science,Senior,19,11.6,7.2,64.0,No,15.0,2.97,67.9,78.0,Y
+S10566,Data Science,Senior,22,29.1,8.2,73.9,No,34.0,3.66,86.6,82.2,Yes
+S11005,Economics,Senior,18,23.1,6.3,75.9,No,16.0,3.04,76.1,84.9,TRUE
+S10864,Economics,Sophomore,19,11.2,8.3,80.6,Yes,,2.13,59.5,53.7,No
+S10909,Math,Senior,19,8.3,6.4,95.7,No,14.0,3.73,63.9,68.4,Yes
+S10733,Biology,Sophomore,22,8.3,7.1,75.8,No,1.0,2.8,58.0,64.8,Yes
+S10947,Computer Science,Sophomore,22,5.6,5.4,97.3,Yes,7.0,2.92,51.5,56.4,No
+S10726,Biology,Freshman,28,7.2,6.8,93.1,Yes,18.0,3.83,61.5,73.4,Yes
+S10612,Mathematics,Senior,27,6.5,8.1,65.5,No,0.0,3.0,56.7,61.9,no
+S10239,Data Science,Junior,21,18.7,5.6,72.4,Yes,2.0,2.6,47.5,51.1,no
+S10085,Statistics,Sophomore,26,6.6,6.5,87.5,Yes,16.0,2.83,56.3,42.8,No
+S11084,Computer Science,Freshman,25,3.7,7.0,60.1,Yes,1.0,2.81,53.1,44.5,No
+S10600,Data Science,Junior,24,15.8,6.0,61.0,No,10.0,2.79,70.8,64.0,Yes
+S10279,Economics,Senior,17,19.0,,92.6,Yes,65.0,2.64,55.1,65.0,Yes
+S11083,Statistics,Sophomore,29,29.7,7.0,60.1,No,3.0,2.45,77.6,78.4,Yes
+S10879,Mathematics,Sophomore,21,19.2,,71.0,No,56.0,,68.3,73.9,Yes
+S10596,Economics,Senior,19,11.4,6.3,83.4,Yes,4.0,2.59,55.6,56.1,No
+S10103,Data Science,Senior,18,32.0,6.7,929.0,Yes,10.0,2.83,76.3,70.1,Yes
+S10675,Mathematics,Junior,27,4.9,6.3,97.0,No,41.0,3.1,47.5,65.7,No
+S10728,Data Sci,Junior,19,5.3,6.0,77.2,No,0.0,3.35,64.7,60.2,Yes
+S10400,Data Science,Freshman,22,3.9,8.3,95.0,Yes,0.0,2.87,61.1,62.6,Yes
+S10809,mathematics,Sophomore,18,12.3,,76.9,No,23.0,2.65,44.3,47.5,No
+S10355,Data Science,Junior,27,14.2,8.6,99.0,Yes,5.0,2.75,62.4,76.7,Yes
+S10219,DS,Freshman,20,12.7,4.4,82.6,Yes,,2.9,44.3,49.8,No
+S10177,Data Science,Junior,21,12.4,3.0,92.2,Yes,3.0,3.47,55.1,62.0,No
+S10822,Statistics,Sophomore,25,11.0,6.4,89.5,No,28.0,3.98,64.2,86.0,Yes
+S10005,Economics,Sophomore,22,8.5,6.7,77.1,Yes,19.0,2.98,76.3,70.0,Yes
+S10362,Economics,Senior,26,1.6,,84.7,No,1.0,3.14,47.8,42.2,No
+S10787,Data Science,Sophomore,22,6.6,5.3,79.2,No,5.0,2.59,42.1,53.1,No
+S10677,Computer Science,Junior,18,4.3,9.0,74.8,No,10.0,2.62,51.4,40.6,No
+S10190,Computer Science,Junior,25,8.9,6.2,97.4,No,52.0,3.12,55.6,46.8,No
+S10991,Data Sci,Sophomore,26,13.6,6.6,60.2,Yes,1.0,3.09,57.2,55.1,No
+S10267,Computer Science,Junior,27,14.7,6.4,76.6,No,13.0,3.16,66.4,61.0,Yes
+S11118,Biology,Freshman,18,16.3,6.3,52.8,Yes,,3.12,65.6,69.9,Yes
+S10603,Economics,Junior,26,27.3,6.5,86.4,Yes,55.0,,80.5,82.7,Yes
+S10727,Computer Science,Senior,24,16.2,6.2,89.9,Yes,12.0,2.86,74.6,79.2,Yes
+S10410, Data Science,Sophomore,25,9.4,6.8,89.0,Yes,17.0,3.37,78.1,80.3,yes
+S10747,Economics,Junior,24,18.8,6.0,83.3,No,0.0,2.28,61.1,71.6,Yes
+S10893,Biology,Sophomore,28,10.8,6.8,61.8,No,14.0,2.35,48.3,60.9,No
+S10827,Statistics,Sophomore,18,6.9,7.4,90.3,Yes,23.0,3.59,71.3,72.5,Yes
+S10463,Data Science,Senior,27,15.1,8.1,70.8,No,18.0,2.75,62.1,74.1,Yes
+S10170,Mathematics,Sophomore,17,9.1,6.6,70.4,No,21.0,2.26,53.9,50.5,No
+S10644,Comp Sci,Sophomore,23,14.4,8.0,92.7,Yes,31.0,2.94,78.6,78.2,Yes
+S10853,economics,Senior,17,9.6,8.4,97.6,No,7.0,3.45,76.3,76.3,Yes
+S11028,Biology,Sophomore,26,1.7,6.0,62.8,No,30.0,3.17,50.9,55.7,No
+S10576,Mathematics,Sophomore,24,8.2,9.4,81.2,Yes,22.0,3.91,62.6,56.3,No
+S10590,Biology,Sophomore,17,13.6,6.5,78.3,Yes,14.0,2.91,50.2,60.2,No
+S10777,Economics,Senior,17,16.5,8.2,71.4,Yes,27.0,3.19,69.1,72.9,yes
+S10090,Mathematics,Sophomore,26,10.7,6.6,47.9,Yes,7.0,2.77,51.2,53.9,No
+S10996,Biology,Senior,27,7.4,7.4,70.3,No,3.0,2.58,56.6,61.0,No
+S10204,Economics,Freshman,20,12.2,6.7,86.0,Yes,4.0,2.82,70.6,75.3,Yes
+S10444,STAT,Junior,27,15.9,6.9,82.4,No,34.0,2.64,63.0,69.4,Yes
+S11139,Data Science,Junior,26,12.0,6.5,78.4,No,,2.48,53.6,66.5,Yes
+S10191,Statistics,Sophomore,28,4.1,6.2,56.9,No,98.0,2.56,49.1,52.4,no
+S11143,Data Science,Senior,20,11.9,6.7,90.3,No,15.0,2.97,54.0,69.1,Yes
+S10934,Computer Science,Freshman,25,8.9,5.9,89.5,Yes,32.0,3.65,62.4,53.1,FALSE
+S10306,Biology,Sophomore,22,3.3,7.7,89.7,Yes,5.0,3.28,54.5,46.9,No
+S10650,Statistics,Sophomore,25,8.0,6.7,88.8,No,26.0,2.5,51.7,48.4,No
+S10182,Data Science,Senior,27,14.0,7.4,48.9,No,40.0,3.03,61.3,66.3,Yes
+S10432,Data Sci,Junior,25,16.9,8.5,77.5,Yes,127.0,2.28,54.7,57.7,FALSE
+S10035,Computer Science,Sophomore,18,10.3,6.6,78.5,Yes,7.0,3.12,57.7,66.7,Yes
+S10715,Data Science,Junior,25,2.2,7.6,86.8,No,0.0,3.0,68.1,64.8,Yes
+S11177,Statistics,Junior,29,19.5,6.9,70.3,No,12.0,3.7,68.1,78.3,Yes
+S10225,Data Science,Junior,26,5.3,,64.3,Yes,7.0,3.69,65.4,52.4,No
+S10041,Data Science,Senior,21,9.6,6.2,94.1,Yes,13.0,3.69,77.1,61.1,1
+S11179,Computer Science,Senior,19,8.1,7.7,85.0,No,,3.06,67.8,61.1,Yes
+S10796,Biology,Freshman,19,20.3,6.5,93.9,No,13.0,2.92,71.6,74.8,Y
+S10722,Bio,Junior,24,14.1,7.6,91.7,No,22.0,3.65,67.4,73.2,Yes
+S10905,Data Science,Senior,26,-22.0,,74.2,No,34.0,3.07,75.7,63.9,Yes
+S10806,Computer Science,Freshman,18,16.5,7.9,61.4,No,12.0,2.7,66.4,69.5,Yes
+S10008,Economics,Sophomore,17,11.8,7.2,90.6,No,14.0,2.53,79.0,73.1,Yes
+S10749,Economics,Freshman,27,4.3,5.6,902.0,No,12.0,2.72,48.4,55.4,No
+S10409,Statistics,Senior,24,25.5,8.4,91.3,No,9.0,2.98,78.8,89.4,Yes
+S10221,Statistics,Sophomore,26,28.4,6.9,89.5,No,2.0,3.36,85.2,84.4,Yes
+S10040,Computer Science,Senior,24,13.6,6.4,58.0,No,8.0,2.42,69.9,74.8,Yes
+S10562, Data Science,Freshman,18,18.8,6.7,71.3,Yes,32.0,2.27,56.8,51.8,no
+S10884,Computer Science,Freshman,24,7.5,7.2,66.3,No,46.0,2.88,64.2,63.2,Yes
+S10015,Statistics,Freshman,27,19.0,,68.2,No,1.0,2.64,80.1,68.4,Yes
+S10296,Mathematics,Junior,28,6.0,6.2,86.7,No,15.0,3.31,55.4,45.1,No
+S10118,DS,Junior,29,10.2,6.9,94.8,Yes,,2.89,67.4,65.7,Yes
+S10458,Statistics,Freshman,24,5.2,,69.1,Yes,41.0,3.33,57.4,56.6,No
+S10524,Bio,Sophomore,21,9.4,7.4,81.8,Yes,2.0,3.61,57.6,57.5,No
+S10547,economics,Sophomore,25,24.0,8.1,82.9,No,30.0,2.06,66.3,71.1,Yes
+S11151,mathematics,Junior,28,2.0,8.2,81.9,No,15.0,3.74,65.9,76.4,TRUE
+S10437,Computer Science,Senior,25,3.3,8.5,77.5,No,1.0,2.44,58.9,58.3,No
+S10813,Computer Science,Sophomore,29,12.5,8.7,86.3,Yes,1.0,2.76,52.8,54.9,No
+S10849,Economics,Freshman,24,24.5,6.7,77.0,No,23.0,2.6,64.2,59.6,Yes
+S10474,Mathematics,Freshman,24,4.7,5.7,54.1,No,8.0,2.86,61.0,58.0,No
+S10696,Economics,Sophomore,26,13.1,,84.9,No,1.0,2.95,57.2,57.5,FALSE
+S10678,Computer Science,Junior,17,15.9,8.8,89.8,Yes,8.0,2.71,63.2,58.0,TRUE
+S10557,Mathematics,Junior,20,8.2,7.6,53.8,Yes,24.0,3.08,54.0,42.0,No
+S10420,Data Science,Freshman,27,19.8,8.3,76.3,No,3.0,3.2,66.5,56.2,yes
+S10053,Biology,Senior,26,0.6,6.0,92.8,No,52.0,2.01,53.2,45.1,N
+S11092,Biology,Freshman,20,8.6,4.8,87.0,No,32.0,2.43,52.9,50.9,No
+S10669,Mathematics,Sophomore,26,15.0,,89.7,No,28.0,,66.4,68.4,Yes
+S11003,mathematics,Senior,29,15.0,,793.0,Yes,4.0,3.69,73.6,70.9,Yes
+S10110,Economics,Junior,26,15.4,7.2,91.8,Yes,14.0,2.78,65.9,64.6,Yes
+S10109,Data Science,Sophomore,29,4.0,7.4,79.2,Yes,24.0,2.56,42.1,53.3,No
+S10998,Bio,Junior,24,7.2,8.1,88.4,Yes,38.0,3.91,64.9,79.1,Yes
+S10708,Computer Science,Junior,19,16.7,,82.1,No,6.0,3.85,69.6,67.8,Yes
+S10146,Math,Sophomore,20,15.0,6.5,72.8,Yes,10.0,3.42,66.6,56.7,Yes
+S11011,Economics,Senior,22,6.5,8.8,89.2,No,54.0,3.08,69.4,68.3,Yes
+S10526,Economics,Senior,22,3.2,7.1,88.3,Yes,29.0,3.27,48.4,52.4,FALSE
+S10584,Statistics,Junior,22,6.2,,76.0,Yes,4.0,3.28,37.9,51.1,no
+S10054,Data Science,Sophomore,25,24.1,6.9,83.1,No,22.0,2.79,84.7,82.4,Yes
+S11163,Statistics,Sophomore,19,12.4,,85.3,No,6.0,3.02,63.5,67.2,TRUE
+S10955,Data Science,Junior,18,7.6,7.1,68.4,No,16.0,2.81,55.2,68.5,Yes
+S10337,statistics ,Junior,19,23.4,6.5,95.0,No,5.0,3.26,77.6,90.8,Yes
+S10466,Computer Science,Sophomore,19,14.5,5.6,76.0,No,5.0,2.89,85.6,68.0,Y
+S10742,Statistics,Sophomore,18,11.4,7.4,74.2,No,18.0,3.01,65.4,66.5,Yes
+S10872,Computer Science,Junior,24,27.4,7.1,86.4,Yes,44.0,2.96,76.6,80.2,Yes
+S10487,Mathematics,Sophomore,20,3.6,,88.8,No,30.0,2.84,73.0,69.4,Yes
+S10026,Mathematics,Junior,24,18.2,6.5,86.2,No,19.0,3.25,60.2,54.2,No
+S11101,Computer Science,Senior,29,7.8,6.3,94.6,No,32.0,3.29,56.6,75.6,Yes
+S10124,Data Science,Junior,21,15.7,7.5,77.6,No,64.0,3.27,76.4,66.2,Yes
+S10548,Computer Science,Sophomore,17,-14.8,5.3,78.1,No,5.0,2.72,55.9,59.8,No
+S10504,Statistics,Junior,22,5.0,6.1,80.7,No,27.0,3.22,51.1,48.0,No
+S10602,Statistics,Freshman,24,7.6,,69.4,No,0.0,3.47,71.0,74.4,Yes
+S10349,Biology,Junior,23,27.7,7.1,90.5,Yes,10.0,,75.4,80.6,Yes
+S11069,Data Science,Senior,24,28.1,,82.0,Yes,12.0,3.37,63.3,65.9,Yes
+S10648,Statistics,Freshman,27,20.7,7.3,92.0,No,3.0,2.93,86.1,84.6,Yes
+S10923,Computer Science,Freshman,28,2.4,6.6,61.1,No,22.0,3.58,65.3,68.3,Yes
+S10826,Data Science,Freshman,29,17.4,7.0,86.6,Yes,18.0,3.04,60.4,66.2,Yes
+S10330,Computer Science,Senior,27,13.5,6.0,84.3,No,16.0,3.07,64.3,63.1,Yes
+S10847,Economics,Senior,23,4.4,7.0,58.8,No,2.0,2.11,50.0,53.3,No
+S10514,Computer Science,Sophomore,29,6.2,7.2,65.3,No,4.0,2.55,53.5,56.2,No
+S10589,Computer Science,Freshman,27,12.7,6.7,89.7,No,11.0,3.51,67.7,65.8,Yes
+S10415,Data Science,Junior,27,2.4,6.4,50.9,Yes,5.0,2.03,43.2,30.6,No
+S10435,Data Science,Senior,26,12.4,7.4,72.2,No,52.0,2.44,57.6,61.7,Yes
+S10607,Computer Science,Senior,25,8.3,6.7,98.0,No,,,59.4,64.6,Yes
+S10679,Mathematics,Senior,21,2.5,7.0,98.6,Yes,4.0,2.44,48.2,31.8,No
+S10707,Biology,Senior,21,24.2,5.9,84.1,No,9.0,2.87,77.3,83.7,Yes
+S11174,Data Science,Junior,21,10.2,6.7,75.1,No,20.0,3.57,67.6,67.2,Yes
+S10038,Mathematics,Sophomore,26,6.4,6.6,78.5,Yes,8.0,2.48,55.6,48.1,No
+S10937,Economics,Senior,20,7.4,9.5,75.5,No,16.0,2.08,52.0,46.0,No
+S10823,Data Science,Senior,27,7.0,7.0,53.1,No,2.0,3.42,53.5,60.2,No
+S10413,Data Science,Sophomore,22,25.5,7.5,70.3,No,58.0,3.44,80.2,82.2,Yes
+S10154,biology,Freshman,17,6.9,5.6,87.4,No,33.0,3.45,69.4,69.4,Yes
+S10750,Data Science,Freshman,17,10.7,8.5,89.5,No,83.0,3.06,78.3,68.1,Yes
+S10476,Data Science,Sophomore,26,22.9,6.5,56.4,No,10.0,2.82,56.9,65.4,Yes
+S11115,Data Science,Senior,17,8.3,,89.7,Yes,104.0,4.0,49.9,63.4,No
+S10963,Computer Science,Sophomore,28,8.5,4.6,97.8,No,7.0,2.73,56.4,50.7,No
+S10052,CS,Junior,20,12.2,5.2,77.2,No,21.0,3.09,55.5,56.1,no
+S10193,Economics,Freshman,21,12.5,6.2,91.7,No,10.0,2.79,58.6,59.1,0
+S10513,Data Science,Junior,29,17.3,8.0,91.9,No,1.0,2.41,64.7,75.3,Yes
+S10670,Data Science,Sophomore,23,9.0,7.6,85.5,Yes,4.0,2.17,41.2,50.3,No
+S11172,Bio,Junior,24,5.5,8.0,96.7,No,16.0,2.91,62.8,65.3,Yes
+S10622,Computer Science,Freshman,17,17.4,6.6,91.5,No,1.0,3.13,71.3,72.3,Yes
+S10399,Statistics,Junior,22,12.5,7.3,96.6,No,29.0,3.44,65.3,57.5,Yes
+S10636,Statistics,Sophomore,25,6.2,4.2,98.8,No,1.0,3.16,59.0,64.8,Yes
+S10034,Computer Science,Freshman,19,3.8,6.4,62.2,No,8.0,3.29,60.7,59.2,No
+S10259,Biology,Freshman,22,10.8,7.0,90.0,No,45.0,3.74,73.5,72.4,Yes
+S10795,Computer Science,Senior,23,16.4,8.0,88.7,Yes,22.0,3.23,78.8,79.3,Yes
+S10918,Data Science,Senior,26,13.2,,85.5,No,32.0,3.52,71.6,79.2,Yes
+S10925,biology,Freshman,25,15.7,7.7,86.9,No,8.0,3.33,88.5,84.1,Yes
+S10144,Computer Science,Junior,28,9.2,5.3,72.9,No,10.0,2.75,56.5,50.3,No
+S11029,Data Science,Sophomore,26,21.0,5.1,71.9,No,14.0,,62.3,73.1,Yes
+S10212,Statistics,Senior,23,15.0,7.4,81.9,No,16.0,2.57,63.0,64.7,1
+S11132,Econ,Sophomore,29,15.9,6.7,96.9,Yes,3.0,3.03,55.4,65.4,Y
+S10482,Data Science,Junior,28,5.7,6.1,80.8,No,25.0,3.14,64.4,40.5,No
+S10832,Computer Science,Sophomore,18,15.9,6.5,87.2,Yes,5.0,3.18,76.1,65.2,Yes
+S10730,Econ,Freshman,17,8.0,6.5,85.4,No,58.0,2.86,57.5,51.6,No
+S10645,Computer Science,Senior,18,8.5,7.7,98.9,Yes,39.0,3.75,67.0,78.0,Yes
+S11077,Data Science,Sophomore,28,5.1,8.5,60.7,No,20.0,2.31,58.3,54.5,No
+S10138,CS,Senior,18,7.8,5.6,84.1,No,51.0,3.04,50.0,71.4,Yes
+S10877,Data Science,Junior,21,18.2,6.2,83.4,No,10.0,3.39,70.6,75.2,Yes
+S10788,Computer Science,Junior,25,27.1,9.2,958.0,No,12.0,3.21,84.1,94.3,Yes
+S10142,Statistics,Senior,19,8.3,6.8,81.8,Yes,5.0,3.37,66.1,58.8,Yes
+S10662,Computer Science,Senior,29,12.0,4.6,81.5,No,18.0,3.09,52.8,63.4,No
+S11178,Statistics,Freshman,21,6.3,6.6,80.1,No,50.0,3.39,60.2,68.4,Yes
+S10587,Data Science,Sophomore,19,25.5,5.8,76.5,No,12.0,3.4,67.4,75.9,Yes
+S10147,Biology,Junior,21,10.1,7.3,93.8,No,5.0,4.0,71.2,68.3,Yes
+S10946,Data Science,Freshman,19,13.6,8.1,91.6,No,40.0,2.65,73.1,82.5,Yes
+S10732,computer science,Senior,27,23.8,9.9,90.8,No,4.0,3.11,86.0,92.8,Yes
+S10522, Data Science,Junior,24,6.7,,87.0,No,41.0,3.08,52.6,57.4,No
+S10469,Biology,Sophomore,19,11.4,8.0,94.6,No,17.0,2.56,59.7,69.0,Yes
+S10792,Data Sci,Sophomore,28,2.8,6.6,68.9,Yes,6.0,2.83,47.6,52.3,No
+S10455,Mathematics,Senior,29,5.3,6.9,96.4,No,,2.45,48.5,55.3,no
+S10389,Biology,Senior,25,3.2,6.5,91.2,Yes,,3.15,55.7,57.0,No
+S10500,DS,Senior,23,34.9,7.5,82.5,Yes,1.0,3.3,79.0,87.9,Yes
+S10568,Data Science,Sophomore,22,11.2,5.8,82.2,No,9.0,3.05,68.2,75.0,Yes
