@@ -6,7 +6,7 @@ Real data is rarely tidy. Names are spelled five different ways, dates come in t
 and some values are simply impossible. The Messy Data Library gives students realistic, synthetic datasets with
 deliberately planted problems to find and fix, plus multi-file projects for data wrangling and data engineering.
 
-**Website:** https://doumbiassa.github.io/AI_DS_ML.github.io/
+**Website:** https://doumbiassa.github.io/AI_ML_DS.github.io-/
 
 Curated by **Moussa Doumbia, Ph.D.**, Expert in AI, Machine Learning and Data Science
 Department of Mathematics, Howard University, Washington, DC
