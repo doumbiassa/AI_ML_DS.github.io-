@@ -6,7 +6,7 @@ Real data is rarely tidy. Names are spelled five different ways, dates come in t
 and some values are simply impossible. The Messy Data Library gives students realistic, synthetic datasets with
 deliberately planted problems to find and fix, plus multi-file projects for data wrangling and data engineering.
 
-**Website:** https://doumbiassa.github.io/AI_ML_DS.github.io/#
+**Website:** https://doumbiassa.github.io/AI_DS_ML.github.io/
 
 Curated by **Moussa Doumbia, Ph.D.**, Expert in AI, Machine Learning and Data Science
 Department of Mathematics, Howard University, Washington, DC
@@ -79,7 +79,7 @@ Load any practice dataset straight from the website:
 ```python
 import pandas as pd
 
-df = pd.read_csv("https://doumbiassa.github.io/AI_ML_DS.github.io/#/data/student-success.csv")
+df = pd.read_csv("https://doumbiassa.github.io/AI_DS_ML.github.io/data/student-success.csv")
 df.head()
 ```
 
@@ -89,7 +89,7 @@ Call the Campus Events API like a real web API:
 import requests
 import pandas as pd
 
-resp = requests.get("https://doumbiassa.github.io/AI_ML_DS.github.io/#/wrangling/campus-events-api/api/events/page-1.json", timeout=30)
+resp = requests.get("https://doumbiassa.github.io/AI_DS_ML.github.io/wrangling/campus-events-api/api/events/page-1.json", timeout=30)
 resp.raise_for_status()
 events = pd.json_normalize(resp.json()["data"], sep="_")
 ```
